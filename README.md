@@ -11,6 +11,7 @@ Thank you for contributing to our documentation! To maintain the highest quality
    ```
    
 2. **Run the setup script:**
+
 For macOS/Linux:
    ```bash
    Copy code
