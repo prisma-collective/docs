@@ -1,0 +1,18 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Y - Assets",
+  "promptDelete": false,
+  "trashOption": "local",
+  "userIgnoreFilters": [
+    "X - Templates/",
+    "Y - Assets/"
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 76
+  }
+}
