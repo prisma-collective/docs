@@ -14,13 +14,11 @@ Thank you for contributing to our documentation! To maintain the highest quality
 
 For macOS/Linux:
    ```bash
-   Copy code
    ./Scripts/setup.sh
    ```
    
 For Windows:
    ```cmd
-   Copy code
    Scripts\setup.bat
    ```
 
