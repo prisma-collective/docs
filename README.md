@@ -19,8 +19,12 @@ Copy code
 Scripts\setup.bat
 This will install the necessary tools and set up Git hooks to automatically format and lint Markdown files before every commit.
 
-Workflow
-Make your changes: Edit the Markdown files.
-Commit your changes: When you commit, the hooks will automatically format and lint the Markdown files.
+## Workflow
+
+**Make your changes:** Edit the Markdown files.
+
+**Commit your changes:** When you commit, the hooks will automatically format and lint the Markdown files.
+
 If there are any issues (e.g., formatting errors), the commit will be stopped, and you'll be asked to fix them.
-Happy contributing!
+
+Happy contributing! 😎
