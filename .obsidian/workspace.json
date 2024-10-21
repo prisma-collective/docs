@@ -163,6 +163,7 @@
   },
   "active": "52f1f1e502f5591e",
   "lastOpenFiles": [
+    "requirements.txt",
     "README.md",
     "CNAME",
     "Glossary/Capacity-Building.md",
@@ -198,7 +199,6 @@
     "pyproject.toml",
     "Glossary/Bioregion.md",
     "Glossary/State-Change.md",
-    "Glossary/Enactment.md",
     "Pasted image 20241009144202.png",
     "Assets/levels-of-work.png",
     "Assets/levels-of-work.svg",
