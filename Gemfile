@@ -1,3 +1,4 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2" # or the version you want to use
+gem "jekyll", "~> 4.3.0"
+gem "minima", "~> 2.5"  # Add this line
