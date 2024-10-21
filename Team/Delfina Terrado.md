@@ -1,8 +1,13 @@
----
+______________________________________________________________________
+
 aliases:
-  - Delfi
----
+
+- Delfi
+
+______________________________________________________________________
+
 # Capacities
+
 1. Experience design
-2. [[Action-Learning Journeys|ALJs]] methodology
-3. Place-sourcing: stakeholder engagements
+1. \[\[Action-Learning Journeys|ALJs\]\] methodology
+1. Place-sourcing: stakeholder engagements

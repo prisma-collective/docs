@@ -8,98 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "539ed32b2409d52b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Team/Shikhar Argawal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c4f60185b105e44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Team/Ryah Chandler.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14ca57c4262f09cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/State-Change.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6579cbcd583179fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Practice.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3f61fcb599b5efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Developmental Evaluation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cb2772ce0d9da58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Capacity-Building.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "52f1f1e502f5591e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Capacity-Building.md",
+                "file": "Glossary/Collaborative Innovation Intensives.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Capacity-Building.md",
+                "file": "Glossary/Collaborative Innovation Intensives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary/Capacity-Building.md",
+                "file": "Glossary/Collaborative Innovation Intensives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Capacity-Building.md"
+                "file": "Glossary/Collaborative Innovation Intensives.md"
               }
             }
           },
@@ -242,47 +163,47 @@
   },
   "active": "52f1f1e502f5591e",
   "lastOpenFiles": [
-    "Glossary/Self-Organising.md",
     "Glossary/Capacity-Building.md",
-    "Glossary/Practice.md",
-    "Glossary/Bioregion.md",
     "Glossary/Collaborative Innovation Intensives.md",
-    "Glossary/State-Change.md",
-    "Glossary/Action-Learning Journeys.md",
-    "Glossary/Developmental Evaluation.md",
-    "Methodology/Summary.md",
-    "Glossary/Enactment.md",
-    "Partners/Technologies",
-    "Partners",
-    "Intensives",
-    "Methodology",
-    "Prisma.md",
-    "Glossary/Process Design Collective.md",
-    "Team/Tobias Fechner.md",
-    "Team/Shikhar Argawal.md",
-    "Team/Ryah Chandler.md",
-    "Team/Delfina Terrado.md",
-    "Team/Mercy Fordwoo.md",
-    "Glossary/Regenerative Finance.md",
-    "Team",
-    "Glossary/Facilitation.md",
-    "Glossary/Public Goods.md",
-    "Glossary/Place-Source.md",
-    "Glossary/Narrative.md",
-    "Glossary/Living Lab.md",
-    "Partners/Networks/Regenesis.md",
-    "Market/Terra Collective.md",
+    "Market/BioFi Project.md",
+    "Market/Edge City.md",
     "Market/RadicalXChange.md",
+    "Scripts/mdformat_obsidian.py",
+    "Scripts/strip_frontmatter.py",
+    "New folder",
+    "strip_frontmatter.py",
+    "mdformat_obsidian.py",
+    "poetry.lock",
+    "Methodology/Summary.md",
+    "Glossary/Public Goods.md",
+    "Glossary/Regenerative Finance.md",
+    "Glossary/Process Design Collective.md",
+    "Glossary/Practice.md",
+    "Glossary/Place-Source.md",
+    "Glossary/Self-Organising.md",
+    "Glossary/Developmental Evaluation.md",
+    "Glossary/Living Lab.md",
+    "Glossary/Life-Affirming Futures.md",
+    "Glossary/Living Systems Paradigm.md",
+    "Partners/Technologies/Holochain.md",
+    "Partners/Networks/Xtinction Rebellion.md",
+    "Partners/Networks/Delicate Activism.md",
+    "Glossary/Action-Learning Journeys.md",
+    "Methodology/Communities of Practice.md",
+    "Team/Shikhar Agarwal.md",
+    "Scripts/setup.bat",
+    "Scripts/setup.sh",
+    "pyproject.toml",
+    "Scripts",
+    "Glossary/Bioregion.md",
+    "Glossary/State-Change.md",
+    "Glossary/Enactment.md",
+    "Prisma.md",
     "Pasted image 20241009144202.png",
     "Assets/levels-of-work.png",
     "Assets/levels-of-work.svg",
     "Assets/character.png",
     "Assets/character.svg",
-    "Assets",
-    "New folder",
-    "Stakeholders/Untitled",
-    "Partners/Networks",
-    "Partners/Hubs",
     "Y - Assets/layers.png",
     "Y - Assets/vos-triad-bglight.png",
     "Y - Assets/Pasted image 20240821144737.png",

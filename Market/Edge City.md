@@ -1,1 +1,1 @@
-https://www.edgecity.live/
+[Edge City](https://www.edgecity.live/)

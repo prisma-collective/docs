@@ -1,0 +1,33 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Adjust this to your deployment branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Strip frontmatter before publishing
+      run: python Scripts/strip_frontmatter.py  # Point to the script's path
+
+    - name: Build and deploy
+      run: |
+        # Add commands to build and deploy your markdown files
+        # Example for mkdocs:
+        mkdocs build
+        mkdocs gh-deploy

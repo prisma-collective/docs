@@ -1,9 +1,14 @@
----
+______________________________________________________________________
+
 aliases:
-  - Ryah
----
+
+- Ryah
+
+______________________________________________________________________
+
 # Capacities
+
 - Recruitment and mobilising
-	- Event participation
-	- Communications?
+  - Event participation
+  - Communications?
 - Place-sourcing: stakeholder engagements

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "prisma-docs"
+version = "0.1.0"
+description = "Documentation for prisma events, plus a bit of python code for managing the repo and streamlining contributions."
+authors = ["Tobias Fechner <tobias.fechner@hotmail.co.uk>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mdformat = "^0.7.18"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
