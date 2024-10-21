@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Grant write access to contents
 
     steps:
       - name: Checkout repository
@@ -19,13 +21,11 @@ jobs:
           ruby-version: 3.0
 
       - name: Install dependencies
-        working-directory: ./  # Ensure we're in the root directory
         run: |
           gem install bundler
           bundle install
 
       - name: Build Jekyll site
-        working-directory: ./  # Ensure we're in the root directory
         run: |
           bundle exec jekyll build
 
@@ -33,4 +33,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site  # This is the default output directory for Jekyll builds
+          publish_dir: ./_site
