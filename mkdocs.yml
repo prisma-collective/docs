@@ -1,6 +1,6 @@
 site_name: Prisma
 site_description: Documentation for Prisma
-repo_url: https://github.com/yourusername/yourrepo  # Update this with your repository URL
+repo_url: https://github.com/prisma-collective/docs/ 
 
 theme:
   name: 'material'
@@ -8,8 +8,8 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: '#003a53'  # Change to your desired primary color (hex)
-      accent: '#c362ff'    # Change to your desired accent color (hex)
+      primary: '#003a53' 
+      accent: '#c362ff'
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -17,11 +17,21 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: '#7faec2'  # Change to your desired primary color (hex)
-      accent: '#8067ff'    # Change to your desired accent color (hex)
+      primary: '#7faec2' 
+      accent: '#8067ff'
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+
+
+  font:
+    text: "Roboto, sans-serif"
+    code: "Fira Code, monospace"
+
+# Include custom CSS or fonts
+extra_css:
+  - https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap  # Google Font link
+
 
 # Extensions
 markdown_extensions:
