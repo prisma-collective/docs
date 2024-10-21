@@ -1,3 +1,18 @@
 title: Prisma Documentation
 description: Documentation used by facilitation team and event participants.
-theme: minima  # You can choose any Jekyll theme you like
+theme: minima
+lsi: false
+safe: true
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+baseurl: ""
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+permalink: pretty
+gems:
+  - jekyll-toc
