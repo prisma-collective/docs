@@ -1,6 +1,9 @@
 site_name: Prisma
 site_description: Documentation for Prisma
 
+nav:
+  - Prisma: index.md
+
 theme:
   name: 'material'
   palette:
