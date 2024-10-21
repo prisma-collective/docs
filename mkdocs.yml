@@ -1,6 +1,5 @@
 site_name: Prisma
 site_description: Documentation for Prisma
-repo_url: https://github.com/prisma-collective/docs/ 
 
 theme:
   name: 'material'
@@ -22,7 +21,6 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-
 
   font:
     text: "Roboto, sans-serif"
@@ -57,14 +55,6 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - blog
-  - rss:
-      match_path: blog/posts/.*
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags
 
 extra_javascript:
   - javascripts/mathjax.js

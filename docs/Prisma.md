@@ -1,4 +1,4 @@
-Prisma is a [[Process Design Collective]] that facilitates [[Collaborative Innovation Intensives]] to [[place-source]] [[public goods]] infrastructure development so that [[Bioregion|bioregional]] communities can participate more fully in pathways toward their [[Life-Affirming Futures]].
+Prisma is a [[Process Design Collective]] that facilitates [[Collaborative Innovation Intensives]] to [[place-source]] public goods infrastructure development so that [[Bioregion|bioregional]] communities can participate more fully in pathways toward their [[Life-Affirming Futures]].
 
 We work at three levels:
 

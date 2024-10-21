@@ -1,4 +1,4 @@
-# Capacities
+Capacities:
 
 1. P2P Learning ecosystem
    - Profiles

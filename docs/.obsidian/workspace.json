@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Capacity-Building.md",
+                "file": "Team/Mercy Fordwoo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capacity-Building"
+              "title": "Mercy Fordwoo"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Capacity-Building.md",
+                "file": "Team/Mercy Fordwoo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Capacity-Building"
+              "title": "Backlinks for Mercy Fordwoo"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary/Capacity-Building.md",
+                "file": "Team/Mercy Fordwoo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Capacity-Building"
+              "title": "Outgoing links from Mercy Fordwoo"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Capacity-Building.md"
+                "file": "Team/Mercy Fordwoo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Capacity-Building"
+              "title": "Outline of Mercy Fordwoo"
             }
           }
         ]
@@ -164,9 +164,10 @@
   },
   "active": "994ac7572fe18556",
   "lastOpenFiles": [
+    "Prisma.md",
+    "Glossary/Capacity-Building.md",
     "CNAME",
     "img/favicon.ico",
-    "img",
-    "Prisma.md"
+    "img"
   ]
 }
