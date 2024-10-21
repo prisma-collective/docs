@@ -19,11 +19,13 @@ jobs:
           ruby-version: 3.0
 
       - name: Install dependencies
+        working-directory: ./  # Ensure we're in the root directory
         run: |
           gem install bundler
           bundle install
 
       - name: Build Jekyll site
+        working-directory: ./  # Ensure we're in the root directory
         run: |
           bundle exec jekyll build
 
