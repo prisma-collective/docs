@@ -10,6 +10,12 @@ python = "^3.12"
 mdformat = "^0.7.18"
 
 
+[tool.poetry.group.dev.dependencies]
+mkdocs = "^1.6.1"
+mkdocs-material = "^9.5.42"
+mkdocs-roamlinks-plugin = "^0.3.2"
+mkdocs-rss-plugin = "^1.15.0"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"

@@ -1,10 +1,23 @@
-[data-md-color-scheme="prisma-light"] {
-    --md-primary-fg-color:        #003a53;
-    --md-primary-fg-color--light: #c362ff;
-    --md-primary-fg-color--dark:  #90030C;
+:root {
+    --md-primary-fg-color:        #7faec2;
+    --md-accent-fg-color:         #c362ff;
   }
-[data-md-color-scheme="prisma-dark"] {
---md-primary-fg-color:        #7faec2;
---md-primary-fg-color--light: #8067ff;
---md-primary-fg-color--dark:  #90030C;
+
+[data-md-color-scheme="default"] {
+    --md-footer-bg-color: default;
+    --md-footer-fg-color: default;
+}
+
+[data-md-color-scheme="slate"] {
+    --md-footer-bg-color: slate;
+    --md-footer-fg-color: slate;
+}
+
+.md-footer {
+    background-color: var(--md-footer-bg-color);
+    color: var(--md-footer-fg-color);
+}
+
+.md-footer-meta {
+    background-color: rgba(0, 0, 0, 0.1);
 }

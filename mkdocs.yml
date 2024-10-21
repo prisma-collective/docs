@@ -5,24 +5,35 @@ theme:
   name: 'material'
   favicon: img/favicon.ico
   logo: img/logo_colour.svg
+  font:
+    text: Roboto
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: prisma-light
+      scheme: default
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: prisma-dark
+      scheme: slate
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
 
-  font:
-    text: "Roboto, sans-serif"
-    code: "Fira Code, monospace"
+# Add this section for the footer
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/prisma-collective/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/prisma-collective
+  generator: false  # Removes the "Made with Material for MkDocs" text
 
 # Include custom CSS or fonts
 extra_css:
