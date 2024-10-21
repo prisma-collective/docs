@@ -163,6 +163,7 @@
   },
   "active": "52f1f1e502f5591e",
   "lastOpenFiles": [
+    "Gemfile",
     "Gemfile.txt",
     "index.md",
     "_layouts/default.html",
@@ -180,7 +181,6 @@
     "Scripts/strip_frontmatter.py",
     "New folder",
     "strip_frontmatter.py",
-    "mdformat_obsidian.py",
     "Methodology/Summary.md",
     "Glossary/Public Goods.md",
     "Glossary/Regenerative Finance.md",
