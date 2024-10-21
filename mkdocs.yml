@@ -8,20 +8,16 @@ theme:
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: '#003a53' 
-      accent: '#c362ff'
+      scheme: prisma-light
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-night
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: '#7faec2' 
-      accent: '#8067ff'
+      scheme: prisma-dark
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Switch to light mode
 
   font:
@@ -30,6 +26,7 @@ theme:
 
 # Include custom CSS or fonts
 extra_css:
+  - stylesheets/extra.css
   - https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap  # Google Font link
 
 

@@ -1,0 +1,10 @@
+[data-md-color-scheme="prisma-light"] {
+    --md-primary-fg-color:        #003a53;
+    --md-primary-fg-color--light: #c362ff;
+    --md-primary-fg-color--dark:  #90030C;
+  }
+[data-md-color-scheme="prisma-dark"] {
+--md-primary-fg-color:        #7faec2;
+--md-primary-fg-color--light: #8067ff;
+--md-primary-fg-color--dark:  #90030C;
+}
