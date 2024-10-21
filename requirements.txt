@@ -1,9 +1,0 @@
-markdown-it-py==3.0.0 ; python_version >= "3.12" and python_version < "4.0" \
-    --hash=sha256:355216845c60bd96232cd8d8c40e8f9765cc86f46880e43a8fd22dc1a1a8cab1 \
-    --hash=sha256:e3f60a94fa066dc52ec76661e37c851cb232d92f9886b15cb560aaada2df8feb
-mdformat==0.7.18 ; python_version >= "3.12" and python_version < "4.0" \
-    --hash=sha256:0060cff2a9d53a2c29a4b2be56ff90cc210d2e8506684fa482c9846166f05e22 \
-    --hash=sha256:42cba8bc5a6bb12d50bdf7c1e470c1f837a8ab8ce81571d4e53b9e62051f6e4f
-mdurl==0.1.2 ; python_version >= "3.12" and python_version < "4.0" \
-    --hash=sha256:84008a41e51615a49fc9966191ff91509e3c40b939176e643fd50a5c2196b8f8 \
-    --hash=sha256:bb413d29f5eea38f31dd4754dd7377d4465116fb207585f97bf925588687c1ba
