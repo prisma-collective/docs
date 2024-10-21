@@ -1,12 +1,10 @@
 site_name: Prisma
 site_description: Documentation for Prisma
 
-nav:
-  - Prisma: 'index.md'
-
 theme:
   name: 'material'
   favicon: img/favicon.ico
+  logo: img/logo_colour.svg
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
