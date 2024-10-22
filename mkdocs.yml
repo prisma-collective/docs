@@ -6,7 +6,7 @@ theme:
   favicon: img/favicon.ico
   logo: img/logo_colour.svg
   font:
-    text: Roboto
+    text: Segoe UI
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -38,7 +38,7 @@ extra:
 # Include custom CSS or fonts
 extra_css:
   - stylesheets/extra.css
-  - https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap  # Google Font link
+  - https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap
 
 
 # Extensions
@@ -71,3 +71,4 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js
+  - javascripts/extra.js

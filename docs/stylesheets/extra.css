@@ -21,3 +21,21 @@
 .md-footer-meta {
     background-color: rgba(0, 0, 0, 0.1);
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', sans-serif;
+  }
+
+  body, input {
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+
+/* Add this new rule for the navigation links */
+.md-nav__link .md-ellipsis {
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+/* Add this new rule for the navigation title */
+.md-nav__title {
+    font-family: 'Space Grotesk', sans-serif;
+}
