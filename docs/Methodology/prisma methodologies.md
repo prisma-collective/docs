@@ -1,4 +1,4 @@
-With these methodologies, prisma designs and [[Facilitation|facilitates]] collaboration [[collaborative innovation intensives|intensives]], together with partner hubs in different [[bioregion|bioregions]]. This methodology aims to communicate the different parts of carrying out those processes. There are three underlying components:
+With these methodologies, prisma designs and [[Facilitation|facilitates]] collaboration [[collaborative innovation intensives|intensives]], together with partner hubs in different [[bioregion|bioregions]]. This page aims to communicate the different parts of carrying out those processes. There are three underlying components:
 
 1. Place/ bioregion
 2. Action-learning journeys
@@ -12,15 +12,15 @@ Within action-learning journeys, there is:
 
 [[Products]] are functional capability developments, across the three levels of design complexity:
 
-1. Features/ feature sets (ie apps)
-2. Organisations/ organisational forms that support the ongoing development and application of practice (ie DAOs)
-3. Ecosystems (ie integrative co-design with multiple stakeholder DAOs and aligned partners at the ecosystem level)
+1. Features/ feature sets (e.g. apps)
+2. Organisations/ organisational forms that support the ongoing development and application of practice (e.g. DAOs)
+3. Ecosystems (e.g. integrative co-design with multiple stakeholder DAOs and aligned partners at the landscape/ ecosystem level)
 
 Methodologies being worked on so far are:
 
 1. [[value-system design methodology]] for evaluation
-2. [[incubation methodology]] for enactment and products
-3. [[process infrastructuring]] for
+2. [[incubation methodology]] for enactment
+3. [[process infrastructuring]] for instrumenting the underlying patterns used in
 	1. [[enrolment]]
 	2. [[potentialise|potentialising]]
 	3. [[enactment|enacting]]

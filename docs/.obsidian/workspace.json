@@ -11,10 +11,14 @@
             "id": "b9eceb17e1220da2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Methodology/communities of practice.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "communities of practice"
             }
           }
         ]
@@ -155,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,33 +175,35 @@
   },
   "active": "b9eceb17e1220da2",
   "lastOpenFiles": [
+    "Methodology/prisma methodologies.md",
+    "Glossary/process design collective.md",
     "Methodology/communities of practice.md",
+    "Glossary/developmental evaluation.md",
+    "Glossary/enactment.md",
+    "Assets/evaluating.png",
+    "Assets/enacting.png",
+    "index.md",
     "Methodology/debug.md",
     "Untitled.canvas",
     "Glossary/practice.md",
-    "index.md",
     "life-affirming futures.md",
     "Glossary/narrative.md",
     "Glossary/living lab.md",
-    "Glossary/developmental evaluation.md",
     "Glossary/bioregion.md",
     "Glossary/capacity-building.md",
     "Glossary/collaborative innovation intensives.md",
     "Glossary/Action-Learning journeys.md",
-    "Glossary/process design collective.md",
     "Partners/Technologies/Holochain.md",
     "Partners/Networks/Xtinction Rebellion.md",
     "Partners/Networks/Wada.md",
     "Partners/Networks/Regenesis.md",
     "Partners/Networks/Delicate Activism.md",
     "Partners/Hubs/Astralship.md",
-    "Methodology/prisma methodologies.md",
     "Infrastructure/potentialise.md",
     "Glossary/State-Change.md",
     "Glossary/Self-Organising.md",
     "Glossary/Regenerative Finance.md",
     "Glossary/Place-Source.md",
-    "Glossary/Living Systems Paradigm.md",
     "Context & Narrative",
     "Pitch 2/Pitch",
     "stylesheets/extra.css",
