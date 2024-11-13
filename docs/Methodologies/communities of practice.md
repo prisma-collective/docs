@@ -2,7 +2,7 @@ the purpose of this page is to communicate how the capabilities being developed 
 
 first, a potential-led [[Bioregional Celebration Festival|image]].
 
-prisma is a [[process design collective]] that facilitates [[Place-Source|place-sourced]] [[collaborative innovation intensives|collaborative innovation intensives]]. innovation intensives are a period of rapid innovation guided by a facilitator team that has been co-designing with the [[communities of place]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] In order for there to be the capabilities needed to [[Regenesis|deliver]] x18 intensives in the first three years, starting with a team of 5-6 core contributors, we need to...
+prisma is a [[process design collective]] that facilitates [[Place-Source|place-sourced]] [[collaborative innovation intensives|collaborative innovation intensives]], referred to from hereon also as an event. innovation intensives are a period of rapid innovation guided by a facilitator team that has been co-designing with the [[communities of place]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] In order for there to be the capabilities needed to [[Regenesis|deliver]] x18 intensives in the first three years, starting with a team of 5-6 core contributors, we need to...
 
 design a [[Holochain|minimum viable governance system]] to work with two streams of financial capital flows that maintain...
 
@@ -15,7 +15,7 @@ design a [[Holochain|minimum viable governance system]] to work with two streams
 
 see the preliminary [[budget allocation]] for more context. 
 
-both streams of financial capital flows are being circulated in service to activating and making visible the multiple forms of value creation and exchange occurrent in the thriving of regenerative community. these events, developed in partnership with regional hubs and their [[communities of place]], aim to be a catalytic agent for self-expression of place-sourced practices being developed and applied in alignment with increasing orders of bioregional wealth. such action-learning intensives, forming as an event, comprise of: 
+both streams of financial capital flows are being circulated in service to activating and making visible the multiple forms of value creation and exchange occurrent in the thriving of regenerative community. these events, developed in partnership with regional hubs and their [[communities of place]], aim to be a catalytic agent for self-expression of place-sourced practices being developed and applied in alignment with increasing orders of bioregional wealth. such action-learning intensives, their body taking shape as an event, comprise of: 
 
 - **SYSTEMS:** systems of place and systems of endeavour/ intervention, such as
 	- knowledge commoning
@@ -60,7 +60,7 @@ at the highest level, each event exists at the following four stages, sometimes 
 2. [[potentialise|potentialising]] (e.g. potentialising.[regenex.us](https://regenex.us/ramboland) from Max's work)
 	- fostering relational depth
 	- accumulating intention
-	- imaging place-sourced potential
+	- imaging place-sourced potential (hubs platforming local networks)
 3. [[enactment|enacting]] (e.g. enacting.[resilience.earth](https://resilience.earth/) from Oscar's work)
 	- practice embodiment
 	- learning by doing
@@ -81,10 +81,7 @@ event capacities are sourced from at least the following four stakeholder groups
 
 these [stakeholder development pathways](https://register.prisma.events) are being designed to XXX
 
-the [[process infrastructuring]] developed to support the organisation of each event instance is also designed to be configurable and self-contained, able to be deployed to a server/ [[Holochain|device]] network local to the [[communities of place]] hosting the event. the purpose of this is to align with the aim of building capacity in-place for ongoing development of the products incubated during the intensive. at least in terms of the context of regenesis community of practice, these products are in service to...
-
-1. see the movement, be the movement
-2. ... (move to [[Regenesis]])
+the [[process infrastructuring]] developed to support the organisation of each event instance is also designed to be configurable and self-contained, able to be deployed to a server/ [[Holochain|device]] network local to the [[communities of place]] hosting the event. the purpose of this is to align with the aim of building capacity in-place for ongoing development of the products incubated during the intensive. 
 
 instruments supporting this process design are:
 
