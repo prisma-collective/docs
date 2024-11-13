@@ -13,7 +13,6 @@ We work at three levels:
 ## The Overall Narrative
 
 1. [[Bioregional Celebration Festival]]
-2. [[A Developmental Journey]]
 3. [[The Challenge We're Addressing]]
 4. [[Introducing Our Solution]]
 5. [[Core Value-Adding Process and Business Model]]

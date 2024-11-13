@@ -2,15 +2,16 @@ the purpose of this page is to communicate how the capabilities being developed 
 
 first, a potential-led [[Bioregional Celebration Festival|image]].
 
-prisma is a process design collective that facilitates [[Place-Source|place-sourced]] [[collaborative innovation intensives|collaborative innovation intensives]]. innovation intensives are a period of rapid innovation guided by a facilitator team that has been co-designing with the [[communities of place]] for 8 months - each event requiring 8 months of intention development, co-design, alignment and systems onboarding. In order for there to be the capabilities needed to [[Regenesis|deliver]] x18 intensives in the first three years, starting with a team of 5-6 core contributors, we need to...
+prisma is a process design collective that facilitates [[Place-Source|place-sourced]] [[collaborative innovation intensives|collaborative innovation intensives]]. innovation intensives are a period of rapid innovation guided by a facilitator team that has been co-designing with the [[communities of place]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] In order for there to be the capabilities needed to [[Regenesis|deliver]] x18 intensives in the first three years, starting with a team of 5-6 core contributors, we need to...
 
 design a [[Holochain|minimum viable governance system]] to work with two streams of financial capital flows that maintain...
 
-1. External capability development
+1. External capability development of event [[participants]]
 	- code, [[practice]] and [[product]] quality
-	- place-unique (digital) expressions of developmental inquiries into the essence of place [^2]
+	- place-unique (digital) expressions of developmental inquiries into the essence of place [^3]
 2. Internal capability development
-	- working on the underlying patterns that generate the capacities needed for a distributed organisation of [[collaborative innovation intensives]]
+	- increasing the capability of the core facilitator team to work with the underlying patterns that generate the capacities needed to organise [[collaborative innovation intensives]] 
+	- increasing [[process design collective|order]] of design and effect
 
 see the preliminary [[budget allocation]] for more context. 
 
@@ -51,12 +52,20 @@ the following core facilitation team is forming to bring that governance system 
 - [[Noah]]: [[potentialise|potentialising]]
 - [[Tobias Fechner]]: [[process infrastructuring]]
 
-at the highest level, each event exists at the following four stages, sometimes multiple simultaneously (specifically, 1 and 2, 3 and 4). these stages each receive a sub-domain dedicated to engaging a wider audience with the inner workings of the [[communities of place]], at that given stage. these sub-domains become the endpoints by which each hub can integrate their place-unique expressions of working with the essence of place in a global-scale, self-evolving platform.[^3] 
+at the highest level, each event exists at the following four stages, sometimes multiple simultaneously (specifically, 1 and 2, 3 and 4). these stages each receive a sub-domain dedicated to engaging a wider audience with the inner workings of event organising. these sub-domains become the endpoints by which [[communities of place]] (hubs) can integrate their place-unique expressions of working with the essence of place in a global-scale, self-evolving platform.
 
-1. [[enrolment]] (e.g. enrolment.wilderness-centre.co.uk from Paul's work [here](https://www.wilderness-centre.co.uk/))
-2. [[potentialise|potentialising]] (e.g. potentialising.regenex.us from Max's work [here](https://regenex.us/ramboland))
-3. [[enactment|enacting]] (e.g. enacting.resilience.earth from Oscar's work [here](https://resilience.earth/))
-4. [[developmental evaluation|evaluating]] (e.g. evaluating.atreyu.global from Ebru's work [here](https://atreyu.global/))
+1. [[enrolment]] (e.g. enrolment.[wilderness-centre.co.uk](https://www.wilderness-centre.co.uk/) from Paul's work)
+	- stakeholder engagement
+	- participant, practice and systems onboarding
+2. [[potentialise|potentialising]] (e.g. potentialising.[regenex.us](https://regenex.us/ramboland) from Max's work)
+	- fostering relational depth
+	- accumulating intention
+	- imaging place-sourced potential
+3. [[enactment|enacting]] (e.g. enacting.[resilience.earth](https://resilience.earth/) from Oscar's work)
+	- practice embodiment
+	- learning by doing
+4. [[developmental evaluation|evaluating]] (e.g. evaluating.[atreyu.global](https://atreyu.global/) from Ebru's work)
+	- 
 
 we will aim to automate the registering and configuring of sub-domains, minimum viable service/ api deployments and testing, and porting back into a global visibility mapping interface. these endpoints are the means for communicating activity on-the-ground and the stem for each event-specific code repository.
 
@@ -83,6 +92,15 @@ instruments supporting this process design are:
 - Organisational agreements making serving [[incubation methodology|intensives as incubation processes]]
 - [[speech-to-currency]] serving place-unique [[practice-based daos]]
 
+the governance system described above will first be practiced by the core facilitator team to organise events with a pilot cohort of 6 on-the-ground practitioner groups, aligned with the 
+
+1. end of year
+2. summer 2025
+3. fall 2025
+4. end of year 2025
+5. 2026-27
+6. 2027-29
+
 [^1]: Regenesis Institute for Regenerative Practice, [ref](https://regenerat.es/). See [[Regenesis]].
-[^2]: The creative tension of glocal: visibility and verification of local network effect at global-scale levels of capital distribution. mediating multiple forms of evaluation and communicating success cases of application of practice. global systemic crises (are [[complex systems]] and) require vast amounts of thinking processing in order to respond collectively and regeneratively. evolving systems at those scales whilst at the same time in alignment with the continuity of life on earth requires place-specific practices. [[practice]] has the role of developing ecological literacy (seeing patterns in nature).
-[^3]: 
+[^2]: This is 
+[^3]: The creative tension of glocal: visibility and verification of local network effect at global-scale levels of capital distribution. mediating multiple forms of evaluation and communicating success cases of application of practice. global systemic crises (are [[complex systems]] and) require vast amounts of thinking processing in order to respond collectively and regeneratively. evolving systems at those scales whilst at the same time in alignment with the continuity of life on earth requires place-specific practices. [[practice]] has the role of developing ecological literacy (seeing patterns in nature).
