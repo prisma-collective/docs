@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methodology/communities of practice.md",
+                "file": "Methodologies/communities of practice.md",
                 "mode": "source",
                 "source": false
               },
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3be60d5adf9dd6e",
@@ -175,23 +176,26 @@
   },
   "active": "b9eceb17e1220da2",
   "lastOpenFiles": [
-    "Methodology/prisma methodologies.md",
+    "Methodologies/Regenesis collaboration.md",
+    "Assets/developmental-case-studies.png",
+    "Assets/communicating-al.png",
+    "Methodologies/communities of practice.md",
+    "Glossary/collaborative innovation intensives.md",
+    "Glossary/practice.md",
     "Glossary/process design collective.md",
-    "Methodology/communities of practice.md",
-    "Glossary/developmental evaluation.md",
+    "Methodologies/prisma methodologies.md",
     "Glossary/enactment.md",
+    "Glossary/developmental evaluation.md",
     "Assets/evaluating.png",
     "Assets/enacting.png",
     "index.md",
     "Methodology/debug.md",
     "Untitled.canvas",
-    "Glossary/practice.md",
     "life-affirming futures.md",
     "Glossary/narrative.md",
     "Glossary/living lab.md",
     "Glossary/bioregion.md",
     "Glossary/capacity-building.md",
-    "Glossary/collaborative innovation intensives.md",
     "Glossary/Action-Learning journeys.md",
     "Partners/Technologies/Holochain.md",
     "Partners/Networks/Xtinction Rebellion.md",
@@ -202,8 +206,6 @@
     "Infrastructure/potentialise.md",
     "Glossary/State-Change.md",
     "Glossary/Self-Organising.md",
-    "Glossary/Regenerative Finance.md",
-    "Glossary/Place-Source.md",
     "Context & Narrative",
     "Pitch 2/Pitch",
     "stylesheets/extra.css",

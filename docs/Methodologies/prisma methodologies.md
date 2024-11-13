@@ -1,3 +1,8 @@
+---
+aliases:
+- methodologies
+---
+
 With these methodologies, prisma designs and [[Facilitation|facilitates]] collaboration [[collaborative innovation intensives|intensives]], together with partner hubs in different [[bioregion|bioregions]]. This page aims to communicate the different parts of carrying out those processes. There are three underlying components:
 
 1. Place/ bioregion
