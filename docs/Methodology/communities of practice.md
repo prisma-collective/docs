@@ -26,25 +26,25 @@ the following core facilitation team is forming to bring that governance system 
 at the highest level, each event exists at the following four stages, sometimes multiple simultaneously. these stages each receive a sub-domain dedicated to engaging a wider audience with the inner workings of the [[communities of place]], at that given stage. these sub-domains become the endpoints by which each hub can integrate their place-unique expressions of working with the essence of place in a global-scale, self-evolving platform. see [[intensive stages and place-specific endpoints]].
 
 1. [[enrolment]] (e.g. enrolment.wilderness-centre.co.uk from Paul's work [here](https://www.wilderness-centre.co.uk/))
-1. [[potentialise|potentialising]] (e.g. potentialising.regenex.us from Max's work [here](https://regenex.us/ramboland))
-1. [[enactment|enacting]] (e.g. enacting.resilience.earth from Oscar's work [here](https://resilience.earth/))
-1. [[Developmental Evaluation|evaluating]] (e.g. evaluating.atreyu.global from Ebru's work [here](https://atreyu.global/))
+2. [[potentialise|potentialising]] (e.g. potentialising.regenex.us from Max's work [here](https://regenex.us/ramboland))
+3. [[enactment|enacting]] (e.g. enacting.resilience.earth from Oscar's work [here](https://resilience.earth/))
+4. [[Developmental Evaluation|evaluating]] (e.g. evaluating.atreyu.global from Ebru's work [here](https://atreyu.global/))
 
 we will aim to automate the registering and configuring of sub-domains, minimum viable service/ api deployments and testing, and porting back into a global visibility mapping interface. these endpoints are the means for communicating activity on-the-ground and the stem for each event-specific code repository.
 
 event capacities are sourced from at least the following four stakeholder groups:
 
 1. [[participants]]
-1. [[communities of place]]
-1. [[communities of practice]]
-1. [[partners]]
+2. [[communities of place]]
+3. [[communities of practice]]
+4. [[partners]]
 
 these [stakeholder development pathways](https://register.prisma.events) are being designed to XXX
 
 the [[process infrastructuring]] developed to support the organisation of each event instance is also designed to be configurable and self-contained, able to be deployed to a server/ [[Holochain|device]] network local to the [[communities of place]] hosting the event. the purpose of this is to align with the aim of building capacity in-place for ongoing development of the products incubated during the intensive. at least in terms of the context of regenesis community of practice, these products are in service to...
 
 1. see the movement, be the movement
-1. ...
+2. ...
 
 instruments supporting this process design are:
 
@@ -56,4 +56,4 @@ instruments supporting this process design are:
 - [[speech-to-currency]] serving place-unique [[practice-based daos]]
 
 [^1]: Regenesis Institute for Regenerative Practice, [ref](https://regenerat.es/)
-[^2]: The creative tension of glocal: visibility and verification of local network effect at global-scale levels of capital distribution. mediating multiple forms of evaluation and communicating success cases of application of practice. global systemic crises (are [[complex systems]] and) require vast amounts of thinking processing in order to respond collectively and regeneratively. evolving systems at those scales whilst at the same time in alignment with the continuity of life on earth requires place-specific practices. practice has the role of developing ecological literacy (seeing patterns in nature).
+[^2]: The creative tension of glocal: visibility and verification of local network effect at global-scale levels of capital distribution. mediating multiple forms of evaluation and communicating success cases of application of practice. global systemic crises (are [[complex systems]] and) require vast amounts of thinking processing in order to respond collectively and regeneratively. evolving systems at those scales whilst at the same time in alignment with the continuity of life on earth requires place-specific practices. [[practice]] has the role of developing ecological literacy (seeing patterns in nature).

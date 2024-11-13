@@ -16,7 +16,7 @@ By focusing on enactment, we emphasize the role of **practice-based approaches**
 
 1. **How are we creating the system as we engage with it?**
    - Enactment challenges participants and facilitators to reflect on how their practices are actively **shaping the system** they are part of. It invites awareness of the **participatory** and **relational** nature of systems change.
-1. **How do we cultivate the conditions for the emergence of new systems?**
+2. **How do we cultivate the conditions for the emergence of new systems?**
    - Enactment requires creating an environment where **new practices** can be safely explored, embodied, and iterated upon. What are the **practices, tools, and relationships** that foster this kind of innovation?
-1. **How do we balance enactment with reflection and evaluation?**
+3. **How do we balance enactment with reflection and evaluation?**
    - While enactment involves activating new ways of being, **evaluation** (particularly developmental evaluation) ensures that we are learning from the process and understanding the value of what is emerging. How can we create **feedback loops** that allow for both **action** and **sense-making**?
