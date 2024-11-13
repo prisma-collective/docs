@@ -1,8 +1,8 @@
-the purpose of this page is to communicate how the capabilities being developed by prisma - work in service to evolving communities of practice, such as [[Regenesis]] [^1] practice of regenerative development and design. at the core of our [[prisma methodologies|methodologies]] are the dynamic interplays between the forward movement of [[enactment|enacting]] and the ongoing, reflective and integrative movement of [[developmental evaluation|evaluating]]. found at the end of this page is a roadmap, made up of interim states working toward an end-state, including images for each. this page is guided by the aim of highlighting the alignment with the Regenesis story of place program, in terms of literal transposition of organisation capabilities onto process.
+the purpose of this page is to communicate how the capabilities being developed by prisma - work in service to evolving communities of practice, such as [[Regenesis]] [^1] practice of regenerative development and design. at the core of our [[prisma methodologies|methodologies]] are the dynamic interplays between the forward movement of [[enactment|enacting]] and the ongoing, reflective and integrative movement of [[developmental evaluation|evaluating]]. found at the end of this page is a roadmap, made up of interim states working toward an end-state, including images for each. this page is guided by the aim of highlighting the alignment with the [[Regenesis]] story of place program, in terms of literal transposition of organisation capabilities onto process.
 
 first, a potential-led [[Bioregional Celebration Festival|image]].
 
-prisma is a process design collective that facilitates [[Place-Source|place-sourced]] [[collaborative innovation intensives|collaborative innovation intensives]]. innovation intensives are a period of rapid innovation guided by a facilitator team that has been co-designing with the [[communities of place]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] In order for there to be the capabilities needed to [[Regenesis|deliver]] x18 intensives in the first three years, starting with a team of 5-6 core contributors, we need to...
+prisma is a [[process design collective]] that facilitates [[Place-Source|place-sourced]] [[collaborative innovation intensives|collaborative innovation intensives]]. innovation intensives are a period of rapid innovation guided by a facilitator team that has been co-designing with the [[communities of place]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] In order for there to be the capabilities needed to [[Regenesis|deliver]] x18 intensives in the first three years, starting with a team of 5-6 core contributors, we need to...
 
 design a [[Holochain|minimum viable governance system]] to work with two streams of financial capital flows that maintain...
 
@@ -64,8 +64,11 @@ at the highest level, each event exists at the following four stages, sometimes 
 3. [[enactment|enacting]] (e.g. enacting.[resilience.earth](https://resilience.earth/) from Oscar's work)
 	- practice embodiment
 	- learning by doing
+	- organisation forming
 4. [[developmental evaluation|evaluating]] (e.g. evaluating.[atreyu.global](https://atreyu.global/) from Ebru's work)
-	- 
+	- shifting systems [flows](https://metacurrency.org/faq/#qaef-1035)
+	- making visible the effects of systems interventions 
+	- reflecting on the approach, harvesting learnings, integrating into practice evolution
 
 we will aim to automate the registering and configuring of sub-domains, minimum viable service/ api deployments and testing, and porting back into a global visibility mapping interface. these endpoints are the means for communicating activity on-the-ground and the stem for each event-specific code repository.
 
@@ -102,5 +105,5 @@ a year will be given for the governance system described above to first be pract
 6. 2027-29
 
 [^1]: Regenesis Institute for Regenerative Practice, [ref](https://regenerat.es/). See [[Regenesis]].
-[^2]: This is 
+[^2]: (describe the on-boarding process)
 [^3]: The creative tension of glocal: visibility and verification of local network effect at global-scale levels of capital distribution. mediating multiple forms of evaluation and communicating success cases of application of practice. global systemic crises (are [[complex systems]] and) require vast amounts of thinking processing in order to respond collectively and regeneratively. evolving systems at those scales whilst at the same time in alignment with the continuity of life on earth requires place-specific practices. [[practice]] has the role of developing ecological literacy (seeing patterns in nature).
