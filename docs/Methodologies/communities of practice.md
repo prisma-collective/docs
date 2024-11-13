@@ -92,7 +92,7 @@ instruments supporting this process design are:
 - Organisational agreements making serving [[incubation methodology|intensives as incubation processes]]
 - [[speech-to-currency]] serving place-unique [[practice-based daos]]
 
-the governance system described above will first be practiced by the core facilitator team to organise events with a pilot cohort of 6 on-the-ground practitioner groups, aligned with the 
+a year will be given for the governance system described above to first be practiced by the core facilitator team to organise events with a pilot cohort of 6 on-the-ground practitioner groups.
 
 1. end of year
 2. summer 2025
