@@ -1,6 +1,6 @@
 # prisma
 
-prisma is a [[Process Design Collective]] that facilitates [[Collaborative Innovation Intensives]] to [[place-source]] public goods infrastructure development so that [[Bioregion|bioregional]] communities can participate more fully in pathways toward their [[Life-Affirming Futures]].
+prisma is a [[process design collective]] that facilitates [[collaborative innovation intensives]] to [[place-source]] public goods infrastructure development so that [[bioregion|bioregional]] communities can participate more fully in pathways toward their [[life-affirming futures]].
 
 We work at three levels:
 

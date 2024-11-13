@@ -1,6 +1,6 @@
-the purpose of this page is to communicate how the capabilities being developed by prisma - work in service to evolving communities of practice, such as Regenesis [^1] practice of regenerative development and design. at the core of our methodologies are the dynamic interplays between the forward movement of [[enactment]] and the ongoing, reflective and integrative movement of [[Developmental Evaluation|evaluation]]. a key product, found at the end of the page, is a kind of roadmap, made up of interim states working toward an end-state, including images for each. this page is guided by the aim of highlighting the alignment with the regenesis story of place program, in terms of literal transposition of organisation capabilities onto process.
+the purpose of this page is to communicate how the capabilities being developed by prisma - work in service to evolving communities of practice, such as Regenesis [^1] practice of regenerative development and design. at the core of our methodologies are the dynamic interplays between the forward movement of [[enactment]] and the ongoing, reflective and integrative movement of [[developmental evaluation|evaluation]]. a key product, found at the end of the page, is a kind of roadmap, made up of interim states working toward an end-state, including images for each. this page is guided by the aim of highlighting the alignment with the regenesis story of place program, in terms of literal transposition of organisation capabilities onto process.
 
-prisma is a process design collective that facilitates [[Place-Source|place-sourced]] [[Collaborative Innovation Intensives|collaborative innovation intensives]]. innovation intensives are a period of rapid innovation guided by a ([[nested?]]) facilitator team that has been co-designing with the [[transformation|communities of place]] for 8 months - each event requiring 8 months of intention development, co-design, alignment and systems onboarding. In order for there to be the capabilities needed to deliver x18 intensives in the first three years, starting with a team of 5-6 core contributors, working part-time at most until sufficient financing covering a [[fair pay]] for all is unlocked, we need to...
+prisma is a process design collective that facilitates [[Place-Source|place-sourced]] [[collaborative innovation intensives|collaborative innovation intensives]]. innovation intensives are a period of rapid innovation guided by a ([[nested?]]) facilitator team that has been co-designing with the [[transformation|communities of place]] for 8 months - each event requiring 8 months of intention development, co-design, alignment and systems onboarding. In order for there to be the capabilities needed to deliver x18 intensives in the first three years, starting with a team of 5-6 core contributors, working part-time at most until sufficient financing covering a [[fair pay]] for all is unlocked, we need to...
 
 design a [[Holochain|minimum viable governance system]] to work with two streams of financial capital flows...
 
@@ -17,7 +17,7 @@ this governance systems aims to multiply the capacity of the facilitator team by
 the following core facilitation team is forming to bring that governance system and its capacity-multiplying capabilities into being:
 
 - [[Delfina Terrado]]: [[enactment|enacting]], [[experience design]], [[incubation methodology]], [[practice-based daos]]
-- [[Shikhar Agarwal]]: [[Developmental Evaluation|evaluating]], [[value-system design methodology]], [[Holochain|place-sourced currency design]]
+- [[Shikhar Agarwal]]: [[developmental evaluation|evaluating]], [[value-system design methodology]], [[Holochain|place-sourced currency design]]
 - [[Mercy Fordwoo]]: [[potentialise|potentialising]], [[hub networking]]
 - [[Ryah Chandler]]: [[enrolment]]
 - [[Noah]]: [[potentialise|potentialising]], essentially a project board
@@ -28,7 +28,7 @@ at the highest level, each event exists at the following four stages, sometimes 
 1. [[enrolment]] (e.g. enrolment.wilderness-centre.co.uk from Paul's work [here](https://www.wilderness-centre.co.uk/))
 2. [[potentialise|potentialising]] (e.g. potentialising.regenex.us from Max's work [here](https://regenex.us/ramboland))
 3. [[enactment|enacting]] (e.g. enacting.resilience.earth from Oscar's work [here](https://resilience.earth/))
-4. [[Developmental Evaluation|evaluating]] (e.g. evaluating.atreyu.global from Ebru's work [here](https://atreyu.global/))
+4. [[developmental evaluation|evaluating]] (e.g. evaluating.atreyu.global from Ebru's work [here](https://atreyu.global/))
 
 we will aim to automate the registering and configuring of sub-domains, minimum viable service/ api deployments and testing, and porting back into a global visibility mapping interface. these endpoints are the means for communicating activity on-the-ground and the stem for each event-specific code repository.
 

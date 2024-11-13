@@ -1,4 +1,4 @@
-With these methodologies, prisma designs and [[Facilitation|facilitates]] collaboration [[Collaborative Innovation Intensives|intensives]], together with partner hubs in different [[Bioregion|bioregions]]. This methodology aims to communicate the different parts of carrying out those processes. There are three underlying components:
+With these methodologies, prisma designs and [[Facilitation|facilitates]] collaboration [[collaborative innovation intensives|intensives]], together with partner hubs in different [[bioregion|bioregions]]. This methodology aims to communicate the different parts of carrying out those processes. There are three underlying components:
 
 1. Place/ bioregion
 2. Action-learning journeys
@@ -8,7 +8,7 @@ Within action-learning journeys, there is:
 
 1. Systems of work
 2. Levels of engagement (Teams)
-3. [[enactment]] and [[Developmental Evaluation|evaluation]]
+3. [[enactment]] and [[developmental evaluation|evaluation]]
 
 [[Products]] are functional capability developments, across the three levels of design complexity:
 
@@ -24,4 +24,4 @@ Methodologies being worked on so far are:
 	1. [[enrolment]]
 	2. [[potentialise|potentialising]]
 	3. [[enactment|enacting]]
-	4. [[Developmental Evaluation|evaluating]]
+	4. [[developmental evaluation|evaluating]]

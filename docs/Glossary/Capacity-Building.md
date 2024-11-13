@@ -1,8 +1,8 @@
-**Capacity-building** refers to the process of developing the skills, knowledge, and systems necessary for individuals and groups to effectively pursue their goals. While the term originally gained traction in international development, where it focused on improving self-sufficiency in governance and economic projects, its meaning deepens significantly in the context of **systems change** and [[Collaborative Innovation Intensives|collaborative innovation]].
+**Capacity-building** refers to the process of developing the skills, knowledge, and systems necessary for individuals and groups to effectively pursue their goals. While the term originally gained traction in international development, where it focused on improving self-sufficiency in governance and economic projects, its meaning deepens significantly in the context of **systems change** and [[collaborative innovation intensives|collaborative innovation]].
 
 # Capacity-Building as Enactment in Systems Change
 
-In the [[Bioregion|bioregional]] systems evolution and **Web3 civic infrastructure** work Prisma is committed to, capacity-building is not just about skill acquisition. It ties into the concept of [[enactment]], where participants engage in the ongoing process of **co-creating and evolving systems**. This is a [[practice|practice-based]] approach where participants aren't merely learning pre-defined methods but are developing the capacity to [[Self-Organising|self-organise]], adapt, and innovate in complex, living systems.
+In the [[bioregion|bioregional]] systems evolution and **Web3 civic infrastructure** work Prisma is committed to, capacity-building is not just about skill acquisition. It ties into the concept of [[enactment]], where participants engage in the ongoing process of **co-creating and evolving systems**. This is a [[practice|practice-based]] approach where participants aren't merely learning pre-defined methods but are developing the capacity to [[Self-Organising|self-organise]], adapt, and innovate in complex, living systems.
 
 # Building Collective Intelligence
 
