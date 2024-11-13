@@ -4,9 +4,10 @@ implicit within much of the designing described in [[communities of practice]] i
 
 ![[communicating-al.png]]
 
-this meeting of two worlds - on the one hand, regenerative practice, and, on the other, software development - begins with the premise that in order for the quality of each practitioners' work to be justly reflected in a case study, on a digital platform, the software development cannot take place as a process entirely dissociated from the context of the work itself. 
+this meeting of two worlds - on the one hand, regenerative practice, and, on the other, software development - begins with the premise that in order for the quality of each practitioner-group's work to be justly reflected in a case study, on a digital platform, the software development cannot take place as a process entirely dissociated from the context of the work itself. 
+
+more broadly, that it's unlikely to be able to reflect "the difference that makes the difference" of the approach of regenerative development and design, by utilising existing, often purely functional, software tooling. there is a need for a community platform built from living systems principles.
 
 ![[developmental-case-studies.png]]
 
-so it was that the creative tension was introduced: how to reconcile the need to serve a globally distributed community of practice in communicating their work, where each practitioner is working to realise place-sourced potential in their own context in their own way, without flattening, reducing, homogenising the communication process?
-
+thus, the creative tension was introduced: how to reconcile the need to serve a globally distributed community of practice in communicating their work, where each practitioner is working to realise place-sourced potential in their own context in their own way, without flattening, reducing, homogenising the communication process, result, and effect? thus, a [[process design collective]] is forming in response. 

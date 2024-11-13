@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collaborators/Regenesis.md",
+                "file": "methodologies/communities of practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regenesis"
+              "title": "communities of practice"
             }
           }
         ]
@@ -175,10 +175,10 @@
   },
   "active": "b9eceb17e1220da2",
   "lastOpenFiles": [
-    "methodologies/communities of practice.md",
     "collaborators/Regenesis.md",
-    "methodologies/prisma methodologies.md",
     "glossary/process design collective.md",
+    "methodologies/communities of practice.md",
+    "methodologies/prisma methodologies.md",
     "glossary/narrative.md",
     "glossary/living lab.md",
     "glossary/practice.md",
