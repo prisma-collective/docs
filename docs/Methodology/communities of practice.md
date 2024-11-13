@@ -4,15 +4,16 @@ prisma is a process design collective that facilitates [[Place-Source|place-sour
 
 design a [[Holochain|minimum viable governance system]] to work with two streams of financial capital flows...
 
-1. External capability development: assuring code and project quality whilst maintaining alignment with place-unique (digital) expressions of developmental inquiries into the essence of place. [^2]
-1. Internal capability development: working on the underlying patterns that generate the capacities needed for the development, application and evaluation of [[prisma methodologies]]
+1. External capability development: assuring code and [[product]] quality whilst maintaining alignment with place-unique (digital) expressions of developmental inquiries into the essence of place. [^2]
+1. Internal capability development: working on the underlying patterns that generate the capacities needed for a distributed effort to develop and evaluate [collaborative innovation intensives](collaborative%20innovation%20intensives.md)
 
 both streams of financial capital flows are being circulated in service to making visible the multiple forms of value creation and exchange present in the thriving of regenerative communities. as such, these events, developed in partnership with regional hubs and their [[communities of place]], aim to be a catalytic agent in the self-expression of place-sourced practices being developed and applied in alignment with increasing orders of bioregional wealth.
 
 this governance systems aims to multiply the capacity of the facilitator team by creating the conditions that enable...
 
-1. [[enrolment|self-organisation]] across each event instance, as well as
-1. stewardship of the alignment between the place-sourced products of the intensives and the potential of the non-local community of practice the intensives are being organised for (i.e. [[resourcing]]).
+1. [[enrolment|self-organisation]] across each event instance
+2. stewardship of the alignment between the place-sourced products of the intensives and the potential of the non-local community of practice the intensives are being organised for (i.e. [[resourcing]])
+3. continuity of development impulse beyond the timeframe of the first intensive
 
 the following core facilitation team is forming to bring that governance system and its capacity-multiplying capabilities into being:
 
@@ -23,7 +24,7 @@ the following core facilitation team is forming to bring that governance system 
 - [[Noah]]: [[potentialise|potentialising]], essentially a project board
 - [[Tobias Fechner]]: [[process infrastructuring]]
 
-at the highest level, each event exists at the following four stages, sometimes multiple simultaneously. these stages each receive a sub-domain dedicated to engaging a wider audience with the inner workings of the [[communities of place]], at that given stage. these sub-domains become the endpoints by which each hub can integrate their place-unique expressions of working with the essence of place in a global-scale, self-evolving platform. see [[intensive stages and place-specific endpoints]].
+at the highest level, each event exists at the following four stages, sometimes multiple simultaneously. these stages each receive a sub-domain dedicated to engaging a wider audience with the inner workings of the [[communities of place]], at that given stage. these sub-domains become the endpoints by which each hub can integrate their place-unique expressions of working with the essence of place in a global-scale, self-evolving platform.[^3] 
 
 1. [[enrolment]] (e.g. enrolment.wilderness-centre.co.uk from Paul's work [here](https://www.wilderness-centre.co.uk/))
 2. [[potentialise|potentialising]] (e.g. potentialising.regenex.us from Max's work [here](https://regenex.us/ramboland))
@@ -57,3 +58,4 @@ instruments supporting this process design are:
 
 [^1]: Regenesis Institute for Regenerative Practice, [ref](https://regenerat.es/)
 [^2]: The creative tension of glocal: visibility and verification of local network effect at global-scale levels of capital distribution. mediating multiple forms of evaluation and communicating success cases of application of practice. global systemic crises (are [[complex systems]] and) require vast amounts of thinking processing in order to respond collectively and regeneratively. evolving systems at those scales whilst at the same time in alignment with the continuity of life on earth requires place-specific practices. [[practice]] has the role of developing ecological literacy (seeing patterns in nature).
+[^3]: 
