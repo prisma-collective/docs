@@ -15,8 +15,8 @@ A practice-based approach to systems change emphasizes the importance of process
 # Relevant Literature
 
 1. **Peter Senge**'s *"The Fifth Discipline"* (1990) discusses the importance of learning organizations, where systems change comes through the development of new mental models, shared vision, team learning, and systems thinking.
-1. **Donella Meadows**’ work on *Leverage Points* emphasizes that the deep and systemic changes are often made by altering the structures of information, relationships, and practices that govern a system, rather than targeting specific outcomes.
-1. **David Snowden’s Cynefin Framework**: The Cynefin framework emphasizes the value of practice-based approaches in *complex systems*, where solutions emerge from iterative experiments and learning rather than being designed with a results-oriented mindset.
+2. **Donella Meadows**’ work on *Leverage Points* emphasizes that the deep and systemic changes are often made by altering the structures of information, relationships, and practices that govern a system, rather than targeting specific outcomes.
+3. **David Snowden’s Cynefin Framework**: The Cynefin framework emphasizes the value of practice-based approaches in *complex systems*, where solutions emerge from iterative experiments and learning rather than being designed with a results-oriented mindset.
 
 # Comparison of Practice-Based and Results-Based Approaches
 

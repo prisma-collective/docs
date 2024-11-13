@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Methodology/communities of practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "communities of practice"
             }
           }
         ]
@@ -144,16 +144,27 @@
               "icon": "lucide-list",
               "title": "Outline of Mercy Fordwoo"
             }
+          },
+          {
+            "id": "3bb86ecb269af2ed",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,6 +175,10 @@
   },
   "active": "b435303a5afef7a4",
   "lastOpenFiles": [
+    "Glossary/practice.md",
+    "Methodology/communities of practice.md",
+    "index.md",
+    "life-affirming futures.md",
     "Glossary/narrative.md",
     "Glossary/living lab.md",
     "Glossary/developmental evaluation.md",
@@ -178,8 +193,6 @@
     "Partners/Networks/Regenesis.md",
     "Partners/Networks/Delicate Activism.md",
     "Partners/Hubs/Astralship.md",
-    "Methodology/communities of practice.md",
-    "Glossary/practice.md",
     "Methodology/prisma methodologies.md",
     "Infrastructure/potentialise.md",
     "Glossary/State-Change.md",
@@ -188,9 +201,7 @@
     "Glossary/Place-Source.md",
     "Glossary/Living Systems Paradigm.md",
     "Glossary/enactment.md",
-    "Glossary/Life-Affirming Futures.md",
-    "Glossary/Facilitation.md",
-    "Pitch",
+    "Context & Narrative",
     "Pitch 2/Pitch",
     "stylesheets/extra.css",
     "stylesheets",
