@@ -1,13 +1,20 @@
 the purpose of this page is to communicate how the capabilities being developed by prisma - work in service to evolving communities of practice, such as [[Regenesis]] [^1] practice of regenerative development and design. at the core of our [[prisma methodologies|methodologies]] are the dynamic interplays between the forward movement of [[enactment|enacting]] and the ongoing, reflective and integrative movement of [[developmental evaluation|evaluating]]. found at the end of this page is a roadmap, made up of interim states working toward an end-state, including images for each. this page is guided by the aim of highlighting the alignment with the Regenesis story of place program, in terms of literal transposition of organisation capabilities onto process.
 
-prisma is a process design collective that facilitates [[Place-Source|place-sourced]] [[collaborative innovation intensives|collaborative innovation intensives]]. innovation intensives are a period of rapid innovation guided by a facilitator team that has been co-designing with the [[transformation|communities of place]] for 8 months - each event requiring 8 months of intention development, co-design, alignment and systems onboarding. In order for there to be the capabilities needed to deliver x18 intensives in the first three years, starting with a team of 5-6 core contributors, we need to...
+first, a potential-led [[Bioregional Celebration Festival|image]].
+
+prisma is a process design collective that facilitates [[Place-Source|place-sourced]] [[collaborative innovation intensives|collaborative innovation intensives]]. innovation intensives are a period of rapid innovation guided by a facilitator team that has been co-designing with the [[communities of place]] for 8 months - each event requiring 8 months of intention development, co-design, alignment and systems onboarding. In order for there to be the capabilities needed to [[Regenesis|deliver]] x18 intensives in the first three years, starting with a team of 5-6 core contributors, we need to...
 
 design a [[Holochain|minimum viable governance system]] to work with two streams of financial capital flows that maintain...
 
-1. External capability development: assuring code, [[practice]] and [[product]] quality whilst maintaining alignment with place-unique (digital) expressions of developmental inquiries into the essence of place [^2]
-2. Internal capability development: working on the underlying patterns that generate the capacities needed for a distributed effort to develop and evaluate [[collaborative innovation intensives]]
+1. External capability development
+	- code, [[practice]] and [[product]] quality
+	- place-unique (digital) expressions of developmental inquiries into the essence of place [^2]
+2. Internal capability development
+	- working on the underlying patterns that generate the capacities needed for a distributed organisation of [[collaborative innovation intensives]]
 
-both streams of financial capital flows are being circulated in service to activating and making visible the multiple forms of value creation and exchange occurrent in the thriving of regenerative community. these events, developed in partnership with regional hubs and their [[communities of place]], aim to be a catalytic agent for self-expression of place-sourced practices being developed and applied in alignment with increasing orders of bioregional wealth. such action-learning intensives, forming as an event, comprise: 
+see the preliminary [[budget allocation]] for more context. 
+
+both streams of financial capital flows are being circulated in service to activating and making visible the multiple forms of value creation and exchange occurrent in the thriving of regenerative community. these events, developed in partnership with regional hubs and their [[communities of place]], aim to be a catalytic agent for self-expression of place-sourced practices being developed and applied in alignment with increasing orders of bioregional wealth. such action-learning intensives, forming as an event, comprise of: 
 
 - **SYSTEMS:** systems of place and systems of endeavour/ intervention, such as
 	- knowledge commoning
@@ -19,15 +26,15 @@ both streams of financial capital flows are being circulated in service to activ
 
 
 > [!NOTE] Regenesis Collaboration... 
-> communicating this work in all its splendour, maintaining depth, dynamism and developmental potential, is the premise of our [[Regenesis]] collaboration. in short, we... 
+> communicating this work in all its splendour, maintaining depth, dynamism and developmental potential, is the premise of the collaboration with [[Regenesis]]. in short, we... 
 > 
 > *aim to* apply this governance system to facilitate the organisation of place-sourced [[collaborative innovation intensives]]…
 > 
 > *in order to* produce a suite of developmental case studies that engage a broader (global) audience with the work of regenerative development and design
 > 
-> *in a way that* enables practitioners working on-the-ground to communicate the essence of their work themselves 
+> *in a way that* enables practitioners working on-the-ground to communicate the essence of their work **themselves** 
 > 
-> *so that* the instrument used to communicate the application of practice can evolve with the community of practice and the evolving practice itself. 
+> *so that* the instrument used to communicate the application of practice can evolve **with** the community of practice and the evolving practice itself. 
 
 this governance system aims to multiply the capacity of the facilitator team by creating the conditions that enable...
 
