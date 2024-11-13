@@ -29,9 +29,9 @@ At its core, capacity-building in this context is about **strengthening resilien
 In your work, capacity-building plays a key role in **incubating place-based teams** that can carry forward innovations after the event. These teams need to develop a range of capacities:
 
 1. **Social and Relational Capacities**: Building strong networks of collaboration within the bioregion and with external supporters (like the non-local community of practice).
-2. **Technical Capacities**: Learning how to use Web3 tools (e.g., **Holochain**) for decentralized applications and applying these tools to implement **civic infrastructure** aligned with regenerative principles.
-3. **Governance and Decision-Making Capacities**: Mastering **decentralized governance models**, learning how to make decisions **collectively**, and ensuring that systems remain **adaptive** and **resilient** over time.
-4. **Evaluation and Sense-Making**: Developing the ability to reflect, assess, and **continuously improve** through **developmental evaluation**. This is about making sense of the **emergent value** being created and iterating on designs and practices as the work unfolds.
+1. **Technical Capacities**: Learning how to use Web3 tools (e.g., **Holochain**) for decentralized applications and applying these tools to implement **civic infrastructure** aligned with regenerative principles.
+1. **Governance and Decision-Making Capacities**: Mastering **decentralized governance models**, learning how to make decisions **collectively**, and ensuring that systems remain **adaptive** and **resilient** over time.
+1. **Evaluation and Sense-Making**: Developing the ability to reflect, assess, and **continuously improve** through **developmental evaluation**. This is about making sense of the **emergent value** being created and iterating on designs and practices as the work unfolds.
 
 # Capacity-Building as Dynamic, Iterative, and Co-Creative
 

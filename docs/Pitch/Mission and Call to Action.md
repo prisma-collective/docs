@@ -1,0 +1,3 @@
+- **Mission**: "Our mission is to empower communities to design and enact their own regenerative futures by aligning local organizing, capital flows, and innovative technologies. Through our collaborative innovation intensives, we provide the tools, frameworks, and experimental conditions needed to foster bioregional regeneration and systemic change."
+
+- **Call to Action**: "Join us in this transformative journey toward a future where human and ecological systems thrive in harmony. Whether you’re an investor, community leader, or tech innovator, we invite you to help catalyze the emergence of bioregional economies that regenerate people, place, and planet."

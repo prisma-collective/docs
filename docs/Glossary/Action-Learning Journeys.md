@@ -9,6 +9,6 @@ ______________________________________________________________________
 Within action-learning journeys, there is:
 
 1. The system(s) being worked with
-1. Levels of engagement (Teams)
-1. Practice enactment
-1. Practice evaluation
+2. Levels of engagement (Teams)
+3. Practice enactment
+4. Practice evaluation

@@ -1,3 +1,11 @@
+______________________________________________________________________
+
+aliases:
+
+- enacting
+
+______________________________________________________________________
+
 The term **enactment** refers to the **active, lived processes** through which systems, knowledge, and ways of organizing emerge. Rooted in **embodied cognition** and **systems thinking**, enactment emphasizes that systems are **brought into being through interaction**—they don't pre-exist as static entities but arise through the collective practices of their participants. This idea is inspired by theorists like **Evan Thompson**, **Francisco Varela**, and the principle of **autopoiesis**, which highlights the self-organizing and self-sustaining nature of living systems.
 
 In our methodology, enactment describes how **new social structures**—such as governance models or economic systems—are co-created by the actions, relationships, and innovations of participants in collaborative spaces. For example, the **civic infrastructures** we help develop are not imposed from the outside but are **enacted** through **self-organizing practices**, such as experimenting with governance frameworks like **sociocracy** or developing **Web3-based currencies**. These new systems emerge dynamically, shaped by the interactions and feedback loops among participants, aligning with the broader principles of **living systems**.
