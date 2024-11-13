@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodologies/communities of practice.md",
+                "file": "collaborators/Regenesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "communities of practice"
+              "title": "Regenesis"
             }
           }
         ]
@@ -175,33 +175,33 @@
   },
   "active": "b9eceb17e1220da2",
   "lastOpenFiles": [
-    "glossary/process design collective.md",
     "methodologies/communities of practice.md",
+    "collaborators/Regenesis.md",
+    "methodologies/prisma methodologies.md",
+    "glossary/process design collective.md",
+    "glossary/narrative.md",
+    "glossary/living lab.md",
+    "glossary/practice.md",
+    "glossary/collaborative innovation intensives.md",
+    "glossary/capacity-building.md",
     "context & narrative/The Challenge We're Addressing.md",
     "context & narrative/Stakeholders and Growth Strategy.md",
     "index.md",
     "context & narrative/A Developmental Journey.md",
     "Assets/ordering.png",
     "Assets/levels-of-work.png",
-    "glossary/capacity-building.md",
     "Assets/ordering 1.png",
     "context & narrative/Bioregional Celebration Festival.md",
-    "collaborators/Regenesis.md",
     "glossary/enactment.md",
     "glossary/developmental evaluation.md",
-    "glossary/collaborative innovation intensives.md",
     "collaborators",
     "Assets/developmental-case-studies.png",
     "Assets/communicating-al.png",
-    "glossary/practice.md",
-    "methodologies/prisma methodologies.md",
     "Assets/evaluating.png",
     "Assets/enacting.png",
     "Methodology/debug.md",
     "Untitled.canvas",
     "life-affirming futures.md",
-    "glossary/narrative.md",
-    "glossary/living lab.md",
     "glossary/bioregion.md",
     "Glossary/Action-Learning journeys.md",
     "Partners/Technologies/Holochain.md",

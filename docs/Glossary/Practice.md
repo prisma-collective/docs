@@ -1,10 +1,7 @@
-______________________________________________________________________
-
+---
 aliases:
-
 - practice-based
-
-______________________________________________________________________
+---
 
 **Practice-based approaches** to systems change focus on the continuous development of practices, relationships, and capacities that enable the system to evolve over time. This approach emphasizes *learning, iteration, adaptation*, and *ongoing engagement*. It is less about achieving specific, predefined outcomes and more about creating the conditions for sustained, long-term change.
 
