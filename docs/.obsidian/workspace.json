@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "67e3a66369f5960f",
+        "id": "b5876e11141f6113",
         "type": "tabs",
         "children": [
           {
-            "id": "ed99ba9115faeebc",
+            "id": "a3f6948b8c227a53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -168,8 +172,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed99ba9115faeebc",
+  "active": "a3f6948b8c227a53",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "collaborators/communities of practice.md",
     "methodologies/evaluation methodology.md",
     "collaborators/Regenesis.md",
@@ -204,7 +209,6 @@
     "Partners/Technologies/Holochain.md",
     "Partners/Networks/Xtinction Rebellion.md",
     "Partners/Networks/Wada.md",
-    "Partners/Networks/Regenesis.md",
     "context & narrative",
     "Pitch 2/Pitch",
     "stylesheets/extra.css",
