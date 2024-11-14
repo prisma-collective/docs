@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodologies/communities of practice.md",
+                "file": "collaborators/communities of practice.md",
                 "mode": "source",
                 "source": false
               },
@@ -176,7 +176,8 @@
   "active": "b9eceb17e1220da2",
   "lastOpenFiles": [
     "collaborators/Regenesis.md",
-    "methodologies/communities of practice.md",
+    "collaborators/communities of practice.md",
+    "infrastructure/potentialise.md",
     "glossary/collaborative innovation intensives.md",
     "glossary/process design collective.md",
     "methodologies/prisma methodologies.md",
@@ -209,7 +210,6 @@
     "Partners/Networks/Wada.md",
     "Partners/Networks/Regenesis.md",
     "Partners/Networks/Delicate Activism.md",
-    "Partners/Hubs/Astralship.md",
     "context & narrative",
     "Pitch 2/Pitch",
     "stylesheets/extra.css",

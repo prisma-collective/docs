@@ -1,7 +1,5 @@
 the purpose of this page is to communicate how the capabilities being developed by prisma - work in service to evolving communities of practice, such as [[Regenesis]] [^1] practice of regenerative development and design. at the core of our [[prisma methodologies|methodologies]] are the dynamic interplays between the forward movement of [[enactment|enacting]] and the ongoing, reflective and integrative movement of [[developmental evaluation|evaluating]]. found at the end of this page is a roadmap, made up of interim states working toward an end-state, including images for each. this page is guided by the aim of highlighting the alignment with the [[Regenesis]] story of place program, in terms of literal transposition of organisation capabilities onto process.
 
-first, a potential-led [[Bioregional Celebration Festival|image]].
-
 prisma is a [[process design collective]] that facilitates [[Place-Source|place-sourced]] [[collaborative innovation intensives|collaborative innovation intensives]], referred to from hereon also as an event. innovation intensives are a period of rapid innovation guided by a facilitator team that has been co-designing with the [[communities of place]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] In order for there to be the capabilities needed to [[Regenesis|deliver]] x18 intensives in the first three years, starting with a team of 5-6 core contributors, we need to...
 
 design a [[Holochain|minimum viable governance system]] to work with two streams of financial capital flows that maintain...
@@ -60,7 +58,7 @@ at the highest level, each event exists at the following four stages, sometimes 
 2. [[potentialise|potentialising]] (e.g. potentialising.[regenex.us](https://regenex.us/ramboland) from Max's work)
 	- fostering relational depth
 	- accumulating intention
-	- imaging place-sourced potential (hubs platforming local networks)
+	- imaging place-sourced potential (hubs platforming local network activity)
 3. [[enactment|enacting]] (e.g. enacting.[resilience.earth](https://resilience.earth/) from Oscar's work)
 	- practice embodiment
 	- learning by doing
