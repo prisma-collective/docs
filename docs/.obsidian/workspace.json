@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "26ff268a08e3e11b",
+        "id": "67e3a66369f5960f",
         "type": "tabs",
         "children": [
           {
-            "id": "b9eceb17e1220da2",
+            "id": "ed99ba9115faeebc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "collaborators/communities of practice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "182930c5de538dff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methodologies/evaluation methodology.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -97,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -106,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodologies/evaluation methodology.md",
+                "file": "Team/Mercy Fordwoo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +107,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mercy Fordwoo"
             }
           },
           {
@@ -123,10 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methodologies/evaluation methodology.md",
+                "file": "Team/Mercy Fordwoo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mercy Fordwoo"
             }
           },
           {
@@ -137,7 +134,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -146,8 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methodologies/evaluation methodology.md"
-              }
+                "file": "Methodology/communities of practice.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of communities of practice"
             }
           }
         ]
@@ -158,20 +159,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "182930c5de538dff",
+  "active": "ed99ba9115faeebc",
   "lastOpenFiles": [
-    "collaborators/Untitled.md",
-    "Methodologies/evaluation methodology.md",
     "collaborators/communities of practice.md",
+    "methodologies/evaluation methodology.md",
     "collaborators/Regenesis.md",
     "infrastructure/potentialise.md",
     "glossary/collaborative innovation intensives.md",
@@ -204,6 +204,7 @@
     "Partners/Technologies/Holochain.md",
     "Partners/Networks/Xtinction Rebellion.md",
     "Partners/Networks/Wada.md",
+    "Partners/Networks/Regenesis.md",
     "context & narrative",
     "Pitch 2/Pitch",
     "stylesheets/extra.css",
