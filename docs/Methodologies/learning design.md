@@ -33,3 +33,4 @@ These three steps allow us to see the essence of community and place, and conseq
 What are the communities of practice patterns that we can observe? 
 What do these patterns say about the process?
 How do these patterns speak to the ecosystem? What can they show us?
+
