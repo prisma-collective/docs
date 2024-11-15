@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methodologies/hub building.md",
+                "file": "collaborators/Hubs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hub building"
+              "title": "Hubs"
             }
           }
         ],
@@ -232,7 +232,7 @@
   "active": "68a7069adb7638ca",
   "lastOpenFiles": [
     "Methodologies/learning design.md",
-    "Methodologies/hub building.md",
+    "collaborators/Hubs.md",
     "Methodologies/evaluation methodology.md",
     "Methodologies/prisma methodologies.md",
     "collaborators/Untitled.md",

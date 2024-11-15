@@ -6,3 +6,12 @@ hub's enable the process of co-design
 
 trust cannot be sped up
 
+incentive
+
+humility
+
+quality of holding
+
+openness to what local stakeholders bring
+
+will fail a few times, hopefully
