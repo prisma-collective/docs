@@ -21,73 +21,70 @@ E-valuation (energy flow valuation) is a participatory, multidimensional evaluat
     - **Community-Led Process:** Empower communities with direct control over evaluation design, ensuring the process aligns with their cultural and social contexts.
     - **Ethical and Pragmatic Balance:** Integrate ethical considerations with practical data collection strategies to enhance the reliability and applicability of findings.
     - **Mixed-Methods Approach:** Combine qualitative and quantitative data to provide a holistic understanding of energy flows.
-2. **Impact Measurement Structure:**  
-    The e-valuation methodology assesses three key dimensions using tailored indicators and tools:
-    
-    - **Economic Dimension:**
-        - Indicators: Cost-benefit analysis, resource allocation efficiency, local employment.
-        - Tools: Input-output analysis, levelized cost of energy (LCOE) calculations.
-    - **Social Dimension:**
-        - Indicators: Quality of life, community participation, access to education/health.
-        - Tools: Human Development Index (HDI) metrics, community scorecards.
-    - **Environmental Dimension:**
-        - Indicators: Carbon emissions, resource usage efficiency, ecological impact.
-        - Tools: Life Cycle Assessment (LCA), environmental impact assessments.
+      
+2. **Impact Measurement Structure:** 
+   The e-valuation methodology assesses three key dimensions using tailored indicators and tools: 
+	1. **Economic Dimension:**
+		1. Indicators: Cost-benefit analysis, resource allocation efficiency, local employment.
+		2. Tools: Input-output analysis, levelized cost of energy (LCOE) calculations.
+	2. **Social Dimension:**
+		1. Indicators: Quality of life, community participation, access to education/health.
+		2. Tools: Human Development Index (HDI) metrics, community scorecards.
+	3. **Environmental Dimension:**
+		1. Indicators: Carbon emissions, resource usage efficiency, ecological impact.
+		2. Tools: Life Cycle Assessment (LCA), environmental impact assessments.
 
 ---
 
 ### **Implementation Guidelines**
 
 1. **Timeline Planning:**
-    
-    - Prospective evaluations require 12–18 months to predict outcomes.
-    - Retrospective evaluations require at least 6 months to assess impact.
-    - Flexibility must be built into timelines to incorporate community feedback.
+	1. Prospective evaluations require 12–18 months to predict outcomes.
+	2. Retrospective evaluations require at least 6 months to assess impact.
+	3. Flexibility must be built into timelines to incorporate community feedback.
+	   
 2. **Data Collection Methods:**
-    
-    - **Baseline Assessments:** Conduct comprehensive studies using primary and secondary data sources to establish pre-intervention conditions.
-    - **Ongoing Monitoring:**
-        - Use participatory methods like community scorecards and grievance redress mechanisms.
-        - Collect data regularly through both qualitative and quantitative means.
-    - **Impact Measurement:**
-        - Apply quasi-experimental and theory-based evaluation methods to identify causal links.
-        - Involve communities directly in data collection and interpretation.
+	1. **Baseline Assessments:** Conduct comprehensive studies using primary and secondary data sources to establish pre-intervention conditions.
+	2. **Ongoing Monitoring:**
+		1. Use participatory methods like community scorecards and grievance redress mechanisms.
+		2. Collect data regularly through both qualitative and quantitative means.
+	3. **Impact Measurement:**
+		1. Apply quasi-experimental and theory-based evaluation methods to identify causal links.
+		2. Involve communities directly in data collection and interpretation.
+	
 3. **Real-Time Feedback:**
-    
-    - Develop digital platforms for continuous data collection and adaptive management.
-    - Enable real-time community feedback loops to refine interventions dynamically.
+	1. Develop digital platforms for continuous data collection and adaptive management.
+	2. Enable real-time community feedback loops to refine interventions dynamically.
 
 ---
 
 ### **Innovation Opportunities**
 
 1. **Integration with Existing Frameworks:**
-    
-    - Align the evaluation with Sustainable Development Goals (SDGs) and other standardized impact metrics.
-    - Create tools for cross-project comparisons to derive broader insights.
+	1. Align the evaluation with Sustainable Development Goals (SDGs) and other standardized impact metrics.
+	2. Create tools for cross-project comparisons to derive broader insights.
+	   
 2. **Advanced Technologies:**
-    
-    - Incorporate sensor-based technologies, bioinformatics, and AI-driven analytics for nuanced tracking of ecological and social indicators (e.g., soil health, water cycles, social cohesion).
-    - Develop augmented data interpretation layers to synthesize data into actionable insights.
+	1. Incorporate sensor-based technologies, bioinformatics, and AI-driven analytics for nuanced tracking of ecological and social indicators (e.g., soil health, water cycles, social cohesion).
+	2. Develop augmented data interpretation layers to synthesize data into actionable insights.
+	   
 3. **Dynamic Visualization and Reporting:**
-    
-    - Use interactive dashboards and immersive storytelling tools to present findings to funders, communities, and stakeholders.
-    - Automatically translate data into narratives that highlight project successes and challenges.
+	1. Use interactive dashboards and immersive storytelling tools to present findings to funders, communities, and stakeholders.
+	2. Automatically translate data into narratives that highlight project successes and challenges.
 
 ---
 
 ### **Practical Considerations**
 
 1. **Resource Requirements:**
-    
-    - Ensure adequate funding for comprehensive evaluations.
-    - Equip teams with technical expertise in statistics, econometrics, and community engagement.
+	1. Ensure adequate funding for comprehensive evaluations.
+	2. Equip teams with technical expertise in statistics, econometrics, and community engagement.
+	   
 2. **Quality Control:**
-    
-    - Regularly validate data collection methods to maintain accuracy and reliability.
-    - Use independent verification of results and involve stakeholders in reviewing findings.
+	1. Regularly validate data collection methods to maintain accuracy and reliability.
+	2. Use independent verification of results and involve stakeholders in reviewing findings.
+	   
 3. **Success Metrics:**
-    
-    - **Community Engagement:** Track the level of participation, quality of feedback mechanisms, and local capacity building.
-    - **Impact Assessment:** Measure the sustainability, scalability, and attribution of observed changes.
-    - **Learning Systems:** Document knowledge sharing mechanisms and adaptation capabilities.
+	1. **Community Engagement:** Track the level of participation, quality of feedback mechanisms, and local capacity building.
+	2. **Impact Assessment:** Measure the sustainability, scalability, and attribution of observed changes.
+	3. **Learning Systems:** Document knowledge sharing mechanisms and adaptation capabilities.
