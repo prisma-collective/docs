@@ -1,6 +1,14 @@
-the purpose of this page is to communicate how the capabilities being developed by prisma - work in service to evolving communities of practice, such as [[Regenesis]] [^1] practice of regenerative development and design. at the core of our [[prisma methodologies|methodologies]] are the dynamic interplays between the forward movement of [[enactment|enacting]] and the ongoing, reflective and integrative movement of [[developmental evaluation|evaluating]]. found at the end of this page is a roadmap, made up of interim states working toward an end-state, including images for each. this page is guided by the aim of highlighting the alignment with the [[Regenesis]] story of place program, in terms of literal transposition of organisation capabilities onto process.
 
-prisma is a [[process design collective]] that facilitates [[Place-Source|place-sourced]] [[collaborative innovation intensives|collaborative innovation intensives]], referred to from hereon also as an event. innovation intensives are a period of rapid innovation guided by a facilitator team that has been co-designing with the [[communities of place]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] In order for there to be the capabilities needed to [[Regenesis|deliver]] x18 intensives in the first three years, starting with a team of 5-6 core contributors, we need to...
+# communities of practice
+prisma is an action-learning framework for communities of practice and [[communities of place]] to self-organising [[action-learning journeys]].
+
+we're working closely with [[Regenesis]] [^1], who are evolving the practice of regenerative development and design. 
+
+at the core of our [[prisma methodologies|methodologies]] are the dynamic interplays between the forward movement of [[enactment|enacting]] (action) and the ongoing, reflective and integrative movement of [[developmental evaluation|evaluating]] (learning). our ongoing work is to develop these methodologies and the infrastructures supporting organising 
+
+found at the end of this page is a roadmap, made up of interim states working toward an end-state, including images for each. this page is guided by the aim of highlighting the alignment with the [[Regenesis]] story of place program, in terms of literal transposition of organisation capabilities onto process.
+
+prisma is a [[process design collective]] that facilitates [[Place-Source|place-sourced]] [[action-learning journeys|action-learning journeys]], referred to from hereon also as an event. innovation intensives are a period of rapid innovation guided by a facilitator team that has been co-designing with the [[communities of place]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] In order for there to be the capabilities needed to [[Regenesis|deliver]] x18 intensives in the first three years, starting with a team of 5-6 core contributors, we need to...
 
 design a [[Holochain|minimum viable governance system]] to work with two streams of financial capital flows that maintain...
 
@@ -8,7 +16,7 @@ design a [[Holochain|minimum viable governance system]] to work with two streams
 	- code, [[practice]] and [[product]] quality
 	- place-unique (digital) expressions of developmental inquiries into the essence of place [^3]
 2. Internal capability development
-	- increasing the capability of the core facilitator team to work with the underlying patterns that generate the capacities needed to organise [[collaborative innovation intensives]] 
+	- increasing the capability of the core facilitator team to work with the underlying patterns that generate the capacities needed to organise [[action-learning journeys]] 
 	- increasing [[process design collective|order]] of design and effect
 
 see the preliminary [[budget allocation]] for more context. 
@@ -27,7 +35,7 @@ both streams of financial capital flows are being circulated in service to activ
 > [!NOTE] Regenesis Collaboration... 
 > communicating this work, maintaining depth, dynamism and developmental potential, is the premise of the collaboration with [[Regenesis]]. in short, we... 
 > 
-> *aim to* apply this governance system to facilitate the organisation of place-sourced [[collaborative innovation intensives]]…
+> *aim to* apply this governance system to facilitate the organisation of place-sourced [[action-learning journeys]]…
 > 
 > *in order to* produce a suite of developmental case studies that engage a broader (global) audience with the work of regenerative development and design
 > 
@@ -82,16 +90,15 @@ the [[process infrastructuring]] developed to support the organisation of each e
 
 instruments supporting this process design are:
 
-- [[publishing engine]]
-- [[Core Facilitator Capacity|patterns for facilitator teams]]
-- [[DID System]]
+- [[publishing engine]] - a knowledge commons
+- [[Core Facilitator Capacity|patterns for facilitator teams]] - see [liberating structures](https://www.liberatingstructures.com/)
+- [[DID System]] - participant registrations, contribution accounting and participation timelines
 - A financing distribution methodology and tooling, both internal and external. See [[capital distribution]].
-- Organisational agreements making serving [[incubation methodology|intensives as incubation processes]]
-- [[speech-to-currency]] serving place-unique [[practice-based daos]]
+- Organisational agreements-making, serving [[incubation methodology|intensives as incubation processes]]
+- [[speech-to-currency]], serving place-unique [[practice-based daos]]
 
 a year will be given for the governance system described above to first be practiced by the core facilitator team to organise events with a pilot cohort of 6 on-the-ground practitioner groups.
 
-1. end of year
 2. summer 2025
 3. fall 2025
 4. end of year 2025
