@@ -1,5 +1,5 @@
 
-# context
+# Evolving Practice Through Action
 prisma is a framework for communities of practice and [[communities of place]] to self-organise [[action-learning journeys]], and the governance infrastructure to complement. 
 
 we're working closely with [[Regenesis]] [^1], who are evolving the practice of regenerative development and design. 
@@ -17,7 +17,7 @@ we are designing a [[Holochain|minimum viable governance system]] to support...
 	- the facilitator team's capability to work with the underlying, generative patterns for organising [[action-learning journeys]] 
 	- increasing [[process design collective|order]] of design and effect
 
-both streams are in service to activating and making visible the multiple forms of value creation and exchange involved in thriving regenerative community. these events are developed in partnership with [[communities of place]], with a core steward (group), and in partnership with regional hubs as hosts. the aim is for the event to be a catalytic agent for the self-expression of place-sourced practices, developed and applied to grow bioregional wealth. 
+both streams are in service to activating and making visible the multiple forms of value creation and exchange involved in thriving regenerative community. these events are developed in partnership with [[communities of place]], with a core steward (group), and in partnership with regional hubs. the aim is for the event to be a catalytic agent for the self-expression of place-sourced practices, developed and applied to grow bioregional wealth. 
 
 
 > [!NOTE] Regenesis Collaboration... 
@@ -44,8 +44,8 @@ the following core facilitation team is forming to bring this work forwards:
 - [[Mercy Fordwoo]]: [[potentialise|potentialising]], [[hub networking]]
 - [[Ryah Chandler]]: [[enrolment]]
 - [[Tobias Fechner]]: [[process infrastructuring]]
-
-at the highest level, each event is the alignment of the following four processes. these stages each receive a sub-domain dedicated to engaging a wider audience with the inner workings of event organising. these sub-domains become the endpoints by which [[communities of place]] (hubs) can integrate their place-unique expressions of working with the essence of place in a global-scale, self-evolving platform.
+# Core Processes
+at the highest level, each event is the interplay of the following four processes. these processes each receive a sub-domain dedicated to engaging a wider audience with the inner workings of the event. these sub-domains become the endpoints by which [[communities of place]] (hubs) can integrate their place-unique expressions of working with the essence of place in a global-scale, self-evolving platform.
 
 1. [[enrolment]] 
 	- stakeholder engagement
