@@ -25,7 +25,7 @@ both streams of financial capital flows are being circulated in service to activ
 
 
 > [!NOTE] Regenesis Collaboration... 
-> communicating this work in all its splendour, maintaining depth, dynamism and developmental potential, is the premise of the collaboration with [[Regenesis]]. in short, we... 
+> communicating this work, maintaining depth, dynamism and developmental potential, is the premise of the collaboration with [[Regenesis]]. in short, we... 
 > 
 > *aim to* apply this governance system to facilitate the organisation of place-sourced [[collaborative innovation intensives]]…
 > 
@@ -47,23 +47,22 @@ the following core facilitation team is forming to bring that governance system 
 - [[Shikhar Agarwal]]: [[developmental evaluation|evaluating]], [[value-system design methodology]], [[Holochain|place-sourced currency design]]
 - [[Mercy Fordwoo]]: [[potentialise|potentialising]], [[hub networking]]
 - [[Ryah Chandler]]: [[enrolment]]
-- [[Noah]]: [[potentialise|potentialising]]
 - [[Tobias Fechner]]: [[process infrastructuring]]
 
-at the highest level, each event exists at the following four stages, sometimes multiple simultaneously (specifically, 1 and 2, 3 and 4). these stages each receive a sub-domain dedicated to engaging a wider audience with the inner workings of event organising. these sub-domains become the endpoints by which [[communities of place]] (hubs) can integrate their place-unique expressions of working with the essence of place in a global-scale, self-evolving platform.
+at the highest level, each event is the alignment of the following four processes. these stages each receive a sub-domain dedicated to engaging a wider audience with the inner workings of event organising. these sub-domains become the endpoints by which [[communities of place]] (hubs) can integrate their place-unique expressions of working with the essence of place in a global-scale, self-evolving platform.
 
-1. [[enrolment]] (e.g. enrolment.[wilderness-centre.co.uk](https://www.wilderness-centre.co.uk/) from Paul's work)
+1. [[enrolment]] 
 	- stakeholder engagement
 	- participant, practice and systems onboarding
-2. [[potentialise|potentialising]] (e.g. potentialising.[regenex.us](https://regenex.us/ramboland) from Max's work)
+2. [[potentialise|potentialising]] 
 	- fostering relational depth
 	- accumulating intention
 	- imaging place-sourced potential (hubs platforming local network activity)
-3. [[enactment|enacting]] (e.g. enacting.[resilience.earth](https://resilience.earth/) from Oscar's work)
+3. [[enactment|enacting]] 
 	- practice embodiment
 	- learning by doing
 	- organisation forming
-4. [[developmental evaluation|evaluating]] (e.g. evaluating.[atreyu.global](https://atreyu.global/) from Ebru's work)
+4. [[developmental evaluation|evaluating]]
 	- shifting systems [flows](https://metacurrency.org/faq/#qaef-1035)
 	- making visible the effects of systems interventions 
 	- reflecting on the approach, harvesting learnings, integrating into practice evolution
