@@ -1,6 +1,6 @@
 
-# communities of practice
-prisma is a framework for communities of practice and [[communities of place]] to self-organise [[action-learning journeys]].
+# context
+prisma is a framework for communities of practice and [[communities of place]] to self-organise [[action-learning journeys]], and the governance infrastructure to complement. 
 
 we're working closely with [[Regenesis]] [^1], who are evolving the practice of regenerative development and design. 
 
@@ -23,7 +23,7 @@ both streams are in service to activating and making visible the multiple forms 
 > [!NOTE] Regenesis Collaboration... 
 > The collaboration with [[Regenesis]]... 
 > 
-> *aims to* apply this governance system to facilitate the organisation of place-sourced [[action-learning journeys]]…
+> *aims to* apply this governance system to facilitate the self-organising of place-sourced [[action-learning journeys]]…
 > 
 > *in order to* produce a suite of developmental case studies that engage a broader (global) audience with the work of regenerative development and design
 > 
@@ -36,8 +36,8 @@ this governance system aims to multiply the capacity of the facilitator team by 
 - **ORGANISATION:** [[enrolment|self-organisation]] by event participants and facilitators for each event instance
 - **INTEGRITY:** stewardship of the alignment between the place-sourced [[product|products]] of the intensives and the potential of the non-local community of practice the intensives are being organised for (i.e. [[resourcing]])
 - **EVOLVABILITY:** continuity of development impulse beyond the timeframe of the first intensive (see [[incubation methodology]])
-
-the following core facilitation team is forming to bring that governance system and its capacity-multiplying capabilities into being:
+# Core Capacities
+the following core facilitation team is forming to bring this work forwards:
 
 - [[Delfina Terrado]]: [[enactment|enacting]], [[experience design]], [[incubation methodology]], [[practice-based daos]]
 - [[Shikhar Agarwal]]: [[developmental evaluation|evaluating]], [[value-system design methodology]], [[Holochain|place-sourced currency design]]
