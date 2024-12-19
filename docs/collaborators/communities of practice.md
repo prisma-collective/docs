@@ -1,41 +1,29 @@
 
 # communities of practice
-prisma is an action-learning framework for communities of practice and [[communities of place]] to self-organising [[action-learning journeys]].
+prisma is a framework for communities of practice and [[communities of place]] to self-organise [[action-learning journeys]].
 
 we're working closely with [[Regenesis]] [^1], who are evolving the practice of regenerative development and design. 
 
-at the core of our [[prisma methodologies|methodologies]] are the dynamic interplays between the forward movement of [[enactment|enacting]] (action) and the ongoing, reflective and integrative movement of [[developmental evaluation|evaluating]] (learning). our ongoing work is to develop these methodologies and the infrastructures supporting organising 
+at the core of our [[prisma methodologies|methodologies]] is the dynamic interplay between the forward movement of [[enactment|enacting]] (action) and the ongoing, reflective and integrative movement of [[developmental evaluation|evaluating]] (learning). our work is to develop these methodologies and the infrastructures supporting organising such events. 
 
-found at the end of this page is a roadmap, made up of interim states working toward an end-state, including images for each. this page is guided by the aim of highlighting the alignment with the [[Regenesis]] story of place program, in terms of literal transposition of organisation capabilities onto process.
+[[action-learning journeys]] are a period of rapid innovation, guided by a facilitator team that has been co-designing with the [[communities of place]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] 
 
-prisma is a [[process design collective]] that facilitates [[Place-Source|place-sourced]] [[action-learning journeys|action-learning journeys]], referred to from hereon also as an event. innovation intensives are a period of rapid innovation guided by a facilitator team that has been co-designing with the [[communities of place]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] In order for there to be the capabilities needed to [[Regenesis|deliver]] x18 intensives in the first three years, starting with a team of 5-6 core contributors, we need to...
-
-design a [[Holochain|minimum viable governance system]] to work with two streams of financial capital flows that maintain...
+we are designing a [[Holochain|minimum viable governance system]] to support...
 
 1. External capability development of event [[participants]]
 	- code, [[practice]] and [[product]] quality
 	- place-unique (digital) expressions of developmental inquiries into the essence of place [^3]
 2. Internal capability development
-	- increasing the capability of the core facilitator team to work with the underlying patterns that generate the capacities needed to organise [[action-learning journeys]] 
+	- the facilitator team's capability to work with the underlying, generative patterns for organising [[action-learning journeys]] 
 	- increasing [[process design collective|order]] of design and effect
 
-see the preliminary [[budget allocation]] for more context. 
-
-both streams of financial capital flows are being circulated in service to activating and making visible the multiple forms of value creation and exchange occurrent in the thriving of regenerative community. these events, developed in partnership with regional hubs and their [[communities of place]], aim to be a catalytic agent for self-expression of place-sourced practices being developed and applied in alignment with increasing orders of bioregional wealth. such action-learning intensives, their body taking shape as an event, comprise of: 
-
-- **SYSTEMS:** systems of place and systems of endeavour/ intervention, such as
-	- knowledge commoning
-	- villaging systems
-	- land-relations (and what is known as property)
-	- food systems, and more...
-- **PRACTICE:** application and learning/ integration, or, [[enactment]] and [[developmental evaluation|evaluation]]
-- **COMMUNITY:** communities of practice and [[communities of place]]
+both streams are in service to activating and making visible the multiple forms of value creation and exchange involved in thriving regenerative community. these events are developed in partnership with [[communities of place]], with a core steward (group), and in partnership with regional hubs as hosts. the aim is for the event to be a catalytic agent for the self-expression of place-sourced practices, developed and applied to grow bioregional wealth. 
 
 
 > [!NOTE] Regenesis Collaboration... 
-> communicating this work, maintaining depth, dynamism and developmental potential, is the premise of the collaboration with [[Regenesis]]. in short, we... 
+> The collaboration with [[Regenesis]]... 
 > 
-> *aim to* apply this governance system to facilitate the organisation of place-sourced [[action-learning journeys]]…
+> *aims to* apply this governance system to facilitate the organisation of place-sourced [[action-learning journeys]]…
 > 
 > *in order to* produce a suite of developmental case studies that engage a broader (global) audience with the work of regenerative development and design
 > 

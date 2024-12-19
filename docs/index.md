@@ -1,8 +1,13 @@
 # prisma
 
-prisma is a [[process design collective]] that facilitates [[action-learning journeys]] to [[place-source]] public goods infrastructure development so that [[bioregion|bioregional]] communities can participate more fully in pathways toward their [[life-affirming futures]].
+prisma is... 
+- a [[process design collective]] 
+- an [[action-learning]] framework 
+- an incubator 
 
-We work at three levels:
+we facilitate [[action-learning journeys]] to [[place-source]] public goods infrastructure development so that [[bioregion|bioregional]] communities can participate more fully in pathways toward their [[life-affirming futures]].
+
+we work at three levels:
 
 1. **PRODUCTS:** To develop technology products for clients from a living systems paradigm.
 1. **ORGANISATIONS:** To incubate teams as instruments in creating the conditions for participating in systems evolution.
