@@ -23,6 +23,6 @@ These case studies are developmental learning journeys: each with levels of dept
 
 ![[bus-model.png]]
 
-Over time, using these ALJs as the innovation impulse, the engine driving creation, we can build out action-learning infrastructure. This is to work towards a platform where these events organise themselves and people work in a distributed manner on bioregional transitions toward regenerative pathways. All capacities and resourcing is organised and accounted for in a decentralised manner by leveraging these underlying patterns we're working on.
+Over time, using these ALJs as the innovation impulse, the engine driving creation, we can build out action-learning infrastructure. This is to work towards a platform where these events organise themselves and people work in a distributed manner on bioregional transition pathways. All capacities and resourcing is organised and accounted for in a decentralised manner by leveraging these underlying patterns we're working on.
 
 ![[ordering.png]]
