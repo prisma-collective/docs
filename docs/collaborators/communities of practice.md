@@ -50,7 +50,7 @@ at the highest level, each event is the interplay of the following four processe
 1. [[enrolment]] 
 	- stakeholder engagement
 	- participant, practice and systems onboarding
-2. [[potentialise|potentialising]] 
+2. ground-[[potentialise|potentialising]] 
 	- fostering relational depth
 	- accumulating intention
 	- imaging place-sourced potential (hubs platforming local network activity)
@@ -65,6 +65,8 @@ at the highest level, each event is the interplay of the following four processe
 
 we will aim to automate the registering and configuring of sub-domains, minimum viable service/ api deployments and testing, and porting back into a global visibility mapping interface. these endpoints are the means for communicating activity on-the-ground and the stem for each event-specific code repository.
 
+![[process-facilitation.png]]
+# Stakeholder Groups
 event capacities are sourced from at least the following four stakeholder groups:
 
 1. [[participants]]
@@ -72,10 +74,11 @@ event capacities are sourced from at least the following four stakeholder groups
 3. [[communities of practice]]
 4. [[partners]]
 
-these [stakeholder development pathways](https://register.prisma.events) are being designed to XXX
+these [stakeholder development pathways](https://register.prisma.events) are being designed to form a 4-8 month onboarding process. 
 
 the [[process infrastructuring]] developed to support the organisation of each event instance is also designed to be configurable and self-contained, able to be deployed to a server/ [[Holochain|device]] network local to the [[communities of place]] hosting the event. the purpose of this is to align with the aim of building capacity in-place for ongoing development of the products incubated during the intensive. 
 
+# Instrumenting
 instruments supporting this process design are:
 
 - [[publishing engine]] - a knowledge commons
@@ -84,14 +87,6 @@ instruments supporting this process design are:
 - A financing distribution methodology and tooling, both internal and external. See [[capital distribution]].
 - Organisational agreements-making, serving [[incubation methodology|intensives as incubation processes]]
 - [[speech-to-currency]], serving place-unique [[practice-based daos]]
-
-a year will be given for the governance system described above to first be practiced by the core facilitator team to organise events with a pilot cohort of 6 on-the-ground practitioner groups.
-
-2. summer 2025
-3. fall 2025
-4. end of year 2025
-5. 2026-27
-6. 2027-29
 
 [^1]: Regenesis Institute for Regenerative Practice, [ref](https://regenerat.es/). See [[Regenesis]].
 [^2]: (describe the on-boarding process)

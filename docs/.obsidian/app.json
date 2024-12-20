@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "useMarkdownLinks": false,
   "propertiesInDocument": "source",
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "Assets"
 }
