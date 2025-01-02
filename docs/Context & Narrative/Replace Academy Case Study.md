@@ -1,4 +1,4 @@
-![[deck_Page 3.png]]
+![[replace 1.png]]
 
 # An Action-Learning Case Study
 Lasting 17 days, 15 participants joined a co-living space in North-West Wales, practicing self-organising at the scale of a single household. The theme of this action-learning journey was Knowledge Commoning, which aimed to grow the perspective on how communities gather, store and evolve what and how they know. 
