@@ -1,21 +1,26 @@
-______________________________________________________________________
-
-aliases:
-
+---
+aliases: 
 - collaborative innovation intensives
-- A-L Js
+- ALJs
+- ALJ
+---
 
-______________________________________________________________________
+Action-learning journeys serve as the container by which communities aim to periodically embody alternative futures. Through several weeks of onboarding and alignment leading up to the event, cohorts of participants organise themselves in ways that demonstrate new capabilities for the expression of given system. 
 
-An action-learning journey...
-- Happens in-person
-- Lasts multiple weeks
-- Is collaborative
-- Is intense
-- Is organised by a group of people that identify with their bioregion 
-- Has the purpose of catalysing a [[state-change]] in a given system of the regional context
 
-They consist of...
+> [!Case Study] Re:place Academy - An Action-Learning Journey
+> Contents
+
+
+An action-learning journey is...
+- In-person
+- Multiple weeks
+- Collaborative
+- Intense
+- Organised by a group of people that identify with their bioregion 
+- In service to catalysing a [[state-change]] in a given system of the regional context
+
+Each action-learning journey is made of...
 1. **SYSTEMS:** systems of place and systems of endeavour/ intervention, such as
 	- knowledge commoning
 	- villaging systems
