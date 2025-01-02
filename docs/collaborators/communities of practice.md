@@ -63,7 +63,7 @@ instruments supporting this process design are:
 
 - [[publishing engine]] - a knowledge commons
 - [[Core Facilitator Capacity|patterns for facilitator teams]] - see [liberating structures](https://www.liberatingstructures.com/)
-- [[DID System]] - participant registrations, contribution accounting and participation timelines
+- [[DID System]] & reputation - participant registrations, contribution accounting and participation timelines
 - A financing distribution methodology and tooling, both internal and external. See [[capital distribution]].
 - Organisational agreements-making, serving [[incubation methodology|intensives as incubation processes]]
 - [[speech-to-currency]], serving place-unique [[practice-based daos]]

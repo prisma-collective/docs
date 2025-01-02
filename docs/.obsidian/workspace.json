@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collaborators/communities of practice.md",
+                "file": "methodologies/process-infrastructuring/developer-experience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "communities of practice"
+              "title": "developer-experience"
             }
           }
         ]
@@ -172,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "627af3eef0c9f05c",
+  "active": "f32a421b37d3dd45",
   "lastOpenFiles": [
-    "glossary/practice.md",
     "collaborators/communities of practice.md",
+    "methodologies/process-infrastructuring/developer-experience.md",
+    "glossary/practice.md",
     "collaborators/communities of place.md",
     "glossary/action-learning journeys.md",
     "context & narrative/Core Value-Adding Process and Business Model.md",
@@ -207,7 +208,7 @@
     "methodologies/learning design.md",
     "methodologies/prisma methodologies.md",
     "collaborators/Regenesis.md",
-    "infrastructure/potentialise.md",
+    "methodologies/process-infrastructuring/potentialise.md",
     "glossary/narrative.md",
     "glossary/living lab.md",
     "glossary/capacity-building.md",
