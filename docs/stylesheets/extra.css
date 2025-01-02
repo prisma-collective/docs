@@ -6,11 +6,15 @@
 [data-md-color-scheme="default"] {
     --md-footer-bg-color: default;
     --md-footer-fg-color: default;
+    --body-bg-color: white; /* Set body background color for light theme */
+    --body-fg-color: black; /* Set body foreground (text) color for light theme */
 }
 
 [data-md-color-scheme="slate"] {
     --md-footer-bg-color: slate;
     --md-footer-fg-color: slate;
+    --body-bg-color: black; /* Set body background color for dark theme */
+    --body-fg-color: white; /* Set body foreground (text) color for dark theme */
 }
 
 .md-footer {
@@ -41,5 +45,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-  background: black;
+    background: var(--body-bg-color); /* Use the variable for background color */
+    color: var(--body-fg-color); /* Use the variable for text color */
 }
