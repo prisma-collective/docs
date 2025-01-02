@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "context & narrative/Core Value-Adding Process and Business Model.md",
+                "file": "collaborators/communities of practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Value-Adding Process and Business Model"
+              "title": "communities of practice"
             }
           }
         ]
@@ -174,11 +174,18 @@
   },
   "active": "627af3eef0c9f05c",
   "lastOpenFiles": [
+    "glossary/practice.md",
+    "collaborators/communities of practice.md",
+    "collaborators/communities of place.md",
+    "glossary/action-learning journeys.md",
+    "context & narrative/Core Value-Adding Process and Business Model.md",
+    "context & narrative/Mission and Call to Action.md",
     "context & narrative/Replace Academy Case Study.md",
+    "context & narrative/Introducing Our Solution.md",
+    "context & narrative/The Challenge We're Addressing.md",
+    "context & narrative/Stakeholders and Growth Strategy.md",
     "Assets/knowledge.png",
     "Assets/replace 1.png",
-    "context & narrative/Core Value-Adding Process and Business Model.md",
-    "context & narrative/Stakeholders and Growth Strategy.md",
     "Assets/deck_Page 10.png",
     "Assets/deck_Page 9.png",
     "Assets/Page 8.png",
@@ -187,18 +194,12 @@
     "Assets/deck_Page 4.png",
     "Assets/deck_Page 1.png",
     "Assets/deck_Page 3.png",
-    "glossary/action-learning journeys.md",
-    "context & narrative/Mission and Call to Action.md",
-    "context & narrative/Introducing Our Solution.md",
     "context & narrative/Bioregional Celebration Festival.md",
     "methodologies/evaluation methodology.md",
-    "collaborators/communities of practice.md",
     "index.md",
     "glossary/process design collective.md",
     "patterns/Core Processes.md",
     "patterns",
-    "collaborators/communities of place.md",
-    "context & narrative/The Challenge We're Addressing.md",
     "Internal/2025 Roadmap.md",
     "Internal",
     "collaborators/participants.md",
@@ -209,7 +210,6 @@
     "infrastructure/potentialise.md",
     "glossary/narrative.md",
     "glossary/living lab.md",
-    "glossary/practice.md",
     "glossary/capacity-building.md",
     "collaborators",
     "Untitled.canvas",

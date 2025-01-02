@@ -18,6 +18,7 @@ An action-learning journey is...
 - In service to catalysing a [[state-change]] in a given system of the regional context
 
 Each action-learning journey is made of...
+
 1. **SYSTEMS:** systems of place and systems of endeavour/ intervention, such as
 	- knowledge commoning
 	- villaging systems

@@ -1,8 +1,8 @@
 
-# Evolving Practice Through Action
+# communities of practice
 prisma is a framework for communities of practice and [[communities of place]] to self-organise [[action-learning journeys]], and the governance infrastructure to complement. 
 
-we're working closely with [[Regenesis]] [^1], who are evolving the practice of regenerative development and design. 
+we're working closely with [[Regenesis]] [^1], who are evolving a practice of regenerative development and design. 
 
 at the core of our [[prisma methodologies|methodologies]] is the dynamic interplay between the forward movement of [[enactment|enacting]] (action) and the ongoing, reflective and integrative movement of [[developmental evaluation|evaluating]] (learning). our work is to develop these methodologies and the infrastructures supporting organising such events. 
 
