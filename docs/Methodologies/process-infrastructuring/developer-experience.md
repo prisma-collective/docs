@@ -34,7 +34,7 @@ developers are encouraged to reflect frequently on their experience of the proce
 	1. maintaining accountability, both for yourself and beyond (group, project, event)
 	2. maintaining focus, mitigating risk of distractions, and keeping a clear vision on what's needed for success
 4. Hacking
-	1. locking tf in
+	1. locking in
 5. Communication
 	1. listening
 	2. translating a given concept or system to stakeholders that aren't yet well-versed in that area
@@ -43,19 +43,20 @@ developers are encouraged to reflect frequently on their experience of the proce
 	1. creating the conditions for the continuity of a given line of work
 	2. creating the space for organisation to form
 	3. evolving organisational form in response to changing environmental conditions, finding its niche in which its contributions are valued
-
 # Process
 text
 # Functional Capabilities
 the extensive onboarding process leading up to an ALJ is the window of time in which the functional capabilities needed for an effective intensive can be developed.
 
 1. Access to dedicated communication space ([telegram](https://telegram.org/tour/groups))
-2. Introductory call with local hub and relevant stakeholders
 3. Calendar and call scheduling setup ([cal.com](https://cal.com/))
 4. Access to ALJ repos: code and docs ([github.com](https://github.com/))
+2. Introductory call with local hub and relevant stakeholders
 5. [[Enrolment]] into onboarding call series and associated learning exercises
 6. Developer self-assessment of context understanding, potential, and their relevant developer capacities 
 	1. Requires engagement with hub and/ or potential users 
 	2. Requires self-awareness of their context-informed role
 	3. Requires communication and cultivation of mutual interest among the cohort
-7. 
+7. Confirm attendance, duration, participation requirements and health preferences
+8. Initiation into participation-as-content-creation practice
+9. 
