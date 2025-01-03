@@ -12,7 +12,7 @@ With these methodologies, prisma designs and [[Facilitation|facilitates]] collab
 Within action-learning journeys, there is:
 
 1. Systems of work
-2. Levels of engagement (Teams)
+2. Levels of engagement (Teams/ Outfits)
 3. [[enactment]] and [[developmental evaluation|evaluation]]
 
 [[Products]] are functional capability developments, across the three levels of design complexity:

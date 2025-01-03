@@ -11,14 +11,12 @@
             "id": "627af3eef0c9f05c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "context & narrative/Stakeholders and Growth Strategy.md",
-                "mode": "source",
-                "source": false
+                "file": "img/logo_colour.svg"
               },
-              "icon": "lucide-file",
-              "title": "Stakeholders and Growth Strategy"
+              "icon": "lucide-image",
+              "title": "logo_colour"
             }
           }
         ]
@@ -172,11 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "627af3eef0c9f05c",
+  "active": "f32a421b37d3dd45",
   "lastOpenFiles": [
+    "methodologies/prisma methodologies.md",
+    "context & narrative/Stakeholders and Growth Strategy.md",
     "patterns/Core Processes.md",
     "glossary/enactment.md",
-    "context & narrative/Stakeholders and Growth Strategy.md",
     "methodologies/process-infrastructuring/developer-experience.md",
     "context & narrative/Replace Academy Case Study.md",
     "collaborators/communities of place.md",
@@ -207,7 +206,6 @@
     "collaborators/participants.md",
     "conflict-files-obsidian-git.md",
     "methodologies/learning design.md",
-    "methodologies/prisma methodologies.md",
     "collaborators/Regenesis.md",
     "methodologies/process-infrastructuring/potentialise.md",
     "glossary/narrative.md",
