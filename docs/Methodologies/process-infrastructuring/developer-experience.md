@@ -5,10 +5,12 @@ aliases:
 
 # Purpose
 developers are agents of transformation, transforming creative potential into code. 
+
 developers are sovereign, their agency and ability to discern being absolutely essential for the [[action-learning journeys]] to be able to reach a functional end. 
+
 developers are (sometimes) inspired by a context that aligns with their purpose, meaning, for a system they care about to be able to evolve to a higher order of capability. 
 
-this alignment and care is the prerequisite for effective communication across the various different capacities present in the [[cohort]] - artists, engineers, community leaders, farmers, cooks, and guests, to name just a few. each capacity has an essential role to play in making visible the ways in which a system is trying to evolve, and how the cohort can effectively organise itself in support of that. communication is like water: no hydration, and the creative potential of the collective will quickly dry out.
+this alignment and care is the prerequisite for effective communication across the various different capacities present in a [[cohort]] - artists, engineers, community leaders, farmers, cooks, and guests, to name just a few. each capacity has an essential role to play in making visible the ways in which a system is trying to evolve, and how the cohort can effectively organise itself in support of that. communication is like water: no hydration, and the creative potential of the collective will quickly dry out.
 
 it is crucial that developers appreciate their relationship with the character and potential of the context in which the ALJ is being hosted. the [[communities of place|hubs]] play an important role in helping develop those relationships, creating spaces in which local stakeholders can illuminate the locality's systems and particularities. 
 
@@ -34,9 +36,12 @@ developers are encouraged to reflect frequently on their experience of the proce
 	1. listening
 	2. translating a given concept or system to stakeholders that aren't yet well-versed in that area
 	3. engaging stakeholders in the value of the product being developed, both in terms of narrative and through demonstration
+6. Venture
+	1. creating the conditions for the continuity of a given line of work
+	2. creating the space for organisation to form
+	3. evolving organisational form in response to changing environmental conditions, finding its niche in which its contributions are valued
 
 # Process
 text
 # Functional Capabilities
-## Onboarding
-Every ALJ has an extensive 
+the extensive onboarding process leading up to an ALJ is the window of time in which the functional capabilities needed for an effective intensive can be developed.
