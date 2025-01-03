@@ -18,6 +18,9 @@ at the same time, developers are required to think functionally in order to impl
 
 the purpose of participating in an action-learning journey as a developer is...
 
+1. context-dependent
+2. 
+
 # Outcomes
 developers are encouraged to reflect frequently on their experience of the process, noting insights into how their perspective on personal and collective dynamics is changing and why, what patterns are apprehensible and what meaning can be made of them. [[action-learning journeys]] are a collaboration intensive, generating many opportunities for experimentation, growth, play and learning. the list of examples below is non-exhaustive.
 
@@ -45,11 +48,14 @@ developers are encouraged to reflect frequently on their experience of the proce
 text
 # Functional Capabilities
 the extensive onboarding process leading up to an ALJ is the window of time in which the functional capabilities needed for an effective intensive can be developed.
+
 1. Access to dedicated communication space ([telegram](https://telegram.org/tour/groups))
 2. Introductory call with local hub and relevant stakeholders
 3. Calendar and call scheduling setup ([cal.com](https://cal.com/))
 4. Access to ALJ repos: code and docs ([github.com](https://github.com/))
 5. [[Enrolment]] into onboarding call series and associated learning exercises
-6. Self-assessment of context understanding, potential, and 
+6. Developer self-assessment of context understanding, potential, and their relevant developer capacities 
 	1. Requires engagement with hub and/ or potential users 
-	2. 
+	2. Requires self-awareness of their context-informed role
+	3. Requires communication and cultivation of mutual interest among the cohort
+7. 
