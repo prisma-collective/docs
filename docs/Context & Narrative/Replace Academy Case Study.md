@@ -17,8 +17,6 @@ The product discovered and incubated during the journey was a semantic web crawl
 
 
 ![[DSC02157.jpg]]
-
-# Testimonials
 ![[Page 8.png]]
 ![[deck_Page 9.png]]
 ![[deck_Page 10.png]]

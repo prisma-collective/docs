@@ -11,9 +11,25 @@ this alignment and care is the prerequisite for effective communication across t
 
 each developer will be given access to a dedicated event repo, possibly seeded with preliminary artefacts. 
 
-it is crucial that developers appreciate their relationship with the character and potential of the context in which the ALJ is being hosted. the [[hubs]] play an important role in helping develop those relationships, creating spaces in which local stakeholders can illuminate the locality's systems and particularities. 
+it is crucial that developers appreciate their relationship with the character and potential of the context in which the ALJ is being hosted. the [[communities of place|hubs]] play an important role in helping develop those relationships, creating spaces in which local stakeholders can illuminate the locality's systems and particularities. 
 
 at the same time, developers are required to think functionally in order to implement a given ALJ's product requirements with technical rigour. functional thinking can sometimes seem at odds with the uncertainties inherent in group collaboration. growing a social bandwidth is an experience in itself. 
 
-developers are encouraged to reflect frequently on their experience of the process, noting learnings of how their perspective on both personal and collective dynamics is changing. every [[action-learning journeys]] is both 
+developers are encouraged to reflect frequently on their experience of the process, noting insights into how their perspective on personal and collective dynamics is changing and why, what patterns are apprehensible and what meaning can be made of them. every [[action-learning journeys]] is a collaboration intensive, generating many opportunities for experimentation, growth, play and learning. the list of examples below is non-exhaustive:
+
+1. Learning 
+	1. identifying a group learning opportunity, then designing, organising and facilitating a workshop
+	2. integrating learnings from workshops and other forms of group learning into the group's practices
+2. Leadership
+	1. identifying when a given context calls for a kind of leadership that you would like to offer, and bringing your best self into that moment
+	2. developing in yourself the ability to highlight the strengths of another and guide others through their doubts
+3. Self-management
+	1. maintaining accountability, both for yourself and beyond (group, project, event)
+	2. maintaining focus, mitigating risk of distractions, and keeping a clear vision on what's needed for success
+4. Hacking
+	1. locking tf in
+5. Communication
+	1. listening
+	2. translating a given concept or system to stakeholders that aren't yet well-versed in that area
+	3. engaging stakeholders in the value of the product being developed, both in terms of narrative and through demonstration
 
