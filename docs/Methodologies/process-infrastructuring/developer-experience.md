@@ -17,7 +17,7 @@ at the same time, developers are required to think functionally in order to impl
 the purpose of participating in an action-learning journey as a developer is...
 
 # Outcomes
-developers are encouraged to reflect frequently on their experience of the process, noting insights into how their perspective on personal and collective dynamics is changing and why, what patterns are apprehensible and what meaning can be made of them. every [[action-learning journeys]] is a collaboration intensive, generating many opportunities for experimentation, growth, play and learning. the list of examples below is non-exhaustive.
+developers are encouraged to reflect frequently on their experience of the process, noting insights into how their perspective on personal and collective dynamics is changing and why, what patterns are apprehensible and what meaning can be made of them. [[action-learning journeys]] are a collaboration intensive, generating many opportunities for experimentation, growth, play and learning. the list of examples below is non-exhaustive.
 
 1. Learning 
 	1. identifying a group learning opportunity, then designing, organising and facilitating a workshop
@@ -36,3 +36,7 @@ developers are encouraged to reflect frequently on their experience of the proce
 	3. engaging stakeholders in the value of the product being developed, both in terms of narrative and through demonstration
 
 # Process
+text
+# Functional Capabilities
+## Onboarding
+Every ALJ has an extensive 
