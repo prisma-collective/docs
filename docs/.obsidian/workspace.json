@@ -11,12 +11,14 @@
             "id": "627af3eef0c9f05c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/logo_colour.svg"
+                "file": "methodologies/process-infrastructuring/developer-experience.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "logo_colour"
+              "icon": "lucide-file",
+              "title": "developer-experience"
             }
           }
         ]
@@ -170,11 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f32a421b37d3dd45",
+  "active": "627af3eef0c9f05c",
   "lastOpenFiles": [
+    "patterns/Core Processes.md",
+    "img/logo_colour.svg",
     "methodologies/prisma methodologies.md",
     "context & narrative/Stakeholders and Growth Strategy.md",
-    "patterns/Core Processes.md",
     "glossary/enactment.md",
     "methodologies/process-infrastructuring/developer-experience.md",
     "context & narrative/Replace Academy Case Study.md",
@@ -195,7 +198,6 @@
     "Assets/deck_Page 4 1.png",
     "Assets/deck_Page 2.png",
     "Assets/deck_Page 4.png",
-    "Assets/deck_Page 1.png",
     "context & narrative/Bioregional Celebration Festival.md",
     "methodologies/evaluation methodology.md",
     "index.md",
@@ -209,7 +211,6 @@
     "collaborators/Regenesis.md",
     "methodologies/process-infrastructuring/potentialise.md",
     "glossary/narrative.md",
-    "glossary/living lab.md",
     "collaborators",
     "Untitled.canvas",
     "context & narrative",

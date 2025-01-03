@@ -3,19 +3,21 @@ aliases:
 - developer experience
 ---
 
+# Purpose
 developers are agents of transformation, transforming creative potential into code. 
 developers are sovereign, their agency and ability to discern being absolutely essential for the [[action-learning journeys]] to be able to reach a functional end. 
 developers are (sometimes) inspired by a context that aligns with their purpose, meaning, for a system they care about to be able to evolve to a higher order of capability. 
 
 this alignment and care is the prerequisite for effective communication across the various different capacities present in the [[cohort]] - artists, engineers, community leaders, farmers, cooks, and guests, to name just a few. each capacity has an essential role to play in making visible the ways in which a system is trying to evolve, and how the cohort can effectively organise itself in support of that. communication is like water: no hydration, and the creative potential of the collective will quickly dry out.
 
-each developer will be given access to a dedicated event repo, possibly seeded with preliminary artefacts. 
-
 it is crucial that developers appreciate their relationship with the character and potential of the context in which the ALJ is being hosted. the [[communities of place|hubs]] play an important role in helping develop those relationships, creating spaces in which local stakeholders can illuminate the locality's systems and particularities. 
 
 at the same time, developers are required to think functionally in order to implement a given ALJ's product requirements with technical rigour. functional thinking can sometimes seem at odds with the uncertainties inherent in group collaboration. growing a social bandwidth is an experience in itself. 
 
-developers are encouraged to reflect frequently on their experience of the process, noting insights into how their perspective on personal and collective dynamics is changing and why, what patterns are apprehensible and what meaning can be made of them. every [[action-learning journeys]] is a collaboration intensive, generating many opportunities for experimentation, growth, play and learning. the list of examples below is non-exhaustive:
+the purpose of participating in an action-learning journey as a developer is...
+
+# Outcomes
+developers are encouraged to reflect frequently on their experience of the process, noting insights into how their perspective on personal and collective dynamics is changing and why, what patterns are apprehensible and what meaning can be made of them. every [[action-learning journeys]] is a collaboration intensive, generating many opportunities for experimentation, growth, play and learning. the list of examples below is non-exhaustive.
 
 1. Learning 
 	1. identifying a group learning opportunity, then designing, organising and facilitating a workshop
@@ -33,3 +35,4 @@ developers are encouraged to reflect frequently on their experience of the proce
 	2. translating a given concept or system to stakeholders that aren't yet well-versed in that area
 	3. engaging stakeholders in the value of the product being developed, both in terms of narrative and through demonstration
 
+# Process
