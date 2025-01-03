@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodologies/process-infrastructuring/developer-experience.md",
+                "file": "methodologies/process-infrastructuring/developer-enrolment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "developer-experience"
+              "title": "developer-enrolment"
             }
           }
         ]
@@ -175,7 +175,7 @@
   "active": "627af3eef0c9f05c",
   "lastOpenFiles": [
     "methodologies/process-infrastructuring/developer-enrolment.md",
-    "methodologies/process-infrastructuring/developer-experience.md",
+    "methodologies/process-infrastructuring/developer-enrolment.md",
     "patterns/Core Processes.md",
     "img/logo_colour.svg",
     "methodologies/prisma methodologies.md",

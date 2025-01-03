@@ -1,3 +1,8 @@
+---
+aliases:
+- developer experience
+---
+
 # Purpose
 developers are agents of transformation, transforming creative potential into code. 
 
@@ -51,4 +56,4 @@ the extensive onboarding process leading up to an ALJ is the window of time in w
 7. Confirm attendance, duration, participation requirements and health preferences
 8. Initiation into participation-as-content-creation practice
 
-[^1]: Instrumenting is the development of tooling and teams as means to reaching a given systems-evolution end. 
+[^1]: Instrumenting is developing tooling and teams as means to reaching a given systems-evolution end. 
