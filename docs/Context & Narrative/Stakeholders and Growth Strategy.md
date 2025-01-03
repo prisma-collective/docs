@@ -7,7 +7,7 @@ aliases:
 ![[roadmap_241220.png]]
 
 # Stakeholders and Growth Strategy
-2025 will see the delivery of the [Accra action-learning journey](https://cardano.ideascale.com/c/cardano/idea/131867), the start of the [[Regenesis]] Story of Place programme, and potentially a few other exciting collaborations. 
+2025 will see the delivery of the [Accra action-learning journey](https://projectcatalyst.io/funds/13/f13-cardano-open-ecosystem/wada-hub-hackathon-a-local-community-catalyst), the start of the [[Regenesis]] Story of Place programme, and potentially a few other exciting collaborations. 
 
 The image above shows the same underlying pattern of event organising, which applies four [[Core Processes]], across three different contexts:
 

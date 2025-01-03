@@ -45,9 +45,16 @@ h1, h2, h3, h4, h5, h6 {
 /* Add this new rule for the navigation title */
 .md-nav__title {
     font-family: 'Space Grotesk', sans-serif;
+    color: var(--heading-color); /* Dynamic heading color for nav titles */
 }
 
 body {
     background: var(--body-bg-color); /* Use the variable for background color */
     color: var(--body-fg-color); /* Use the variable for text color */
+}
+
+/* Specific styling for page title (e.g., .md-title if used) */
+.md-title {
+    color: var(--heading-color); /* Ensure page heading matches theme color */
+    font-family: 'Space Grotesk', sans-serif;
 }
