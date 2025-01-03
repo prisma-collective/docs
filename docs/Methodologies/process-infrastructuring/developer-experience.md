@@ -45,3 +45,9 @@ developers are encouraged to reflect frequently on their experience of the proce
 text
 # Functional Capabilities
 the extensive onboarding process leading up to an ALJ is the window of time in which the functional capabilities needed for an effective intensive can be developed.
+1. Access to dedicated communication space ([telegram](https://telegram.org/tour/groups))
+2. Introductory call with local hub and relevant stakeholders
+3. Calendar and call scheduling setup ([cal.com](https://cal.com/))
+4. Access to ALJ repos: code and docs ([github.com](https://github.com/))
+5. [[Enrolment]] into onboarding call series and associated learning exercises
+6. 
