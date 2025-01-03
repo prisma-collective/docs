@@ -50,4 +50,6 @@ the extensive onboarding process leading up to an ALJ is the window of time in w
 3. Calendar and call scheduling setup ([cal.com](https://cal.com/))
 4. Access to ALJ repos: code and docs ([github.com](https://github.com/))
 5. [[Enrolment]] into onboarding call series and associated learning exercises
-6. 
+6. Self-assessment of context understanding, potential, and 
+	1. Requires engagement with hub and/ or potential users 
+	2. 
