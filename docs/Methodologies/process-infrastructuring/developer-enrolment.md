@@ -11,11 +11,7 @@ it is crucial that developers appreciate their relationship with the character a
 
 at the same time, developers are required to think functionally in order to implement a given ALJ's product requirements with technical rigour. functional thinking can sometimes seem at odds with the uncertainties inherent in group collaboration. growing a social bandwidth is an experience in itself. 
 
-the purpose of participating in an action-learning journey as a developer is...
-
-1. context-dependent
-2. 
-
+the purpose of participating in an action-learning journey as a developer is to instrument[^1] the development of systems-evolution practices that are uniquely informed by the context of the place in which the action-learning journey is hosted. 
 # Outcomes
 developers are encouraged to reflect frequently on their experience of the process, noting insights into how their perspective on personal and collective dynamics is changing and why, what patterns are apprehensible and what meaning can be made of them. [[action-learning journeys]] are a collaboration intensive, generating many opportunities for experimentation, growth, play and learning. the list of examples below is non-exhaustive.
 
@@ -39,7 +35,7 @@ developers are encouraged to reflect frequently on their experience of the proce
 	2. creating the space for organisation to form
 	3. evolving organisational form in response to changing environmental conditions, finding its niche in which its contributions are valued
 # Process
-text
+TBC
 # Functional Capabilities
 the extensive onboarding process leading up to an ALJ is the window of time in which the functional capabilities needed for an effective intensive can be developed.
 
@@ -54,4 +50,5 @@ the extensive onboarding process leading up to an ALJ is the window of time in w
 	3. Requires communication and cultivation of mutual interest among the cohort
 7. Confirm attendance, duration, participation requirements and health preferences
 8. Initiation into participation-as-content-creation practice
-9. 
+
+[^1]: Instrumenting is the development of tooling and teams as means to reaching a given systems-evolution end. 
