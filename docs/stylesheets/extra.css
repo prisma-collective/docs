@@ -8,6 +8,7 @@
     --md-footer-fg-color: default;
     --body-bg-color: white; /* Set body background color for light theme */
     --body-fg-color: black; /* Set body foreground (text) color for light theme */
+    --heading-color: black; /* Set heading color for light theme */
 }
 
 [data-md-color-scheme="slate"] {
@@ -15,6 +16,7 @@
     --md-footer-fg-color: slate;
     --body-bg-color: black; /* Set body background color for dark theme */
     --body-fg-color: white; /* Set body foreground (text) color for dark theme */
+    --heading-color: white;/* Set heading color for light theme */
 }
 
 .md-footer {
@@ -28,7 +30,7 @@
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Space Grotesk', sans-serif;
-    color: white; 
+    color: var(--heading-color); /* Dynamic heading color based on theme */
   }
 
   body, input {
