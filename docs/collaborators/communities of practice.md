@@ -4,7 +4,7 @@ prisma is a framework for communities of practice and [[communities of place]] t
 
 we're working closely with [[Regenesis]] [^1], who are evolving a practice of regenerative development and design. 
 
-at the core of our [[prisma methodologies|methodologies]] is the dynamic interplay between the forward movement of [[enactment|enacting]] (action) and the ongoing, reflective and integrative movement of [[developmental evaluation|evaluating]] (learning). our work is to develop these methodologies and the infrastructures supporting organising such events. 
+at the core of our [[prisma methodologies|methodologies]] is the dynamic interplay between the forward movement of [[enactment|enacting]] (action) and the ongoing, reflective and integrative movement of [[evaluation methodology|evaluating]] (learning). our work is to develop these methodologies and the infrastructures supporting organising such events. 
 
 [[action-learning journeys]] are a period of rapid innovation, guided by a facilitator team that has been co-designing with the [[communities of place]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] 
 
@@ -40,7 +40,7 @@ this governance system aims to multiply the capacity of the facilitator team by 
 the following core facilitation team is forming to bring this work forwards:
 
 - [[Delfina Terrado]]: [[enactment|enacting]], [[experience design]], [[incubation methodology]], [[practice-based daos]]
-- [[Shikhar Agarwal]]: [[developmental evaluation|evaluating]], [[value-system design methodology]], [[Holochain|place-sourced currency design]]
+- [[Shikhar Agarwal]]: [[evaluation methodology|evaluating]], [[value-system design methodology]], [[Holochain|place-sourced currency design]]
 - [[Mercy Fordwoo]]: [[potentialise|potentialising]], [[hub networking]]
 - [[Ryah Chandler]]: [[enrolment]]
 - [[Tobias Fechner]]: [[process infrastructuring]]

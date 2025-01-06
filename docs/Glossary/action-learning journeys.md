@@ -25,5 +25,5 @@ Each action-learning journey is made up of...
 	- villaging systems
 	- land-relations (and what is distastefully known as property)
 	- food systems, and more...
-2. **PRACTICE:** application and learning, or, [[enactment]] and [[developmental evaluation|evaluation]]
+2. **PRACTICE:** application and learning, or, [[enactment]] and [[evaluation methodology|evaluation]]
 3. **COMMUNITY:** [[communities of practice]] and [[communities of place]]

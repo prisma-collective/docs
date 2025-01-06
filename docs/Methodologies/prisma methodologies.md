@@ -31,5 +31,5 @@ The core methodologies being worked on so far are:
 1. [[enrolment]]
 2. [[potentialise|ground-potentialising]]
 3. [[enactment|enacting]]
-4. [[developmental evaluation|evaluating]]
+4. [[evaluation methodology|evaluating]]
 5. [[process infrastructuring]]

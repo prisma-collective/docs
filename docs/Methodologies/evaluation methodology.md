@@ -1,3 +1,11 @@
+---
+aliases:
+- evaluating
+- evaluation
+---
+
+![evaluating](evaluating.png)
+
 evaluation is the essence of governance. 
 
 evaluation, or the valuing of energy flows within a system, is how a collective learns about its attempts to self-organize towards a shared goal. 
