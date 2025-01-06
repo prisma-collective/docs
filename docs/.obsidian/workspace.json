@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodologies/process-infrastructuring/developer-enrolment.md",
+                "file": "Glossary/Enactment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "developer-enrolment"
-            }
-          },
-          {
-            "id": "2ea4481ef8681a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "methodologies/process-infrastructuring/process-infrastructuring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "process-infrastructuring"
+              "title": "Enactment"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,55 +163,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ea4481ef8681a9d",
+  "active": "627af3eef0c9f05c",
   "lastOpenFiles": [
-    "glossary/action-learning journeys.md",
-    "methodologies/process-infrastructuring/process-infrastructuring.md",
-    "methodologies/process-infrastructuring/developer-enrolment.md",
-    "methodologies/process-infrastructuring/potentialise.md",
-    "methodologies/prisma methodologies.md",
-    "glossary/practice.md",
-    "methodologies/learning design.md",
-    "glossary/enactment.md",
-    "glossary/developmental evaluation.md",
-    "context & narrative/Core Value-Adding Process and Business Model.md",
-    "patterns/Core Processes.md",
-    "collaborators/communities of practice.md",
-    "glossary/capacity-building.md",
-    "methodologies/evaluation methodology.md",
-    "context & narrative/Replace Academy Case Study.md",
-    "context & narrative/Bioregional Celebration Festival.md",
-    "context & narrative/Introducing Our Solution.md",
-    "context & narrative/Mission and Call to Action.md",
-    "context & narrative/Stakeholders and Growth Strategy.md",
-    "context & narrative/The Challenge We're Addressing.md",
-    "img/logo_colour.svg",
-    "collaborators/communities of place.md",
-    "Assets/Pasted image 20250102211247.png",
-    "Assets/knowledge.png",
+    "Methodologies/process-infrastructuring/process-infrastructuring.md",
+    "Methodologies/process-infrastructuring/potentialise.md",
+    "Methodologies/process-infrastructuring/developer-enrolment.md",
+    "Methodologies/process-infrastructuring",
+    "Context & Narrative/Replace Academy Case Study.md",
     "Assets/replace 1.png",
-    "Assets/deck_Page 10.png",
+    "Assets/knowledge.png",
     "Assets/deck_Page 9.png",
-    "Assets/Page 8.png",
-    "Assets/deck_Page 4 1.png",
-    "Assets/deck_Page 2.png",
     "Assets/deck_Page 4.png",
+    "Assets/deck_Page 4 1.png",
+    "Assets/deck_Page 3.png",
+    "Assets/deck_Page 2.png",
+    "Assets/deck_Page 10.png",
+    "Assets/deck_Page 1.png",
+    "Assets/Pasted image 20250102211247.png",
+    "Glossary/action-learning journeys.md",
+    "Glossary/Practice.md",
+    "Glossary/Narrative.md",
+    "Glossary/Enactment.md",
+    "glossary/action-learning journeys.md",
+    "glossary/Replace Academy.md",
+    "context & narrative/Stakeholders and Growth Strategy.md",
+    "context & narrative/Core Value-Adding Process and Business Model.md",
+    "context & narrative/Mission and Call to Action.md",
+    "context & narrative/Introducing Our Solution.md",
+    "context & narrative/Bioregional Celebration Festival.md",
+    "methodologies/evaluation methodology.md",
+    "collaborators/communities of practice.md",
     "index.md",
     "glossary/process design collective.md",
+    "patterns/Core Processes.md",
     "patterns",
+    "collaborators/communities of place.md",
+    "context & narrative/The Challenge We're Addressing.md",
     "Internal/2025 Roadmap.md",
     "Internal",
     "collaborators/participants.md",
     "conflict-files-obsidian-git.md",
+    "methodologies/learning design.md",
     "collaborators",
     "Untitled.canvas",
     "context & narrative",
@@ -234,7 +220,6 @@
     "stylesheets/extra.css",
     "stylesheets",
     "CNAME",
-    "img/favicon.ico",
-    "img"
+    "img/favicon.ico"
   ]
 }
