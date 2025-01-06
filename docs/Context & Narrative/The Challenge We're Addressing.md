@@ -6,7 +6,7 @@ Our solution involves running **collaborative innovation intensives** that align
 
 # The Emerging Community of Practice: Bioregional Financing Facilities
 
-Our work is aligned with an emerging community of practice developing **Bioregional Financing Facilities (BFFs)**—mechanisms designed to channel financial resources toward regenerative projects. For BFFs to succeed, strong community organizing and leadership, rooted in place-based regeneration, must already be in place. This is facilitated by a **Bioregional Organizing Team**—whether a trusted organization or a decentralized network—fostering trust, coherence, and capacity for collective action.
+Our work is aligned with an [emerging community of practice](https://www.biofi.earth/) developing **Bioregional Financing Facilities (BFFs)**—mechanisms designed to channel financial resources toward regenerative projects. For BFFs to succeed, strong community organizing and leadership, rooted in place-based regeneration, must already be in place. This is facilitated by a **Bioregional Organizing Team**—whether a trusted organization or a decentralized network—fostering trust, coherence, and capacity for collective action.
 
 The Bioregional Organizing Team collaborates with **Bioregional Hubs** to create a **Bioregional Regeneration Strategy**, map systems, and build capacity. Once this foundation is strong, a BFF can be established to finance regenerative initiatives, working in synergy with local hubs to decentralize financial governance and drive systemic change.
 

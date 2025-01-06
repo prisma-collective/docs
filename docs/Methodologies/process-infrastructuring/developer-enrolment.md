@@ -1,6 +1,6 @@
 ---
 aliases:
-- developer experience
+- developer enrolment
 ---
 
 # Developer Enrolment
