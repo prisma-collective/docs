@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodologies/prisma methodologies.md",
+                "file": "methodologies/process-infrastructuring/process-infrastructuring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prisma methodologies"
+              "title": "process-infrastructuring"
             }
           }
         ]
@@ -174,13 +174,13 @@
   },
   "active": "627af3eef0c9f05c",
   "lastOpenFiles": [
+    "methodologies/prisma methodologies.md",
     "methodologies/process-infrastructuring/process-infrastructuring.md",
     "methodologies/evaluation methodology.md",
     "methodologies/process-infrastructuring/developer-enrolment.md",
     "conflict-files-obsidian-git.md",
     "glossary/Enactment.md",
     "glossary/enactment.md",
-    "methodologies/prisma methodologies.md",
     "context & narrative/Replace Academy Case Study.md",
     "glossary/action-learning journeys.md",
     "methodologies/process-infrastructuring/potentialise.md",
