@@ -8,9 +8,10 @@ aliases:
 
 Action-learning journeys serve as the container by which communities aim to periodically embody alternative futures. Through several weeks of onboarding and alignment leading up to the event, cohorts of participants organise themselves in ways that demonstrate new capabilities for the expression of given system. 
 
-Here's an example from a previous action-learning journey: [[Replace Academy Case Study]].
+The [[Replace Academy Case Study]] is an example from a previous action-learning journey, which centred the [[aspect]] of knowledge commoning.
 
 An action-learning journey is...
+
 - In-person
 - Multiple weeks
 - Collaborative

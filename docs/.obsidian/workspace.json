@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodologies/process-infrastructuring/developer-enrolment.md",
+                "file": "methodologies/process-infrastructuring/process-infrastructuring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "developer-enrolment"
+              "title": "process-infrastructuring"
             }
           }
         ],
@@ -189,8 +189,10 @@
   },
   "active": "2ea4481ef8681a9d",
   "lastOpenFiles": [
-    "methodologies/process-infrastructuring/potentialise.md",
+    "glossary/action-learning journeys.md",
     "methodologies/process-infrastructuring/process-infrastructuring.md",
+    "methodologies/process-infrastructuring/developer-enrolment.md",
+    "methodologies/process-infrastructuring/potentialise.md",
     "methodologies/prisma methodologies.md",
     "glossary/practice.md",
     "methodologies/learning design.md",
@@ -200,9 +202,7 @@
     "patterns/Core Processes.md",
     "collaborators/communities of practice.md",
     "glossary/capacity-building.md",
-    "glossary/action-learning journeys.md",
     "methodologies/evaluation methodology.md",
-    "methodologies/process-infrastructuring/developer-enrolment.md",
     "context & narrative/Replace Academy Case Study.md",
     "context & narrative/Bioregional Celebration Festival.md",
     "context & narrative/Introducing Our Solution.md",
