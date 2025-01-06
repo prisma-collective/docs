@@ -22,9 +22,9 @@ The [[product]] of each action-learning journey is a [[case-study]]. These case-
 
 In addition to generating the above learning material, which is occurring at the participation level, there is a second order of production aims, client-facing, which exists at three levels:
 
-1. Features/ feature sets (e.g. apps)
-2. Organisations/ organisational forms that support the ongoing development and application of practice (e.g. DAOs, startups)
-3. Ecosystem shifts and pathways (e.g. an integrative co-design roadmap with multiple stakeholders and aligned partners at the landscape/ ecosystem level)
+1. Features/ feature sets (e.g. functions/ apps)
+2. Organisations/ organisational forms that support the ongoing development and application of practice (e.g. classes/ DAOs, startups)
+3. Ecosystem shifts and pathways (namespaces/ e.g. an integrative co-design roadmap with multiple stakeholders and aligned partners at the landscape/ ecosystem level)
 
 The core methodologies being worked on so far are:
 
@@ -33,9 +33,3 @@ The core methodologies being worked on so far are:
 3. [[enactment|enacting]]
 4. [[developmental evaluation|evaluating]]
 5. [[process infrastructuring]]
-
-These core methodologies animate the following system parts:
-
-1. [[aspect]]
-2. cohort and [[outfit]]
-3. [[action-learning journeys|action-learning journey]]

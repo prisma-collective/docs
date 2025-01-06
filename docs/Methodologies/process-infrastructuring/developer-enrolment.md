@@ -5,7 +5,6 @@ aliases:
 
 # Developer Enrolment
 
-# Purpose
 developers are agents of transformation, transforming creative potential into code. 
 
 developers are sovereign, their agency and ability to discern being absolutely essential for the [[action-learning journeys]] to be able to reach a functional end. 
