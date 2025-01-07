@@ -6,7 +6,7 @@ process-infrastructuring refers to facilitating the creation of a distributed sy
 2. [[potentialise|ground-potentialising]] includes...
 	1. [[communities of place|hubs]] mapping
 	2. product specification
-	3. external stakeholder engagement ([[dear investors]])
+	3. external stakeholder engagement
 3. [[evaluation methodology|evaluating]] includes...
 	1. value signalling (p2p)
 	2. timelining
