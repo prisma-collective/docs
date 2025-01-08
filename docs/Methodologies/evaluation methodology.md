@@ -96,3 +96,9 @@ E-valuation (energy flow valuation) is a participatory, multidimensional evaluat
 	1. **Community Engagement:** Track the level of participation, quality of feedback mechanisms, and local capacity building.
 	2. **Impact Assessment:** Measure the sustainability, scalability, and attribution of observed changes.
 	3. **Learning Systems:** Document knowledge sharing mechanisms and adaptation capabilities.
+
+# intervention as medicine
+
+1. storytelling == transfer of knowledge. imperative to find the most *real* measurements to signal the most real indicators of improving system capability (health, regeneration), so that the stories can be believed in with the most conviction. (would be interesting to think about the word pro-vocation here, I think)
+2. evaluating, live, is part of the storytelling, live, on-going: true co-creation. through the act of evaluating, you're able to make the story more... / more able to make the story. 
+
