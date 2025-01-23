@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodologies/evaluation methodology.md",
+                "file": "glossary/action-learning journeys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "evaluation methodology"
+              "title": "action-learning journeys"
             }
           }
         ]
@@ -176,14 +176,15 @@
   "active": "627af3eef0c9f05c",
   "lastOpenFiles": [
     "methodologies/process-infrastructuring/process-infrastructuring.md",
+    "context & narrative/Replace Academy Case Study.md",
+    "glossary/action-learning journeys.md",
+    "index.md",
     "methodologies/evaluation methodology.md",
     "methodologies/prisma methodologies.md",
     "methodologies/process-infrastructuring/developer-enrolment.md",
     "conflict-files-obsidian-git.md",
     "glossary/Enactment.md",
     "glossary/enactment.md",
-    "context & narrative/Replace Academy Case Study.md",
-    "glossary/action-learning journeys.md",
     "methodologies/process-infrastructuring/potentialise.md",
     "glossary/practice.md",
     "methodologies/learning design.md",
@@ -208,7 +209,6 @@
     "Assets/deck_Page 4 1.png",
     "Assets/deck_Page 2.png",
     "Assets/deck_Page 4.png",
-    "index.md",
     "glossary/process design collective.md",
     "patterns",
     "Internal/2025 Roadmap.md",

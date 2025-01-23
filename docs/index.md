@@ -1,6 +1,7 @@
 # prisma
 
 prisma is... 
+
 - a [[process design collective]] 
 - an [[action-learning]] framework 
 - an incubator 
