@@ -6,6 +6,6 @@ Our work is characterised by the integration of facilitation, place-sourcing des
 
 ![[ordering.png]]
 
-Each event is organised with the same underlying framework of weaving four [[Core Processes]] together: 
+Each event is organised with the same underlying framework of weaving four [[core processes]] together: 
 
 ![[process-facilitation.png]]

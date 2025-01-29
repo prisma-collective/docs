@@ -45,7 +45,7 @@ the following core facilitation team is forming to bring this work forwards:
 - [[Ryah Chandler]]: [[enrolment]]
 - [[Tobias Fechner]]: [[process infrastructuring]]
 
-See also [[Core Processes]].
+See also [[core processes]].
 # Stakeholder Groups
 event capacities are sourced from at least the following four stakeholder groups:
 
