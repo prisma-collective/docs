@@ -61,7 +61,7 @@ the [[process infrastructuring]] developed to support the organisation of each e
 # Instrumenting
 instruments supporting this process design are:
 
-- [[publishing engine]] - a knowledge commons
+- [[publishing]] stack - an evolving knowledge commons
 - [[Core Facilitator Capacity|patterns for facilitator teams]] - see [liberating structures](https://www.liberatingstructures.com/)
 - [[DID System]] & reputation - participant registrations, contribution accounting and participation timelines
 - A financing distribution methodology and tooling, both internal and external. See [[capital distribution]].
