@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collaborators/communities of place.md",
+                "file": "methodologies/process-infrastructuring/publishing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "communities of place"
-            }
-          },
-          {
-            "id": "905b670f95a2efc1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "publishing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +174,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "905b670f95a2efc1",
+  "active": "627af3eef0c9f05c",
   "lastOpenFiles": [
+    "collaborators/communities of place.md",
+    "methodologies/process-infrastructuring/publishing.md",
+    "methodologies/prisma methodologies.md",
+    "methodologies/learning design.md",
+    "methodologies/process-infrastructuring/process-infrastructuring.md",
+    "methodologies/potentialising.md",
     "Assets/event-model.png",
     "Assets/knowledge.png",
     "Assets/levels-of-work.png",
@@ -196,27 +189,21 @@
     "Assets/ordering.png",
     "Assets/process-facilitation.png",
     "Assets/Page 8.png",
-    "collaborators/communities of place.md",
     "Assets/Pasted image 20250102211247.png",
     "patterns/core processes.md",
     "Assets/deck_Page 4 1.png",
     "Assets/event-model 1.png",
-    "Assets/bus-model 1.png",
     "collaborators/communities of practice.md",
     "patterns/sociocratic organising.md",
-    "methodologies/process-infrastructuring/process-infrastructuring.md",
     "glossary/action-learning journeys.md",
     "context & narrative/Replace Academy Case Study.md",
     "index.md",
     "methodologies/evaluation methodology.md",
-    "methodologies/prisma methodologies.md",
     "methodologies/process-infrastructuring/developer-enrolment.md",
     "conflict-files-obsidian-git.md",
     "glossary/Enactment.md",
     "glossary/enactment.md",
-    "methodologies/process-infrastructuring/potentialise.md",
     "glossary/practice.md",
-    "methodologies/learning design.md",
     "glossary/developmental evaluation.md",
     "context & narrative/Core Value-Adding Process and Business Model.md",
     "glossary/capacity-building.md",

@@ -2,6 +2,7 @@
 aliases:
 - copl
 - hubs
+- hub
 ---
 
 # hubs
