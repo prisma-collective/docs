@@ -14,6 +14,7 @@ during the course of the onboarding period and the intensive, participants are e
 4. embedding data visualisations
 5. embedding videos, meeting recordings, photos
 
-the docs 
+as well as being a store of markdown files that get published with a static-site generator [^2] 
 
 [^1]: Maggie Appleton, [Digital gardening](https://maggieappleton.com/garden-history).
+[^2]: 
