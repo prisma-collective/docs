@@ -8,9 +8,9 @@ the docs begins as a repository template, making available a basic wiki outline:
 
 during the course of the onboarding period and the intensive, participants are encouraged to collectively tend to the wiki, making new entries and iterating existing ones. these docs are the most comprehensive source of content for all things relating to... 
 
-4. communicating the essence of the place the hub is situated 
-5. onboarding future stakeholders into this line of work
-6. archiving learnings generated during the ALJ
-7. 
+1. communicating the essence of the place the hub is situated 
+2. onboarding future stakeholders into this line of work
+3. archiving learnings generated during the ALJ
+4. 
 
 [^1]: Maggie Appleton, [Digital gardening](https://maggieappleton.com/garden-history).
