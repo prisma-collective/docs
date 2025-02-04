@@ -11,6 +11,9 @@ during the course of the onboarding period and the intensive, participants are e
 1. communicating the essence of the place the hub is situated 
 2. onboarding future stakeholders into this line of work
 3. archiving learnings generated during the ALJ
-4. 
+4. embedding data visualisations
+5. embedding videos, meeting recordings, photos
+
+the docs 
 
 [^1]: Maggie Appleton, [Digital gardening](https://maggieappleton.com/garden-history).
