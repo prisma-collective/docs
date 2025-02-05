@@ -40,8 +40,8 @@ fetch("contributions.json")
       datasets: [{
         label: 'Commits',
         data: data.map(entry => entry.commits),
-        backgroundColor: 'rgba(54, 162, 235, 0.5)',
-        borderColor: 'rgba(54, 162, 235, 1)',
+        backgroundColor: 'rgba(94, 139, 222, 0.5)',
+        borderColor: 'rgba(94, 139, 222, 1)',
         borderWidth: 1
       }]
     };
