@@ -18,7 +18,7 @@ jobs:
       - name: Fetch contributor data
         run: |
           REPO="prisma-collective/docs"
-          curl -s "https://api.github.com/repos/$REPO/contributors" | jq '[.[] | {user: .login, commits: .contributions}]' > docs/contributions.json
+          curl -s "https://api.github.com/repos/$REPO/contributors" | jq '[.[] | select(.type != "Bot") | {user: .login, commits: .contributions}]' > docs/contributions.json
 
       - name: Commit and push changes
         run: |
