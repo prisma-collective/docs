@@ -17,7 +17,7 @@ The image above shows the same underlying pattern of event organising, which app
 
 In all the [[action-learning journeys]] (ALJs), we are aiming to form one or multiple action-learning teams that work on-the-ground on the development and application of an instrument (tooling). 
 
-Each ALJ also generates content: videos, interviews, call recordings, wikis, art works. This content is curated by the [[communities of place]] to publish case-studies of the process. 
+Each ALJ also generates content: videos, interviews, call recordings, wikis, art works. This content is curated by the [[hubs]] to publish case-studies of the process. 
 
 These case studies are developmental learning journeys: each with levels of depth. Our [[Core Value-Adding Process and Business Model|business model]] centres around the subscription to these journeys to access the depth. Each event is a catalyst for the ongoing *storying* of the work, making the subscription model appropriate. Communities of place are the owners of these learning journeys and the primary recipients of subscription fees. 
 

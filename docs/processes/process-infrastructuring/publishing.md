@@ -1,6 +1,6 @@
 ![[event-model.png]]
 
-[[action-learning journeys]] (ALJs) incubate a context-informed self-organising impulse. one means by which this impulse can express itself is the `docs`, which each [[communities of place|hub]] tends to like a digital garden[^1]/ wiki.
+[[action-learning journeys]] (ALJs) incubate a context-informed self-organising impulse. one means by which this impulse can express itself is the `docs`, which each [[hubs|hub]] tends to like a digital garden[^1]/ wiki.
 
 the `docs` begins as a repository template, seeding the start of an ALJ with some preliminary pages. during the course of the onboarding period and the intensive, participants are encouraged to collectively tend to the wiki, making new entries and iterating existing ones. these `docs` are the most comprehensive source of content for all things relating to... 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodologies/process-infrastructuring/publishing.md",
+                "file": "collaborators/communities of practice/Regenesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "publishing"
+              "title": "Regenesis"
             }
           }
         ]
@@ -174,16 +174,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "627af3eef0c9f05c",
+  "active": "f32a421b37d3dd45",
   "lastOpenFiles": [
-    "methodologies/process-infrastructuring/resources/mkDocs and GitHub Pages.md",
-    "methodologies/process-infrastructuring/resources",
-    "methodologies/process-infrastructuring/publishing.md",
-    "collaborators/communities of place.md",
-    "methodologies/prisma methodologies.md",
-    "methodologies/learning design.md",
-    "methodologies/process-infrastructuring/process-infrastructuring.md",
-    "methodologies/potentialising.md",
+    "collaborators/communities of practice/practice networks.md",
+    "collaborators/communities of practice",
+    "collaborators/Holochain.md",
+    "collaborators/communities of place/hubs.md",
+    "collaborators/participants/developers.md",
+    "collaborators/communities of place",
+    "collaborators/participants",
+    "processes/evaluating.md",
+    "processes/process-infrastructuring/publishing.md",
+    "processes/process-infrastructuring/resources/mkDocs and GitHub Pages.md",
+    "processes/process-infrastructuring/resources",
+    "processes/prisma processes.md",
+    "processes/enacting.md",
+    "processes/process-infrastructuring/process-infrastructuring.md",
+    "processes/potentialising.md",
     "Assets/event-model.png",
     "Assets/knowledge.png",
     "Assets/levels-of-work.png",
@@ -195,13 +202,10 @@
     "patterns/core processes.md",
     "Assets/deck_Page 4 1.png",
     "Assets/event-model 1.png",
-    "collaborators/communities of practice.md",
     "patterns/sociocratic organising.md",
     "glossary/action-learning journeys.md",
     "context & narrative/Replace Academy Case Study.md",
     "index.md",
-    "methodologies/evaluation methodology.md",
-    "methodologies/process-infrastructuring/developer-enrolment.md",
     "conflict-files-obsidian-git.md",
     "glossary/Enactment.md",
     "glossary/enactment.md",
@@ -211,16 +215,12 @@
     "glossary/capacity-building.md",
     "context & narrative/Bioregional Celebration Festival.md",
     "context & narrative/Introducing Our Solution.md",
-    "context & narrative/Mission and Call to Action.md",
     "patterns",
     "Internal",
     "collaborators",
     "Untitled.canvas",
     "context & narrative",
     "Pitch 2/Pitch",
-    "stylesheets/extra.css",
-    "stylesheets",
-    "CNAME",
-    "img/favicon.ico"
+    "stylesheets/extra.css"
   ]
 }

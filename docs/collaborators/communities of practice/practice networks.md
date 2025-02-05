@@ -1,12 +1,12 @@
 
-# communities of practice
-prisma is a framework for communities of practice and [[communities of place]] to self-organise [[action-learning journeys]], and the governance infrastructure to complement. 
+# practice networks
+prisma is a framework for communities of practice and [[hubs]] to self-organise [[action-learning journeys]], and the governance infrastructure to complement. 
 
 we're working closely with [[Regenesis]] [^1], who are evolving a practice of regenerative development and design. 
 
-at the core of our [[prisma methodologies|methodologies]] is the dynamic interplay between the forward movement of [[enactment|enacting]] (action) and the ongoing, reflective and integrative movement of [[evaluation methodology|evaluating]] (learning). our work is to develop these methodologies and the infrastructures supporting organising such events. 
+at the core of our [[prisma processes|methodologies]] is the dynamic interplay between the forward movement of [[enactment|enacting]] (action) and the ongoing, reflective and integrative movement of [[evaluating|evaluating]] (learning). our work is to develop these methodologies and the infrastructures supporting organising such events. 
 
-[[action-learning journeys]] are a period of rapid innovation, guided by a facilitator team that has been co-designing with the [[communities of place]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] 
+[[action-learning journeys]] are a period of rapid innovation, guided by a facilitator team that has been co-designing with the [[hubs]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] 
 
 we are designing a [[Holochain|minimum viable governance system]] to support...
 
@@ -17,7 +17,7 @@ we are designing a [[Holochain|minimum viable governance system]] to support...
 	- the facilitator team's capability to work with the underlying, generative patterns for organising [[action-learning journeys]] 
 	- increasing [[process design collective|order]] of design and effect
 
-both streams are in service to activating and making visible the multiple forms of value creation and exchange involved in thriving regenerative community. these events are developed in partnership with [[communities of place]], with a core steward (group), and in partnership with regional hubs. the aim is for the event to be a catalytic agent for the self-expression of place-sourced practices, developed and applied to grow bioregional wealth. 
+both streams are in service to activating and making visible the multiple forms of value creation and exchange involved in thriving regenerative community. these events are developed in partnership with [[hubs]], with a core steward (group), and in partnership with regional hubs. the aim is for the event to be a catalytic agent for the self-expression of place-sourced practices, developed and applied to grow bioregional wealth. 
 
 
 > [!NOTE] Regenesis Collaboration... 
@@ -40,7 +40,7 @@ this governance system aims to multiply the capacity of the facilitator team by 
 the following core facilitation team is forming to bring this work forwards:
 
 - [[Delfina Terrado]]: [[enactment|enacting]], [[experience design]], [[incubation methodology]], [[practice-based daos]]
-- [[Shikhar Agarwal]]: [[evaluation methodology|evaluating]], [[value-system design methodology]], [[Holochain|place-sourced currency design]]
+- [[Shikhar Agarwal]]: [[evaluating|evaluating]], [[value-system design methodology]], [[Holochain|place-sourced currency design]]
 - [[Mercy Fordwoo]]: [[potentialising|potentialising]], [[hub networking]]
 - [[Ryah Chandler]]: [[enrolment]]
 - [[Tobias Fechner]]: [[process infrastructuring]]
@@ -50,13 +50,13 @@ See also [[core processes]].
 event capacities are sourced from at least the following four stakeholder groups:
 
 1. [[participants]]
-2. [[communities of place]]
-3. [[communities of practice]]
+2. [[hubs]]
+3. [[practice networks]]
 4. [[partners]]
 
 these [stakeholder development pathways](https://register.prisma.events) are being designed to form a 4-8 month onboarding process. 
 
-the [[process infrastructuring]] developed to support the organisation of each event instance is also designed to be configurable and self-contained, able to be deployed to a server/ [[Holochain|device]] network local to the [[communities of place]] hosting the event. the purpose of this is to align with the aim of building capacity in-place for ongoing development of the products incubated during the intensive. 
+the [[process infrastructuring]] developed to support the organisation of each event instance is also designed to be configurable and self-contained, able to be deployed to a server/ [[Holochain|device]] network local to the [[hubs]] hosting the event. the purpose of this is to align with the aim of building capacity in-place for ongoing development of the products incubated during the intensive. 
 
 # Instrumenting
 instruments supporting this process design are:

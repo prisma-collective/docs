@@ -4,10 +4,10 @@ aliases:
 - meta-methodology
 ---
 
-With these methodologies, prisma designs and [[Facilitation|facilitates]] a multi-stakeholder [[enactment]], grounded in partner [[communities of place|hubs]] in different [[bioregion|bioregions]]. Through our [[enrolment]] process, we onboard the following stakeholders into a multi-week alignment process, culminating in an [[action-learning journeys|action-learning journey]]:
+With these methodologies, prisma designs and [[Facilitation|facilitates]] a multi-stakeholder [[enactment]], grounded in partner [[hubs|hubs]] in different [[bioregion|bioregions]]. Through our [[enrolment]] process, we onboard the following stakeholders into a multi-week alignment process, culminating in an [[action-learning journeys|action-learning journey]]:
 
-1. [[communities of place]]
-2. [[communities of practice]]
+1. [[hubs]]
+2. [[practice networks]]
 3. [[participants]]
 4. [[partners]]
 
@@ -31,5 +31,5 @@ The core methodologies being worked on so far are:
 1. [[enrolment]]
 2. [[potentialising|ground-potentialising]]
 3. [[enactment|enacting]]
-4. [[evaluation methodology|evaluating]]
+4. [[evaluating|evaluating]]
 5. [[process infrastructuring]]
