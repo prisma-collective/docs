@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collaborators/communities of practice/Regenesis.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regenesis"
+              "title": "index"
             }
           }
         ]
@@ -174,8 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f32a421b37d3dd45",
+  "active": "627af3eef0c9f05c",
   "lastOpenFiles": [
+    "processes/process-infrastructuring/resources/Obsidian Setup & Writing Tutorial.md",
+    "processes/process-infrastructuring/resources/mkDocs and GitHub Pages.md",
+    "collaborators/communities of practice/Regenesis.md",
+    "collaborators/partners",
     "collaborators/communities of practice/practice networks.md",
     "collaborators/communities of practice",
     "collaborators/Holochain.md",
@@ -185,7 +189,6 @@
     "collaborators/participants",
     "processes/evaluating.md",
     "processes/process-infrastructuring/publishing.md",
-    "processes/process-infrastructuring/resources/mkDocs and GitHub Pages.md",
     "processes/process-infrastructuring/resources",
     "processes/prisma processes.md",
     "processes/enacting.md",
@@ -214,13 +217,11 @@
     "context & narrative/Core Value-Adding Process and Business Model.md",
     "glossary/capacity-building.md",
     "context & narrative/Bioregional Celebration Festival.md",
-    "context & narrative/Introducing Our Solution.md",
     "patterns",
     "Internal",
     "collaborators",
     "Untitled.canvas",
     "context & narrative",
-    "Pitch 2/Pitch",
-    "stylesheets/extra.css"
+    "Pitch 2/Pitch"
   ]
 }

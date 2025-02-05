@@ -1,7 +1,6 @@
-Our documentation site is built using [MkDocs](https://www.mkdocs.org/) with the Material theme and is hosted on GitHub Pages. MkDocs is a static-site generator[^1], build for markdown pages. The deployment process is automated using a GitHub Actions workflow, triggered on every push to the `main` branch.
+Our documentation site is built using [MkDocs](https://www.mkdocs.org/) with the Material theme and is hosted on GitHub Pages. MkDocs is a static-site generator[^1], build for markdown pages. The deployment process is automated using a GitHub Actions workflow, triggered on every push to the `main` branch. [[Obsidian Setup & Writing Tutorial|Obsidian]] is used as a client interface to write to the docs, which uses a git plugin to make regular commits (every 1 minute) to the docs repo and ensure version parity across clients. This is not perfectly reliable and merge conflicts can still occur. 
 
 This setup ensures that any changes made to the documentation are automatically published, making it easy to maintain up-to-date content without manual intervention.
-
 ## How Deployment Works
 
 1. **Event participants update the documentation** in the `main` branch.
