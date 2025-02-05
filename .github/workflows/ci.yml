@@ -44,5 +44,12 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-roamlinks-plugin
       - run: pip install mkdocs-rss-plugin
+
+      # 🛠 First, build the site (creates the "site/" directory)
+      - run: mkdocs build
+
+      # ✅ Now, copy the JSON file into the built site directory
       - run: cp docs/contributions.json site/
+
+      # 🚀 Finally, deploy to GitHub Pages
       - run: mkdocs gh-deploy --force
