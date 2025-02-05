@@ -7,6 +7,19 @@ on:
 permissions:
   contents: write
 jobs:
+  update-contributors:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Fetch contributor data
+        run: |
+          REPO="prisma-collective/docs"
+          curl -s "https://api.github.com/repos/$REPO/contributors" | jq '[.[] | {user: .login, commits: .contributions}]' > docs/contributions.json
+          
   deploy:
     runs-on: ubuntu-latest
     steps:
