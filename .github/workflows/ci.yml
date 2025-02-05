@@ -44,4 +44,5 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-roamlinks-plugin
       - run: pip install mkdocs-rss-plugin
+      - run: cp docs/contributions.json site/
       - run: mkdocs gh-deploy --force
