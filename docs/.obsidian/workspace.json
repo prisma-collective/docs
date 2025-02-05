@@ -176,8 +176,10 @@
   },
   "active": "627af3eef0c9f05c",
   "lastOpenFiles": [
-    "collaborators/communities of place.md",
+    "methodologies/process-infrastructuring/resources/mkDocs and GitHub Pages.md",
+    "methodologies/process-infrastructuring/resources",
     "methodologies/process-infrastructuring/publishing.md",
+    "collaborators/communities of place.md",
     "methodologies/prisma methodologies.md",
     "methodologies/learning design.md",
     "methodologies/process-infrastructuring/process-infrastructuring.md",
@@ -210,8 +212,6 @@
     "context & narrative/Bioregional Celebration Festival.md",
     "context & narrative/Introducing Our Solution.md",
     "context & narrative/Mission and Call to Action.md",
-    "context & narrative/Stakeholders and Growth Strategy.md",
-    "context & narrative/The Challenge We're Addressing.md",
     "patterns",
     "Internal",
     "collaborators",
@@ -221,7 +221,6 @@
     "stylesheets/extra.css",
     "stylesheets",
     "CNAME",
-    "img/favicon.ico",
-    "img"
+    "img/favicon.ico"
   ]
 }
