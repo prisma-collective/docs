@@ -14,7 +14,11 @@ during the course of the onboarding period and the intensive, participants are e
 4. embedding data visualisations
 5. embedding videos, meeting recordings, photos
 
-as well as being a store of markdown files that get published with a static-site generator [^2] 
+as well as being a store of markdown files that get published with a static-site generator [^2], the repo template will include additional features, such as: 
+
+1. api to port page content to other sources, such as a website with richer front-end functionality
+2. 
 
 [^1]: Maggie Appleton, [Digital gardening](https://maggieappleton.com/garden-history).
-[^2]: 
+[^2]: **Static-site generation (SSG)** is a powerful technology for publishing documentation, offering fast, secure, and scalable websites. It supports embedding various media types, including images, videos, audio, and interactive elements like SVGs or iframes. With Markdown as its primary content format, SSGs provide an accessible syntax that is easy for both technical and non-technical users to learn. Additionally, SSG-based sites can be extended with custom themes, plugins, and integrations, allowing for enhanced functionality tailored to specific documentation needs.
+
