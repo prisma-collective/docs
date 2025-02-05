@@ -19,6 +19,16 @@ jobs:
         run: |
           REPO="prisma-collective/docs"
           curl -s "https://api.github.com/repos/$REPO/contributors" | jq '[.[] | {user: .login, commits: .contributions}]' > docs/contributions.json
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git add docs/contributions.json
+          git commit -m "🔄 Auto-update contributor metrics"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
   deploy:
     runs-on: ubuntu-latest
