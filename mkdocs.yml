@@ -1,5 +1,6 @@
 site_name: Prisma
 site_description: Documentation for Prisma
+docs_dir: docs
 
 theme:
   name: 'material'
