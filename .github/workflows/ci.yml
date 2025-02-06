@@ -2,7 +2,6 @@ name: ci
 on:
   push:
     branches:
-      - master
       - main
 permissions:
   contents: write
@@ -26,7 +25,7 @@ jobs:
 
       - name: Run the Python script to fetch contributor data
         run: |
-          python .github/scripts/contributions_historical.py
+          python ../.github/scripts/contributions_historical.py
 
       - name: Amend commit with updated contributor data
         run: |
