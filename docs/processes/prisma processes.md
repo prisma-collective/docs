@@ -29,7 +29,7 @@ In addition to generating the above learning material, which is occurring at the
 The core methodologies being worked on so far are:
 
 1. [[enrolment]]
-2. [[potentialising|ground-potentialising]]
+2. [[ground-potentialising|ground-potentialising]]
 3. [[enactment|enacting]]
-4. [[evaluating|evaluating]]
+4. [[evaluation|evaluating]]
 5. [[process infrastructuring]]

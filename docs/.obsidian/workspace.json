@@ -32,9 +32,65 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.4"
             }
+          },
+          {
+            "id": "e1f881f7d82d636a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/resourcing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "resourcing"
+            }
+          },
+          {
+            "id": "e47032ca1672916d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/core facilitator capacity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "core facilitator capacity"
+            }
+          },
+          {
+            "id": "80315d8b5c45fdbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/enrolment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "enrolment"
+            }
+          },
+          {
+            "id": "6c1b5b5096480e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/minioes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "minioes"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -187,8 +243,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ce4674dc5d039cf",
+  "active": "6c1b5b5096480e0e",
   "lastOpenFiles": [
+    "pages/enrolment.md",
+    "pages/minioes.md",
+    "pages/core facilitator capacity.md",
+    "pages/resourcing.md",
+    "Glossary/Developmental Evaluation.md",
+    "patterns/Core Processes.md",
+    "methodologies/ground-potentialising.md",
+    "methodologies/process-infrastructuring.md",
+    "methodologies/action.md",
+    "methodologies/evaluation.md",
+    "methodologies",
+    "pages",
     "contributions.json",
     "processes/process-infrastructuring/resources/Obsidian Setup & Writing Tutorial.md",
     "processes/process-infrastructuring/resources/mkDocs and GitHub Pages.md",
@@ -201,13 +269,9 @@
     "collaborators/participants/developers.md",
     "collaborators/communities of place",
     "collaborators/participants",
-    "processes/evaluating.md",
     "processes/process-infrastructuring/publishing.md",
     "processes/process-infrastructuring/resources",
     "processes/prisma processes.md",
-    "processes/enacting.md",
-    "processes/process-infrastructuring/process-infrastructuring.md",
-    "processes/potentialising.md",
     "Assets/event-model.png",
     "Assets/knowledge.png",
     "Assets/levels-of-work.png",
@@ -225,16 +289,8 @@
     "index.md",
     "conflict-files-obsidian-git.md",
     "glossary/Enactment.md",
-    "glossary/enactment.md",
-    "glossary/practice.md",
-    "glossary/developmental evaluation.md",
-    "context & narrative/Core Value-Adding Process and Business Model.md",
-    "glossary/capacity-building.md",
     "patterns",
     "Internal",
-    "collaborators",
-    "Untitled.canvas",
-    "context & narrative",
-    "Pitch 2/Pitch"
+    "Untitled.canvas"
   ]
 }
