@@ -2,3 +2,5 @@
 .trash/*
 docs/.obsidian/*
 docs/Internal/*
+docs\.obsidian\workspace.json
+docs/.obsidian/workspace.json
