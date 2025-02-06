@@ -8,9 +8,6 @@ permissions:
 jobs:
   update-contributors:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./.github/scripts
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -28,7 +25,7 @@ jobs:
 
       - name: Run the Python script to fetch contributor data
         run: |
-          python contributions_historical.py
+          python .github/scripts/contributions_historical.py
 
       - name: Amend commit with updated contributor data
         run: |
