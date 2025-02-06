@@ -15,18 +15,33 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Fetch contributor data
-        run: |
-          REPO="prisma-collective/docs"
-          curl -s "https://api.github.com/repos/$REPO/contributors" | jq '[.[] | select(.type != "Bot") | {user: .login, commits: .contributions}]' > docs/contributions.json
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
 
-      - name: Commit and push changes
+      - name: Install dependencies
         run: |
+          pip install requests  # Add any other dependencies your script needs
+
+      - name: Run the Python script to fetch contributor data
+        run: |
+          python .github/scripts/contributions_historical.py
+
+      - name: Amend commit with updated contributor data
+        run: |
+          # Configure Git user for this action
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@users.noreply.github.com"
+          
+          # Stage the changes to contributions.json
           git add docs/contributions.json
-          git commit -m "🔄 Auto-update contributor metrics" || exit 0
-          git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
+          
+          # Amend the last commit with the changes
+          git commit --amend --no-edit  # --no-edit keeps the previous commit message
+          
+          # Push the amended commit
+          git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
@@ -45,11 +60,11 @@ jobs:
       - run: pip install mkdocs-roamlinks-plugin
       - run: pip install mkdocs-rss-plugin
 
-      # 🛠 First, build the site (creates the "site/" directory)
+      # First, build the site (creates the "site/" directory)
       - run: mkdocs build
 
-      # ✅ Now, copy the JSON file into the built site directory
+      # Now, copy the JSON file into the built site directory
       - run: cp docs/contributions.json site/
 
-      # 🚀 Finally, deploy to GitHub Pages
+      # Finally, deploy to GitHub Pages (writes ssg site to gh-pages branch)
       - run: mkdocs gh-deploy --force
