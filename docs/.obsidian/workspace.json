@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "6ce4674dc5d039cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "627af3eef0c9f05c",
+  "active": "6ce4674dc5d039cf",
   "lastOpenFiles": [
     "contributions.json",
     "processes/process-infrastructuring/resources/Obsidian Setup & Writing Tutorial.md",
