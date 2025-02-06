@@ -25,7 +25,7 @@ we work at three levels:
 6. [[Stakeholders and Growth Strategy]]
 7. [[Mission and Call to Action]]
 
-## Contributors
+## Contributions
 
 <canvas id="contributionsChart"></canvas>
 
