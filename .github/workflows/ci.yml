@@ -35,9 +35,9 @@ jobs:
           
           # Stage the changes to contributions.json
           git add docs/contributions.json
-          git commit --no-edit # commit with previous commit msg
+          git commit -m "Update contributor metrics"
           
-          # Push the amended commit
+          # Push contributor data
           git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
