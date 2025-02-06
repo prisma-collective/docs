@@ -15,7 +15,6 @@ we work at three levels:
 1. **ECOSYSTEMS:** To catalyse venture development ecosystems in partner bioregions to build public goods infrastructures.
 
 ![[levels-of-work.png]]
-
 ## The Overall Narrative
 
 1. [[Bioregional Celebration Festival]]
