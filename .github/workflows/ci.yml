@@ -46,6 +46,7 @@ jobs:
           
   deploy:
     runs-on: ubuntu-latest
+    needs: update-contributors  # This ensures the deploy job waits for update-contributors to finish
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
