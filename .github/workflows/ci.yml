@@ -35,6 +35,7 @@ jobs:
           
           # Stage the changes to contributions.json
           git add docs/contributions.json
+          git commit --no-edit # commit with previous commit msg
           
           # Push the amended commit
           git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main --force
