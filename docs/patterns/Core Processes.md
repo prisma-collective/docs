@@ -6,7 +6,7 @@ at the highest level, each event is the interplay of the following four processe
 1. [[enrolment]] 
 	- stakeholder engagement
 	- participant, practice and systems onboarding
-2. [[potentialising|ground-potentialising]] 
+2. [[ground-potentialising|ground-potentialising]] 
 	- fostering relational depth
 	- accumulating intention
 	- imaging place-sourced potential (hubs platforming local network activity)
@@ -14,7 +14,7 @@ at the highest level, each event is the interplay of the following four processe
 	- practice embodiment
 	- learning by doing
 	- organisation forming
-4. [[evaluating|evaluating]]
+4. [[evaluation|evaluating]]
 	- shifting systems [flows](https://metacurrency.org/faq/#qaef-1035)
 	- making visible the effects of systems interventions 
 	- reflecting on the approach, harvesting learnings, integrating into practice evolution

@@ -7,7 +7,7 @@ each community has to ask itself some questions, such as (borrowed from the Rege
 
 These are at the heart of every community.
 
-These three steps allow us to see the essence of community and place, and consequently the design of the [[action-learning journeys]] and [[evaluating|evaluation]] protocols that gauge the impact contextually.
+These three steps allow us to see the essence of community and place, and consequently the design of the [[action-learning journeys]] and [[evaluation|evaluation]] protocols that gauge the impact contextually.
 
 1. **Essence of Place<//>Community**: All sorts of knowledge lie within
 - Who are the main caretakers of the community?
