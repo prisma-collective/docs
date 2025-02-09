@@ -7,7 +7,7 @@ process-infrastructuring refers to facilitating the creation of a distributed sy
 	1. [[hubs|hubs]]: mapping
 	2. multi-stakeholder alignment: on-boarding calls with pre- and post-call exercises (homework)
 	3. product specification
-3. [[evaluation|evaluating]] includes...
+3. [[Introduction|evaluating]] includes...
 	1. value signalling (p2p)
 	2. event trajectory timeline
 	3. documentation: wiki

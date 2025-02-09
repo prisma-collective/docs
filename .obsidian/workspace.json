@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/methodologies/references/Decoloniality.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,203 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Decoloniality"
+            }
+          },
+          {
+            "id": "c6e15a25bd0c0f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/references/Storytelling with Metaphors & Symbols.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Storytelling with Metaphors & Symbols"
+            }
+          },
+          {
+            "id": "55193f6ec9f95d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/references/Embodied Systemic Constellations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Embodied Systemic Constellations"
+            }
+          },
+          {
+            "id": "59583faabaf7d7a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/pages/enrolment.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "enrolment"
+            }
+          },
+          {
+            "id": "f908b7b80767c441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/references/Deep Time Journeys.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Deep Time Journeys"
+            }
+          },
+          {
+            "id": "61d23c9cba2132f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/references/Ecosystem Mapping.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ecosystem Mapping"
+            }
+          },
+          {
+            "id": "1f642e0fabf9d713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/references/Deep Time Journeys.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Deep Time Journeys"
+            }
+          },
+          {
+            "id": "fd90e43424e5a353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/Introduction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "6910cef3fe5fe3f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/references/Generative Inquiry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Generative Inquiry"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -191,11 +384,34 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "workspaces:Manage workspace layouts": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16e4bb6a5c6a58ac",
+  "active": "fd90e43424e5a353",
   "lastOpenFiles": [
+    "docs/methodologies/Developmental Regenerative Evaluation",
+    "docs/methodologies/references/Deep Time Journeys.md",
+    "docs/methodologies/references/Ecosystem Mapping.md",
+    "docs/methodologies/references/Warm Data Labs.md",
+    "docs/pages/enrolment.md",
+    "docs/methodologies/references/Embodied Systemic Constellations.md",
+    "docs/methodologies/references/Storytelling with Metaphors & Symbols.md",
+    "docs/methodologies/references/Decoloniality.md",
+    "docs/methodologies/references/Generative Inquiry.md",
+    "docs/pages/minioes.md",
+    "docs/methodologies/references/Role Play.md",
+    "docs/methodologies/references/Persona.md",
+    "docs/methodologies/references/Regenerative Development & Design.md",
+    "docs/methodologies/references/Appreciative Inquiry.md",
+    "docs/methodologies/references/Theory of Change.md",
+    "docs/methodologies/references/Somatic & Mental Journeys.md",
+    "docs/methodologies/references/Narrative-Based Social Change.md",
+    "docs/methodologies/references/Journalling.md",
+    "docs/methodologies/references/Awareness-Based Systems Change.md",
+    "docs/methodologies/references/Theory U.md",
+    "docs/methodologies/references",
+    "README.md",
     "Gemfile",
     "Gemfile.txt",
     "index.md",
@@ -203,35 +419,13 @@
     "_layouts",
     "_config.yml",
     "requirements.txt",
-    "README.md",
     "CNAME",
     "Glossary/Capacity-Building.md",
     "Glossary/Collaborative Innovation Intensives.md",
     "Market/BioFi Project.md",
     "Market/Edge City.md",
-    "Market/RadicalXChange.md",
     "Scripts/mdformat_obsidian.py",
     "Scripts/strip_frontmatter.py",
-    "New folder",
-    "strip_frontmatter.py",
-    "Methodology/Summary.md",
-    "Glossary/Public Goods.md",
-    "Glossary/Regenerative Finance.md",
-    "Glossary/Process Design Collective.md",
-    "Glossary/Practice.md",
-    "Glossary/Place-Source.md",
-    "Glossary/Self-Organising.md",
-    "Glossary/Developmental Evaluation.md",
-    "Glossary/Living Lab.md",
-    "Glossary/Life-Affirming Futures.md",
-    "Glossary/Living Systems Paradigm.md",
-    "Partners/Technologies/Holochain.md",
-    "Partners/Networks/Xtinction Rebellion.md",
-    "Partners/Networks/Delicate Activism.md",
-    "Glossary/Action-Learning Journeys.md",
-    "Methodology/Communities of Practice.md",
-    "Team/Shikhar Agarwal.md",
-    "Glossary/Bioregion.md",
     "Pasted image 20241009144202.png",
     "Assets/levels-of-work.png",
     "Assets/levels-of-work.svg",

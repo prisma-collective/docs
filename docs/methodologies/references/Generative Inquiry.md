@@ -1,0 +1,3 @@
+**Generative Inquiry** is about asking open-ended, curiosity-driven questions to uncover new insights and possibilities. It encourages participants to challenge assumptions and explore alternative perspectives.
+
+**Example Use Case**: Instead of asking "How can we increase tourism?", a group uses generative inquiry to ask "What does our community need to thrive in the long term?". This broader question leads to creative ideas for sustainable economic development.

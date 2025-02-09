@@ -14,7 +14,7 @@ at the highest level, each event is the interplay of the following four processe
 	- practice embodiment
 	- learning by doing
 	- organisation forming
-4. [[evaluation|evaluating]]
+4. [[Introduction|evaluating]]
 	- shifting systems [flows](https://metacurrency.org/faq/#qaef-1035)
 	- making visible the effects of systems interventions 
 	- reflecting on the approach, harvesting learnings, integrating into practice evolution
