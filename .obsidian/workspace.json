@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pages/enrolment.md",
+                "file": "docs/processes/enrolment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/Enacting.md",
+                "file": "docs/pages/Accra Hub Call (10.02.2025).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Enacting"
+              "title": "Accra Hub Call (10.02.2025)"
             }
           },
           {
@@ -486,9 +486,10 @@
   },
   "active": "838adc885659220c",
   "lastOpenFiles": [
+    "docs/pages/core facilitator capacity.md",
+    "docs/methodologies/Enactment.md",
     "docs/methodologies/Ground-Potentialising.md",
     "docs/methodologies/Process-Infrastructuring.md",
-    "docs/methodologies/Enacting.md",
     "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
     "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
     "docs/processes/participants.md",
@@ -502,7 +503,7 @@
     "docs/Practices/Deep Time Journeys.md",
     "docs/Practices/Ecosystem Mapping.md",
     "docs/Practices/Warm Data Labs.md",
-    "docs/pages/enrolment.md",
+    "docs/processes/enrolment.md",
     "docs/Practices/Embodied Systemic Constellations.md",
     "docs/Practices/Storytelling with Metaphors & Symbols.md",
     "docs/Practices/Decoloniality.md",
@@ -512,7 +513,6 @@
     "docs/Practices/Persona.md",
     "docs/Practices/Regenerative Development & Design.md",
     "docs/Practices/Appreciative Inquiry.md",
-    "docs/Practices/Theory of Change.md",
     "docs/Practices",
     "Gemfile",
     "Gemfile.txt",

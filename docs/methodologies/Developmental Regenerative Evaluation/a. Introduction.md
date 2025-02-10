@@ -46,7 +46,7 @@ Traditional models reduce value to financial ROI or carbon metrics, severing the
 - A community’s resilience isn’t just in GDP, but in the quiet strength of elders sharing stories around fires.  
 
 #### **The Dance of Enactment & Reflection**  
-Evaluation here is a dance between [[enactment|doing]] and [[developmental evaluation|sensing]]. During an [[action-learning journey]] in Accra, youth-led recycling initiatives weren’t just measured by tons of plastic diverted. Through participatory storytelling and [[Warm Data Labs|relational mapping]], we surfaced how their work rewired local power dynamics—empowering women traders to co-design waste-to-energy microgrids. *That* is the alchemy of valuing energy flows.  
+Evaluation here is a dance between [[docs/Glossary/Enactment|doing]] and [[developmental evaluation|sensing]]. During an [[action-learning journey]] in Accra, youth-led recycling initiatives weren’t just measured by tons of plastic diverted. Through participatory storytelling and [[Warm Data Labs|relational mapping]], we surfaced how their work rewired local power dynamics—empowering women traders to co-design waste-to-energy microgrids. *That* is the alchemy of valuing energy flows.  
 
 #### **Tools as Living Systems**  
 Our tools—[[Holochain|decentralized governance protocols]], [[speech-to-currency]] systems, [[bot arrays]]—are designed to evolve with the communities using them. Like a river shaping its banks, our methodologies adapt to the terrain, guided by questions like:  

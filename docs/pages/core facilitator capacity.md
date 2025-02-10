@@ -64,7 +64,7 @@ As Prisma continues to evolve, core facilitator capacity will need to adapt to e
 - [[Action-Learning Journeys]]  
 - [[Communities of Place]]  
 - [[Communities of Practice]]  
-- [[Enactment]]  
+- [[docs/Glossary/Enactment]]  
 - [[Developmental Evaluation]]  
 - [[Process Infrastructuring]]  
 - [[Potentializing]]  

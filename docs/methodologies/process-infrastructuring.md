@@ -11,7 +11,7 @@ process-infrastructuring refers to facilitating the creation of a distributed sy
 	1. value signalling (p2p)
 	2. event trajectory timeline
 	3. documentation: wiki
-4. [[enactment|enacting]] includes...
+4. [[docs/Glossary/Enactment|enacting]] includes...
 	1. self-organising practice participation
 
 each interrelates to create the means for [[hubs]] and [[practice networks]] to jointly self-organise [[action-learning journeys]] and produce a [[case-studies]].

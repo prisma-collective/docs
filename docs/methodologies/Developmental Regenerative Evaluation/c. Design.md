@@ -44,7 +44,7 @@ We track eight forms of capital that sustain thriving systems:
 
 2. **Live Signals**  
    - *Feeling the pulse*: Real-time data streams from IoT devices, [[bot arrays]], and community pulse checks.  
-   - *Tool*: Telegram bots collect daily reflections during [[enactment]] phases.  
+   - *Tool*: Telegram bots collect daily reflections during [[docs/Glossary/Enactment]] phases.  
 
 3. **Insights**  
    - *Weaving patterns*: Mixed-method analysis reveals hidden connections (e.g., how compost workshops boosted neighborly trust).  
@@ -79,7 +79,7 @@ The data didn’t just measure—it *invited*. Neighboring villages now adapt th
 
 ##### **Related Pages**  
 - [[Developmental Evaluation]]  
-- [[Enactment]]  
+- [[docs/Glossary/Enactment]]  
 - [[Communities of Place]]  
 - [[Warm Data Labs]]  
 - [[Capital Distribution]]  
