@@ -200,6 +200,30 @@
             }
           },
           {
+            "id": "a7803d3e122062db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/Design.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Design"
+            }
+          },
+          {
             "id": "6910cef3fe5fe3f8",
             "type": "leaf",
             "state": {
@@ -224,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -388,8 +412,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd90e43424e5a353",
+  "active": "a7803d3e122062db",
   "lastOpenFiles": [
+    "docs/methodologies/Developmental Regenerative Evaluation/Introduction.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/Design.md",
     "docs/methodologies/Developmental Regenerative Evaluation",
     "docs/methodologies/references/Deep Time Journeys.md",
     "docs/methodologies/references/Ecosystem Mapping.md",
@@ -423,9 +449,7 @@
     "Glossary/Capacity-Building.md",
     "Glossary/Collaborative Innovation Intensives.md",
     "Market/BioFi Project.md",
-    "Market/Edge City.md",
     "Scripts/mdformat_obsidian.py",
-    "Scripts/strip_frontmatter.py",
     "Pasted image 20241009144202.png",
     "Assets/levels-of-work.png",
     "Assets/levels-of-work.svg",
