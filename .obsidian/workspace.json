@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/Developmental Regenerative Evaluation/Introduction.md",
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "a. Introduction"
             }
           },
           {
@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/Developmental Regenerative Evaluation/Design.md",
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,79 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "c. Design"
+            }
+          },
+          {
+            "id": "3b6505ef48ad85a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "b. Inspiration"
+            }
+          },
+          {
+            "id": "67fdb128bb4a9eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "d. Technology"
+            }
+          },
+          {
+            "id": "838adc885659220c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/pages/Accra Hub Call (10.02.2025).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Accra Hub Call (10.02.2025)"
             }
           },
           {
@@ -248,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -412,10 +484,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7803d3e122062db",
+  "active": "838adc885659220c",
   "lastOpenFiles": [
-    "docs/methodologies/Developmental Regenerative Evaluation/Introduction.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/Design.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
+    "docs/pages/Accra Hub Call (10.02.2025).md",
+    "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
+    "docs/methodologies/ground-potentialising.md",
     "docs/methodologies/Developmental Regenerative Evaluation",
     "docs/methodologies/references/Deep Time Journeys.md",
     "docs/methodologies/references/Ecosystem Mapping.md",
@@ -440,15 +516,11 @@
     "README.md",
     "Gemfile",
     "Gemfile.txt",
-    "index.md",
     "_layouts/default.html",
     "_layouts",
     "_config.yml",
     "requirements.txt",
     "CNAME",
-    "Glossary/Capacity-Building.md",
-    "Glossary/Collaborative Innovation Intensives.md",
-    "Market/BioFi Project.md",
     "Scripts/mdformat_obsidian.py",
     "Pasted image 20241009144202.png",
     "Assets/levels-of-work.png",

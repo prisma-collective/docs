@@ -1,3 +1,7 @@
+---
+aliases:
+  - evaluation design
+---
 ## **The Design**  
 *Where systemic wisdom meets participatory practice*  
 
