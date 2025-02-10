@@ -68,7 +68,7 @@ During the Accra ALJ, our technology enabled:
 - DAO-governed microgrants for community-led innovations.
 - Decentralized storytelling platform capturing elder wisdom on traditional craft motifs.
 
-This technological infrastructure not only facilitated data collection but also embodied the principles of decentralization and community ownership central to our [[regenerative development & design]] approach.
+This technological infrastructure not only facilitated data collection but also embodied the principles of decentralization and community ownership central to our [[Regenerative Development & Design]] approach.
 
 ---
 

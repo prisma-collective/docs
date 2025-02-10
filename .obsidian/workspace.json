@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/references/Decoloniality.md",
+                "file": "docs/Practices/Decoloniality.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/references/Storytelling with Metaphors & Symbols.md",
+                "file": "docs/Practices/Storytelling with Metaphors & Symbols.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/references/Embodied Systemic Constellations.md",
+                "file": "docs/Practices/Embodied Systemic Constellations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/references/Deep Time Journeys.md",
+                "file": "docs/Practices/Deep Time Journeys.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/references/Ecosystem Mapping.md",
+                "file": "docs/Practices/Ecosystem Mapping.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/references/Deep Time Journeys.md",
+                "file": "docs/Practices/Deep Time Journeys.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pages/Accra Hub Call (10.02.2025).md",
+                "file": "docs/processes/Core Processes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Accra Hub Call (10.02.2025)"
+              "title": "Core Processes"
             }
           },
           {
@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/references/Generative Inquiry.md",
+                "file": "docs/Practices/Generative Inquiry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -484,36 +484,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "838adc885659220c",
+  "active": "16e4bb6a5c6a58ac",
   "lastOpenFiles": [
-    "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
+    "docs/methodologies/action.md",
+    "docs/methodologies/process-infrastructuring.md",
+    "docs/methodologies/ground-potentialising.md",
     "docs/pages/Accra Hub Call (10.02.2025).md",
+    "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
     "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
     "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
     "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
-    "docs/methodologies/ground-potentialising.md",
     "docs/methodologies/Developmental Regenerative Evaluation",
-    "docs/methodologies/references/Deep Time Journeys.md",
-    "docs/methodologies/references/Ecosystem Mapping.md",
-    "docs/methodologies/references/Warm Data Labs.md",
+    "docs/Practices/Deep Time Journeys.md",
+    "docs/Practices/Ecosystem Mapping.md",
+    "docs/Practices/Warm Data Labs.md",
     "docs/pages/enrolment.md",
-    "docs/methodologies/references/Embodied Systemic Constellations.md",
-    "docs/methodologies/references/Storytelling with Metaphors & Symbols.md",
-    "docs/methodologies/references/Decoloniality.md",
-    "docs/methodologies/references/Generative Inquiry.md",
+    "docs/Practices/Embodied Systemic Constellations.md",
+    "docs/Practices/Storytelling with Metaphors & Symbols.md",
+    "docs/Practices/Decoloniality.md",
+    "docs/Practices/Generative Inquiry.md",
     "docs/pages/minioes.md",
-    "docs/methodologies/references/Role Play.md",
-    "docs/methodologies/references/Persona.md",
-    "docs/methodologies/references/Regenerative Development & Design.md",
-    "docs/methodologies/references/Appreciative Inquiry.md",
-    "docs/methodologies/references/Theory of Change.md",
-    "docs/methodologies/references/Somatic & Mental Journeys.md",
-    "docs/methodologies/references/Narrative-Based Social Change.md",
-    "docs/methodologies/references/Journalling.md",
-    "docs/methodologies/references/Awareness-Based Systems Change.md",
-    "docs/methodologies/references/Theory U.md",
-    "docs/methodologies/references",
-    "README.md",
+    "docs/Practices/Role Play.md",
+    "docs/Practices/Persona.md",
+    "docs/Practices/Regenerative Development & Design.md",
+    "docs/Practices/Appreciative Inquiry.md",
+    "docs/Practices/Theory of Change.md",
+    "docs/Practices/Somatic & Mental Journeys.md",
+    "docs/Practices/Narrative-Based Social Change.md",
+    "docs/Practices/Journalling.md",
+    "docs/Practices/Awareness-Based Systems Change.md",
+    "docs/Practices",
     "Gemfile",
     "Gemfile.txt",
     "_layouts/default.html",

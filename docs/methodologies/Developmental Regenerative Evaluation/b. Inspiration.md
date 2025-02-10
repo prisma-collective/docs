@@ -35,7 +35,7 @@ These voices have shaped our understanding of living systems, regeneration, and 
 - **Participatory Action Research (PAR)**: Budd Hall and Rajesh Tandon’s work lives in our [[Communities of Place]] co-design processes.  
 - **Theory U** (Otto Scharmer): Taught us to “co-sense and co-presence,” key to [[potentializing]] events.  
 - **Liberating Structures**: Gave us micro-patterns for [[Core Facilitator Capacity|facilitator teams]] to unleash collective genius.  
-- **Warm Data Labs** (Nora Bateson): Their relational ontology infuses our [[embodied systemic constellations]].  
+- **Warm Data Labs** (Nora Bateson): Their relational ontology infuses our [[Embodied Systemic Constellations]].  
 - **Cynefin Framework** (Dave Snowden): Helps us navigate complexity in [[developmental evaluation]].  
 
 ---

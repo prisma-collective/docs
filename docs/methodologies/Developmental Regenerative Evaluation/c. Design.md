@@ -59,7 +59,7 @@ We track eight forms of capital that sustain thriving systems:
 ### **Data Alchemy: Honoring the Seen and Unseen**  
 We gather:  
 - **Quantitative**: Sensor metrics -  Tokenized contributions -  Resource flow dashboards  
-- **Qualitative**: Voice journals -  [[embodied systemic constellations]] -  Grievance redress logs  
+- **Qualitative**: Voice journals -  [[Embodied Systemic Constellations]] -  Grievance redress logs  
 - **Relational**: Trust network maps -  Conflict transformation timelines -  Ceremony participation rates  
 
 *In practice:* During a Guatemalan coffee cooperative’s evaluation, soil moisture sensors (**quantitative**) merged with women’s weaving-circle dialogues (**qualitative**) to reveal how shade-grown practices deepened intergenerational bonds (**relational**).  
