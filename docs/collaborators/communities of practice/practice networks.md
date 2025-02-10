@@ -4,7 +4,7 @@ prisma is a framework for communities of practice and [[hubs]] to self-organise 
 
 we're working closely with [[Regenesis]] [^1], who are evolving a practice of regenerative development and design. 
 
-at the core of our [[prisma processes|methodologies]] is the dynamic interplay between the forward movement of [[enactment|enacting]] (action) and the ongoing, reflective and integrative movement of [[a. Introduction|evaluating]] (learning). our work is to develop these methodologies and the infrastructures supporting organising such events. 
+at the core of our [[Prisma as Process|methodologies]] is the dynamic interplay between the forward movement of [[enactment|enacting]] (action) and the ongoing, reflective and integrative movement of [[a. Introduction|evaluating]] (learning). our work is to develop these methodologies and the infrastructures supporting organising such events. 
 
 [[action-learning journeys]] are a period of rapid innovation, guided by a facilitator team that has been co-designing with the [[hubs]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] 
 

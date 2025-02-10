@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/processes/Core Processes.md",
+                "file": "docs/processes/Prisma as Process.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Core Processes"
+              "title": "Prisma as Process"
             }
           },
           {
@@ -484,8 +484,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16e4bb6a5c6a58ac",
+  "active": "838adc885659220c",
   "lastOpenFiles": [
+    "docs/processes/Core Processes.md",
+    "docs/processes/Prisma as Process.md",
     "docs/methodologies/action.md",
     "docs/methodologies/process-infrastructuring.md",
     "docs/methodologies/ground-potentialising.md",
@@ -511,8 +513,6 @@
     "docs/Practices/Theory of Change.md",
     "docs/Practices/Somatic & Mental Journeys.md",
     "docs/Practices/Narrative-Based Social Change.md",
-    "docs/Practices/Journalling.md",
-    "docs/Practices/Awareness-Based Systems Change.md",
     "docs/Practices",
     "Gemfile",
     "Gemfile.txt",
