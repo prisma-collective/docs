@@ -6,7 +6,7 @@ at the highest level, each event is the interplay of the following four processe
 1. [[enrolment]] 
 	- stakeholder engagement
 	- participant, practice and systems onboarding
-2. [[ground-potentialising|ground-potentialising]] 
+2. [[Ground-Potentialising|ground-potentialising]] 
 	- fostering relational depth
 	- accumulating intention
 	- imaging place-sourced potential (hubs platforming local network activity)

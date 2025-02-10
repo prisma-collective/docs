@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/processes/Prisma as Process.md",
+                "file": "docs/methodologies/Enacting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prisma as Process"
+              "title": "Enacting"
             }
           },
           {
@@ -486,16 +486,18 @@
   },
   "active": "838adc885659220c",
   "lastOpenFiles": [
-    "docs/processes/Core Processes.md",
+    "docs/methodologies/Ground-Potentialising.md",
+    "docs/methodologies/Process-Infrastructuring.md",
+    "docs/methodologies/Enacting.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
+    "docs/processes/participants.md",
     "docs/processes/Prisma as Process.md",
-    "docs/methodologies/action.md",
-    "docs/methodologies/process-infrastructuring.md",
-    "docs/methodologies/ground-potentialising.md",
+    "docs/index.md",
+    "docs/processes/Core Processes.md",
     "docs/pages/Accra Hub Call (10.02.2025).md",
     "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
     "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
     "docs/methodologies/Developmental Regenerative Evaluation",
     "docs/Practices/Deep Time Journeys.md",
     "docs/Practices/Ecosystem Mapping.md",
@@ -511,8 +513,6 @@
     "docs/Practices/Regenerative Development & Design.md",
     "docs/Practices/Appreciative Inquiry.md",
     "docs/Practices/Theory of Change.md",
-    "docs/Practices/Somatic & Mental Journeys.md",
-    "docs/Practices/Narrative-Based Social Change.md",
     "docs/Practices",
     "Gemfile",
     "Gemfile.txt",
