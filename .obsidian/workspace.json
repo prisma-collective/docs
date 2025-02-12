@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/pages/Accra Hub Call (10.02.2025).md",
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,7 +292,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Accra Hub Call (10.02.2025)"
+              "title": "b. Inspiration"
+            }
+          },
+          {
+            "id": "a080cea88ec86454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Context & Narrative/Core Value-Adding Process and Business Model.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Core Value-Adding Process and Business Model"
             }
           },
           {
@@ -320,7 +344,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -484,19 +508,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "838adc885659220c",
+  "active": "a080cea88ec86454",
   "lastOpenFiles": [
+    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
+    "docs/Context & Narrative/Core Value-Adding Process and Business Model.md",
+    "docs/pages/Evidence of evaluation-based adaptations made to event schedule.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
     "docs/pages/core facilitator capacity.md",
+    "docs/pages/Accra Hub Call (10.02.2025).md",
     "docs/methodologies/Enactment.md",
     "docs/methodologies/Ground-Potentialising.md",
     "docs/methodologies/Process-Infrastructuring.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
     "docs/processes/participants.md",
     "docs/processes/Prisma as Process.md",
     "docs/index.md",
     "docs/processes/Core Processes.md",
-    "docs/pages/Accra Hub Call (10.02.2025).md",
     "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
     "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
     "docs/methodologies/Developmental Regenerative Evaluation",
@@ -511,8 +537,6 @@
     "docs/pages/minioes.md",
     "docs/Practices/Role Play.md",
     "docs/Practices/Persona.md",
-    "docs/Practices/Regenerative Development & Design.md",
-    "docs/Practices/Appreciative Inquiry.md",
     "docs/Practices",
     "Gemfile",
     "Gemfile.txt",
