@@ -30,6 +30,13 @@ hub onboarding covers all the steps necessary to become capable of self-organisi
 - developing and integrating their own [[publishing]] stack 
 - actively participating in future prisma action-learning developments
 
+
+![[event-model_-3.png]]
+
+![[event-model_-2.png]]
+
+![[event-model_-1.png]]
+
 ![[event-model.png]]
 
 # hub roles
