@@ -39,8 +39,8 @@ Here's a brief overview of some of the main benefits accessible to hubs and rela
 
 - Showcasing local talent and product innovation.
 - Demonstrating community needs being met.
-- Potential for attracting investment or embarking on further learning journeys.
-- Ability to invoice Prisma for organizing efforts, including salaries.
+- Potential for attracting investment and/or embarking on further learning journeys.
+- Ability to invoice for organizing efforts
 
 **2. Developers and Entrepreneurs:**
 
