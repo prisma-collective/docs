@@ -30,8 +30,10 @@ hub onboarding covers all the steps necessary to become capable of self-organisi
 - developing and integrating their own [[publishing]] stack 
 - actively participating in future prisma action-learning developments
 
-The images below build up a picture of some of the different parts of 
+The images below build up a picture of on of many ways to hold together the different parts of an [[action-learning journeys|action-learning journey]] from the perspective of the hubs. 
 ![[event-model_-3.png]]
+
+
 
 ![[event-model_-2.png]]
 
