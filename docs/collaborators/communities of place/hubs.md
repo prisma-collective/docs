@@ -37,6 +37,8 @@ The participant onboarding process starts *early*. A long facilitated onboarding
 
 ![[event-model_-2.png]]
 
+There are three levels of outcomes that an [[action-learning journeys|ALJ]] can aim for, detailed in [[index|home]].
+
 ![[event-model_-1.png]]
 
 ![[event-model.png]]
@@ -63,6 +65,7 @@ Here's a brief overview of some of the main benefits accessible to hubs and rela
 
 **2. Developers and Entrepreneurs:**
 
+- Purpose
 - Implementing co-tech in meaningful, real-world use cases.
 - Platform to present their work engagingly.
 - Part of a hands-on startup incubation process.
