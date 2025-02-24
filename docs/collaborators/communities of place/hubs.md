@@ -30,7 +30,7 @@ hub onboarding covers all the steps necessary to become capable of self-organisi
 - developing and integrating their own [[publishing]] stack 
 - actively participating in future prisma action-learning developments
 
-The images below build up a picture 
+The images below build up a picture of some of the different parts of 
 ![[event-model_-3.png]]
 
 ![[event-model_-2.png]]
@@ -53,7 +53,8 @@ Here's a brief overview of some of the main benefits accessible to hubs and rela
 - Ability to invoice for organizing efforts
 - Growing reputation and impact locally
 - Keeping local talent local, investing in local innovation ecosystems
-- Focussing on real needs in the surrounding community and the fulfilment that comes with working at a 
+- Focussing on real needs in the surrounding community and the fulfilment that comes with working at a relatable level of impact
+- Grow individuals that are solution and potential oriented
 
 **2. Developers and Entrepreneurs:**
 
