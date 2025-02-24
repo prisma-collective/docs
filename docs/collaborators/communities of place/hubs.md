@@ -32,6 +32,9 @@ hub onboarding covers all the steps necessary to become capable of self-organisi
 
 ![[event-model.png]]
 
+# hub roles
+- hosting gatherings
+- 
 # benefits
 Here's a brief overview of some of the main benefits accessible to hubs and related stakeholders by participating in the process of organising an [[action-learning journeys|action-learning journey]].
 
