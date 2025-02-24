@@ -31,3 +31,24 @@ hub onboarding covers all the steps necessary to become capable of self-organisi
 - actively participating in future prisma action-learning developments
 
 ![[event-model.png]]
+
+# benefits
+Here's a brief overview of some of the main benefits accessible to hubs and related stakeholders by participating in the process of organising an [[action-learning journeys|action-learning journey]].
+
+**1. Hubs:**
+
+- Showcasing local talent and product innovation.
+- Demonstrating community needs being met.
+- Potential for attracting investment or embarking on further learning journeys.
+- Ability to invoice Prisma for organizing efforts, including salaries.
+
+**2. Developers and Entrepreneurs:**
+
+- Implementing co-tech in meaningful, real-world use cases.
+- Platform to present their work engagingly.
+- Part of a hands-on startup incubation process.
+
+**3. Community of Practice:**
+
+- Making visible the work happening on the ground.
+- Promoting collaboration
