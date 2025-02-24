@@ -37,12 +37,15 @@ The participant onboarding process starts *early*. A long facilitated onboarding
 
 ![[event-model_-2.png]]
 
-There are three levels of outcomes that an [[action-learning journeys|ALJ]] can aim for, detailed in [[index|home]].
+There are three levels of outcomes that an [[action-learning journeys|ALJ]] can aim for, detailed in [[index|home]]. 
 
 ![[event-model_-1.png]]
 
+The prisma core facilitator team is actively facilitating the organising of the first ALJ, from start to completion of the intensive at the end. The process of organising a hub's first ALJ is also a process of onboarding the hub into ALJ organising and case-study publishing capabilities. By the end of the first ALJ, we aim for the hub to be able to organise its next ALJ with minimal/ intermittent support by prisma. 
+
 ![[event-model.png]]
 
+In the process of organising an ALJ, several form of data are generated, which become the content of the case-study published. 
 # hub roles
 - hosting gatherings
 - local movement stewarding
