@@ -30,7 +30,7 @@ hub onboarding covers all the steps necessary to become capable of self-organisi
 - developing and integrating their own [[publishing]] stack 
 - actively participating in future prisma action-learning developments
 
-
+The images below build up a picture 
 ![[event-model_-3.png]]
 
 ![[event-model_-2.png]]
@@ -41,7 +41,7 @@ hub onboarding covers all the steps necessary to become capable of self-organisi
 
 # hub roles
 - hosting gatherings
-- 
+- local movement stewarding
 # benefits
 Here's a brief overview of some of the main benefits accessible to hubs and related stakeholders by participating in the process of organising an [[action-learning journeys|action-learning journey]].
 
@@ -51,7 +51,9 @@ Here's a brief overview of some of the main benefits accessible to hubs and rela
 - Demonstrating community needs being met.
 - Potential for attracting investment and/or embarking on further learning journeys.
 - Ability to invoice for organizing efforts
-- 
+- Growing reputation and impact locally
+- Keeping local talent local, investing in local innovation ecosystems
+- Focussing on real needs in the surrounding community and the fulfilment that comes with working at a 
 
 **2. Developers and Entrepreneurs:**
 
