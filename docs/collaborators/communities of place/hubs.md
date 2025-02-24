@@ -33,7 +33,7 @@ hub onboarding covers all the steps necessary to become capable of self-organisi
 The images below build up a picture of on of many ways to hold together the different parts of an [[action-learning journeys|action-learning journey]] from the perspective of the hubs. 
 ![[event-model_-3.png]]
 
-
+The participant onboarding process starts *early*. A long facilitated onboarding process is required to align all the different stakeholders involved in an [[action-learning journeys|ALJ]]. Before participant onboarding even begins, there's a short period where the hub team and core facilitation team (prisma) can align on the aims of the ALJ and the purpose of approaching organising a transformation-focussed event in this way. 
 
 ![[event-model_-2.png]]
 
@@ -57,6 +57,9 @@ Here's a brief overview of some of the main benefits accessible to hubs and rela
 - Keeping local talent local, investing in local innovation ecosystems
 - Focussing on real needs in the surrounding community and the fulfilment that comes with working at a relatable level of impact
 - Grow individuals that are solution and potential oriented
+- Publishing case-studies, which aim to serve two purposes:
+	1. Attracting fellow change-makers who would like to subscribe to co-learn on the action-learning, in the process becoming an income generator that can support the sustainability of the hub activities
+	2. Engaging external stakeholders (for possible support)
 
 **2. Developers and Entrepreneurs:**
 
