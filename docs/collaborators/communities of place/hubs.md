@@ -45,7 +45,7 @@ The prisma core facilitator team is actively facilitating the organising of the 
 
 ![[event-model.png]]
 
-In the process of organising an ALJ, several form of data are generated, which become the content of the case-study published. 
+In the process of organising an ALJ, several form of data are generated, which become the content of the [[case-study]] published. 
 # hub roles
 - hosting gatherings
 - local movement stewarding

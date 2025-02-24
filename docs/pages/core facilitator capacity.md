@@ -11,7 +11,7 @@ Core facilitator capacity refers to the essential competencies and skills requir
    - Ability to integrate feedback loops into event design for continuous improvement.
 
 3. **Process Infrastructuring**  
-   - Knowledge of designing and deploying process infrastructures (e.g., [[Holochain]]-based systems) to support event organization and participant onboarding.
+   - Knowledge of designing and deploying process infrastructures to support event organization and participant onboarding.
    - Understanding of how to configure systems for self-contained deployments.
 
 4. **Potentializing**  
