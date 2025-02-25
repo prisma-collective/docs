@@ -1,1 +1,0 @@
-Based on the observations about internal culture amongst developers, we changed an event from being about regenerative systems thinking to making it a hackathon sprint about solving local communication issues through developing a jargon chatbot for telegram.
