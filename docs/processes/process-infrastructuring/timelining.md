@@ -142,7 +142,7 @@ The system facilitates a comprehensive, AI-aided exploration of journaling data 
 
 ## Purpose
 
-A single interactive interface will allow users to browse, search, and interpret voice notes along a timeline. 
+The insight generation phase takes a natural text query from the UI and generates insightful responses, updating the timeline to filter for relevant entries accordingly. A single interactive interface will allow users to browse, search, and interpret voice notes along a timeline. 
 
 ## Core Capabilities
 
