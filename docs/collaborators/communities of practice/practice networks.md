@@ -41,7 +41,7 @@ the following core facilitation team is forming to bring this work forwards:
 
 - [[Delfina Terrado]]: [[docs/Glossary/Enactment|enacting]], [[experience design]], [[incubation methodology]], [[practice-based daos]]
 - [[Shikhar Agarwal]]: [[a. Introduction|evaluating]], [[value-system design methodology]], [[Holochain|place-sourced currency design]]
-- [[Mercy Fordwoo]]: [[Ground-Potentialising|potentialising]], [[hub networking]]
+- [[Mercy Fordwoo]]: [[ground-potentialising|potentialising]], [[hub networking]]
 - [[Ryah Chandler]]: [[enrolment]]
 - [[Tobias Fechner]]: [[process infrastructuring]]
 
