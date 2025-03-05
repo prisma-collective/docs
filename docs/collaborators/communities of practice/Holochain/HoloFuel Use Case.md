@@ -12,13 +12,13 @@ This challenge mirrors a broader pattern in our economic systems, where only cer
 
 ## **Holochain-Based Multi-Unit Value Tracking**
 
-We would like to use [[Holochain]]'s agent-centric architecture and multi-unit implementation to implement a multi-unit value tracking system that allows us to honor, validate, and exchange different types of contributions while maintaining a decentralized, peer-led approach. 
+We would like to use [[Holochain]]'s agent-centric architecture and multi-unit implementation to implement a value tracking system that allows us to honor, validate, and exchange different types of contributions while maintaining a decentralized, peer-led approach. 
 
-Part of the facilitation and evaluation design for each action learning journey is  This system doesn't reduce value to a single metric but preserves the rich diversity of gifts that flow through our ecosystem.
+Part of the facilitation and evaluation design for each action learning journey is a co-creation phase where the communities of place and practice involved in the co-design build a contextual framework of evaluation. Based on what is mutually valued, social norms, cultural practices and other phenomena, a contextual logic of valuation is built into the [evaluation system](e. Methodology). This system doesn't reduce value to a single metric but preserves the rich diversity of gifts that flow through our ecosystem.
 
 ## **Defining Value Units**
 
-Our ecosystem involves different types of contributions that sustain action-learning journeys. These can be categorized into three core service units:
+In general, the different types of contributions that sustain action-learning journeys can be categorized into three core service units. Each of these units 
 
 - **Facilitation Units** (guiding sessions, conflict resolution, holding space)
     
