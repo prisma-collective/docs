@@ -10,9 +10,11 @@ Prisma's action-learning journeys generate many types of contributions—facilit
 
 This challenge mirrors a broader pattern in our economic systems, where only certain forms of value (typically financial) are recognized, while others—often those most essential to life—are rendered invisible or exploited.
 
-## **Our Approach: Holochain-Based Multi-Unit Value Tracking**
+## **Holochain-Based Multi-Unit Value Tracking**
 
-Drawing on [[Holochain]]'s agent-centric architecture, we've designed a multi-unit value tracking system that allows us to honor, validate, and exchange different types of contributions while maintaining a decentralized, peer-led approach. This system doesn't reduce value to a single metric but preserves the rich diversity of gifts that flow through our ecosystem.
+We would like to use [[Holochain]]'s agent-centric architecture and multi-unit implementation to implement a multi-unit value tracking system that allows us to honor, validate, and exchange different types of contributions while maintaining a decentralized, peer-led approach. 
+
+Part of the facilitation and evaluation design for each action learning journey is  This system doesn't reduce value to a single metric but preserves the rich diversity of gifts that flow through our ecosystem.
 
 ## **Defining Value Units**
 
