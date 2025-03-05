@@ -8,343 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52f1f1e502f5591e",
+            "id": "7885b5a2f7da1a56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "docs/Practices/Decoloniality.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "currentVersion": "1.8.7"
               },
-              "icon": "lucide-file",
-              "title": "Decoloniality"
-            }
-          },
-          {
-            "id": "c6e15a25bd0c0f97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Practices/Storytelling with Metaphors & Symbols.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Storytelling with Metaphors & Symbols"
-            }
-          },
-          {
-            "id": "55193f6ec9f95d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Practices/Embodied Systemic Constellations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Embodied Systemic Constellations"
-            }
-          },
-          {
-            "id": "59583faabaf7d7a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/processes/enrolment.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "enrolment"
-            }
-          },
-          {
-            "id": "f908b7b80767c441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Practices/Deep Time Journeys.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Deep Time Journeys"
-            }
-          },
-          {
-            "id": "61d23c9cba2132f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Practices/Ecosystem Mapping.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ecosystem Mapping"
-            }
-          },
-          {
-            "id": "1f642e0fabf9d713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Practices/Deep Time Journeys.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Deep Time Journeys"
-            }
-          },
-          {
-            "id": "fd90e43424e5a353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "a. Introduction"
-            }
-          },
-          {
-            "id": "a7803d3e122062db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "c. Design"
-            }
-          },
-          {
-            "id": "3b6505ef48ad85a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "b. Inspiration"
-            }
-          },
-          {
-            "id": "67fdb128bb4a9eab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "d. Technology"
-            }
-          },
-          {
-            "id": "838adc885659220c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "b. Inspiration"
-            }
-          },
-          {
-            "id": "a080cea88ec86454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Context & Narrative/Core Value-Adding Process and Business Model.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Core Value-Adding Process and Business Model"
-            }
-          },
-          {
-            "id": "6910cef3fe5fe3f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Practices/Generative Inquiry.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Generative Inquiry"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -508,12 +183,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a080cea88ec86454",
+  "active": "7885b5a2f7da1a56",
   "lastOpenFiles": [
-    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
+    "docs/Practices/Generative Inquiry.md",
     "docs/Context & Narrative/Core Value-Adding Process and Business Model.md",
-    "docs/pages/Evidence of evaluation-based adaptations made to event schedule.md",
     "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
+    "docs/Practices/Deep Time Journeys.md",
+    "docs/Practices/Ecosystem Mapping.md",
+    "docs/processes/enrolment.md",
+    "docs/Practices/Embodied Systemic Constellations.md",
+    "docs/Practices/Storytelling with Metaphors & Symbols.md",
+    "docs/Practices/Decoloniality.md",
+    "docs/processes/process-infrastructuring/timelining.md",
+    "docs/Assets/timelining_input.png",
+    "docs/Assets/timelining_2.png",
+    "docs/Assets/event-model_-3.png",
+    "docs/Assets/event-model_-2.png",
+    "docs/Assets/event-model_-1.png",
+    "docs/pages/Evidence of evaluation-based adaptations made to event schedule.md",
     "docs/pages/core facilitator capacity.md",
     "docs/pages/Accra Hub Call (10.02.2025).md",
     "docs/methodologies/Enactment.md",
@@ -523,20 +213,10 @@
     "docs/processes/Prisma as Process.md",
     "docs/index.md",
     "docs/processes/Core Processes.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
     "docs/methodologies/Developmental Regenerative Evaluation",
-    "docs/Practices/Deep Time Journeys.md",
-    "docs/Practices/Ecosystem Mapping.md",
     "docs/Practices/Warm Data Labs.md",
-    "docs/processes/enrolment.md",
-    "docs/Practices/Embodied Systemic Constellations.md",
-    "docs/Practices/Storytelling with Metaphors & Symbols.md",
-    "docs/Practices/Decoloniality.md",
-    "docs/Practices/Generative Inquiry.md",
     "docs/pages/minioes.md",
     "docs/Practices/Role Play.md",
-    "docs/Practices/Persona.md",
     "docs/Practices",
     "Gemfile",
     "Gemfile.txt",
@@ -550,11 +230,6 @@
     "Assets/levels-of-work.png",
     "Assets/levels-of-work.svg",
     "Assets/character.png",
-    "Assets/character.svg",
-    "Y - Assets/layers.png",
-    "Y - Assets/vos-triad-bglight.png",
-    "Y - Assets/Pasted image 20240821144737.png",
-    "Y - Assets/prisma_moos.png",
-    "Y - Assets/teeming.svg"
+    "Assets/character.svg"
   ]
 }
