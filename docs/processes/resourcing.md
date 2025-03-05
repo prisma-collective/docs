@@ -1,9 +1,9 @@
-Resourcing in the context of Prisma involves the strategic allocation and mobilization of resources—financial, human, technological, and social—to support the co-creation and sustainability of regenerative systems. This process is integral to [[action-learning journeys]] and [[Communities of Place]], ensuring that local initiatives have the necessary backing to thrive.
+Resourcing in the context of Prisma involves the strategic allocation and mobilization of resources—financial, human, technological, and social—to support the co-creation and sustainability of regenerative systems. This process is integral to [[Action-learning journeys]] and [[Communities of Place]], ensuring that local initiatives have the necessary backing to thrive.
 
 ### **Key Components of Resourcing**
 
 1. **Financial Resourcing**  
-   - **Capital Distribution**: Prisma employs innovative financing models, such as [[capital distribution]], to ensure equitable resource allocation. This includes using [[speech-to-currency]] systems to translate contributions into value within regenerative systems.
+   - **Capital Distribution**: Prisma employs innovative financing models, such as [[Capital Distribution]], to ensure equitable resource allocation. This includes using [[Speech-to-Currency]] systems to translate contributions into value within regenerative systems.
    - **Funding Systems**: Collaborations with external partners and stakeholders are crucial for securing financial support. This often involves aligning with global funding initiatives that prioritize regenerative development.
 
 2. **Human Resourcing**  
@@ -39,7 +39,7 @@ As Prisma continues to evolve, resourcing strategies will need to adapt to emerg
 ---
 
 ### **Related Pages**
-- [[Action-Learning Journeys]]  
+- [[Action-learning journeys]]  
 - [[Communities of Place]]  
 - [[Communities of Practice]]  
 - [[Capital Distribution]]  

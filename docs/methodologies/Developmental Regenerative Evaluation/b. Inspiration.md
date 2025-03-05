@@ -5,9 +5,9 @@
 ### **Foundational Thinkers & Authors**  
 These voices have shaped our understanding of living systems, regeneration, and collective wisdom:  
 - **Carol Sanford** (*Regenerative Business*): Taught us to embed regeneration into organizational DNA, not just outputs. Her work inspires our focus on [[Core Facilitator Capacity|facilitator evolution]].  
-- **Fritjof Capra & Pier Luigi Luisi** (*The Systems View of Life*): Rooted us in the science of interconnectedness, guiding how we map [[five spheres of evaluation]].  
+- **Fritjof Capra & Pier Luigi Luisi** (*The Systems View of Life*): Rooted us in the science of interconnectedness, guiding how we map [[Five Spheres of Evaluation]].  
 - **Allan Savory** (*Holistic Management*): Showed how to reverse desertification through livestock—a lesson in balancing ecological and human needs.  
-- **Paulo Freire & Myles Horton**: Pioneers of participatory pedagogy, their ethos lives in our [[action-learning journeys]] and [[enrolment]] processes.  
+- **Paulo Freire & Myles Horton**: Pioneers of participatory pedagogy, their ethos lives in our [[Action-learning journeys]] and [[enrolment]] processes.  
 - **Robin Wall Kimmerer** (*Braiding Sweetgrass*): Bridged Indigenous wisdom and scientific rigor, mirroring our [[mixed-methods approach]].  
 
 ---
@@ -25,7 +25,7 @@ These voices have shaped our understanding of living systems, regeneration, and 
 *“The answers must come from the people, not experts.”*  
 - **Three Sisters Agriculture** (Iroquois): Corn, beans, and squash taught us intercropping’s power—now reflected in our [[relational data]] practices.  
 - **Diné (Navajo) Dryland Farming**: Surviving drought through drought-resistant seeds and terracing, inspiring our [[bioregional resource matching]].  
-- **Andean Ayni** (Reciprocity): A philosophy of mutual care that shapes our [[capital distribution]] DAOs.  
+- **Andean Ayni** (Reciprocity): A philosophy of mutual care that shapes our [[Capital Distribution]] DAOs.  
 - **Aboriginal Firestick Farming**: Controlled burns renew ecosystems, a metaphor for our [[process infrastructuring]].  
 - **Zapatista Autonomy Movements**: Proved decentralized governance works, guiding our [[Holochain|decentralized tools]].  
 
@@ -58,7 +58,7 @@ These voices have shaped our understanding of living systems, regeneration, and 
 ### **Further Reading & Resources**  
 - *Braiding Sweetgrass* by Robin Wall Kimmerer [[🡥]](https://www.robinwallkimmerer.com/)  
 - *The Fifth Discipline* by Peter Senge (systems thinking primer)  
-- *Decolonizing Wealth* by Edgar Villanueva (guides our [[capital distribution]] ethics)  
+- *Decolonizing Wealth* by Edgar Villanueva (guides our [[Capital Distribution]] ethics)  
 - [Regenerative Agriculture Reading List](https://nfu.org/2020/10/12/the-indigenous-origins-of-regenerative-agriculture/)  
 
 ---

@@ -1,6 +1,6 @@
 _Weaving connection and insight through digital companions_
 
-In the realm of regenerative development, technology isn't just a tool—it's an extension of our intention, a way to amplify connection, and a gentle nudge towards deeper understanding. Within our [[action-learning journeys]], Telegram bots emerge as essential companions—digital allies that weave insights into our work and nurture a sense of shared purpose.
+In the realm of regenerative development, technology isn't just a tool—it's an extension of our intention, a way to amplify connection, and a gentle nudge towards deeper understanding. Within our [[Action-learning journeys]], Telegram bots emerge as essential companions—digital allies that weave insights into our work and nurture a sense of shared purpose.
 
 They aren’t replacements for human connection, but rather enhancements. They allow for asynchronous feedback, they allow for automated sharing of knowledge, and they allow our processes to keep going - even when all stakeholders aren’t active.
 
@@ -61,7 +61,7 @@ They have already changed how we operate, they will change how we think, and the
 
 ## **Related Pages**
 
-- [[Action-Learning Journeys]]
+- [[Action-learning journeys]]
     
 - [[Developmental Evaluation]]
     

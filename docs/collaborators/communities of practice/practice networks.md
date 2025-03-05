@@ -1,12 +1,12 @@
 
 # practice networks
-prisma is a framework for communities of practice and [[hubs]] to self-organise [[action-learning journeys]], and the governance infrastructure to complement. 
+prisma is a framework for communities of practice and [[hubs]] to self-organise [[Action-learning journeys]], and the governance infrastructure to complement. 
 
 we're working closely with [[Regenesis]] [^1], who are evolving a practice of regenerative development and design. 
 
 at the core of our [[Prisma as Process|methodologies]] is the dynamic interplay between the forward movement of [[docs/Glossary/Enactment|enacting]] (action) and the ongoing, reflective and integrative movement of [[a. Introduction|evaluating]] (learning). our work is to develop these methodologies and the infrastructures supporting organising such events. 
 
-[[action-learning journeys]] are a period of rapid innovation, guided by a facilitator team that has been co-designing with the [[hubs]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] 
+[[Action-learning journeys]] are a period of rapid innovation, guided by a facilitator team that has been co-designing with the [[hubs]] for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] 
 
 we are designing a [[Holochain|minimum viable governance system]] to support...
 
@@ -14,7 +14,7 @@ we are designing a [[Holochain|minimum viable governance system]] to support...
 	- code, [[practice]] and [[product]] quality
 	- place-unique (digital) expressions of developmental inquiries into the essence of place [^3]
 2. Internal capability development
-	- the facilitator team's capability to work with the underlying, generative patterns for organising [[action-learning journeys]] 
+	- the facilitator team's capability to work with the underlying, generative patterns for organising [[Action-learning journeys]] 
 	- increasing [[process design collective|order]] of design and effect
 
 both streams are in service to activating and making visible the multiple forms of value creation and exchange involved in thriving regenerative community. these events are developed in partnership with [[hubs]], with a core steward (group), and in partnership with regional hubs. the aim is for the event to be a catalytic agent for the self-expression of place-sourced practices, developed and applied to grow bioregional wealth. 
@@ -23,7 +23,7 @@ both streams are in service to activating and making visible the multiple forms 
 > [!NOTE] Regenesis Collaboration... 
 > The collaboration with [[Regenesis]]... 
 > 
-> *aims to* apply this governance system to facilitate the self-organising of place-sourced [[action-learning journeys]]…
+> *aims to* apply this governance system to facilitate the self-organising of place-sourced [[Action-learning journeys]]…
 > 
 > *in order to* produce a suite of developmental case studies that engage a broader (global) audience with the work of regenerative development and design
 > 
@@ -64,9 +64,9 @@ instruments supporting this process design are:
 - [[publishing]] stack - an evolving knowledge commons
 - [[Core Facilitator Capacity|patterns for facilitator teams]] - see [liberating structures](https://www.liberatingstructures.com/)
 - [[DID System]] & reputation - participant registrations, contribution accounting and participation timelines
-- A financing distribution methodology and tooling, both internal and external. See [[capital distribution]].
+- A financing distribution methodology and tooling, both internal and external. See [[Capital Distribution]].
 - Organisational agreements-making, serving [[incubation methodology|intensives as incubation processes]]
-- [[speech-to-currency]], serving place-unique [[practice-based daos]]
+- [[Speech-to-Currency]], serving place-unique [[practice-based daos]]
 
 [^1]: Regenesis Institute for Regenerative Practice, [ref](https://regenerat.es/). See [[Regenesis]].
 [^2]: (describe the on-boarding process)

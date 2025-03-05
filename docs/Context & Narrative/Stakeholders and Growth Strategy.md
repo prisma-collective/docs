@@ -15,7 +15,7 @@ The image above shows the same underlying pattern of event organising, which app
 	B. Regenesis: Several events within the Story of Place programme
 	C. Additional aligned partners within a broader market-oriented context
 
-In all the [[action-learning journeys]] (ALJs), we are aiming to form one or multiple action-learning teams that work on-the-ground on the development and application of an instrument (tooling). 
+In all the [[Action-learning journeys]] (ALJs), we are aiming to form one or multiple action-learning teams that work on-the-ground on the development and application of an instrument (tooling). 
 
 Each ALJ also generates content: videos, interviews, call recordings, wikis, art works. This content is curated by the [[hubs]] to publish case-studies of the process. 
 

@@ -9,13 +9,13 @@ aliases:
 
 ## **Introduction**  
 ### **The Essence of Our Evaluation Approach**  
-Evaluation, for us, is not a static measure of success but a [[living practice]] of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of ecological vitality, cultural wisdom, and emergent possibility. At Prisma, we see evaluation as the *essence of governance*—a way for collectives to sense, adapt, and evolve their actions in harmony with the [[essence of place]] and the [[living systems principles]] that bind us all.  
+Evaluation, for us, is not a static measure of success but a [[Living Practice]] of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of ecological vitality, cultural wisdom, and emergent possibility. At Prisma, we see evaluation as the *essence of governance*—a way for collectives to sense, adapt, and evolve their actions in harmony with the [[essence of place]] and the [[Living Systems Principles]] that bind us all.  
 
 #### **Vision**  
 To redefine evaluation as a dynamic dialogue with life itself—a practice that illuminates the invisible threads connecting ecological health, social equity, and cultural resilience.  
 
 #### **Mission**  
-To co-create frameworks that honor energy flows across [[five spheres of evaluation|five spheres]], empowering communities to steward regenerative futures through participatory learning and adaptive action.  
+To co-create frameworks that honor energy flows across [[Five Spheres of Evaluation|five spheres]], empowering communities to steward regenerative futures through participatory learning and adaptive action.  
 
 #### **Purpose**  
 We exist to:  
@@ -29,7 +29,7 @@ We exist to:
 Our approach is rooted in four guiding stars:  
 1. **Humility**: Communities lead the design, ensuring evaluation mirrors their unique [[cultural narrative|narratives]] and rhythms.  
 2. **Integrity**: We balance rigor with pragmatism—measuring what matters, not just what’s measurable.  
-3. **Emergence**: We seek patterns, not endpoints, embracing the unpredictable alchemy of [[action-learning journeys]].  
+3. **Emergence**: We seek patterns, not endpoints, embracing the unpredictable alchemy of [[Action-learning journeys]].  
 4. **Interdependence**: Every metric is a thread in a larger tapestry, woven from relationships between people, place, and practice.  
 
 ---
@@ -47,7 +47,7 @@ Traditional models reduce value to financial ROI or carbon metrics, severing the
 Evaluation here is a dance between [[docs/Glossary/Enactment|doing]] and [[developmental evaluation|sensing]]. During an [[action-learning journey]] in Accra, youth-led recycling initiatives weren’t just measured by tons of plastic diverted. Through participatory storytelling and [[Warm Data Labs|relational mapping]], we surfaced how their work rewired local power dynamics—empowering women traders to co-design waste-to-energy microgrids. *That* is the alchemy of valuing energy flows.  
 
 #### **Tools as Living Systems**  
-Our tools—[[Holochain|decentralized governance protocols]], [[speech-to-currency]] systems, [[bot arrays]]—are designed to evolve with the communities using them. Like a river shaping its banks, our methodologies adapt to the terrain, guided by questions like:  
+Our tools—[[Holochain|decentralized governance protocols]], [[Speech-to-Currency]] systems, [[bot arrays]]—are designed to evolve with the communities using them. Like a river shaping its banks, our methodologies adapt to the terrain, guided by questions like:  
 - *What does this place need to become more of itself?*  
 - *How do we honor both data and intuition in our learning?*  
 
@@ -66,6 +66,6 @@ This is not just evaluation—it’s a love letter to life’s interconnectednes
 ##### **Related Pages**  
 - [[Developmental Evaluation]]  
 - [[Core Facilitator Capacity]]  
-- [[Action-Learning Journeys]]  
+- [[Action-learning journeys]]  
 - [[Communities of Place]]  
 - [[Living Systems Principles]]  

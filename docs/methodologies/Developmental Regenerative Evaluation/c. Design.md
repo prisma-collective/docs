@@ -33,7 +33,7 @@ We track eight forms of capital that sustain thriving systems:
 7. **Built** 🏗️ (resilient infrastructure)  
 8. **Digital** 💻 (open-source tools)  
 
-*Example:* A Welsh village’s [[bioregion|bioregional]] learning center measures success not by tourist numbers, but by how these capitals interweave—elder-led storytelling (**cultural**) training youth in permaculture (**human**), while a [[speech-to-currency]] DAO turns shared wisdom into microgrants (**financial**).  
+*Example:* A Welsh village’s [[bioregion|bioregional]] learning center measures success not by tourist numbers, but by how these capitals interweave—elder-led storytelling (**cultural**) training youth in permaculture (**human**), while a [[Speech-to-Currency]] DAO turns shared wisdom into microgrants (**financial**).  
 
 ---
 

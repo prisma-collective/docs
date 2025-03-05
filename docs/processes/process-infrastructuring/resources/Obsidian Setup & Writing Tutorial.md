@@ -20,5 +20,5 @@ Some things you might be considering at this stage are:
 	- I want to write code, not just markdown. Where do I begin? 
 	- How can I modify the look and feel of the site as a whole? 
 - Tech support overhead is growing. How can we make collaborative writing more reliable? 
-- What's the role of publishing and the `docs` repo in the context of an [[action-learning journeys|ALJ]] and/ or [[index|prisma]]?
+- What's the role of publishing and the `docs` repo in the context of an [[Action-learning journeys|ALJ]] and/ or [[index|prisma]]?
 

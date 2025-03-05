@@ -22,7 +22,7 @@ Our e-valuation methodology leverages cutting-edge Web3 technologies and decentr
 
 4. **Smart Contracts & DAOs**:
    - Automate resource distribution and governance decisions.
-   - Implement [[capital distribution]] protocols for transparent fund allocation.
+   - Implement [[Capital Distribution]] protocols for transparent fund allocation.
 
 ### **Data Collection & Analysis**
 
@@ -32,7 +32,7 @@ Our e-valuation methodology leverages cutting-edge Web3 technologies and decentr
 
 2. **Product Development Submissions**:
    - Holochain-based [[DID System]] for tracking contributions and innovations.
-   - Enables [[speech-to-currency]] conversion for recognizing value creation.
+   - Enables [[Speech-to-Currency]] conversion for recognizing value creation.
 
 3. **Facilitator Reports**:
    - Structured data collection interfaces for [[Core Facilitator Capacity|facilitator teams]].
@@ -45,11 +45,11 @@ Our e-valuation methodology leverages cutting-edge Web3 technologies and decentr
 ### **Proof Systems**
 
 1. **Proof of Work**:
-   - Tokenize participant contributions using [[speech-to-currency]] protocols.
+   - Tokenize participant contributions using [[Speech-to-Currency]] protocols.
    - Capture diverse forms of value creation beyond traditional metrics.
 
 2. **Proof of Impact**:
-   - Link outcomes to funding via [[capital distribution]] DAOs.
+   - Link outcomes to funding via [[Capital Distribution]] DAOs.
    - Enable real-time, transparent allocation of resources based on measurable impact.
 
 ### **Integration & Interoperability**

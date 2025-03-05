@@ -6,7 +6,7 @@ prisma is...
 - an [[action-learning]] framework 
 - an incubator 
 
-we facilitate [[action-learning journeys]] so that [[bioregion|bioregional]] communities can participate more fully in transition pathways toward life-affirming futures.
+we facilitate [[Action-learning journeys]] so that [[bioregion|bioregional]] communities can participate more fully in transition pathways toward life-affirming futures.
 
 we work at three levels:
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/Developmental Regenerative Evaluation/living practice.md",
+                "file": "docs/Glossary/Living Practice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "living practice"
+              "title": "Living Practice"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/Developmental Regenerative Evaluation/Telegram Bots.md",
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Telegram Bots"
+              "title": "a. Introduction"
+            }
+          },
+          {
+            "id": "46d02b4eb7592949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/collaborators/communities of practice/Holochain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Holochain"
+            }
+          },
+          {
+            "id": "c39b28cd962b7c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Glossary/Action-learning journeys.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Action-learning journeys"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,40 +268,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d209c60c7df3caa5",
+  "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
-    "docs/methodologies/Developmental Regenerative Evaluation/Journaling-Based Evaluation Bot.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/Telegram Bots.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/Living Labs.md",
-    "docs/methodologies/Ground-Potentialising.md",
-    "docs/methodologies/Potentialize.md",
-    "docs/collaborators/communities of place/Communities of Place.md",
-    "docs/collaborators/communities of place/hubs.md",
-    "docs/Glossary/action-learning journeys.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/living practice.md",
-    "Untitled",
-    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
+    "docs/collaborators/communities of practice/Communities of Practice.md",
+    "docs/collaborators/communities of practice/Holochain.md",
+    "docs/Glossary/Living Systems Principles.md",
+    "docs/Glossary/Living Practice.md",
     "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
-    "docs/Practices/Generative Inquiry.md",
-    "docs/Context & Narrative/Core Value-Adding Process and Business Model.md",
-    "docs/Practices/Deep Time Journeys.md",
-    "docs/Practices/Ecosystem Mapping.md",
-    "docs/processes/enrolment.md",
-    "docs/Practices/Embodied Systemic Constellations.md",
-    "docs/Practices/Storytelling with Metaphors & Symbols.md",
-    "docs/Practices/Decoloniality.md",
-    "docs/processes/process-infrastructuring/timelining.md",
+    "docs/Glossary/Living Lab.md",
+    "docs/methodologies/Five Spheres of Evaluation.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/Journaling-Based Evaluation Bot.md",
+    "docs/Glossary/Living Labs.md",
+    "docs/Glossary/Core Facilitator Capacity.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/DID System.md",
+    "Tech/Speech-to-Currency.md",
+    "Tech",
+    "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
+    "docs/Glossary/Bioregion.md",
+    "docs/Glossary/Action-learning journeys.md",
+    "docs/methodologies/action-learning journey.md",
+    "docs/collaborators/communities of practice/self-organising.md",
+    "docs/patterns/sociocratic organising.md",
+    "docs/collaborators/communities of practice/Self-Organising.md",
+    "docs/Practices/Warm Data Labs.md",
+    "docs/Decentralized Aspects",
+    "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/e. Methodology.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
+    "docs/Decentralized Aspects/Capital Distribution.md",
+    "Tech/Telegram.md",
+    "Tech/Telegram Bots.md",
     "docs/Assets/timelining_input.png",
     "docs/Assets/timelining_2.png",
     "docs/Assets/event-model_-3.png",
     "docs/Assets/event-model_-2.png",
     "docs/Assets/event-model_-1.png",
-    "docs/pages/Evidence of evaluation-based adaptations made to event schedule.md",
-    "docs/pages/core facilitator capacity.md",
-    "docs/pages/Accra Hub Call (10.02.2025).md",
-    "docs/methodologies/Enactment.md",
     "docs/methodologies/Developmental Regenerative Evaluation",
     "docs/Practices",
     "Gemfile",
@@ -262,7 +311,6 @@
     "_layouts",
     "_config.yml",
     "requirements.txt",
-    "CNAME",
     "Pasted image 20241009144202.png",
     "Assets/levels-of-work.png",
     "Assets/levels-of-work.svg",

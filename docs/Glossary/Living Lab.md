@@ -1,3 +1,7 @@
+---
+aliases:
+  - Living Labs
+---
 Living Labs are experimental spaces, often situated within communities, where new ideas, technologies, and approaches to social and environmental challenges are tested in real-world settings. These labs bring together local stakeholders—such as residents, researchers, businesses, and policymakers—to collaborate on solutions that are designed to work within the specific social and ecological dynamics of the area. The aim is to create iterative, flexible solutions that are adapted to local needs and can be scaled or refined over time.
 
 1. [A systematic review of living lab literature](https://www.sciencedirect.com/science/article/abs/pii/S0959652618339830)
