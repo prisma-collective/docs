@@ -1,18 +1,12 @@
 # prisma
 
-prisma is... 
+prisma is a distributed action-learning incubator. we organise and facilitate [[Action-learning journeys]] so that [[bioregion|bioregional]] communities can participate more fully in transition pathways toward life-affirming futures.
 
-- a [[process design collective]] 
-- an [[action-learning]] framework 
-- an incubator 
+we bring active facilitation we work at three levels of incubation:
 
-we facilitate [[Action-learning journeys]] so that [[bioregion|bioregional]] communities can participate more fully in transition pathways toward life-affirming futures.
-
-we work at three levels:
-
-1. **PRODUCTS:** To develop technology products for clients from a living systems paradigm.
-1. **ORGANISATIONS:** To incubate teams as instruments in creating the conditions for participating in systems evolution.
-1. **ECOSYSTEMS:** To catalyse venture development ecosystems in partner bioregions to build public goods infrastructures.
+1. **PRODUCTS:** Distributed participation tooling that make visible the activity of action-learning teams on-the-ground.
+2. **ORGANISATIONS:** Organisational infrastructure as for longer-term participating in systems evolution.
+3. **ECOSYSTEMS:** To catalyse venture development ecosystems in partner bioregions to build public goods infrastructures.
 
 ![[levels-of-work.png]]
 ## The Overall Narrative
