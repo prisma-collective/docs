@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/Evaluation.md",
+                "file": "docs/processes/Developmental Regenerative Evaluation/0. Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Evaluation"
+              "title": "0. Overview"
             }
           }
         ],
@@ -270,6 +270,9 @@
   },
   "active": "2c173881f5fd0fe4",
   "lastOpenFiles": [
+    "docs/Assets/action-learning.png",
+    "docs/processes/Developmental Regenerative Evaluation/a. Introduction.md",
+    "docs/processes/Developmental Regenerative Evaluation/0. Overview.md",
     "docs/patterns/action-learning.md",
     "docs/processes/process-infrastructuring/process-infrastructuring.md",
     "docs/processes/ground-potentialising.md",
@@ -280,11 +283,9 @@
     "docs/processes/Developmental Regenerative Evaluation/d. Technology.md",
     "docs/processes/Developmental Regenerative Evaluation/c. Design.md",
     "docs/processes/Developmental Regenerative Evaluation/b. Inspiration.md",
-    "docs/processes/Developmental Regenerative Evaluation/a. Introduction.md",
     "docs/processes/Developmental Regenerative Evaluation",
     "docs/patterns/Core Processes.md",
     "docs/methodologies/Enactment.md",
-    "docs/methodologies/Evaluation.md",
     "docs/Glossary/Capacity-Building.md",
     "docs/Glossary/Developmental Evaluation.md",
     "docs/Glossary/Enactment.md",
@@ -296,7 +297,6 @@
     "docs/Glossary/Multi-Capitals Framework.md",
     "docs/Glossary/Living Systems Principles.md",
     "docs/Glossary/Living Practice.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
     "docs/collaborators/communities of practice/Holochain",
     "Tech",
     "docs/Decentralized Aspects",
