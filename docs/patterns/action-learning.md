@@ -14,7 +14,7 @@ The [[product]] of each action-learning journey is a [[case-study]]. These case-
 5. documentation
 6. various participation signals (more to come)
 
-Whereas a case-study focusses on a single action-learning journey, this page speaks to action-learning as an underlying pattern repeating throughout all that we're working on. Prisma as a platform requires the capability to organise action-learning intensives and communicate this from many perspectives. 
+Whereas a case-study focusses on a single action-learning journey, this page speaks to action-learning as an underlying pattern repeating throughout all that we're working on. Prisma as a distributed participation platform requires the capability to organise action-learning intensives and communicate this from many perspectives. 
 
 
 
