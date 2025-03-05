@@ -16,7 +16,7 @@ The [[product]] of each action-learning journey is a [[case-study]]. These case-
 
 Whereas a case-study focusses on a single action-learning journey, this page speaks to action-learning as an underlying pattern repeating throughout all that we're working on. Prisma as a distributed participation platform requires the capability to organise action-learning intensives and communicate this from many perspectives. 
 
-
+![[action-learning.png]]
 
 In addition to generating the above learning material, which is occurring at the participation level, there is a second order of production aims, client-facing, which exists at three levels:
 
