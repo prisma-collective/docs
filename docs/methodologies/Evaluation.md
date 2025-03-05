@@ -22,11 +22,11 @@ And the 'e'? It stands, as it does in science - for *energy*.
 
 E-valuation is the practice of valuing energy flows. This is ultimately what any stakeholder is doing when they evaluate any effort that has been undertaken. They are considering the energy that has been put in, comparing the outcomes generated against what was desired, and conducting an analysis of the value generated.
 
-**Developmental Evaluation**
+**Purpose**
 
 At prisma, our mission is to enabling collectives to undertake intentional action-learning journeys, imbue them with regenerative potential, and make visible the value generated therein for the evolution of multiple levels of stakeholders and orders of systems.
 
-The mission of evaluation then, is to assist this endeavor in three ways:
+The purpose of evaluation then, is to assist this endeavor in three ways:
 1. To enable the groups undertaking these journeys to be clear about what they are valuing
 2. To provide tools that make visible the value being generated, and inform analyses and insights that enhance future group endeavors as well as the broader ecosystem of systems change experiments.
 3. To enhance the ability of the group to grow as a system by weaving in insights from their own behavior into organizational and personal development
