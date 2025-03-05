@@ -5,7 +5,7 @@ With these processes, prisma designs and [[Facilitation|facilitates]] a multi-st
 3. [[participants]]
 4. [[partners]]
 
-The [[product]] of each action-learning journey is a [[case-study]]. These case-studies are a multi-media, multi-perspective account of the experience, that serve the purpose of offering the learnings to a broader audience: action-learning, action-learning. The content of these case-studies is produced throughout the process through a kind of participation-as-content-creation practice:
+The [[product]] of each action-learning journey is a [[case-study]]. These case-studies are a multi-media, multi-perspective account of the experience, that serve the purpose of offering the learnings to a broader audience: action-learning, action-learning. The content of these case-studies is produced throughout the process through a kind of *participation-as-content-creation* practice:
 
 1. meeting recordings
 2. audio recordings
@@ -13,6 +13,10 @@ The [[product]] of each action-learning journey is a [[case-study]]. These case-
 4. learning exercises
 5. documentation
 6. various participation signals (more to come)
+
+Whereas a case-study focusses on a single action-learning journey, this page speaks to action-learning as an underlying pattern repeating throughout all that we're working on. Prisma as a platform requires the capability to organise action-learning intensives and communicate this from many perspectives. 
+
+
 
 In addition to generating the above learning material, which is occurring at the participation level, there is a second order of production aims, client-facing, which exists at three levels:
 
