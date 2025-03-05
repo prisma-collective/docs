@@ -40,6 +40,10 @@ Rather, we see our work as that of facilitators who work with the People, Place 
 As such, we hold the following perspectives towards evaluation:
 
 1. **Co-creative**: What shall be evaluated (variables), how it will be measured (metrics), what level of growth is expected (standards) are all decided *in consensus with the community* - with processes tailored to match local decision-making practices and actively pulled towards greater self-organization.
-2. **Multi-perspectival:** While we are stubborn about co-creation, we are also stubborn about ensuring a multi-capital lens to valuing flows of energy. Our approach is premised on seeing, valuing and developing all forms of capital - not just financial and economic.
+
+2. **Multi-perspectival:** While we are stubborn about co-creation, we are also stubborn about ensuring a multi-capital lens to valuing flows of energy. Our approach is premised on *seeing, valuing and developing all forms of capital* - not just financial and economic.
+
 3. **Developmental**: We see evaluation as an ongoing act, not just something that begins when the action is complete. Our tooling is designed to start valuing flows the moment they begin, even before the journey starts, and we are building our capacity to provide stakeholders with live signals and insights into value generation.
-4. **Regenerative**: The direction of our evaluation methodology is towards seeing potential, rather than measuring effectiveness. We are looking for how different components of the system are growing, and not just temporary manifestations designed to meet short-term needs. We are placing the capacity, potential and will of the people, the place and life itself at the center.
+
+4. **Regenerative**: The direction of our evaluation methodology is towards seeing potential, rather than measuring effectiveness. We are looking for how different components of the system are growing, and not just temporary manifestations designed to meet short-term needs. *We are placing the capacity, potential and will of the people, the place and life itself at the center.*
+
