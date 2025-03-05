@@ -19,7 +19,7 @@ At Prisma, Capital Distribution is guided by three core principles:
     Resources are distributed based on need and potential rather than power or privilege. This means prioritizing marginalized voices and ensuring that every stakeholder has an equal say in how capital is used.
     
 3. **Regenerative Impact:**  
-    Capital is allocated to initiatives that enhance systemic health across the [[Five Spheres of Evaluation]]—ecological, social, cultural, political, and economic.
+    Capital is allocated to initiatives that enhance systemic health across the [[g. Five Spheres of Evaluation]]—ecological, social, cultural, political, and economic.
     
 
 ## **How It Works**
@@ -105,6 +105,6 @@ As we continue this work at Prisma, we hold this practice with reverence—knowi
     
 - [[Holochain]]
     
-- [[Five Spheres of Evaluation]]
+- [[g. Five Spheres of Evaluation]]
     
 - [[Action-learning journeys]]

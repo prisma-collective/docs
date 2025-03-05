@@ -8,7 +8,7 @@ Evaluation, for us, is not a mechanical exercise of tallying outputs or measurin
 
 At Prisma, evaluation is the essence of governance. It is how communities learn about their attempts to self-organize toward shared regenerative goals. By valuing energy flows—both tangible and intangible—we create pathways for collective learning, adaptation, and transformation.
 
-Our methodology is rooted in the [[multi-capitals framework]], which serves as a lens to tag, analyze, and interpret data across individual, group, and systemic levels. It honors complexity while providing actionable insights that guide regenerative intervention design and enhance collective intelligence.
+Our methodology is rooted in the [[Multi-Capitals Framework]], which serves as a lens to tag, analyze, and interpret data across individual, group, and systemic levels. It honors complexity while providing actionable insights that guide regenerative intervention design and enhance collective intelligence.
 
 ## **The Multi-Capitals Framework: A Foundation for Understanding**
 

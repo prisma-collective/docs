@@ -107,7 +107,7 @@ The data preparation stage enriches raw transcriptions by generating structured 
 
 ## Analysis Framework
 
-The analytical logic for the bot is deeply rooted in the multi-capitals framework, which serves as the primary lens for tagging, analysing, and interpreting journaling data and other content. This framework underpins the evaluation of flows of capital—both tangible and intangible—across systemic, group and individual levels. By layering the analysis, starting with flows of capital, moving through regenerative systems shifts, group facilitation methodology, and down to individual layers, the bot provides a comprehensive understanding of personal development, co-creation efficacy, and systemic change.
+The analytical logic for the bot is deeply rooted in the [[multi-capitals framework]], which serves as the primary lens for tagging, analysing, and interpreting journaling data and other content. This framework underpins the evaluation of flows of capital—both tangible and intangible—across systemic, group and individual levels. By layering the analysis, starting with flows of capital, moving through regenerative systems shifts, group facilitation methodology, and down to individual layers, the bot provides a comprehensive understanding of personal development, co-creation efficacy, and systemic change.
 
 The multi-capitals framework identifies various forms of capital that individuals, groups, and systems draw upon and build through their interactions as part of the Action Learning Journey. These include
 

@@ -15,7 +15,7 @@ Evaluation, for us, is not a static measure of success but a [[Living Practice]]
 To redefine evaluation as a dynamic dialogue with life itself—a practice that illuminates the invisible threads connecting ecological health, social equity, and cultural resilience.  
 
 #### **Mission**  
-To co-create frameworks that honor energy flows across [[Five Spheres of Evaluation|five spheres]], empowering communities to steward regenerative futures through participatory learning and adaptive action.  
+To co-create frameworks that honor energy flows across [[g. Five Spheres of Evaluation|five spheres]], empowering communities to steward regenerative futures through participatory learning and adaptive action.  
 
 #### **Purpose**  
 We exist to:  

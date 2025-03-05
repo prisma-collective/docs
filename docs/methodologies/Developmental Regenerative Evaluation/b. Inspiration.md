@@ -5,7 +5,7 @@
 ### **Foundational Thinkers & Authors**  
 These voices have shaped our understanding of living systems, regeneration, and collective wisdom:  
 - **Carol Sanford** (*Regenerative Business*): Taught us to embed regeneration into organizational DNA, not just outputs. Her work inspires our focus on [[Core Facilitator Capacity|facilitator evolution]].  
-- **Fritjof Capra & Pier Luigi Luisi** (*The Systems View of Life*): Rooted us in the science of interconnectedness, guiding how we map [[Five Spheres of Evaluation]].  
+- **Fritjof Capra & Pier Luigi Luisi** (*The Systems View of Life*): Rooted us in the science of interconnectedness, guiding how we map [[g. Five Spheres of Evaluation]].  
 - **Allan Savory** (*Holistic Management*): Showed how to reverse desertification through livestock—a lesson in balancing ecological and human needs.  
 - **Paulo Freire & Myles Horton**: Pioneers of participatory pedagogy, their ethos lives in our [[Action-learning journeys]] and [[enrolment]] processes.  
 - **Robin Wall Kimmerer** (*Braiding Sweetgrass*): Bridged Indigenous wisdom and scientific rigor, mirroring our [[mixed-methods approach]].  
