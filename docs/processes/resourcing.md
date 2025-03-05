@@ -1,4 +1,4 @@
-Resourcing in the context of Prisma involves the strategic allocation and mobilization of resources—financial, human, technological, and social—to support the co-creation and sustainability of regenerative systems. This process is integral to [[action-learning journeys]] and [[communities of place]], ensuring that local initiatives have the necessary backing to thrive.
+Resourcing in the context of Prisma involves the strategic allocation and mobilization of resources—financial, human, technological, and social—to support the co-creation and sustainability of regenerative systems. This process is integral to [[action-learning journeys]] and [[Communities of Place]], ensuring that local initiatives have the necessary backing to thrive.
 
 ### **Key Components of Resourcing**
 
@@ -15,7 +15,7 @@ Resourcing in the context of Prisma involves the strategic allocation and mobili
    - **Bot Arrays**: Implementing bot arrays for event management and real-time feedback loops enhances the efficiency and adaptability of resourcing processes.
 
 4. **Social Resourcing**  
-   - **Community Engagement**: Building strong relationships with [[communities of place]] and [[communities of practice]] is vital. This involves fostering trust through participatory design processes and ensuring that local stakeholders are integral to decision-making.
+   - **Community Engagement**: Building strong relationships with [[Communities of Place]] and [[communities of practice]] is vital. This involves fostering trust through participatory design processes and ensuring that local stakeholders are integral to decision-making.
    - **Partnerships**: Collaborating with external organizations and stakeholders to leverage their expertise and resources, thereby amplifying the impact of local initiatives.
 
 ---

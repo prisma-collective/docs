@@ -2,7 +2,7 @@ Enrolment in the context of Prisma refers to the process of engaging stakeholder
 
 ### **Key Components of Enrolment**
 1. **Stakeholder Engagement**  
-   - Identifying and engaging key stakeholders from [[communities of place]] and [[communities of practice]].
+   - Identifying and engaging key stakeholders from [[Communities of Place]] and [[communities of practice]].
    - Building relationships based on humility, openness, and a deep understanding of local needs.
 
 2. **Co-Design Process**  

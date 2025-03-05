@@ -11,15 +11,52 @@
             "id": "7885b5a2f7da1a56",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/living practice.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "living practice"
+            }
+          },
+          {
+            "id": "d209c60c7df3caa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/Telegram Bots.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Telegram Bots"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,14 +220,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7885b5a2f7da1a56",
+  "active": "d209c60c7df3caa5",
   "lastOpenFiles": [
-    "docs/Practices/Generative Inquiry.md",
-    "docs/Context & Narrative/Core Value-Adding Process and Business Model.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/Journaling-Based Evaluation Bot.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/Telegram Bots.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/Living Labs.md",
+    "docs/methodologies/Ground-Potentialising.md",
+    "docs/methodologies/Potentialize.md",
+    "docs/collaborators/communities of place/Communities of Place.md",
+    "docs/collaborators/communities of place/hubs.md",
+    "docs/Glossary/action-learning journeys.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/living practice.md",
+    "Untitled",
+    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
     "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
     "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
+    "docs/Practices/Generative Inquiry.md",
+    "docs/Context & Narrative/Core Value-Adding Process and Business Model.md",
     "docs/Practices/Deep Time Journeys.md",
     "docs/Practices/Ecosystem Mapping.md",
     "docs/processes/enrolment.md",
@@ -207,16 +254,7 @@
     "docs/pages/core facilitator capacity.md",
     "docs/pages/Accra Hub Call (10.02.2025).md",
     "docs/methodologies/Enactment.md",
-    "docs/methodologies/Ground-Potentialising.md",
-    "docs/methodologies/Process-Infrastructuring.md",
-    "docs/processes/participants.md",
-    "docs/processes/Prisma as Process.md",
-    "docs/index.md",
-    "docs/processes/Core Processes.md",
     "docs/methodologies/Developmental Regenerative Evaluation",
-    "docs/Practices/Warm Data Labs.md",
-    "docs/pages/minioes.md",
-    "docs/Practices/Role Play.md",
     "docs/Practices",
     "Gemfile",
     "Gemfile.txt",
@@ -225,7 +263,6 @@
     "_config.yml",
     "requirements.txt",
     "CNAME",
-    "Scripts/mdformat_obsidian.py",
     "Pasted image 20241009144202.png",
     "Assets/levels-of-work.png",
     "Assets/levels-of-work.svg",
