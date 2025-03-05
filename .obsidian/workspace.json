@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/processes/process-infrastructuring/timelining.md",
+                "file": "docs/Glossary/Action-learning journeys.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "timelining"
+              "title": "Action-learning journeys"
+            }
+          },
+          {
+            "id": "da4e3ea6ea4ef7ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "a. Introduction"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,10 +268,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16e4bb6a5c6a58ac",
+  "active": "da4e3ea6ea4ef7ff",
   "lastOpenFiles": [
-    "docs/methodologies/Developmental Regenerative Evaluation/e. Methodology.md",
+    "docs/Glossary/Multi-Capitals Framework.md",
+    "docs/Glossary/Action-learning journeys.md",
     "docs/processes/process-infrastructuring/timelining.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/e. Methodology.md",
     "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
     "docs/methodologies/Developmental Regenerative Evaluation/g. Five Spheres of Evaluation.md",
     "docs/collaborators/communities of practice/Holochain/HoloFuel Use Case.md",
@@ -255,7 +281,6 @@
     "docs/collaborators/communities of practice/Holochain",
     "docs/methodologies/Developmental Regenerative Evaluation/f. Journaling-Based Evaluation Bot.md",
     "Tech/DID System.md",
-    "docs/Glossary/Action-learning journeys.md",
     "docs/collaborators/communities of practice/Communities of Practice.md",
     "docs/collaborators/communities of practice/Holochain/Holochain.md",
     "docs/Glossary/Living Systems Principles.md",
@@ -274,7 +299,6 @@
     "docs/collaborators/communities of practice/Self-Organising.md",
     "docs/Practices/Warm Data Labs.md",
     "docs/Decentralized Aspects",
-    "docs/methodologies/Developmental Regenerative Evaluation/c. Design.md",
     "docs/Assets/timelining_input.png",
     "docs/Assets/timelining_2.png",
     "docs/Assets/event-model_-3.png",
