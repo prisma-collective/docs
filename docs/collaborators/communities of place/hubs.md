@@ -26,7 +26,7 @@ the hub team is the core task force and first contact point for every [[Action-l
 # hub onboarding
 hub onboarding covers all the steps necessary to become capable of self-organising an ALJ and self-publishing an ALJ [[case-study]]. we are currently aiming for reaching that level of capability with a single ALJ. that means that by the end of the first ALJ, hub teams are capable of... 
 
-- developing and integrating their own [[Core Processes]]
+- developin[[core processes]]their own [[Core Processes]]
 - developing and integrating their own [[publishing]] stack 
 - actively participating in future prisma action-learning developments
 

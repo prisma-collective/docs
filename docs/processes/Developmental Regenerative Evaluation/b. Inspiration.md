@@ -69,7 +69,6 @@ We walk paths cleared by others. Every [[action-learning journey]] begins by hon
 ---
 
 ##### **Related Pages**  
-- [[Living Systems Principles]]  
-- [[Core Processes]]  
+- [[Living Systems Principles]]  [[core processes]]s]]  
 - [[Communities of Practice]]  
 - [[Regenerative Development & Design]]  
