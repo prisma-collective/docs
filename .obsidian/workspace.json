@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
+                "file": "docs/Glossary/Action-learning journeys.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "a. Introduction"
-            }
-          },
-          {
-            "id": "7885b5a2f7da1a56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "a. Introduction"
+              "title": "Action-learning journeys"
             }
           },
           {
@@ -85,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/collaborators/communities of practice/Holochain/HoloFuel Use Case.md",
+                "file": "docs/Glossary/Capacity-Building.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HoloFuel Use Case"
+              "title": "Capacity-Building"
+            }
+          },
+          {
+            "id": "2c173881f5fd0fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/methodologies/Evaluation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Evaluation"
             }
           }
         ],
@@ -268,36 +268,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da4e3ea6ea4ef7ff",
+  "active": "2c173881f5fd0fe4",
   "lastOpenFiles": [
-    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
-    "docs/Glossary/Multi-Capitals Framework.md",
-    "docs/Glossary/Action-learning journeys.md",
-    "docs/processes/process-infrastructuring/timelining.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/e. Methodology.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/g. Five Spheres of Evaluation.md",
-    "docs/collaborators/communities of practice/Holochain/HoloFuel Use Case.md",
-    "Tech/Telegram Bots.md",
-    "docs/collaborators/communities of practice/Holochain",
-    "docs/methodologies/Developmental Regenerative Evaluation/f. Journaling-Based Evaluation Bot.md",
-    "Tech/DID System.md",
-    "docs/collaborators/communities of practice/Communities of Practice.md",
-    "docs/collaborators/communities of practice/Holochain/Holochain.md",
-    "docs/Glossary/Living Systems Principles.md",
-    "docs/Glossary/Living Practice.md",
+    "docs/processes/process-infrastructuring/process-infrastructuring.md",
+    "docs/processes/ground-potentialising.md",
+    "docs/processes/Enactment.md",
+    "docs/processes/Developmental Regenerative Evaluation/g. Five Spheres of Evaluation.md",
+    "docs/processes/Developmental Regenerative Evaluation/f. Journaling-Based Evaluation Bot.md",
+    "docs/processes/Developmental Regenerative Evaluation/e. Methodology.md",
+    "docs/processes/Developmental Regenerative Evaluation/d. Technology.md",
+    "docs/processes/Developmental Regenerative Evaluation/c. Design.md",
+    "docs/processes/Developmental Regenerative Evaluation/b. Inspiration.md",
+    "docs/processes/Developmental Regenerative Evaluation/a. Introduction.md",
+    "docs/processes/Developmental Regenerative Evaluation",
+    "docs/patterns/Core Processes.md",
+    "docs/methodologies/Enactment.md",
+    "docs/methodologies/Evaluation.md",
+    "docs/Glossary/Capacity-Building.md",
+    "docs/Glossary/Developmental Evaluation.md",
+    "docs/Glossary/Enactment.md",
     "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
     "docs/Glossary/Living Lab.md",
-    "docs/Glossary/Living Labs.md",
-    "docs/Glossary/Core Facilitator Capacity.md",
-    "Tech/Speech-to-Currency.md",
+    "docs/Glossary/Narrative.md",
+    "docs/Glossary/Process Design Collective.md",
+    "docs/Glossary/Practice.md",
+    "docs/Glossary/Multi-Capitals Framework.md",
+    "docs/Glossary/Living Systems Principles.md",
+    "docs/Glossary/Living Practice.md",
+    "docs/methodologies/Developmental Regenerative Evaluation/a. Introduction.md",
+    "docs/collaborators/communities of practice/Holochain/HoloFuel Use Case.md",
+    "docs/collaborators/communities of practice/Holochain",
     "Tech",
-    "docs/methodologies/Developmental Regenerative Evaluation/d. Technology.md",
-    "docs/Glossary/Bioregion.md",
-    "docs/methodologies/action-learning journey.md",
-    "docs/collaborators/communities of practice/self-organising.md",
-    "docs/patterns/sociocratic organising.md",
-    "docs/collaborators/communities of practice/Self-Organising.md",
-    "docs/Practices/Warm Data Labs.md",
     "docs/Decentralized Aspects",
     "docs/Assets/timelining_input.png",
     "docs/Assets/timelining_2.png",
@@ -310,7 +311,6 @@
     "Gemfile.txt",
     "_layouts/default.html",
     "_layouts",
-    "_config.yml",
     "Pasted image 20241009144202.png",
     "Assets/levels-of-work.png",
     "Assets/levels-of-work.svg",
