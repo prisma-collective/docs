@@ -2,7 +2,7 @@
 
 _Weaving the invisible threads of contribution into a regenerative tapestry_
 
-In the heart of every [[action-learning journey]] lies a complex web of contributions—some visible, others hidden from view. Like the mycelial networks beneath a forest floor, these exchanges of value nourish the entire ecosystem, yet often remain unacknowledged in conventional economic frameworks. At Prisma, we recognize that true regeneration requires making these invisible flows visible, honoring the full spectrum of gifts that sustain our collective work.
+In the heart of every [[action-learning journey]] lies a complex web of contributions—some visible, others hidden from view. Like the mycelial networks beneath a forest floor, these exchanges of value nourish the entire ecosystem, yet often remain unacknowledged in conventional economic frameworks. A core part of our work at Prisma, and our perspective on *true regeneration*, is making these invisible flows visible, honoring the full spectrum of gifts that sustain our collective work.
 
 ## **The Challenge: Valuing the Invisible**
 
