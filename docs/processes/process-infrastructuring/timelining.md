@@ -15,9 +15,7 @@ Insights are dynamically generated through UI interactions, enabled by clusterin
 # 1. Input Protocol: Ingest, Processing and Question APIs
 
 The timelining bot can be added to multiple group chats, distinguishing between circles of purpose and trust (e.g., facilitator circle, hub team, participant groups). Vercel functions handle API services, ensuring seamless connections and concurrency. 
-
 ## Purpose
-
 To design the data solicitation, capturing and storage mechanism.
 
 ## Core Capabilities
@@ -145,7 +143,6 @@ The system facilitates a comprehensive, AI-aided exploration of journaling data 
 ## Purpose
 
 The insight generation phase takes a natural text query from the UI and generates insightful responses, updating the timeline to filter for relevant entries accordingly. A single interactive interface will allow users to browse, search, and interpret voice notes along a timeline. 
-
 ## Core Capabilities
 
 The interface provides:
