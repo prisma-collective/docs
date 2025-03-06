@@ -9,14 +9,12 @@ we bring active facilitation to work at three levels of incubation:
 3. **ECOSYSTEMS:** Multiple levels of actors, partnerships, aims. 
 
 ![[levels-of-work.png]]
-## The Overall Narrative
+## High-Level Overview
 
 1. [[Bioregional Celebration Festival]]
-3. [[The Challenge We're Addressing]]
-4. [[Introducing Our Solution]]
-5. [[Core Value-Adding Process and Business Model]]
-6. [[Stakeholders and Growth Strategy]]
-7. [[Mission and Call to Action]]
+2. [[Core Value-Adding Process and Business Model]]
+3. [[Stakeholders and Growth Strategy]]
+4. [[Replace Academy Case Study]]
 
 ## Contributions
 
