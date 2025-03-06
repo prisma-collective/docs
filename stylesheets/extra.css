@@ -1,0 +1,60 @@
+:root {
+    --md-primary-fg-color:        #7faec2;
+    --md-accent-fg-color:         #c362ff;
+  }
+
+[data-md-color-scheme="default"] {
+    --md-footer-bg-color: default;
+    --md-footer-fg-color: default;
+    --body-bg-color: white; /* Set body background color for light theme */
+    --body-fg-color: black; /* Set body foreground (text) color for light theme */
+    --heading-color: black; /* Set heading color for light theme */
+}
+
+[data-md-color-scheme="slate"] {
+    --md-footer-bg-color: slate;
+    --md-footer-fg-color: slate;
+    --body-bg-color: black; /* Set body background color for dark theme */
+    --body-fg-color: white; /* Set body foreground (text) color for dark theme */
+    --heading-color: white;/* Set heading color for light theme */
+}
+
+.md-footer {
+    background-color: var(--md-footer-bg-color);
+    color: var(--md-footer-fg-color);
+}
+
+.md-footer-meta {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', sans-serif;
+    color: var(--heading-color); /* Dynamic heading color based on theme */
+  }
+
+  body, input {
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+
+/* Add this new rule for the navigation links */
+.md-nav__link .md-ellipsis {
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+/* Add this new rule for the navigation title */
+.md-nav__title {
+    font-family: 'Space Grotesk', sans-serif;
+    color: var(--heading-color); /* Dynamic heading color for nav titles */
+}
+
+body {
+    background: var(--body-bg-color); /* Use the variable for background color */
+    color: var(--body-fg-color); /* Use the variable for text color */
+}
+
+/* Specific styling for page title (e.g., .md-title if used) */
+.md-title {
+    color: var(--heading-color); /* Ensure page heading matches theme color */
+    font-family: 'Space Grotesk', sans-serif;
+}
