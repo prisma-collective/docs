@@ -134,6 +134,7 @@ async def webhook(update: TelegramUpdate):
         ```bash
         https://<your-vercel-url>/webhook
         ```
+
 # Conclusion
 
 - This setup leverages **FastAPI** for handling requests and **python-telegram-bot** for interacting with the Telegram Bot API.
