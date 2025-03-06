@@ -4,7 +4,7 @@ The timelining system is a voice-first analytics pipeline that captures Telegram
 
 The system has three stages: 
 
-1. Input Protocol
+1. [[input protocol]]
 2. Data Preparation
 3. Insight Generation
 
@@ -34,7 +34,7 @@ The bot will collect participant entries, enabling tailored user experiences and
 
 ### Implementation Approach
 
-The first priority is a simple and reliable ingest system, which will begin development before grant approval. Grant funding will support post-processing, including vector embeddings, response generation, and timeline contextualization.
+The first priority is a simple and reliable ingest system. Post-processing, including vector embeddings, response generation, and timeline contextualization will happen after that.
 
 #### Ingest Workflow
 

@@ -30,4 +30,4 @@ The core processes being worked on so far are:
 2. [[ground-potentialising|ground-potentialising]]
 3. [[docs/Glossary/Enactment|enacting]]
 4. [[a. Introduction|evaluating]]
-5. [[process-infrastructuring]]
+5. [[processes/process-infrastructuring/overview]]
