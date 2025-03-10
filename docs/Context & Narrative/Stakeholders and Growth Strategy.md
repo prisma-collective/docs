@@ -23,7 +23,7 @@ These case studies are developmental learning accounts: each with levels of dept
 
 Over time, using these ALJs as the innovation engine, we will build out [[action-learning infrastructure]]: distributed means of participating in action-learning journeys. This is to work towards a platform where these events organise themselves and people work in a distributed manner on bioregional transition pathways. All capacities and resourcing is organised and accounted for in a decentralised manner by leveraging these underlying patterns we're working on.
 
-![[concept_ordering 1.png]]
+![[concept_ordering.png]]
 
 # Roadmap
 In summary, although each level is, to some extent, active simultaneously, we are focussing on the orders of system actualisation sequentially:
@@ -34,7 +34,7 @@ In summary, although each level is, to some extent, active simultaneously, we ar
 ## Case-studies as Developmental Accounts
 In order to on-board [[hubs]] into self-organising and self-[[publishing]] capacity, prisma is first manually organising and facilitating several [[action-learning journeys]] to build internal capability for effective distributed system design. 
 
-This is also the period in which to generate clarity and cohesion of the core underlying patterns that are most relevant in publishing developmental accounts of [[action-learning]]:
+This is also the period in which to generate clarity and cohesion of the core underlying patterns that are most relevant (see image) in publishing developmental accounts of [[action-learning]]:
 
 1. Mapping - making visible the network hub and the future events being potentialised
 2. [[Publishing]] - making the learnings generated during the action-learning journey available to a broader audience
