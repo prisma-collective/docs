@@ -65,7 +65,9 @@ Scales-appropriate capabilities:
 - Practice outcome: practice currency
 - Organising team: prisma core
 - Lead impulse: individual practitioner on-the-ground
-- Prisma as distributed system: evaluation and potentialising interfaces complete
+- Prisma as distributed system: 
+	- Evaluation interface complete
+	- Potentialising interface complete
 ## Incubation
 
 Scales-appropriate capabilities: 
