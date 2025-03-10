@@ -26,8 +26,7 @@ Over time, using these ALJs as the innovation engine, we will build out [[action
 ![[concept_ordering 1.png]]
 
 # Roadmap
-
-In summary, although each order is, to some extent, active simultaneously, we are focussing on the orders of system actualisation sequentially, in the following years:
+In summary, although each level is, to some extent, active simultaneously, we are focussing on the orders of system actualisation sequentially, in the following years:
 
 1. Case studies: 2025+
 2. Incubation: 2026-2028+
