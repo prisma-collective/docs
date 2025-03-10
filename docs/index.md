@@ -15,6 +15,7 @@ we bring active facilitation to work at three levels of incubation:
 2. [[Core Value-Adding Process and Business Model]]
 3. [[Stakeholders and Growth Strategy]]
 4. [[Replace Academy Case Study]]
+5. [[ALJ Playbook]]
 
 ## Contributions
 
