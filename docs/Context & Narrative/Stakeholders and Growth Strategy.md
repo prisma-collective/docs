@@ -23,14 +23,20 @@ These case studies are developmental learning journeys: each with levels of dept
 
 Over time, using these ALJs as the innovation engine we will build out [[action-learning infrastructure]]: distributed means of participating in and building capacity around action-learning journeys. This is to work towards a platform where these events organise themselves and people work in a distributed manner on bioregional transition pathways. All capacities and resourcing is organised and accounted for in a decentralised manner by leveraging these underlying patterns we're working on.
 
-![[concept_ordering.png]]
+![[concept_ordering 1.png]]
 
 # Roadmap
-## Case-studies as Developmental Learning Journeys
+## Case-studies as Developmental Accounts
 In order to on-board [[hubs]] into self-organising and self-[[publishing]] capacity, prisma is first manually organising and facilitating several [[action-learning journeys]] to build internal capabilities for effective distributed system design. 
 
 This is also the period in which to generate clarity and cohesion of the core underlying patterns that are most relevant in publishing developmental accounts of [[action-learning]]:
 
 1. Mapping - making visible the network hub and the future events being potentialised
-2. Publishing - making the learnings generated during the action-learning journey available to a broader audience
-3. Mediating learning journeys - 
+2. [[Publishing]] - making the learnings generated during the action-learning journey available to a broader audience
+3. [[Action-learning journeys]]
+4. On-the-ground practitioners (aka fellows) - those who are stewarding the alignment between ALJ organising and place-sourced potential
+5. [[a. Introduction|Place-in-practice]] and [[Enactment|Practice-in-place]] - the challenge of working with such large systems as an evolving community of practice and communities of place, and how they interrelate to co-evolve together, through hotspots of activity where transformation can occur. 
+
+Therefore, by the end of this year, we are aiming to have generated the internal clarity of these concepts needed to be able to deliver on the promise of one published case-study per ALJ event. Required for this, we will be developing interfaces for the four core processes that is the organising pattern we bring to each ALJ: 
+
+1. [[a. Introduction|Evaluation]]: 
