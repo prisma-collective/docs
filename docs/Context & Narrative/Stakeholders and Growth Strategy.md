@@ -59,10 +59,35 @@ Therefore, by the end of this year, we are aiming to have generated the internal
 		1. Sign-up forms
 		2. On-boarding calls that facilitate alignment with enaction design
 
+Scales-appropriate capabilities: 
+
+- Incubation outcome: product innovation
+- Practice outcome: practice currency
+- Organising team: prisma core
+- Lead impulse: individual practitioner on-the-ground
+- Prisma as distributed system: evaluation and potentialising interfaces complete
 ## Incubation
 
+Scales-appropriate capabilities: 
+
+- Incubation outcome: organisation
+- Practice outcome: practice DAO
+- Organising team: hub team
+- Lead impulse: hub and/ or practitioner-group
+- Prisma as distributed system: all core processes with active task forces evolving them, rudimentary prisma on-chain governance and community currency systems
+	- Participant profiles
+	- Participation reputation
+	- Team-formation
+	- System-wide practice-currency visibility (seeing activity on-the-ground)
 
 ## Self-organising ALJ Ecosystem
 
+Scales-appropriate capabilities: 
+
+- Incubation outcome: ecosystemic partnerships shift
+- Practice outcome: practice DAO group
+- Organising team: hub team and partners
+- Lead impulse: hub and/ or practitioner-group
+- Prisma as distributed system: 
 
 [^1]: Mario Yanez
