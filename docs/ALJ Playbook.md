@@ -1,32 +1,193 @@
-Here's a hyper-practical, minimally-abstract step-by-step rundown of how an [[action-learning journeys|action-learning journey]] (ALJ) could look like...
+Here's an attempt at a hyper-practical, minimally-abstract step-by-step rundown of how an [[action-learning journeys|action-learning journey]] (ALJ) could look like. 
 
-1. Hub vision activation
-	1. Find a [[hubs|hub]] or a practitioner working closely with a community centre.
-	2. Adopt a view of its place as nested systems.
-	3. Work with the hub on seeing [[place-sourced potential]].
-	4. Once potential is seen, work on identifying the hub's role in realising that potential.
-	5. Once the hub has seen its role, it may be able to see the contribution[^1] it is called to make.
-2. Calling in an ALJ
-	1. Ideally the contribution requires at least some of the following...
-		1. working at multiple levels of the system
-		2. working with different capacities (art, technology, community, health, finance)
-		3. working close to or beyond the boundaries of status-quo[^2]
-		4. seeming constraints (bootstrapping/ self-organising ethos)
-	2. The hub team then calls in the start of the process to start potentialising a future ALJ by posting an ***event page*** that details the stakeholders that will be aligned to realise potential through the ALJ[^3]
-	3. A facilitator team organises around this prospective ALJ, starting to work closely with the hub team on-the-ground to develop place-sourced practices that will be employed to actualise the system potential
-	4. Together, they develop place-specific versions of the four [[core processes]] available to support the organising of an ALJ
-3. Facilitating via the four core processes
-	1. Enrolment: the hub and facilitator teams steward the inviting of additional energies in such a way as to align different capacities (roles) around the vision of potential that will be realised during the ALJ.
-	2. Ground-potentialising: carefully managing expectations by balancing the realities on-the-ground with the potential being seen. This process addresses constraining ALJ scope, helping name the focus, seeing the approach lines up with the desired outcome, and engaging external parties interested in those outcomes.
-	3. Action: designing the facilitation needed for self-organising emergence in a way to produce a tech innovation, informed by the unique context of their place and designed from a living systems paradigm, where the experiential learning process itself is the experimentation by which they embody a potential system state and can use that collective insight to generate a precise intervention.
-	4. Evaluation: making visible the flows of energy unique to this place in a way that they can be valued. 
-4. Generating data[^4] on...
-	1. How participants grew capacities in themselves and the systems they're part of
-	2. How practice was applied
-	3. How different stakeholders embodied organisational forms as a means to coordinate 
-5. Publishing a dynamic case-study showing...
-	1. 
-6. Registering subscribers, generating revenue as a means to
+Summary:
+
+```
+1. Hub Vision Activation  
+   1.1 Identifying a Hub  
+   1.2 Seeing Place as a Living System  
+   1.3 Identifying Place-Sourced Potential  
+   1.4 Clarifying the Hub’s Role in Realizing Potential  
+   1.5 Seeing the Hub’s Unique Contribution  
+2. Calling in an ALJ  
+   2.1 Identifying Key Contributors  
+   2.2 Making the Call: Launching the ALJ Invitation  
+   2.3 Forming the Facilitation Core  
+   2.4 Designing the Core Processes  
+```
+
+As a checklist for any organising team(s):
+
+**1. Enrolment: Aligning Energies Around Potential**
+
+- [ ]  **Hub and facilitation teams** identified and aligned around the vision.
+- [ ]  Roles and responsibilities clearly defined.
+- [ ]  Invitations extended to diverse stakeholders (community, sector experts, facilitators, etc.).
+- [ ]  Alignment of capacities (art, tech, community, etc.) with the event’s vision.
+- [ ]  Clear process for **role fit** to ensure alignment with event goals.
+- [ ]  **Stakeholder expectations** managed around the ALJ's vision of potential.
+
+**2. Ground-Potentializing: Managing Scope & Readiness**
+
+- [ ]  **Clear focus for the ALJ** is defined (what’s the core problem or opportunity?).
+- [ ]  Scope of the event **contained**—preventing overreach while still allowing for flexibility.
+- [ ]  **On-the-ground realities** mapped (e.g., logistical, cultural, financial).
+- [ ]  **Alignment** between the approach (process, methods) and the desired outcomes.
+- [ ]  **External parties** (government, funders, experts) engaged where needed.
+- [ ]  **Communication channels** set up for ongoing updates and feedback loops.
+- [ ]  **Contingency plans** for unforeseen constraints or changes.
+
+**3. Action: Designing for Self-Organizing Emergence**
+
+- [ ]  Facilitation design that **supports self-organization**—ensuring autonomy while maintaining focus.
+- [ ]  **Context-specific practices** are identified to reflect the place’s unique dynamics.
+- [ ]  Event designed with a **living systems approach**—encouraging natural flows and interconnectedness.
+- [ ]  Clear facilitation strategies for **embodying a potential system state** (role play, prototyping, etc.).
+- [ ]  **Tools and methods** prepared to track emergent actions (e.g., feedback mechanisms, observation).
+- [ ]  Opportunities for **hands-on learning and experimentation** included.
+
+**4. Evaluation: Making Flows of Energy Visible & Valued**
+
+- [ ]  **Evaluation metrics** defined (not just outcome-based but energy flows, relationships, etc.).
+- [ ]  Tools for making **invisible shifts visible** (e.g., stories, feedback, surveys).
+- [ ]  **Documentation strategies** in place to capture the energy, relationships, and outputs.
+- [ ]  **Reflection periods** built into the event to assess progress and adjust actions.
+- [ ]  Methods for **sharing results** with external stakeholders or wider community.
+- [ ]  Follow-up plans to ensure the insights or innovations continue post-event.
+
+While the above checklist focuses on the ***facilitation processes*** of an ALJ, almost all conventional elements around organising an event should also be considered:
+
+1. **Logistics**
+    - [ ]  Venue logistics (location, capacity, accessibility).
+    - [ ]  **Technical setup** (AV, internet, equipment, materials).
+    - [ ]  **Budget and financial planning** (funding, expenses, donations, grants).
+    - [ ]  **Transportation and accommodation** (for remote participants or speakers).
+
+2. **Marketing & Communication**
+    - [ ]  **Marketing materials** (event pages, brochures, flyers).
+    - [ ]  **Communication strategy** (pre-event updates, social media, email).
+    - [ ]  **Branding and messaging** (clear communication of the event’s vision and objectives).
+
+3. **Participant Engagement**
+    - [ ]  **Onboarding materials** for participants (event guidelines, schedules).
+    - [ ]  **Clear call-to-action** for participants—what is expected of them?
+    - [ ]  **Support for diverse needs** (language, accessibility, emotional support).
+
+4. **Risk Management**    
+    - [ ]  **Health and safety protocols** in place.
+    - [ ]  **Insurance coverage** (for public liability, cancellation, etc.).
+    - [ ]  **Emergency procedures** (for accidents, crises, or unexpected situations).
+
+5. **Post-Event Follow-Up**    
+    - [ ]  **Survey for participant feedback** (gather insights on experience and improvement).
+    - [ ]  **Evaluation report** (summarize outcomes, learnings, and next steps).
+    - [ ]  **Continued community engagement** (to sustain momentum and outcomes).
+
+Now for some more description:
+# 1. Hub vision activation
+A **hub** is a key nodal actor in this process—an entity or practitioner deeply embedded in a place and connected to its people, ecosystems, and ongoing initiatives. The hub serves as both a grounding force and a catalyst, holding the vision for what is _possible_ rather than just reacting to problems. This step is about working with the hub to activate a **regenerative design lens**, recognizing place as a living system full of untapped potential.
+
+#### **1.1 Identifying a Hub**
+
+- Look for a **community-embedded practitioner** or an organization, such as a **community center, local initiative, or place-based network**, that already plays a connective role.
+- The ideal hub has **relational depth**—trusted connections with diverse actors in the community—and the ability to **coordinate across different scales** (local, regional, systemic).
+
+#### **1.2 Seeing Place as a Living System**
+
+- Support the hub in **adopting a "nested systems" perspective**, recognizing how their place is interconnected with larger social, ecological, and economic flows.
+- Shift from **problem-based thinking** (fixing what’s broken) to **potential-based thinking** (activating what wants to emerge).
+- Use **systems mapping, storytelling, or embodied practice** to surface unseen connections and regenerative opportunities.
+
+#### **1.3 Identifying Place-Sourced Potential**
+
+- Work with the hub to **see beyond immediate challenges** and uncover **emerging opportunities for transformation**.
+- Ask: What unique strengths, relationships, and resources already exist here? What new patterns or experiments could emerge?
+- This step is about **revealing what the place is calling for**, rather than imposing external solutions.
+
+#### **1.4 Clarifying the Hub’s Role in Realizing Potential**
+
+- Once the potential is recognized, explore **how the hub can best serve as an enabler of change**.
+- This could involve **bridging relationships, hosting spaces for co-creation, testing regenerative models, or amplifying local knowledge**.
+
+#### **1.5 Seeing the Hub’s Unique Contribution**
+
+- As the hub clarifies its role, it will begin to see the **specific contribution it is called to make** within the wider system.
+- This contribution should be **aligned with the hub’s existing capacities**, but also stretch into new possibilities for self-organizing, collaboration, and systemic impact.
+# 2. Calling in an ALJ
+#### **2.1 Identifying Key Contributors**
+The success of an ALJ depends on the right mix of people who bring cross-sectoral expertise, systems thinking, and a commitment to working beyond the status quo. Ideally, contributors should:
+
+- **Work across multiple levels of the system** (from grassroots organizing to institutional change).
+- **Bring diverse capacities** (e.g., arts, technology, community organizing, health, finance, governance).
+- **Operate at or beyond conventional boundaries** (experimenting with new models of collaboration, policy, and action).
+- **Thrive in constraint-driven environments** (bootstrapping, self-organizing, and adapting in real time).
+- Be keen for a highly-emergent environment, welcoming of uncertainty and able to open themselves up to navigating complexity as an unavoidable condition of working on activating living systems potential
+
+#### **2.2 Making the Call: Launching the ALJ Invitation**
+
+The **hub team** initiates the process by:
+- **Posting an event page or invitation** that clearly communicates:
+    - The purpose and vision of the ALJ.
+    - The key themes and challenges it will explore.
+    - The stakeholders and participants being aligned to co-create the experience.
+    - The open call for facilitators, contributors, and key roles.
+- **Ensuring clarity on roles** within the ALJ, so participants understand how they can engage meaningfully.
+#### **2.3 Forming the Facilitation Core**
+
+- A **facilitation team** emerges around the ALJ, coalescing as a core group responsible for shaping the journey.
+- This team works **closely with the hub team on the ground** to:
+    - Understand the unique needs and dynamics of the local place.
+    - Develop **place-sourced practices** that make the ALJ deeply relevant to its context.
+#### **2.4 Designing the Core Processes**
+
+- The facilitation and hub teams **co-create a localized version** of the **four core processes** that will guide the ALJ’s flow.
+- These processes should be:
+    - **Grounded in real-world conditions**—designed for emergence rather than pre-set agendas.
+    - **Tangible and embodied**—ensuring participants actively _do_ rather than just discuss.
+    - **Iterative and responsive**—able to shift as new insights emerge.
+# 3. Facilitating via the four core processes
+
+Once the hub and facilitation team are in place, the next step is to design **place-specific versions** of the four core facilitation processes. Each process corresponds to a key facilitator role and serves as a guiding structure for channelling energy into the **Action Learning Journey (ALJ) intensive**—the multi-stakeholder container for emergent action.
+
+#### **3.1 Enrolment: Aligning Energies Around Potential**
+
+- The **hub and facilitator teams** steward the process of inviting additional participants, ensuring that diverse capacities (roles) align with the **vision of potential** emerging through the ALJ.
+- This is more than recruitment—it’s about **intentional weaving** of relationships, ensuring that each participant plays a meaningful part in realizing the system’s potential.
+
+#### **3.2 Ground-Potentializing: Managing Scope & Readiness**
+
+- This process ensures that **expectations are balanced** between on-the-ground realities and the larger vision.
+- The facilitation team works to:
+    - **Define a clear focus** for the ALJ.
+    - **Ensure alignment between approach and intended outcomes.**
+    - **Engage external stakeholders** whose interests connect to the envisioned outcomes.
+- This step **contains the ALJ scope**, preventing it from becoming too diffuse while still allowing for emergence.
+
+#### **3.3 Action: Designing for Self-Organizing Emergence**
+
+- The facilitation team **creates conditions** for participants to engage in **self-organizing action** that leads to a tangible **innovation, prototype, or intervention**.
+- This process is:
+    - **Informed by the unique place-based context** and its dynamics.
+    - **Designed from a living systems paradigm**, where the experience itself becomes the experiment.
+    - **Focused on embodiment**—participants don’t just discuss, they enact and inhabit a **potential system state** in real time.
+- The collective insights from this phase drive a **precise, emergent intervention**.
+
+#### **3.4 Evaluation: Making Flows of Energy Visible & Valued**
+
+- Rather than standard metrics, this process tracks **how energy moves through the ALJ**—what is activated, where value is created, and how it continues beyond the event.
+- The facilitation team makes visible:
+    - **The new relationships, insights, and capacities formed.**
+    - **The shifts in perspective or practice that emerge.**
+    - **The regenerative potential seeded in the place.**
+- This ensures that the ALJ **leaves a lasting imprint**, not just in actions taken but in **new ways of being and working that sustain beyond the event**.
+# 4. Generating data on...
+1. How participants grew capacities in themselves and the systems they're part of
+2. How practice was applied
+3. How different stakeholders embodied organisational forms as a means to coordinate 
+
+
+4. Publishing a dynamic case-study showing...
+5. Registering subscribers, generating revenue as a means to
 	2. earn income, finance another ALJ
 	3. attract interest to work on the essence of place
 
