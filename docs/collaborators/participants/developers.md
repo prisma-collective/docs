@@ -59,10 +59,11 @@ the extensive onboarding process leading up to an ALJ is the window of time in w
 9. Equipment: laptops/ personal computers/ hub facilities that can be leverages
 10. Identifying trainers and skill capacities
 
-# Invitation
+# Invitation and Intention
 If this sounds like you, we'd like to enthusiastically invite you to an upcoming event. As part of that, we invite you to observe the following key moments that require careful attention: 
 
 1. As you begin this process, ask yourself not just "What is it that I am thinking?" but also "How am I thinking?" Noticing shifts in your thinking during the course of the [[action-learning journeys|action-learning journey]] will unlock added learning opportunities.
-2. If you notice yourself feeling frustrations 
+2. If you notice yourself feeling frustrated that too much time is spent discussing abstract things, like system potential and place, ask yourself "What is the contribution I am being called for?" and "What value is contained within this difference of approach that I'm not currently seeing?"
+3. Once you feel close to discovering something that you see will help evolve the system you're working on to higher levels of capabilities, ask yourself "What is at the essence of this system?" and "What is needed to bring forward its expression?"
 
 [^1]: Instrumenting is developing tooling and teams as means to reaching a given systems-evolution end. 
