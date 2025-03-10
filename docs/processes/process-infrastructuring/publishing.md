@@ -13,7 +13,7 @@ the `docs` begins as a repository template, seeding the start of an ALJ with som
 
 Below lists additional resources to assist with further reading:
 
-7. [[mkDocs and GitHub Pages]]
+1. [[mkDocs and GitHub Pages]]
 
 [^1]: Maggie Appleton, [Digital gardening](https://maggieappleton.com/garden-history).
 
