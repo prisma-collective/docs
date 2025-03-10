@@ -1,6 +1,6 @@
-1. In the form of a [[0. As a Checklist]]
+1. [[as a checklist]]
 2. [[1. Hub vision activation|hub vision activation]]
-3. [[2. Calling in an ALJ|calling in an alj]]
+3. [[2. Calling in an ALJ|calling in an ALJ]]
 4. [[3. Facilitation via Core Processes|facilitation via core processes]]
 5. [[4. Generating data|generating data]]
 6. Publishing a case-study
