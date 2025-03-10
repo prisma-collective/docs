@@ -19,13 +19,19 @@ In all the [[Action-learning journeys]] (ALJs), we are aiming to form one or mul
 
 Each ALJ also generates content: videos, interviews, call recordings, wikis, art works. This content is curated by the [[hubs]] to publish case-studies of the process. 
 
-These case studies are developmental learning journeys: each with levels of depth. Our [[Core Value-Adding Process and Business Model|business model]] centres around the subscription to these journeys to access the depth. Each event is a catalyst for the ongoing *storying* of the work, making the subscription model appropriate. Communities of place are the owners of these learning journeys and the primary recipients of subscription fees. 
+These case studies are developmental learning accounts: each with levels of depth. Our [[Core Value-Adding Process and Business Model|business model]] centres around the subscription to these journeys to access the depth. Each event is a catalyst for the ongoing *storying* of the work, ongoing learning and action, evolving thinking, making the subscription model appropriate. Communities of place own these learning accounts and are the primary recipients of subscription fees. 
 
 Over time, using these ALJs as the innovation engine we will build out [[action-learning infrastructure]]: distributed means of participating in and building capacity around action-learning journeys. This is to work towards a platform where these events organise themselves and people work in a distributed manner on bioregional transition pathways. All capacities and resourcing is organised and accounted for in a decentralised manner by leveraging these underlying patterns we're working on.
 
 ![[concept_ordering 1.png]]
 
 # Roadmap
+
+In summary, although each order is, to some extent, active simultaneously, we are focussing on the orders of system actualisation sequentially, in the following years:
+
+1. Case studies: 2025+
+2. Incubation: 2026-2028+
+3. Ecosystem: 2028-2030+
 ## Case-studies as Developmental Accounts
 In order to on-board [[hubs]] into self-organising and self-[[publishing]] capacity, prisma is first manually organising and facilitating several [[action-learning journeys]] to build internal capabilities for effective distributed system design. 
 
