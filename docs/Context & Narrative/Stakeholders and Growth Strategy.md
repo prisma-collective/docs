@@ -74,7 +74,7 @@ Scales-appropriate capabilities:
 - Practice outcome: practice DAO
 - Organising team: hub team
 - Lead impulse: hub and/ or practitioner-group
-- Prisma as distributed system: all core processes with active task forces evolving them, rudimentary prisma on-chain governance and community currency systems
+- Prisma as distributed system: all core processes with active DAO groups evolving them, rudimentary prisma on-chain governance and community currency systems
 	- Participant profiles
 	- Participation reputation
 	- Team-formation
@@ -85,9 +85,10 @@ Scales-appropriate capabilities:
 Scales-appropriate capabilities: 
 
 - Incubation outcome: ecosystemic partnerships shift
-- Practice outcome: practice DAO group
+- Practice outcome: multiple practice DAO
 - Organising team: hub team and partners
 - Lead impulse: hub and/ or practitioner-group
 - Prisma as distributed system: 
+	- 
 
 [^1]: Mario Yanez
