@@ -29,7 +29,7 @@ As a checklist for any organising team(s):
 
 **2. Ground-Potentializing: Managing Scope & Readiness**
 
-- [ ]  **Clear focus for the ALJ** is defined (what’s the core problem or opportunity?).
+- [ ]  **Clear focus for the ALJ** is defined (what’s the system of focus?).
 - [ ]  Scope of the event **contained**—preventing overreach while still allowing for flexibility.
 - [ ]  **On-the-ground realities** mapped (e.g., logistical, cultural, financial).
 - [ ]  **Alignment** between the approach (process, methods) and the desired outcomes.
