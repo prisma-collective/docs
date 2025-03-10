@@ -65,7 +65,10 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks
+  - roamlinks  
+  - exclude:
+      glob:
+        - "drafts/**"
 
 extra_javascript:
   - javascripts/mathjax.js
