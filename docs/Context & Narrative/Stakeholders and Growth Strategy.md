@@ -2,6 +2,7 @@
 aliases: 
 
 - roadmap
+- permalink: /growth/
 ---
 
 ![[roadmap_241220.png]]

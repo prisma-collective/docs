@@ -69,6 +69,7 @@ plugins:
   - exclude:
       glob:
         - "drafts/**"
+  - awesome-pages
 
 extra_javascript:
   - javascripts/mathjax.js
