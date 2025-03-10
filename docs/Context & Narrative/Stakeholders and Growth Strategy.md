@@ -12,8 +12,8 @@ permalink: /growth
 The image above shows the same underlying pattern of event organising, which applies four [[core processes]], across three different contexts:
 
 	A. Accra: Wada Hub in Accra, Ghana, for the Cardano Catalyst Fund 13 application
-	B. Regenesis and aligned partners such as [Resilience](https://www.resilience.earth)
-	C. Regenerative Investing: [atreyu](https://www.atreyu.global) & ria
+	B. Regenesis and aligned partners such as Resilience [^1]
+	C. Regenerative Investing: atreyu & ria [^2]
 
 In all the [[Action-learning journeys]] (ALJs), we are aiming to form one or multiple action-learning teams that work on-the-ground on the development and application of an instrument (tooling). 
 
@@ -26,7 +26,7 @@ Over time, using these ALJs as the innovation engine, we will build out [[action
 ![[concept_ordering 1.png]]
 
 # Roadmap
-In summary, although each level is, to some extent, active simultaneously, we are focussing on the orders of system actualisation sequentially, in the following years:
+In summary, although each level is, to some extent, active simultaneously, we are focussing on the orders of system actualisation sequentially:
 
 1. Case studies: 2025+
 2. Incubation: 2026-2028+
@@ -40,11 +40,31 @@ This is also the period in which to generate clarity and cohesion of the core un
 2. [[Publishing]] - making the learnings generated during the action-learning journey available to a broader audience
 3. [[Action-learning journeys]]
 4. On-the-ground practitioners (aka fellows) - those who are stewarding the alignment between ALJ organising and place-sourced potential
-5. [[a. Introduction|Place-in-practice]] and [[Enactment|Practice-in-place]] - the challenge of working with such large systems as an evolving community of practice and communities of place, and how they interrelate to co-evolve together, through hotspots of activity where transformation can occur. [^1]
+5. [[a. Introduction|Place-in-practice]] and [[Enactment|Practice-in-place]] - the challenge of working with such large systems as an evolving community of practice and communities of place, and how they interrelate to co-evolve together, through hotspots of activity where transformation can occur. [^3]
 6. Networking - accounting for the practice-contributions that bring places to life (measurements of participation, system effects, and DAOs)
 
-Therefore, by the end of this year, we are aiming to have generated the internal clarity of these patterns needed to be able to deliver on the promise of one published case-study per ALJ event. Required for this, we will be developing interfaces for the four core processes that is the organising pattern we bring to each ALJ: 
+Therefore, by the end of this year, we are aiming to have generated the internal clarity of these patterns needed to be able to deliver on the promise of one published case-study per ALJ event. That means:
 
-1. [[a. Introduction|Evaluation]] 
+1. [[a. Introduction|Evaluation]] - how we make visible value
+	1. Timeline interface making visible multiple layers of activity in an interactive front-end that becomes part of the [[case-study]] (in-progress)
+	2. Thorough evaluation framework, aided by being able to explore the timeline, and in-formable by a given ALJ's action design
+2. [[processes/Enactment|Enaction]] - how we activate self-organising
+	1. Enaction design framework/ methodology
+	2. Practice participation mechanisms
+	3. Enaction-Evaluation interrelationship ([[action-learning]])
+3. [[ground-potentialising|Potentialising]] - how we develop the potential of an [[action-learning journeys|action-learning journey]]
+	1. Mapping hub network and ALJ instances - the interface for where each [[case-study]] is published
+4. [[enrolment|Enrolment]] - how we sign-up and on-board participants
+	1. ALJ-specific stakeholder development pathways
+		1. Sign-up forms
+		2. On-boarding calls that facilitate alignment with enaction design
 
-[^1]: Mario Yanez
+## Incubation
+
+
+## Self-organising ALJ Ecosystem
+
+
+[^1]: [Resilience](https://www.resilience.earth)
+[^3]: [atreyu](https://www.atreyu.earth)
+[^3]: Mario Yanez
