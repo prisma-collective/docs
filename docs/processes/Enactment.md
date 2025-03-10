@@ -36,3 +36,5 @@ What are the communities of practice patterns that we can observe?
 What do these patterns say about the process?
 How do these patterns speak to the ecosystem? What can they show us?
 
+# Onboarding Call Series
+In the lead-up to 
