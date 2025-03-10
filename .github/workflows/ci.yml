@@ -57,6 +57,8 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-roamlinks-plugin
       - run: pip install mkdocs-rss-plugin
+      - run: pip install mkdocs-exclude
+      - run: pip install mkdocs-awesome-pages-plugin
 
       # First, build the site (creates the "site/" directory)
       - run: mkdocs build
