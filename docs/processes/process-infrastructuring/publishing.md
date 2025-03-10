@@ -15,5 +15,10 @@ Below lists additional resources to assist with further reading:
 
 1. [[mkDocs and GitHub Pages]]
 
+# How to Write
+When writing to the docs, it is important to consider who your audience is. Maintaining a living document that feels cohesive whilst having multiple authors is already challenging. The additional layer of this living document being meant represent an organisation which is at the same time discovering itself, makes writing with clear principles important. Here are the principles with which the prisma team writes by: 
+
+1. Shik is a 
+
 [^1]: Maggie Appleton, [Digital gardening](https://maggieappleton.com/garden-history).
 
