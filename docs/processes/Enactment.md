@@ -37,4 +37,13 @@ What do these patterns say about the process?
 How do these patterns speak to the ecosystem? What can they show us?
 
 # Onboarding Call Series
-In the lead-up to 
+In the lead-up to the intensive, we are will organise a call series to begin aligning participants around the purpose of working on a future evolved version of the place which the [[hubs|hub]] is hosted in. 
+
+These calls are meant to prime participants to participate more fully, with more vitality. The calls will be designed to discuss and make sense of the insights generated from the assignments that participants are required to complete before each call. These assignments are designed for participants to start sensing into their place.
+
+It's important that through these calls we grow a kind of energy field - a social container - that will support us in our work going forwards. Therefore, we're asking everyone to...
+
+The content that they bring is gonna be powerful (chicken without meat)
+
+- In what ways are you contributing to your community?
+- 
