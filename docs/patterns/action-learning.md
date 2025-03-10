@@ -5,6 +5,8 @@ prisma designs and [[Facilitation|facilitates]] multi-stakeholder [[action-learn
 3. [[participants]]
 4. [[partners]]
 
+the core purpose of organising all these capacity-generating roles around an intensive is to create the conditions for a systemic intervention in which *practice* is *applied* on-the-ground. applying practice means embodying the principles by which the practice comes to life, generating experiential learning value. 
+
 The product of each action-learning journey is a [[case-study]]. These case-studies are a multi-media, multi-perspective account of the experience, that serve the purpose of offering the learnings to a broader audience: action-learning, action-learning. The content of these case-studies is produced throughout the process through a kind of *participation-as-content-creation* practice:
 
 1. meeting recordings
@@ -30,4 +32,4 @@ The core processes being worked on so far are:
 2. [[ground-potentialising|ground-potentialising]]
 3. [[docs/Glossary/Enactment|enacting]]
 4. [[a. Introduction|evaluating]]
-5. [[processes/process-infrastructuring/overview]]
+5. [[processes/process-infrastructuring/overview|process-infrastructuring]]

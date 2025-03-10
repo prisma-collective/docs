@@ -27,4 +27,7 @@ Over time, using these ALJs as the innovation engine we will build out [[action-
 
 # Roadmap
 ## Case-studies as Developmental Learning Journeys
-In order to on-board [[hubs]] into self-organising and self-[[publishing]] capacity, prisma is first manually organising and facilitating several [[action-learning journeys]] as a 
+In order to on-board [[hubs]] into self-organising and self-[[publishing]] capacity, prisma is first manually organising and facilitating several [[action-learning journeys]] to build internal capabilities for effective distributed system design. 
+
+This is also the period in which to generate clarity and cohesion of the core underlying patterns that are most relevant in publishing developmental accounts of [[action-learning]].
+
