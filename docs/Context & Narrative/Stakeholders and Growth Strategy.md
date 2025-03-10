@@ -44,7 +44,7 @@ This is also the period in which to generate clarity and cohesion of the core un
 5. [[a. Introduction|Place-in-practice]] and [[Enactment|Practice-in-place]] - the challenge of working with such large systems as an evolving community of practice and communities of place, and how they interrelate to co-evolve together, through hotspots of activity where transformation can occur. [^1]
 6. Networking - accounting for the practice-contributions that bring places to life (measurements of participation, system effects, and DAOs)
 
-Therefore, by the end of this year, we are aiming to have generated the internal clarity of these concepts needed to be able to deliver on the promise of one published case-study per ALJ event. Required for this, we will be developing interfaces for the four core processes that is the organising pattern we bring to each ALJ: 
+Therefore, by the end of this year, we are aiming to have generated the internal clarity of these patterns needed to be able to deliver on the promise of one published case-study per ALJ event. Required for this, we will be developing interfaces for the four core processes that is the organising pattern we bring to each ALJ: 
 
 1. [[a. Introduction|Evaluation]] 
 
