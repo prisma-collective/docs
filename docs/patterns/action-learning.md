@@ -1,4 +1,4 @@
-With these processes, prisma designs and [[Facilitation|facilitates]] a multi-stakeholder [[Action-learning journeys|action-learning journey]], grounded in partner [[hubs|hubs]] in different [[bioregion|bioregions]]. Through our [[enrolment]] process, we onboard the following stakeholders into a multi-week alignment process, culminating in an intensive:
+prisma designs and [[Facilitation|facilitates]] multi-stakeholder [[action-learning journeys]], grounded in partner [[hubs|hubs]] in different [[bioregion|bioregions]]. Through our [[enrolment]] process, we onboard the following stakeholders into an alignment process lasting multiple weeks, culminating in an intensive:
 
 1. [[hubs]]
 2. [[practice networks]]

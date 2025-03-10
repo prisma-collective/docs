@@ -19,13 +19,5 @@ An action-learning journey is...
 - Experimental
 - Organised by a group of people that identify with their bioregion 
 - In service to catalysing a [[state-change]] in a given system of the regional context, made visible by their [[aspect]]
+- a journey of [[action-learning]]
 
-Each action-learning journey is made up of...
-
-1. **SYSTEMS:** systems of place and systems of endeavour/ intervention, such as
-	- knowledge commoning
-	- villaging systems
-	- land-relations (and what is distastefully known as property)
-	- food systems, and more...
-2. **PRACTICE:** application and learning, or, [[docs/Glossary/Enactment]] and [[a. Introduction|evaluation]]
-3. **COMMUNITY:** [[practice networks]] and [[hubs]]
