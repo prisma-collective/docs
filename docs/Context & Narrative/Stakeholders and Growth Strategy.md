@@ -26,3 +26,5 @@ Over time, using these ALJs as the innovation engine we will build out [[action-
 ![[concept_ordering.png]]
 
 # Roadmap
+## Case-studies as Developmental Learning Journeys
+In order to on-board hubs into self-publishing capacity, prisma is first 
