@@ -23,6 +23,6 @@ These case studies are developmental learning journeys: each with levels of dept
 
 Over time, using these ALJs as the innovation engine we will build out [[action-learning infrastructure]]: distributed means of participating in and building capacity around action-learning journeys. This is to work towards a platform where these events organise themselves and people work in a distributed manner on bioregional transition pathways. All capacities and resourcing is organised and accounted for in a decentralised manner by leveraging these underlying patterns we're working on.
 
-![[ordering.png]]
+![[concept_ordering.png]]
 
 # Roadmap
