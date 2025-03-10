@@ -16,7 +16,10 @@ Here's a hyper-practical, minimally-abstract step-by-step rundown of how an [[ac
 	3. A facilitator team organises around this prospective ALJ, starting to work closely with the hub team on-the-ground
 	4. Together, they develop place-specific versions of the four [[core processes]] available to support the organising of an ALJ
 3. Facilitating via the four core processes
-	1. 
+	1. Enrolment: the hub and facilitator teams steward the inviting of additional energies in such a way as to align different capacities (roles) around the vision of potential that will be realised during the ALJ.
+	2. Ground-potentialising: careful balancing of ground realities and sky potential is required to manage expectations of both participants and external parties with interest to resource the continuity of the work. This process addresses constraining ALJ scope, helping name the focus, and seeing the approach lines up with the desired outcome.
+	3. Action: designing the facilitation needed for self-organising emergence.
+	4. Evaluation: designing the 
 
 [^1]: A contribution may take many forms. This needs to be something that comes from the heart of those working most committed and carefully with the essence of a place. It might be to reconnect two communities with broken history. It could be to introduce a new project that would help unblock energy and open up new directions. It could be to bring innovation and arts into a community losing young talent to foreign job markets. It could be to steer a river to steward its health long into the future. 
 
