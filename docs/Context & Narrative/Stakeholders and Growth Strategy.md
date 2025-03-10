@@ -1,8 +1,6 @@
 ---
 aliases: 
-
 - roadmap
-
 permalink: /growth
 ---
 
