@@ -17,7 +17,7 @@ The image above shows the same underlying pattern of event organising, which app
 
 In all the [[Action-learning journeys]] (ALJs), we are aiming to form one or multiple action-learning teams that work on-the-ground on the development and application of an instrument (tooling). 
 
-Each ALJ also generates content: videos, interviews, call recordings, wikis, art works. This content is curated by the [[hubs]] to publish case-studies of the process. 
+Each ALJ also generates content: videos, interviews, call recordings, wikis, art works. This content is curated by the [[hubs]] to publish [[case-study|case-studies]] of the process. 
 
 These case studies are developmental learning accounts: each with levels of depth. Our [[Core Value-Adding Process and Business Model|business model]] centres around the subscription to these journeys to access the depth. Each event is a catalyst for the ongoing *storying* of the work, ongoing learning and action, evolving thinking, making the subscription model appropriate. Communities of place own these learning accounts and are the primary recipients of subscription fees. 
 
@@ -43,7 +43,7 @@ This is also the period in which to generate clarity and cohesion of the core un
 5. [[a. Introduction|Place-in-practice]] and [[Enactment|Practice-in-place]] - the challenge of working with such large systems as an evolving community of practice and communities of place, and how they interrelate to co-evolve together, through hotspots of activity where transformation can occur. [^1]
 6. Networking - accounting for the practice-contributions that bring places to life (measurements of participation, system effects, and DAOs)
 
-Therefore, by the end of this year, we are aiming to have generated the internal clarity of these patterns needed to be able to deliver on the promise of one published case-study per ALJ event. That means:
+Therefore, by the end of this year, we are aiming to have generated the internal clarity of these patterns needed to be able to deliver on the promise of one published [[case-study]] per ALJ event. That means:
 
 1. [[a. Introduction|Evaluation]] - how we make visible value
 	1. Timeline interface making visible multiple layers of activity in an interactive front-end that becomes part of the [[case-study]] (in-progress)

@@ -4,7 +4,7 @@ prisma is a distributed action-learning incubator. we organise and facilitate [[
 
 we bring active facilitation to work at three levels of incubation:
 
-1. **PRODUCTS:** Making visible the activity of action-learning groups on-the-ground. 
+1. **PRODUCTS:** Making visible the application of practice by action-learning groups on-the-ground. 
 2. **ORGANISATIONS:** Securing longer-term viability of a given team's line of work.
 3. **ECOSYSTEMS:** Multiple levels of actors, partnerships, aims. 
 

@@ -14,4 +14,4 @@ process-infrastructuring refers to facilitating the creation of a distributed sy
 4. [[docs/Glossary/Enactment|enacting]] includes...
 	1. self-organising practice participation
 
-each interrelates to create the means for [[hubs]] and [[practice networks]] to jointly self-organise [[Action-learning journeys]] and produce a [[case-studies]].
+each interrelates to create the means for [[hubs]] and [[practice networks]] to jointly self-organise [[Action-learning journeys]] and produce a [[case-study]].
