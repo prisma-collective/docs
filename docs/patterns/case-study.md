@@ -4,7 +4,7 @@ capacity-building has many dimensions. we call these dimensions [[aspect|aspects
 
 each case-study therefore aims to utilise one or multiple [[practice currencies]].
 
-these currencies are the verified measurements that form the foundation for data-backed storytelling. all the additional media - meeting recordings, photos, audio notes - are (qualitative) layers of additional context around this underlying (quantitative) heartbeat. 
+these currencies are the verified measurements that form the foundation for data-backed storytelling. all the additional media - meeting recordings, photos, audio notes, design documents - are (qualitative) layers of additional context around this underlying (quantitative) heartbeat. 
 
 the purpose of [[enrolment]] and [[ground-potentialising]], in the lead up to [[action-learning journeys]], is for the whole system of place to become more visible, and for a place-sourced practice to be identified. these place-sourced practices are what animate the multi-stakeholder, multi-level [[processes/Enactment|enactment]], gesturing toward potential-led, place-sourced economy. 
 
