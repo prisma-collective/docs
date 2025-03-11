@@ -294,6 +294,13 @@
   },
   "active": "61c61ed19da43025",
   "lastOpenFiles": [
+    "docs/playbook/3. Calling in an ALJ.md",
+    "docs/playbook/2. Hub vision activation.md",
+    "docs/playbook/1. as a checklist.md",
+    "docs/playbook/3. Facilitation via Core Processes.md",
+    "docs/playbook/0. overview.md",
+    "docs/playbook",
+    "docs/Glossary/place-sourced potential.md",
     "docs/Assets/concept_ordering.png",
     "docs/processes/Developmental Regenerative Evaluation/f. Journaling-Based Evaluation Bot.md",
     "docs/processes/Developmental Regenerative Evaluation/e. Methodology.md",
@@ -327,17 +334,11 @@
     "docs/patterns/Core Processes.md",
     "docs/methodologies/Enactment.md",
     "docs/Glossary/Capacity-Building.md",
-    "docs/Glossary/Developmental Evaluation.md",
-    "docs/Glossary/Enactment.md",
-    "docs/methodologies/Developmental Regenerative Evaluation/b. Inspiration.md",
-    "docs/Glossary/Living Lab.md",
-    "docs/Glossary/Narrative.md",
     "docs/collaborators/communities of practice/Holochain",
     "Tech",
     "docs/Decentralized Aspects",
     "docs/methodologies/Developmental Regenerative Evaluation",
     "docs/Practices",
-    "Gemfile",
-    "Gemfile.txt"
+    "Gemfile"
   ]
 }
