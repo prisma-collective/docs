@@ -4,7 +4,7 @@ _Weaving reflections into the loom of systemic change_
 
 Imagine a world where every insight, every emotion, every quiet shift in understanding becomes a thread in a tapestry of collective wisdom. That’s the promise of our journaling-based evaluation bot—a whisperer of insights, a weaver of connections, a gentle guide through the labyrinth of systemic transformation.
 
-This isn't just about collecting data; it's about honoring the inner journey of each participant in the [[Action-learning journeys]], recognizing that profound shifts often begin in the quiet spaces of personal reflection. We're building a tool that not only captures these nuances but also transforms them into actionable intelligence for individuals, communities, and the systems they inhabit.
+This isn't just about collecting data; it's about honoring the inner journey of each participant in the [[action-learning journeys]], recognizing that profound shifts often begin in the quiet spaces of personal reflection. We're building a tool that not only captures these nuances but also transforms them into actionable intelligence for individuals, communities, and the systems they inhabit.
 
 ## **The Heart of the Bot: Honoring the Unseen**
 
@@ -16,7 +16,7 @@ The bot emerged as a way to gently nudge participants toward reflection, to ask 
 
 Imagine stepping into the Accra [[living lab]], where the air crackles with possibility. Each day, participants receive a gentle nudge via [[Telegram Bots]]: _“What surprised you today? Where did you feel most alive? How did your perspective shift?”_
 
-These prompts are not random; they are carefully crafted to align with the day's agenda, to tap into the core themes of the [[Action-learning journeys]], and to evoke thoughtful responses. The prompts are designed to open rather than close, to invite exploration rather than demand answers.
+These prompts are not random; they are carefully crafted to align with the day's agenda, to tap into the core themes of the [[action-learning journeys]], and to evoke thoughtful responses. The prompts are designed to open rather than close, to invite exploration rather than demand answers.
 
 Participants can respond in whatever way feels most natural—a quick voice note, a thoughtful text message, a poem scribbled in a journal. The bot captures these reflections, gently weaving them into a collective tapestry of experience.
 
@@ -24,7 +24,7 @@ Participants can respond in whatever way feels most natural—a quick voice note
 
 But the magic doesn't stop there. Using a blend of natural language processing and machine learning, the bot analyzes these reflections, identifying patterns, themes, and shifts in sentiment. It's like having a wise elder gently pointing out connections you might have missed, revealing the subtle dynamics at play within the group and within the system itself.
 
-For instance, the bot might reveal that trust within the community surged after a particular ceremony, or that a shift in economic power dynamics coincided with a renewed focus on traditional cultural practices. These insights are then fed back to the community, informing their decisions, shaping their strategies, and guiding their journey forward.
+For instance, the bot might reveal that trust within the community surged after a particular ceremony, or that a shift in economic power dynamics coincided with a renewed focus on traditional cultural [[practice|practices]]. These insights are then fed back to the community, informing their decisions, shaping their strategies, and guiding their journey forward.
 
 ## **Multi-Dimensional Analysis: Seeing the Whole Picture**
 
@@ -40,14 +40,14 @@ This is just the beginning. As we move forward, we envision the bot becoming eve
     
 - It can connect participants with each other based on shared interests or complementary skills, fostering collaboration and innovation.
     
-- It can track the long-term impact of the [[Action-learning journeys]], revealing how these initial sparks of transformation ripple out into the wider world.
+- It can track the long-term impact of the [[action-learning journeys]], revealing how these initial sparks of transformation ripple out into the wider world.
     
 
 This isn't just a tool; it's a companion on the journey toward a more just, sustainable, and thriving world—a testament to the power of reflection, the wisdom of community, and the transformative potential of technology.
 
 ## **Related Pages**
 
-- [[Action-learning journeys]]
+- [[action-learning journeys]]
     
 - [[Telegram Bots]]
     

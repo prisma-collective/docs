@@ -16,7 +16,7 @@ The ecological sphere focuses on the health and resilience of natural systems—
 
 - **Inspired by RED:** Kothari’s emphasis on ecological sustainability aligns with this sphere’s call to prioritize harmony with nature over extractive practices.
     
-- **Example Metric:** Biodiversity restoration in mangrove ecosystems during an [[Action-learning journeys|action-learning journey]] in Accra.
+- **Example Metric:** Biodiversity restoration in mangrove ecosystems during an [[action-learning journeys|action-learning journey]] in Accra.
     
 - **Prompt:** “How did your actions today contribute to the health of your local environment?”
     
@@ -49,7 +49,7 @@ The political sphere evaluates governance structures, decision-making processes,
 
 - **Inspired by RED:** Decentralized governance is central to RED’s vision; this sphere tracks how power flows within regenerative systems.
     
-- **Example Metric:** Participation rates in DAO-based voting for resource allocation during an [[Action-learning journeys|action-learning journey]].
+- **Example Metric:** Participation rates in DAO-based voting for resource allocation during an [[action-learning journeys|action-learning journey]].
     
 - **Prompt:** “How did you participate in governance decisions today?”
     
@@ -78,7 +78,7 @@ In Radical Ecological Democracy, these interconnections reflect what Kothari cal
 
 ## **Practical Applications: The Accra ALJ Example**
 
-During the Accra [[Action-learning journeys|action-learning journey]], the Five Spheres were used as a lens for evaluation:
+During the Accra [[action-learning journeys|action-learning journey]], the Five Spheres were used as a lens for evaluation:
 
 1. **Ecological Sphere:** Mangrove restoration metrics tracked through IoT sensors revealed improvements in biodiversity and carbon sequestration.
     
@@ -103,6 +103,6 @@ This is more than evaluation—it is storytelling at the scale of life itself.
 
 - [[Developmental Evaluation]]
     
-- [[Action-learning journeys]]
+- [[action-learning journeys]]
     
 - [[Living Lab]]

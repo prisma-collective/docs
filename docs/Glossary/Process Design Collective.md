@@ -1,4 +1,4 @@
-prisma undertakes process design from a living systems paradigm, inquiring into system dynamics from different perspectives in order to design interventions that contribute toward increasing vitality of these life processes. Our speciality is crafting [[Action-learning journeys]].
+prisma undertakes process design from a living systems paradigm, inquiring into system dynamics from different perspectives in order to design interventions that contribute toward increasing vitality of these life processes. Our speciality is crafting [[action-learning journeys]].
 
 ![[character.png]]
 

@@ -11,7 +11,7 @@ at the highest level, each event is the interplay of the following four processe
 	- accumulating intention
 	- imaging place-sourced potential (hubs platforming local network activity)
 3. [[docs/Glossary/Enactment|enacting]] 
-	- practice embodiment
+	- [[practice]] embodiment
 	- learning by doing
 	- organisation forming
 4. [[a. Introduction|evaluating]]

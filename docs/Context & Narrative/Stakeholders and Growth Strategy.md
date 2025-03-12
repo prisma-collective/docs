@@ -15,7 +15,7 @@ The image above shows the same underlying pattern of event organising, which app
 	B. Regenesis and aligned partners such as Resilience
 	C. Regenerative Investing: atreyu & ria
 
-In all the [[Action-learning journeys]] (ALJs), we are aiming to form one or multiple action-learning teams that work on-the-ground on the development and application of an instrument (tooling). 
+In all the [[action-learning journeys]] (ALJs), we are aiming to form one or multiple action-learning teams that work on-the-ground on the development and application of an instrument (tooling). 
 
 Each ALJ also generates content: videos, interviews, call recordings, wikis, art works. This content is curated by the [[hubs]] to publish [[case-study|case-studies]] of the process. 
 
@@ -38,7 +38,7 @@ This is also the period in which to generate clarity and cohesion of the core un
 
 1. Mapping - making visible the network hub and the future events being potentialised
 2. [[Publishing]] - making the learnings generated during the action-learning journey available to a broader audience
-3. [[Action-learning journeys]]
+3. [[action-learning journeys]]
 4. On-the-ground practitioners (aka fellows) - those who are stewarding the alignment between ALJ organising and place-sourced potential
 5. [[a. Introduction|Place-in-practice]] and [[Enactment|Practice-in-place]] - the challenge of working with such large systems as an evolving community of practice and communities of place, and how they interrelate to co-evolve together, through hotspots of activity where transformation can occur. [^1]
 6. Networking - accounting for the practice-contributions that bring places to life (measurements of participation, system effects, and DAOs)

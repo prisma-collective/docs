@@ -3,7 +3,7 @@ aliases:
   - evaluation design
 ---
 ## **The Design**  
-*Where systemic wisdom meets participatory practice*  
+*Where systemic wisdom meets participatory [[practice]]*  
 
 ---
 

@@ -1,6 +1,6 @@
 # prisma
 
-prisma is a distributed action-learning incubator. we organise and facilitate [[Action-learning journeys]] so that [[bioregion|bioregional]] communities can participate more fully in transition pathways toward life-affirming futures.
+prisma is a distributed action-learning incubator. we organise and facilitate [[action-learning journeys]] so that [[bioregion|bioregional]] communities can participate more fully in transition pathways toward life-affirming futures.
 
 we bring active facilitation to work at three levels of incubation:
 

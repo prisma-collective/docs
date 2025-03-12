@@ -9,7 +9,7 @@ aliases:
 
 ## **Introduction**  
 ### **The Essence of Our Evaluation Approach**  
-Evaluation, for us, is not a static measure of success but a [[Living Practice]] of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of ecological vitality, cultural wisdom, and emergent possibility. At Prisma, we see evaluation as the *essence of governance*—a way for collectives to sense, adapt, and evolve their actions in harmony with the [[essence of place]] and the [[Living Systems Principles]] that bind us all.  
+Evaluation, for us, is not a static measure of success but a living [[practice]] of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of ecological vitality, cultural wisdom, and emergent possibility. At Prisma, we see evaluation as the *essence of governance*—a way for collectives to sense, adapt, and evolve their actions in harmony with the [[essence of place]] and the [[Living Systems Principles]] that bind us all.  
 
 #### **Vision**  
 To redefine evaluation as a dynamic dialogue with life itself—a socio-technological practice that illuminates the invisible threads connecting ecological health, social equity, and cultural resilience.  
@@ -29,7 +29,7 @@ We exist to:
 Our approach is rooted in four guiding stars:  
 1. **Humility**: Communities lead the design, ensuring evaluation mirrors their unique [[cultural narrative|narratives]] and rhythms.  
 2. **Integrity**: We balance rigor with pragmatism—measuring what matters, not just what’s measurable.  
-3. **Emergence**: We seek patterns, not endpoints, embracing the unpredictable alchemy of [[Action-learning journeys]].  
+3. **Emergence**: We seek patterns, not endpoints, embracing the unpredictable alchemy of [[action-learning journeys]].  
 4. **Interdependence**: Every metric is a thread in a larger tapestry, woven from relationships between people, place, and practice.  
 
 ---
@@ -66,6 +66,6 @@ This is not just evaluation—it’s a love letter to life’s interconnectednes
 ##### **Related Pages**  
 - [[Developmental Evaluation]]  
 - [[Core Facilitator Capacity]]  
-- [[Action-learning journeys]]  
+- [[action-learning journeys]]  
 - [[Communities of Place]]  
 - [[Living Systems Principles]]  

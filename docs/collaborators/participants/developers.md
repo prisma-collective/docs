@@ -7,7 +7,7 @@ aliases:
 
 developers are agents of transformation, transforming creative potential into code. 
 
-developers are sovereign, their agency and ability to discern being absolutely essential for the [[Action-learning journeys]] to be able to reach a functional end. 
+developers are sovereign, their agency and ability to discern being absolutely essential for the [[action-learning journeys]] to be able to reach a functional end. 
 
 developers are (sometimes) inspired by a context that aligns with their purpose, meaning, for a system they care about to be able to evolve to a higher order of capability. 
 
@@ -17,9 +17,9 @@ it is crucial that developers appreciate their relationship with the character a
 
 at the same time, developers are required to think functionally in order to implement a given ALJ's product requirements with technical rigour. functional thinking can sometimes seem at odds with the uncertainties inherent in group collaboration. growing a social bandwidth is an experience in itself. 
 
-the purpose of participating in an action-learning journey as a developer is to instrument[^1] the development of systems-evolution practices that are uniquely informed by the context of the place in which the action-learning journey is hosted. 
+the purpose of participating in an action-learning journey as a developer is to instrument[^1] the development of systems-evolution [[practice|practices]] that are uniquely informed by the context of the place in which the action-learning journey is hosted. 
 # Outcomes
-developers are encouraged to reflect frequently on their experience of the process, noting insights into how their perspective on personal and collective dynamics is changing and why, what patterns are apprehensible and what meaning can be made of them. [[Action-learning journeys]] are a collaboration intensive, generating many opportunities for experimentation, growth, play and learning. the list of examples below is non-exhaustive.
+developers are encouraged to reflect frequently on their experience of the process, noting insights into how their perspective on personal and collective dynamics is changing and why, what patterns are apprehensible and what meaning can be made of them. [[action-learning journeys]] are a collaboration intensive, generating many opportunities for experimentation, growth, play and learning. the list of examples below is non-exhaustive.
 
 1. Learning 
 	1. identifying a group learning opportunity, then designing, organising and facilitating a workshop

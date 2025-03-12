@@ -1,4 +1,4 @@
-**Capacity-building** refers to the process of developing the skills, knowledge, and systems necessary for individuals and groups to effectively pursue their goals. While the term originally gained traction in international development, where it focused on improving self-sufficiency in governance and economic projects, its meaning deepens significantly in the context of **systems change** and [[Action-learning journeys|collaborative innovation]].
+**Capacity-building** refers to the process of developing the skills, knowledge, and systems necessary for individuals and groups to effectively pursue their goals. While the term originally gained traction in international development, where it focused on improving self-sufficiency in governance and economic projects, its meaning deepens significantly in the context of **systems change** and [[action-learning journeys|collaborative innovation]].
 
 # Capacity-Building as Enactment in Systems Change
 

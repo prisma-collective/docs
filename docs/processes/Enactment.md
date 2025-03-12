@@ -1,4 +1,4 @@
-what is the potential of unfolding the potential of a place through its community of practice?
+what is the potential of unfolding the potential of a place through its community of [[practice]]?
 
 each community has to ask itself some questions, such as (borrowed from the Regenesis Framework)
 1. What is the inherent potential of this place?
@@ -9,7 +9,7 @@ These are at the heart of every community.
 
 ![enacting](enacting.png)
 
-These three steps allow us to see the essence of community and place, and consequently the design of the [[Action-learning journeys]] and [[a. Introduction|evaluation]] protocols that gauge the impact contextually.
+These three steps allow us to see the essence of community and place, and consequently the design of the [[action-learning journeys]] and [[a. Introduction|evaluation]] protocols that gauge the impact contextually.
 
 1. **Essence of Place<//>Community**: All sorts of knowledge lie within
 - Who are the main caretakers of the community?
