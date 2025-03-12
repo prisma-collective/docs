@@ -13,9 +13,20 @@ By focusing on enactment, we emphasize the role of **[[practice|practice-based]]
 
 # Questions and Reflections Raised by Enactment
 
-1. **How are we creating the system as we engage with it?**
-   - Enactment challenges participants and facilitators to reflect on how their practices are actively **shaping the system** they are part of. It invites awareness of the **participatory** and **relational** nature of systems change.
-2. **How do we cultivate the conditions for the emergence of new systems?**
-   - Enactment requires creating an environment where **new practices** can be safely explored, embodied, and iterated upon. What are the **practices, tools, and relationships** that foster this kind of innovation?
-3. **How do we balance enactment with reflection and evaluation?**
-   - While enactment involves activating new ways of being, **evaluation** (particularly developmental evaluation) ensures that we are learning from the process and understanding the value of what is emerging. How can we create **feedback loops** that allow for both **action** and **sense-making**?
+How are we creating the system as we engage with it?
+- Enactment challenges participants and facilitators to reflect on how their practices are actively shaping the system they are part of. It invites awareness of the participatory and relational nature of systems change.
+
+How do we cultivate the conditions for the emergence of new systems?
+- Enactment requires creating an environment where new [[Practice|practices]] can be safely explored, embodied, and iterated upon. What are the practices, tools, and relationships that foster this kind of innovation?
+
+How do we balance enactment with reflection and [[a. Introduction|evaluation]]?
+- While enactment involves activating new ways of being, evaluation (particularly developmental evaluation) ensures that we are learning from the process and understanding the value of what is emerging. How can we create feedback loops that allow for both action and sense-making?
+
+How do we create a safe space for participants to explore new ways of being and organizing?
+- What mechanisms will encourage vulnerability and openness among participants?
+
+Which innovative methodologies (sociocracy, holacracy, teal organization) will we implement, and how will we adapt them to our context?
+- How will we ensure participants understand these concepts before implementation?
+
+What are the desired outcomes for each enactment session, and how will we measure their success?
+- How will we define and assess the effectiveness of each methodology applied?
