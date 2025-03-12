@@ -1,3 +1,9 @@
+---
+aliases:
+- process-infrastructuring
+- infrastructure
+---
+
 process-infrastructuring refers to facilitating the creation of a distributed system of [[action-learning journeys]]:
 
 1. [[enrolment]] includes...
@@ -12,6 +18,6 @@ process-infrastructuring refers to facilitating the creation of a distributed sy
 	2. event trajectory timeline
 	3. documentation: wiki
 4. [[docs/Glossary/Enactment|enacting]] includes...
-	1. self-organising practice participation
+	1. self-organising [[practice]] participation
 
 each interrelates to create the means for [[hubs]] and [[practice networks]] to jointly self-organise [[action-learning journeys]] and produce a [[case-study]].

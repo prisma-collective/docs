@@ -1,6 +1,6 @@
 
 # practice networks
-prisma is a framework for communities of practice and [[hubs]] to self-organise [[action-learning journeys]], and the governance infrastructure to complement. 
+prisma is a distributed incubator for communities of [[practice]] and on-the-ground [[hubs]] to self-organise [[action-learning journeys]].
 
 we're working closely with [[Regenesis]] [^1], who are evolving a practice of regenerative development and design. 
 

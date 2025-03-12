@@ -6,7 +6,7 @@ Lasting 17 days, 15 participants joined a co-living space in North-West Wales, p
 ![[deck_Page 2.png]]
 
 
-An enlivened space of creative potential, the group practiced sociocracy, forming circles, twice, daily, to hear each others' experience of the experiment in self-organising and make decisions, collectively. 
+An enlivened space of creative potential, the group [[practice|practiced]] sociocracy, forming circles, twice, daily, to hear each others' experience of the experiment in self-organising and make decisions, collectively. 
 
 
 ![[deck_Page 4 1.png]]

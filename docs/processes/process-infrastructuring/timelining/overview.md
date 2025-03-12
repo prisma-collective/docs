@@ -8,7 +8,7 @@ The system has three stages:
 2. Data Preparation
 3. Insight Generation
 
-We've previously tested practice-based Telegram bots, and the front-end is already in progress. Development will proceed step by step, with the most effort focused on data preparation.
+We've previously tested [[practice|practice-based]] Telegram bots, and the front-end is already in progress. Development will proceed step by step, with the most effort focused on data preparation.
 
 Insights are dynamically generated through UI interactions, enabled by clustering, tagging, and topic evolution. Users request insights via natural language input, combining LLM-based semantic search with statistical analytics. A set of defined “lenses” (statistical methods) will refine timeline entries for relevance.
 

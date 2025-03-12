@@ -4,7 +4,7 @@ implicit within much of the designing described in [[practice networks]] is that
 
 ![[communicating-al.png]]
 
-this meeting of two worlds - on the one hand, regenerative practice, and, on the other, software development - begins with the premise that in order for the quality of each practitioner-group's work to be justly reflected in a case study, on a digital platform, the software development cannot take place as a process entirely dissociated from the context of the work itself. 
+this meeting of two worlds - on the one hand, regenerative [[practice]], and, on the other, software development - begins with the premise that in order for the quality of each practitioner-group's work to be justly reflected in a case study, on a digital platform, the software development cannot take place as a process entirely dissociated from the context of the work itself. 
 
 more broadly, that it's unlikely to be able to reflect "the difference that makes the difference" of the approach of regenerative development and design, by utilising existing, often purely functional, software tooling. there is a need for a community publishing platform built from living systems principles.
 

@@ -7,8 +7,8 @@ Resourcing in the context of Prisma involves the strategic allocation and mobili
    - **Funding Systems**: Collaborations with external partners and stakeholders are crucial for securing financial support. This often involves aligning with global funding initiatives that prioritize regenerative development.
 
 2. **Human Resourcing**  
-   - **Capacity Building**: A critical aspect of resourcing is enhancing the capacities of individuals and groups. This includes training in Web3 technologies, decentralized governance models, and regenerative practices to foster self-organization and resilience.
-   - **Core Facilitator Capacity**: Developing facilitator teams with competencies in [[docs/Glossary/Enactment]], [[developmental evaluation]], and [[process infrastructuring]] is essential for guiding action-learning journeys effectively.
+   - **Capacity Building**: A critical aspect of resourcing is enhancing the capacities of individuals and groups. This includes training in Web3 technologies, decentralized governance models, and regenerative [[practice|practices]] to foster self-organization and resilience.
+   - **Core Facilitator Capacity**: Developing facilitator teams with competencies in [[glossary/Enactment|Enactment]], [[a. Introduction|evaluation]], and [[processes/process-infrastructuring/overview|process-infrastructuring]] is essential for guiding action-learning journeys effectively.
 
 3. **Technological Resourcing**  
    - **Digital Tools**: Utilizing platforms like [[Holochain]] for decentralized governance and [[publishing engine]] for knowledge sharing. These tools support the creation of place-sourced digital expressions and facilitate community engagement.
