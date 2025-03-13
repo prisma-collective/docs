@@ -3,9 +3,9 @@ password: "hchfvz"
 ---
 
 # Practice Currencies and HFvZ Testing Phase 2
-Prisma is a distributed action-learning incubator enabling changemakers to apply [[practice]] on-the-ground in facilitated, experimental spaces of [[sociocratic organising|self-organisation]], hosted in [[hubs|community]]. 
+Prisma is a distributed action-learning incubator enabling changemakers to apply [[practice]] on-the-ground in facilitated, experimental spaces of [[sociocratic organising|self-organisation]], lasting multiple weeks, hosted in [[hubs|community]]. 
 
-We do this through hosting [[action-learning journeys]] (multi-week hackathons) intended towards incubating teams that will work together on realising potential and compiling data-backed [[case-study|case-studies]] of the process as a whole.
+These processes [[action-learning journeys]] intended towards incubating teams that will work together on realising potential and compiling data-backed [[case-study|case-studies]] of the process as a whole.
 
 We understand journeys that yield genuine evolution are ones where each stakeholder feels/is/has the power to step into their agency, authentically.
 
@@ -43,9 +43,9 @@ Specifically:
 3. The “price” of each Service, in this case, would be dynamically calculated each time, based on the content of the contribution.
 4. Different forms of practice contributions are categorized into different Service Units, enabling participants to accumulate evidence of the value they have generated
 5. For all of the Service Units, we recognise the need for further security considerations
-6. Ideally, each hub in the network (nodal actors on-the-ground) creates its own pool.
+6. Ideally, each [[hubs|hub]] in the network (nodal actors on-the-ground) creates its own pool.
 
-> QUESTION: Is this feasible? Could our app manage multiple pool admins? There would be an emphasis on ease of UX for specifying new Service Units as more practice-currencies are identified/ developed.
+> QUESTION: Is this feasible? Could our app manage multiple pool admins? There would be an emphasis on ease of UX for specifying new Service Units as more practice-currencies are identified/ developed by the hubs on-the-ground.
 
 > SIDE NOTE: the source-chain, self-validation approach of Holochain could be suitable for verifying voice notes with a voice recognition model without the model needing to be made public, adding another validation layer to participation contributions.
 
