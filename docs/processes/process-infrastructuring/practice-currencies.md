@@ -15,7 +15,7 @@ Even the best intentioned groups fall into repetition of the same patterns, powe
 
 We see decentralised information systems as part of the way out of such entrenched hierarchies, and Holochain’s unique approach to enabling peer-to-peer transactions via distributed hash tables aligns with the capability we hope to equip each cohort with.
 
-What is that capability? That of giving voice to the diverse forms and flows of value that are generated, drawn upon, and contributing to the movement of any collective towards its vision.
+What is that capability? That of giving voice to the diverse forms and flows of value that are generated, drawn upon, and contributing to the movement of action-learning teams.
 
 Our aim with participating in the Unyt HFvZ Testing Phase 2 is to give form to some of the above potential for multi-dimensional value recognition, accounting and mapping. 
 # Challenge Statement
