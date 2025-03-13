@@ -5,7 +5,7 @@ password: "hchfvz"
 # Practice Currencies and HFvZ Testing Phase 2
 Prisma is a distributed action-learning incubator enabling changemakers to apply [[practice]] on-the-ground in facilitated, experimental spaces of [[sociocratic organising|self-organisation]], lasting multiple weeks, hosted in [[hubs|community]]. 
 
-These processes, called [[action-learning journeys]], intended towards incubating teams that will work together on realising potential and compiling data-backed [[case-study|case-studies]] of the process as a whole.
+These processes, called [[action-learning journeys]], are intended to incubate teams that will work together on realising [[place-sourced potential]] and compiling data-backed [[case-study|case-studies]] of the process as a whole.
 
 We understand journeys that yield genuine evolution are ones where each stakeholder feels/is/has the power to step into their agency, authentically.
 
