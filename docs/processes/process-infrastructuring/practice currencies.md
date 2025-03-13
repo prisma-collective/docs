@@ -2,7 +2,7 @@
 password: hchfvz
 ---
 
-# Introduction
+# Practice Currencies and HFvZ Testing Phase 2
 Prisma is a distributed action-learning incubator enabling changemakers to harness experimental spaces, tools and resources to play with different forms of building products, systems and processes that improve the collective health of the communities they are in service to.
 
 We do this through hosting action learning journeys (or hackathons) intended towards incubating teams that will work together on realising potential and compiling data-backed case studies of the entire process.
