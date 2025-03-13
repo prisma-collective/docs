@@ -1,5 +1,5 @@
 ---
-password: hchfvz
+password: "hchfvz"
 ---
 
 # Practice Currencies and HFvZ Testing Phase 2
@@ -52,9 +52,9 @@ Specifically:
 
 > SIDE NOTE: the source-chain, self-validation approach of Holochain could be suitable for verifying voice notes with a voice recognition model without the model needing to be made public, adding another validation layer to participation contributions.
 
-### How It Works
+# How It Works
 
-#### Defining Service Units
+## Defining Service Units
 The base unit of value is the measure of change in a vector database, ideally run with each participation contribution. 
 
 > QUESTION: Is there a risk in coupling base and service units like this?
@@ -87,7 +87,7 @@ There are many RAVEs that could be designed to carry out the work outlined above
 	- RAVE: peer recognition of service
 	- RAVE: peer-review of document (as in Knowledge Contribution)
 
-#### Knowledge Contribution Service Unit
+## Knowledge Contribution Service Unit
 In the service of generating knowledge, such as writing documentation or recording a generative discussion on a given topic, we envision the following provisioning flow. In this case, the document/ transcription is suitable for the dynamic Base Unit.
 
 1. Service provider uploads to chat/ commits to repo 1 document/ transcription, equating to 1 knowledge contribution unit
@@ -98,7 +98,7 @@ In the service of generating knowledge, such as writing documentation or recordi
 6. Reviewer verifies the document
 7. Service provider is credited 1 knowledge unit, and gets paid the calculated amount of base-unit
 
-#### Decision-making Service Unit
+## Decision-making Service Unit
 In the service of decision-making, the context of the decision is required along with the terms of agreement that get signed. Documenting this context is part of the process. We may review this, but we’ll say that for now the decision-making context makes this also suitable for the dynamic Base Unit. The document is iterated until all parties are happy to verify their consent to the terms.
 
 1. A decision-making process begins. The context and terms are documented. A decision facilitator role is assigned.
@@ -107,7 +107,7 @@ In the service of decision-making, the context of the decision is required along
 4. The decision’s context is validated by stakeholders.
 5. Once all parties verify consent, the service provider is credited 1 decision-making unit and paid the (dynamically computed) Base-Unit
 
-#### Facilitation Service Unit
+## Facilitation Service Unit
 Provisioning a workshop or holding space could be accounted for with a facilitation RAVE. In this service, the facilitator essentially invoices all participants of the workshop/ space, and each participant pays the invoice. In doing so, there are multiple units of facilitation credited: one per member. There are two means by which a dynamic base unit price can be generated, which needs to be chosen prior to the facilitation. 
 
 1. The facilitation is recorded. The transcription of the facilitation is used in the Knowledge Contribution Service Unit for the facilitator to get paid. 
