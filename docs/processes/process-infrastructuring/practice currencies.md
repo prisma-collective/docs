@@ -5,7 +5,7 @@ password: "hchfvz"
 # Practice Currencies and HFvZ Testing Phase 2
 Prisma is a distributed action-learning incubator enabling changemakers to apply [[practice]] on-the-ground in facilitated, experimental spaces of [[sociocratic organising|self-organisation]], hosted in [[hubs|community]]. 
 
-We do this through hosting [[action-learning journeys]] (elaborate hackathons) intended towards incubating teams that will work together on realising potential and compiling data-backed [[case-study|case-studies]] of the process as a whole.
+We do this through hosting [[action-learning journeys]] (multi-week hackathons) intended towards incubating teams that will work together on realising potential and compiling data-backed [[case-study|case-studies]] of the process as a whole.
 
 We understand journeys that yield genuine evolution are ones where each stakeholder feels/is/has the power to step into their agency, authentically.
 
@@ -28,7 +28,7 @@ On the other hand, intangible value flows between participants have little way o
 ### Voice-First
 Voice-interface is the primary UX that we're using to generate digital traces of participating in an action-learning journey. This has been chosen to support collective flow during our in-person intensives, and to leverage the relatively unconstrained formability of voice as a medium of expression (not constrained to features available in a UI). In our work, we’re ultimately wanting to see the cultivation of essence in place via the development and application of place-unique practices for systems evolution. 
 ### Evolutionary Vector Dataset
-Therefore, in thinking about how to represent this computationally, we came upon the definition of essence as the emergence of coherence, structure, or meaningful complexity in an evolutionary vector dataset. This is one idea for a Base Unit, where the “prices” of services would be determined dynamically based on the result of the computation. However, this would not be suitable in all cases, such as conflict resolutions and somatic-based workshops, where a static price list may be more appropriate (as is given in the hfvz phase 2 docs). 
+Therefore, in thinking about how to represent this computationally, we came upon the definition of essence as the emergence of coherence, structure, and meaningful complexity in an evolutionary vector dataset. This is one idea for a Base Unit, where the “prices” of services would be determined dynamically based on the result of the computation. However, this would not be suitable in all cases, such as conflict resolutions and somatic-based workshops, where a static price list may be more appropriate (as is given in the hfvz phase 2 docs: 5 HF per 10 Mb Bandwidth). 
 ### Hybrid Piecework and Peer-review Multi-Unit Accounting
 We wish to use HoloFuel’s multi-unit accounting model to track, validate, and exchange different types of contributions via a decentralized, peer-led approach.
 
