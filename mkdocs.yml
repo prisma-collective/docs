@@ -72,10 +72,7 @@ plugins:
   - awesome-pages
   - encryptcontent:
       placeholder: 'Password'
-      password_button_text: 'ENTER'
       decryption_failure_message: 'Wrong user name or password.'
-      encryption_info_message: 'Legitimation required.'
-      global_password: "false"  # If false, each page must define its own password
       remember_password: true  # Allow browser to remember passwords
       encryption_info_message: "This page is encrypted. Please enter the password to view its contents."
       password_button: true
