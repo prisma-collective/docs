@@ -8,7 +8,7 @@ each action-learning journey produces a story. this is a story about the applica
 
 capacity-building has many dimensions. we call these dimensions [[aspect|aspects]].[^1] each aspect makes visible one view into the application of practice on-the-ground. we make this visible with currencies. [^2]
 
-each case-study therefore aims to utilise one or multiple [[practice currencies]].
+each case-study therefore aims to utilise one or multiple [[practice-currencies]].
 
 these currencies are the verified measurements that form the foundation for data-backed storytelling. all the additional media - meeting recordings, photos, audio notes, design documents - are (qualitative) layers of additional context around this underlying (quantitative) heartbeat. 
 
