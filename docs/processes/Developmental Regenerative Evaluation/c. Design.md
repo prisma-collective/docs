@@ -44,7 +44,7 @@ We track eight forms of capital that sustain thriving systems:
 
 2. **Live Signals**  
    - *Feeling the pulse*: Real-time data streams from IoT devices, [[bot arrays]], and community pulse checks.  
-   - *Tool*: Telegram bots collect daily reflections during [[processes/enactment/overview|overview]] phases. 
+   - *Tool*: Telegram bots collect daily reflections during [[processes/enactment/0. overview|0. overview]] phases. 
 
 3. **Insights**  
    - *Weaving patterns*: Mixed-method analysis reveals hidden connections (e.g., how compost workshops boosted neighborly trust).  
