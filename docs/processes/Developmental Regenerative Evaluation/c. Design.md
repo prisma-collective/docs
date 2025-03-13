@@ -10,15 +10,15 @@ aliases:
 ### **The Five Spheres: A Tapestry of Vitality**  
 Our evaluation framework mirrors life’s complexity by honoring five interconnected spheres of vitality. These are not silos but living currents that shape—and are shaped by—every regenerative action:  
 
-| Sphere         | What We Measure                                                                 | Example Indicators                                                                 |  
-|----------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|  
-| **Ecological** | The dance of soil, water, and biodiversity                                      | Mycelial network density -  Pollinator diversity -  Watershed regeneration rates   |  
-| **Social**     | The invisible threads of trust and collaboration                                | Self-reported fairness -  Conflict resolution speed -  Youth leadership engagement  |  
-| **Cultural**   | The stories and rituals that bind communities to place                         | Oral histories preserved -  Stewardship role adoption -  Language revitalization   |  
-| **Political**  | The flow of power and accountability                                           | Decision-making transparency -  Resource allocation equity -  Civic participation  |  
-| **Economic**   | The alchemy of resources into shared abundance                                  | Local currency circulation -  Cooperative revenue growth -  Waste-to-value streams  |  
+| Sphere         | What We Measure                                        | Example Indicators                                                                 |     |
+| -------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------- | --- |
+| **Ecological** | The dance of soil, water, and biodiversity             | Mycelial network density -  Pollinator diversity -  Watershed regeneration rates   |     |
+| **Social**     | The invisible threads of trust and collaboration       | Self-reported fairness -  Conflict resolution speed -  Youth leadership engagement |     |
+| **Cultural**   | The stories and rituals that bind communities to place | Oral histories preserved -  Stewardship role adoption -  Language revitalization   |     |
+| **Political**  | The flow of power and accountability                   | Decision-making transparency -  Resource allocation equity -  Civic participation  |     |
+| **Economic**   | The alchemy of resources into shared abundance         | Local currency circulation -  Cooperative revenue growth -  Waste-to-value streams |     |
 
-*These spheres breathe together.* During an [[action-learning journey]] in Accra, youth-led recycling hubs didn’t just reduce plastic—they rewired **economic** flows (creating jobs), **political** trust (co-designing with elders), and **cultural** pride (reviving traditional craft motifs).  
+*These spheres breathe together.* During an [[action-learning journeys|action-learning journey]] in Accra, youth-led recycling hubs didn’t just reduce plastic—they rewired **economic** flows (creating jobs), **political** trust (co-designing with elders), and **cultural** pride (reviving traditional craft motifs).  
 
 ---
 
@@ -33,7 +33,7 @@ We track eight forms of capital that sustain thriving systems:
 7. **Built** 🏗️ (resilient infrastructure)  
 8. **Digital** 💻 (open-source tools)  
 
-*Example:* A Welsh village’s [[bioregion|bioregional]] learning center measures success not by tourist numbers, but by how these capitals interweave—elder-led storytelling (**cultural**) training youth in permaculture (**human**), while a [[Speech-to-Currency]] DAO turns shared wisdom into microgrants (**financial**).  
+*Example:* A Welsh village’s [[bioregion|bioregional]] learning center measures success not by tourist numbers, but by how these capitals interweave—elder-led storytelling (**cultural**) training youth in permaculture (**human**), while a practice-DAO turns shared wisdom into microgrants (**financial**).  
 
 ---
 
@@ -44,7 +44,7 @@ We track eight forms of capital that sustain thriving systems:
 
 2. **Live Signals**  
    - *Feeling the pulse*: Real-time data streams from IoT devices, [[bot arrays]], and community pulse checks.  
-   - *Tool*: Telegram bots collect daily reflections during [[docs/Glossary/Enactment]] phases.  
+   - *Tool*: Telegram bots collect daily reflections during [[processes/Enactment|Enactment]] phases. 
 
 3. **Insights**  
    - *Weaving patterns*: Mixed-method analysis reveals hidden connections (e.g., how compost workshops boosted neighborly trust).  
@@ -52,7 +52,7 @@ We track eight forms of capital that sustain thriving systems:
 
 4. **Story-Making**  
    - *Breathing data into meaning*: Transform metrics into narratives that sing.  
-   - *Tool*: Elders and youth co-create digital “story looms” using [[Holochain|decentralized storytelling platforms]].  
+   - *Tool*: Elders and youth co-create digital “story looms” using decentralized storytelling platforms. 
 
 ---
 
@@ -73,13 +73,4 @@ When youth in Accra’s [[living lab]] launched a plastic-upcycling DAO, our fra
 - **Political**: Co-governance pact between elders and tech-savvy youth  
 - **Economic**: [[Capital Distribution|community token]] circulating across 14 microbusinesses  
 
-The data didn’t just measure—it *invited*. Neighboring villages now adapt the model through [[process infrastructuring]], seeding a bioregional movement.  
-
----
-
-##### **Related Pages**  
-- [[Developmental Evaluation]]  
-- [[docs/Glossary/Enactment]]  
-- [[Communities of Place]]  
-- [[Warm Data Labs]]  
-- [[Capital Distribution]]  
+The data didn’t just measure—it *invited*. Neighboring villages now adapt the model through [[processes/process-infrastructuring/overview|process-infrastructuring]], seeding a bioregional movement.  

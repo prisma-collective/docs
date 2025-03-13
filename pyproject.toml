@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 mkdocs-exclude = "^1.0.2"
 mkdocs-awesome-pages-plugin = "^2.10.1"
+mkdocs-encryptcontent-plugin = "^3.0.4"
 
 
 [tool.poetry.group.dev.dependencies]

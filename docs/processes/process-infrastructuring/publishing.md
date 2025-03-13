@@ -20,7 +20,7 @@ When writing to the docs, it is important to consider who your audience is. Main
 
 1. Write every page as if its most important audience is reading with care.
 2. Write as truthfully as you can transform inspiration into reality.
-3. 
+3. If writing about something that's complex, try to be exact with the language, even giving context to particular words by using a glossary folder. In this folder, we're trying to regenerate each word so that people reading the docs always feel refreshed and like they learned something.
 
 [^1]: Maggie Appleton, [Digital gardening](https://maggieappleton.com/garden-history).
 

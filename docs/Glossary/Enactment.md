@@ -23,10 +23,5 @@ How do we balance enactment with reflection and [[a. Introduction|evaluation]]?
 - While enactment involves activating new ways of being, evaluation (particularly developmental evaluation) ensures that we are learning from the process and understanding the value of what is emerging. How can we create feedback loops that allow for both action and sense-making?
 
 How do we create a safe space for participants to explore new ways of being and organizing?
-- What mechanisms will encourage vulnerability and openness among participants?
 
-Which innovative methodologies (sociocracy, holacracy, teal organization) will we implement, and how will we adapt them to our context?
-- How will we ensure participants understand these concepts before implementation?
-
-What are the desired outcomes for each enactment session, and how will we measure their success?
-- How will we define and assess the effectiveness of each methodology applied?
+Which [[Practice|practices]] will be applied, and how will we adapt to unforeseen changes?
