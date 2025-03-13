@@ -15,6 +15,8 @@ each community has to ask itself some questions, such as (borrowed from the [[Re
 
 These are at the heart of every community.
 
+By developing an enactment process, we're aiming to align tech innovation with the unique context of their place, and design from a living systems paradigm, where the experiential learning process itself is the experimentation by which participants embody a potential system state and can use that collective insight to generate a precise intervention. 
+
 ![enacting](enacting.png)
 
 The term **enactment** refers to the **active, lived processes** through which systems, knowledge, and ways of organizing emerge. Rooted in **embodied cognition** and **systems thinking**, enactment emphasizes that systems are **brought into being through interaction**—they don't pre-exist as static entities but arise through the collective [[practice|practices]] of their participants. This idea is inspired by theorists like **Evan Thompson**, **Francisco Varela**, and the principle of **autopoiesis**, which highlights the self-organizing and self-sustaining nature of living systems.
