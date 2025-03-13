@@ -1,3 +1,11 @@
+---
+aliases:
+- enaction
+- action
+- application
+---
+
+
 what is the potential of unfolding the potential of a place through its community of [[practice]]?
 
 each community has to ask itself some questions, such as (borrowed from the Regenesis Framework)
