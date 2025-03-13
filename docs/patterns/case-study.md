@@ -13,6 +13,11 @@ these currencies are the verified measurements that form the foundation for data
 
 the purpose of [[enrolment]] and [[ground-potentialising]], in the lead up to [[action-learning journeys]], is for the whole system of place to become more visible, and for a place-sourced practice to be identified. these place-sourced practices are what animate the multi-stakeholder, multi-level [[processes/Enactment|enactment]], gesturing toward potential-led, place-sourced economy. 
 
+### Purpose
+case-studies serve the purpose of showing the work on-the-ground to a broader audience:
+
+1. other practitioners who want to see practice being applied to learn and integrate 
+
 [^1]: [aspect](https://www.etymonline.com/word/aspect) (n.): late 14c., an astrological term, "relative position of the planets as they appear from earth" (i.e., how they "look at" one another); also "one of the ways of viewing something," from Latin _aspectus_ "a seeing, looking at, sight, view; countenance; appearance," from past participle of _aspicere_ "to look at, look upon, behold; observe, examine," figuratively "consider, ponder," from _ad_ "to" (see [ad-](https://www.etymonline.com/word/ad- "Etymology, meaning and definition of ad-")) + _specere_ "to look" (from PIE root [*spek-](https://www.etymonline.com/word/*spek- "Etymology, meaning and definition of *spek-") "to observe").
 
 [^2]: Currency as [current-see](https://metacurrency.org/?faq-group=money-vs-currentsees). [Current](https://www.etymonline.com/word/current) (adj.): flow.
