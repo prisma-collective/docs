@@ -59,6 +59,7 @@ jobs:
       - run: pip install mkdocs-rss-plugin
       - run: pip install mkdocs-exclude
       - run: pip install mkdocs-awesome-pages-plugin
+      - run: pip install mkdocs-encryptcontent-plugin
 
       # First, build the site (creates the "site/" directory)
       - run: mkdocs build
