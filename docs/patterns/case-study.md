@@ -1,3 +1,9 @@
+---
+aliases:
+- case-studies
+---
+
+
 each action-learning journey produces a story. this is a story about the application of [[practice]] on-the-ground among networks of real people and places. practice is applied to grow the capacity for evolution of these systems, so that they can work toward realising their potential and expressing their essence. 
 
 capacity-building has many dimensions. we call these dimensions [[aspect|aspects]].[^1] each aspect makes visible one view into the application of practice on-the-ground. we make this visible with currencies. [^2]

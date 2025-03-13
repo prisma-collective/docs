@@ -3,37 +3,33 @@ password: "hchfvz"
 ---
 
 # Practice Currencies and HFvZ Testing Phase 2
-Prisma is a distributed action-learning incubator enabling changemakers to harness experimental spaces, tools and resources to play with different forms of building products, systems and processes that improve the collective health of the communities they are in service to.
+Prisma is a distributed action-learning incubator enabling changemakers to apply [[practice]] on-the-ground in facilitated, experimental spaces of [[sociocratic organising|self-organisation]], hosted in [[hubs|community]]. 
 
-We do this through hosting action learning journeys (or hackathons) intended towards incubating teams that will work together on realising potential and compiling data-backed case studies of the entire process.
+We do this through hosting [[action-learning journeys]] (elaborate hackathons) intended towards incubating teams that will work together on realising potential and compiling data-backed [[case-study|case-studies]] of the process as a whole.
 
-Through our experience organizing collective efforts, we have understood that journeys undertaken by groups that yield genuine evolution are ones where each stakeholder feels/is/has the power to step into their agency, authentically.
+We understand journeys that yield genuine evolution are ones where each stakeholder feels/is/has the power to step into their agency, authentically.
 
-However, conventional ways of understanding the value contributed by individuals in a system, the roles required for a successful enterprise, and the weight of contributions that don’t align with tangible means like profit and productivity incentives consistently prevent people from showing up, claiming their agency, and participating in holistic ways.  
+However, conventional approaches to contribution accounting, roles, and [[a. Introduction|evaluation]], which align with tangible means like profit and productivity incentives, consistently prevent people from showing up, claiming their agency, and participating in holistic ways.  
 
-Even the best intentioned groups fall into repetition of the same patterns, power structures and outdated knowledge systems that perpetuate a maintenance of the hegemonic, extractive world order.
+Even the best intentioned groups fall into repetition of the same patterns, power structures and outdated knowledge systems that perpetuate a hegemonic, extractive world order.
 
-In the realm of decentralised information systems offering a way out of the entrenched hierarchies of existing centralized systems, Holochain’s unique approach to enabling peer-to-peer transactions via distributed hash tables aligns ever so cleanly with the capabilities we hope to equip each collective that we engage with.
+We see decentralised information systems as part of the way out of such entrenched hierarchies, and Holochain’s unique approach to enabling peer-to-peer transactions via distributed hash tables aligns with the capability we hope to equip each cohort with.
 
-What is this capability? That of giving voice to the diverse forms and flows of value that are actually generated, drawn upon and contribute greatly to the movement of any collective towards its vision.
+What is that capability? That of giving voice to the diverse forms and flows of value that are generated, drawn upon, and contributing to the movement of any collective towards its vision.
 
-There are four “process-axes” on which this endeavour moves and grows:  
-
-1. Enrollment: aligning multiple levels of a system around a common purpose, by preparing participants to start viewing the world and their shared mission through a multi-perspectival lens towards value
-2. Ground-Potentializing: navigating between what is and what could be, by mapping and envisioning potential for evolution
-3. Enactment: activating self-organising emergence, by facilitating spaces, offering tools and encouraging processes that honour and evidence the power in individuals channeling various forms of value
-4. Evaluation: communicating the application of practice on-the-ground and the learnings generated, by reading the signals and flows of value generated through these pluriversal forms of contribution and providing insights
-
-Our aim with participating in the Unyt Hfvz Testing Phase 2 is to give form to some of the above potential for multi-dimensional value recognition, accounting and mapping. 
+Our aim with participating in the Unyt HFvZ Testing Phase 2 is to give form to some of the above potential for multi-dimensional value recognition, accounting and mapping. 
 # Challenge Statement
-Prisma’s action-learning journeys solicit various forms of value (or contributions) from participants. Some of these can be easily measured - such as developing code, securing partnerships and contributing funding, while others are more intangible  - such as holding relationships, facilitating safe spaces and mentorship. Seeing each of these, reflecting their flow, and ascribing weightage to them is essential to carrying out the purpose of Prisma, as shared above.  
+Prisma’s [[action-learning journeys]] solicit various forms of valued contributions from participants. Some of these can be easily measured, such as developing code, securing partnerships and contributing funding, while others are more intangible, such as holding relationships, facilitating safe spaces and mentorship. Seeing each of these, reflecting their flow, and ascribing weightage to them is essential to carrying out our purpose, shared above.  
 
-While tangible contributions can be tracked through direct measurement, such as code commits to shared repositories, contracts agreed and sums of funding contributed, currently we do not have a system for tracking the flow of these values. 
+While tangible contributions can be tracked through direct measurement, such as code commits to shared repositories, contracts agreed and sums of funding contributed, currently we do not have a system for tracking the flow of this value through the system. 
 
-On the other hand, intangible value flows between participants have little way of even being acknowledged outside of subjective reporting when solicited and feedback forms. There is a need for these flows to be acknowledged, and potentially even be exchangeable with tangible flows.
+On the other hand, intangible value flows between participants have little way of even being acknowledged outside of subjective reporting when solicited, and via feedback forms, both of which are very temporal low-resolution. There is a need for these flows to be acknowledged, and potentially even be exchangeable with tangible flows.
 # Response: A Holochain-Based Multi-Unit Value Tracking System
-Voice-interface is the primary UX that leads to digital traces of participating in an action-learning journey. This has been chosen to support collective flow during our in-person intensives, and to leverage the relatively unconstrained formability of voice as a medium of expression (not constrained to features available in a UI). In our work, we’re ultimately wanting to see the cultivation of essence. Therefore, in thinking about how to represent this computationally, we came upon the definition of essence as the emergence of coherence, structure, or meaningful complexity in an evolutionary vector dataset. This is one idea for a Base Unit, where the “prices” of services would be determined dynamically based on the result of the computation. However, this would not be suitable in all cases, such as conflict resolution proceedings, where a static price list may be more appropriate (as is given in the hfvz phase 2 docs). 
-
+### Voice-First
+Voice-interface is the primary UX that we're using to generate digital traces of participating in an action-learning journey. This has been chosen to support collective flow during our in-person intensives, and to leverage the relatively unconstrained formability of voice as a medium of expression (not constrained to features available in a UI). In our work, we’re ultimately wanting to see the cultivation of essence in place via the development and application of place-unique practices for systems evolution. 
+### Evolutionary Vector Dataset
+Therefore, in thinking about how to represent this computationally, we came upon the definition of essence as the emergence of coherence, structure, or meaningful complexity in an evolutionary vector dataset. This is one idea for a Base Unit, where the “prices” of services would be determined dynamically based on the result of the computation. However, this would not be suitable in all cases, such as conflict resolution proceedings, where a static price list may be more appropriate (as is given in the hfvz phase 2 docs). 
+### Hybrid Piecework and Peer-review Multi-Unit Accounting
 We wish to use HoloFuel’s multi-unit accounting model to track, validate, and exchange different types of contributions via a decentralized, peer-led approach.
 
 Specifically:
@@ -45,10 +41,11 @@ Specifically:
 	4. Other measurements in the realm of information theory and indicators of adaptability (chaos vs. stability, predictive performance etc.)
 2. The Service Units are a measure of a given practice, e.g. knowledge commoning, conflict resolution, fooding. Each RAVE encodes a reliable indicator of practice. Identifying an indicator that is both reliable and meaningful to the community is part of the work of an action-learning journey. For each, we’re likely to draw upon a hybrid of piecework accounting plus peer verification. 
 3. The “price” of each Service, in this case, would be dynamically calculated each time, based on the content of the contribution.
-4. Ideally, each hub in the network (nodal actors on-the-ground) creates its own pool.
-	> QUESTION: Is this feasible? Could our app manage multiple pool admins? There would be an emphasis on ease of UX for specifying new Service Units as more practice-currencies are identified/ developed.
-5. Different forms of practice contributions are categorized into different Service Units, enabling participants to accumulate evidence of the value they have generated
-6. For all of the Service Units, we recognise the need for further security considerations
+4. Different forms of practice contributions are categorized into different Service Units, enabling participants to accumulate evidence of the value they have generated
+5. For all of the Service Units, we recognise the need for further security considerations
+6. Ideally, each hub in the network (nodal actors on-the-ground) creates its own pool.
+
+> QUESTION: Is this feasible? Could our app manage multiple pool admins? There would be an emphasis on ease of UX for specifying new Service Units as more practice-currencies are identified/ developed.
 
 > SIDE NOTE: the source-chain, self-validation approach of Holochain could be suitable for verifying voice notes with a voice recognition model without the model needing to be made public, adding another validation layer to participation contributions.
 
