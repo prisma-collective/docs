@@ -5,6 +5,7 @@ aliases:
 ---
 
 Some ways to discern: 
+
 1. activity: practice vs. production
 2. approach: practice-based vs. results-based
 3. field: community of practice vs. institution
