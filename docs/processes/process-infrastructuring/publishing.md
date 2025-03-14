@@ -4,7 +4,7 @@
 
 the `docs` begins as a repository template, seeding the start of an ALJ with some preliminary pages. during the course of the onboarding period and the intensive, participants are encouraged to collectively tend to the wiki, making new entries and iterating existing ones. these `docs` are the most comprehensive source of content for all things relating to... 
 
-1. communicating the essence of the place the hub is situated 
+1. communicating the essence of the [[place]] the hub is situated 
 2. onboarding future stakeholders into this line of work
 3. making visible the learnings generated during the ALJ and beyond
 4. embedding data visualisations

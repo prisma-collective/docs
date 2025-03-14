@@ -2,7 +2,7 @@ prisma undertakes process design from a living systems paradigm, inquiring into 
 
 ![[character.png]]
 
-Our work is characterised by the integration of facilitation, place-sourcing design, and technology innovation. We're on the following trajectory:
+Our work is characterised by the integration of facilitation, [[place]]-sourced design, and technology innovation. We're on the following trajectory:
 
 ![[concept_ordering.png]]
 

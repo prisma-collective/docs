@@ -10,4 +10,4 @@ more broadly, that it's unlikely to be able to reflect "the difference that make
 
 ![[developmental-case-studies.png]]
 
-thus, the creative tension was introduced: how to reconcile the need to serve a globally distributed community of practice in communicating their work, where each practitioner is working to realise place-sourced potential in their own context, in their own way, without flattening, reducing, or homogenising the communication process, results, and effects? thus, a [[process design collective]] is forming in response to this inquiry.
+thus, the creative tension was introduced: how to reconcile the need to serve a globally distributed community of practice in communicating their work, where each practitioner is working to realise [[place]]-sourced potential in their own context, in their own way, without flattening, reducing, or homogenising the communication process, results, and effects? thus, a [[process design collective]] is forming in response to this inquiry.

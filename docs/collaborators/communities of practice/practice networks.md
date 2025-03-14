@@ -1,3 +1,8 @@
+---
+aliases:
+- community of practice 
+- communities of practice
+---
 
 # practice networks
 prisma is a distributed incubator for communities of [[practice]] and on-the-ground [[hubs]] to self-organise [[action-learning journeys]].
@@ -12,7 +17,7 @@ we are designing a [[Holochain|minimum viable governance system]] to support...
 
 1. External capability development of event [[participants]]
 	- code, [[practice]] and [[product]] quality
-	- place-unique (digital) expressions of developmental inquiries into the essence of place [^3]
+	- [[place]]-unique (digital) expressions of developmental inquiries into the essence of place [^3]
 2. Internal capability development
 	- the facilitator team's capability to work with the underlying, generative patterns for organising [[action-learning journeys]] 
 	- increasing [[process design collective|order]] of design and effect
@@ -56,17 +61,15 @@ event capacities are sourced from at least the following four stakeholder groups
 
 these [stakeholder development pathways](https://register.prisma.events) are being designed to form a 4-8 month onboarding process. 
 
-the [[process infrastructuring]] developed to support the organisation of each event instance is also designed to be configurable and self-contained, able to be deployed to a server/ [[Holochain|device]] network local to the [[hubs]] hosting the event. the purpose of this is to align with the aim of building capacity in-place for ongoing development of the products incubated during the intensive. 
-
+the [[processes/process-infrastructuring/overview|process-infrastructuring]] developed to support the organisation of each event instance is also designed to be configurable and self-contained, able to be deployed to a server/ device network local to the [[hubs]] hosting the event. the purpose of this is to align with the aim of building capacity in-place for ongoing development of the products incubated during the intensive. 
 # Instrumenting
 instruments supporting this process design are:
 
-- [[publishing]] stack - an evolving knowledge commons
+- [[case-study]] [[publishing]] stack - an interface into [[action-learning]]
 - [[Core Facilitator Capacity|patterns for facilitator teams]] - see [liberating structures](https://www.liberatingstructures.com/)
-- [[DID System]] & reputation - participant registrations, contribution accounting and participation timelines
-- A financing distribution methodology and tooling, both internal and external. See [[Capital Distribution]].
-- Organisational agreements-making, serving [[incubation methodology|intensives as incubation processes]]
-- [[Speech-to-Currency]], serving place-unique [[practice-based daos]]
+- reputation - participant registrations, contribution accounting and participation timelines
+- Organisational agreements-making, serving [[incubation|intensives as incubation processes]]
+- [[practice-currencies]] and [[practice]] DAOs
 
 [^1]: Regenesis Institute for Regenerative Practice, [ref](https://regenerat.es/). See [[Regenesis]].
 [^2]: (describe the on-boarding process)

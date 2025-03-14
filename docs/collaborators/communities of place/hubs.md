@@ -2,7 +2,6 @@
 aliases:
 - community of place
 - communities of place
-- copl
 - hubs
 - hub
 ---
@@ -56,7 +55,7 @@ Here's a brief overview of some of the main benefits accessible to hubs and rela
 
 **1. Hubs:**
 
-- Stewarding the evolution of place-unique systems-change [[practice|practices]] that serve the vitality and capabilities of their communities
+- Stewarding the evolution of [[place]]-unique systems-change [[practice|practices]] that serve the vitality and capabilities of their communities
 - Showcasing local talent and product innovation.
 - Demonstrating community needs being met.
 - Potential for attracting investment and/or embarking on further learning journeys.
