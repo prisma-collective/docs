@@ -17,7 +17,7 @@ it is crucial that developers appreciate their relationship with the character a
 
 at the same time, developers are required to think functionally in order to implement a given ALJ's product requirements with technical rigour. functional thinking can sometimes seem at odds with the uncertainties inherent in group collaboration. growing a social bandwidth is an experience in itself. 
 
-the purpose of participating in an action-learning journey as a developer is to instrument[^1] the development of systems-evolution [[practice|practices]] that are uniquely informed by the context of the place in which the action-learning journey is hosted. 
+the purpose of participating in an action-learning journey as a developer is to instrument[^1] the development of systems-evolution [[practice|practices]] that are uniquely informed by the context of the [[place]] in which the action-learning journey is hosted. 
 # Outcomes
 developers are encouraged to reflect frequently on their experience of the process, noting insights into how their perspective on personal and collective dynamics is changing and why, what patterns are apprehensible and what meaning can be made of them. [[action-learning journeys]] are a collaboration intensive, generating many opportunities for experimentation, growth, play and learning. the list of examples below is non-exhaustive.
 
