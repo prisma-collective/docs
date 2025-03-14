@@ -4,12 +4,11 @@ aliases:
 - evaluation
 ---
 
-![evaluating](evaluating.png)
----
+![[evaluating.png]]
 
 ## **Introduction**  
 ### **The Essence of Our Evaluation Approach**  
-Evaluation, for us, is not a static measure of success but a living [[practice]] of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of ecological vitality, cultural wisdom, and emergent possibility. At Prisma, we see evaluation as the *essence of governance*—a way for collectives to sense, adapt, and evolve their actions in harmony with the [[essence of place]] and the [[Living Systems Principles]] that bind us all.  
+Evaluation, for us, is not a static measure of success but a living [[practice]] of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of ecological vitality, cultural wisdom, and emergent possibility. At Prisma, we see evaluation as the *essence of governance*—a way for collectives to sense, adapt, and evolve their actions in harmony with the [[essence of place]] and the [[Living Systems Principles]] that bind us all. 
 
 #### **Vision**  
 To redefine evaluation as a dynamic dialogue with life itself—a socio-technological practice that illuminates the invisible threads connecting ecological health, social equity, and cultural resilience.  
