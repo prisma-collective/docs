@@ -13,7 +13,7 @@ These voices have shaped our understanding of living systems, regeneration, and 
 ---
 
 ### **Pioneering Organizations**  
-- **Regenesis Group**: Co-designers of our developmental case studies and place-sourced frameworks. Their "Story of Place" lives in our [[essence of place]] work.  
+- **Regenesis Group**: Co-designers of our developmental case studies and place-sourced frameworks. Their "Story of Place" lives in our essence of [[place]] work.  
 - **Regeneration International**: Champions of soil health as the foundation of all capital, inspiring our [[ecological sphere]] metrics.  
 - **Highlander Research & Education Center**: Modeled how grassroots leadership and [[participatory evaluation]] can dismantle systemic inequities.  
 - **Systems in Evaluation Topical Interest Group**: Their principles for systems thinking in evaluation underpin our [[developmental evaluation]] protocols.  
@@ -64,12 +64,12 @@ These voices have shaped our understanding of living systems, regeneration, and 
 ---
 
 ### **Gratitude & Continuity**  
-We walk paths cleared by others. Every [[action-learning journey]] begins by honoring the land’s original stewards. Every [[developmental evaluation]] asks: *How does this work repay the debt to those who inspired it?*  
+We walk paths cleared by others. Every [[action-learning journeys|action-learning journey]] begins by honoring the land’s original stewards. Every [[developmental evaluation]] asks: *How does this work repay the debt to those who inspired it?*  
 
 ---
 
 ##### **Related Pages**  
 - [[Living Systems Principles]]  
-[[core processes]]s]]  
-- [[Communities of Practice]]  
+- [[core processes]]
+- [[practice networks]]
 - [[Regenerative Development & Design]]  

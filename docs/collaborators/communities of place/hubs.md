@@ -1,5 +1,7 @@
 ---
 aliases:
+- community of place
+- communities of place
 - copl
 - hubs
 - hub
