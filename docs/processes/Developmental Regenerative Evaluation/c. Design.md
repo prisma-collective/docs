@@ -24,6 +24,8 @@ Our evaluation framework mirrors life’s complexity by honoring five interconne
 
 ### **The Eight Capitals: Nourishing Regenerative Wealth**  
 We track eight forms of capital that sustain thriving systems:  
+
+Say something about resourcing from and to capitals, the value contributed could be different. Like one can resource from financial capital (stipend) to contribute knowledge capital flow, and build up physical capital (architecting design for a building).
 1. **Natural** 🌱 (forests, soil)  
 2. **Social** 👥 (trust networks)  
 3. **Human** 🧠 (skills, health)  
