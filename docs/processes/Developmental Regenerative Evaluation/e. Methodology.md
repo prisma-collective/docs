@@ -169,16 +169,3 @@ Capital isn’t just financial; it’s relational, ecological, cultural—it’s
     
 - [[Action-learning journeys]]
     
-
-Let me know if you’d like refinements or additional examples! 🌱✨
-
-### Citations:
-
-1. [https://pplx-res.cloudinary.com/image/upload/v1739768454/user_uploads/PGUmRTzsKwHupze/1000039616.jpg](https://pplx-res.cloudinary.com/image/upload/v1739768454/user_uploads/PGUmRTzsKwHupze/1000039616.jpg)
-2. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/19855140/78a5589f-9414-47ce-832a-424d5c98611b/Prisma-Wiki-Content.docx](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/19855140/78a5589f-9414-47ce-832a-424d5c98611b/Prisma-Wiki-Content.docx)
-3. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/19855140/825cb346-b34f-421a-b958-6c8126af1274/messages.html](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/19855140/825cb346-b34f-421a-b958-6c8126af1274/messages.html)
-4. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/19855140/ddbd6d45-e5ba-43e7-b130-92e8bafac87b/Blockchain-Enabled-Regenerative-Evaluation.docx](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/19855140/ddbd6d45-e5ba-43e7-b130-92e8bafac87b/Blockchain-Enabled-Regenerative-Evaluation.docx)
-
----
-
-Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)
