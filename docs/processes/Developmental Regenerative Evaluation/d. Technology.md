@@ -69,13 +69,3 @@ During the Accra ALJ, our technology enabled:
 - Decentralized storytelling platform capturing elder wisdom on traditional craft motifs.
 
 This technological infrastructure not only facilitated data collection but also embodied the principles of decentralization and community ownership central to our [[Regenerative Development & Design]] approach.
-
----
-
-##### **Related Pages**
-- [[Holochain]]
-- [[DID System]]
-- [[Speech-to-Currency]]
-- [[Capital Distribution]]
-- [[Core Facilitator Capacity]]
-- [[Developmental Evaluation]]

@@ -118,10 +118,3 @@ In action, the framework can be articulated as follows:
 Starting with the Baselining stage, the facilitators of the action-learning journey work with different stakeholders to develop a foundational picture of the five systemic spheres as they currently exist for the community, and a list of activities that will be used as the primary means of understanding how value is being generated. These activities, termed Aspects, will be drawn upon by the stakeholders to resource from and contribute to the different forms of capital that are of relevance to the action learning journey's goals. Over the course of different activities that are undertaken as part of the programming, as well as emergent events that unfold, data will be collected in different forms such as through telegram bots and facilitator observations. This data will be analyzed with the support of an artificial intelligence engine trained to track multi-capital flows and where possible, live insights will be utilized for the purpose of enhancing facilitation and stakeholder participation.
 
 ---
-
-##### **Related Pages**  
-- [[Developmental Evaluation]]  
-- [[Core Facilitator Capacity]]  
-- [[action-learning journeys]]  
-- [[Communities of Place]]  
-- [[Living Systems Principles]]  
