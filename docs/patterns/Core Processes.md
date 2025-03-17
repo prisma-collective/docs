@@ -1,7 +1,7 @@
 ![[process-facilitation.png]]
 
 # Core Processes
-at the highest level, each event is the interplay of the following four processes. these processes each receive a sub-domain dedicated to engaging a wider audience with the inner workings of the event. these sub-domains become the endpoints by which [[hubs]] can integrate their place-unique expressions of working with the essence of place in a global-scale, self-evolving platform.
+at the highest level, each event is the interplay of the following four processes. these processes each receive a sub-domain dedicated to engaging a wider audience with the inner workings of the event. these sub-domains become the endpoints by which [[hubs]] can integrate their [[place]]-unique interfaces into working with the essence of place in a global-scale, self-evolving platform.
 
 1. [[enrolment]] 
 	- stakeholder engagement
@@ -11,7 +11,7 @@ at the highest level, each event is the interplay of the following four processe
 	- accumulating intention
 	- imaging place-sourced potential (hubs platforming local network activity)
 3. [[docs/Glossary/Enactment|enacting]] 
-	- practice embodiment
+	- [[practice]] embodiment
 	- learning by doing
 	- organisation forming
 4. [[a. Introduction|evaluating]]

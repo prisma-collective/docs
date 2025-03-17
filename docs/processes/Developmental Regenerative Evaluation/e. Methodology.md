@@ -4,7 +4,7 @@ _Valuing invisible flows to illuminate systemic transformation._
 
 ## **Introduction: The Essence of Evaluation**
 
-Evaluation, for us, is not a mechanical exercise of tallying outputs or measuring linear progress. It is a practice of listening deeply to the energy flows within and across systems—ecological, social, cultural, political, and economic. It is how collectives learn to adapt, evolve, and thrive in harmony with the essence of place.
+Evaluation, for us, is not a mechanical exercise of tallying outputs or measuring linear progress. It is a [[practice]] of listening deeply to the energy flows within and across systems—ecological, social, cultural, political, and economic. It is how collectives learn to adapt, evolve, and thrive in harmony with the essence of [[place]].
 
 At Prisma, evaluation is the essence of governance. It is how communities learn about their attempts to self-organize toward shared regenerative goals. By valuing energy flows—both tangible and intangible—we create pathways for collective learning, adaptation, and transformation.
 
@@ -160,12 +160,3 @@ During the Accra [[action-learning journey]]:
 Our evaluation methodology doesn’t just measure outcomes—it makes invisible flows visible. By tracking energy exchanges across multiple layers—from systemic impacts down to individual reflections—we create a holistic understanding of change that honors complexity while enabling action.
 
 Capital isn’t just financial; it’s relational, ecological, cultural—it’s everything that nourishes life’s interconnected web.
-
-## **Related Pages**
-
-- [[Multi-Capitals Framework]]
-    
-- [[Developmental Evaluation]]
-    
-- [[Action-learning journeys]]
-    

@@ -1,7 +1,14 @@
 ---
 aliases:
 - practice-based
+- practices
 ---
+
+Some ways to discern: 
+
+1. activity: practice vs. production
+2. approach: practice-based vs. results-based
+3. field: community of practice vs. institution
 
 **Practice-based approaches** to systems change focus on the continuous development of practices, relationships, and capacities that enable the system to evolve over time. This approach emphasizes *learning, iteration, adaptation*, and *ongoing engagement*. It is less about achieving specific, predefined outcomes and more about creating the conditions for sustained, long-term change.
 
@@ -17,11 +24,11 @@ A practice-based approach to systems change emphasizes the importance of process
 
 # Comparison of Practice-Based and Results-Based Approaches
 
-| Aspect                  | **Practice-Based Approach**                                          | **Results-Based Approach**                             |
-| ----------------------- | -------------------------------------------------------------------- | ------------------------------------------------------ |
-| **Focus**               | Ongoing learning, practice, relationships                            | Predefined, measurable outcomes                        |
-| **Evaluation**          | Developmental, iterative, reflective                                 | Metrics-based, goal-oriented                           |
-| **Change Process**      | Emergent, non-linear, co-creative                                    | Linear, goal-driven, target-oriented                   |
-| **Complexity Handling** | Adapts to complexity, uncertainty, and emergence                     | Simplifies complexity into measurable targets          |
-| **Examples of Methods** | Developmental evaluation, systems thinking, action learning          | Logical frameworks, Theory of Change, logframes, RBA   |
-| **Application Context** | Complex systems, social innovation, place-based or regenerative work | International development, public policy, philanthropy |
+| Aspect                  | **Practice-Based Approach**                                              | **Results-Based Approach**                             |
+| ----------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------ |
+| **Focus**               | Ongoing learning, practice, relationships                                | Predefined, measurable outcomes                        |
+| **Evaluation**          | Developmental, iterative, reflective                                     | Metrics-based, goal-oriented                           |
+| **Change Process**      | Emergent, non-linear, co-creative                                        | Linear, goal-driven, target-oriented                   |
+| **Complexity Handling** | Adapts to complexity, uncertainty, and emergence                         | Simplifies complexity into measurable targets          |
+| **Examples of Methods** | Developmental evaluation, systems thinking, action learning              | Logical frameworks, Theory of Change, logframes, RBA   |
+| **Application Context** | Complex systems, social innovation, [[place]]-based or regenerative work | International development, public policy, philanthropy |

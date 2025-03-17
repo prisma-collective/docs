@@ -7,13 +7,13 @@ These voices have shaped our understanding of living systems, regeneration, and 
 - **Carol Sanford** (*Regenerative Business*): Taught us to embed regeneration into organizational DNA, not just outputs. Her work inspires our focus on [[Core Facilitator Capacity|facilitator evolution]].  
 - **Fritjof Capra & Pier Luigi Luisi** (*The Systems View of Life*): Rooted us in the science of interconnectedness, guiding how we map [[g. Five Spheres of Evaluation]].  
 - **Allan Savory** (*Holistic Management*): Showed how to reverse desertification through livestock—a lesson in balancing ecological and human needs.  
-- **Paulo Freire & Myles Horton**: Pioneers of participatory pedagogy, their ethos lives in our [[Action-learning journeys]] and [[enrolment]] processes.  
+- **Paulo Freire & Myles Horton**: Pioneers of participatory pedagogy, their ethos lives in our [[action-learning journeys]] and [[enrolment]] processes.  
 - **Robin Wall Kimmerer** (*Braiding Sweetgrass*): Bridged Indigenous wisdom and scientific rigor, mirroring our [[mixed-methods approach]].  
 
 ---
 
 ### **Pioneering Organizations**  
-- **Regenesis Group**: Co-designers of our developmental case studies and place-sourced frameworks. Their "Story of Place" lives in our [[essence of place]] work.  
+- **Regenesis Group**: Co-designers of our developmental case studies and place-sourced frameworks. Their "Story of Place" lives in our essence of [[place]] work.  
 - **Regeneration International**: Champions of soil health as the foundation of all capital, inspiring our [[ecological sphere]] metrics.  
 - **Highlander Research & Education Center**: Modeled how grassroots leadership and [[participatory evaluation]] can dismantle systemic inequities.  
 - **Systems in Evaluation Topical Interest Group**: Their principles for systems thinking in evaluation underpin our [[developmental evaluation]] protocols.  
@@ -64,12 +64,12 @@ These voices have shaped our understanding of living systems, regeneration, and 
 ---
 
 ### **Gratitude & Continuity**  
-We walk paths cleared by others. Every [[action-learning journey]] begins by honoring the land’s original stewards. Every [[developmental evaluation]] asks: *How does this work repay the debt to those who inspired it?*  
+We walk paths cleared by others. Every [[action-learning journeys|action-learning journey]] begins by honoring the land’s original stewards. Every [[developmental evaluation]] asks: *How does this work repay the debt to those who inspired it?*  
 
 ---
 
 ##### **Related Pages**  
 - [[Living Systems Principles]]  
-[[core processes]]s]]  
-- [[Communities of Practice]]  
+- [[core processes]]
+- [[practice networks]]
 - [[Regenerative Development & Design]]  

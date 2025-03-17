@@ -70,9 +70,17 @@ plugins:
       glob:
         - "drafts/**"
   - awesome-pages
+  - encryptcontent:
+      placeholder: 'Password'
+      decryption_failure_message: 'Wrong user name or password.'
+      remember_password: true  # Allow browser to remember passwords
+      encryption_info_message: "This page is encrypted. Please enter the password to view its contents."
+      password_button: true
+      password_button_text: 'Decrypt'
 
 extra_javascript:
-  - javascripts/mathjax.js
+  - javascripts/mathjax.jsextra_javascript:
+  - https://cdn.jsdelivr.net/npm/mkdocs-encryptcontent-plugin/encrypt.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js
