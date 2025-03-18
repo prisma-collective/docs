@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Glossary/Action-learning journeys.md",
+                "file": "docs/processes/evaluation/a. Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Action-learning journeys"
+              "title": "a. Introduction"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/processes/Developmental Regenerative Evaluation/0. Overview.md",
+                "file": "docs/processes/evaluation/0. Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/processes/Developmental Regenerative Evaluation/a. Introduction.md",
+                "file": "docs/processes/evaluation/a. Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -151,8 +151,7 @@
               "title": "a. Introduction"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,17 +315,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a526c62d6e20530",
+  "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
-    "docs/processes/Developmental Regenerative Evaluation/0. Overview.md",
-    "docs/processes/Developmental Regenerative Evaluation/a. Introduction.md",
-    "docs/processes/Developmental Regenerative Evaluation/c. Design.md",
+    "docs/processes/evaluation/a. Introduction.md",
+    "docs/processes/evaluation/0. Overview.md",
+    "docs/processes/evaluation/c. Design.md",
     "docs/patterns/action-learning journeys.md",
     "docs/processes/Developmental Regenerative Evaluation/().md",
     "docs/Glossary/Practice.md",
     "docs/processes/Developmental Regenerative Evaluation/b. Inspiration.md",
-    "docs/processes/Developmental Regenerative Evaluation/d. Technology.md",
-    "docs/processes/Developmental Regenerative Evaluation/e. Methodology.md",
+    "docs/processes/evaluation/d. Technology.md",
+    "docs/processes/evaluation/e. Methodology.md",
     "conflict-files-obsidian-git.md",
     "docs/Glossary/Place.md",
     "docs/processes/process-infrastructuring/practice-currencies.md",
@@ -340,8 +339,8 @@
     "docs/Assets/learning-arcs.png",
     "docs/Assets/learning-arcs-w-iteration.png",
     "docs/Assets/emergent_learning_table.png",
-    "docs/Practices/Regenerative Development & Design.md",
-    "docs/processes/Developmental Regenerative Evaluation/f. Journaling-Based Evaluation Bot.md",
+    "docs/practices/Regenerative Development & Design.md",
+    "docs/processes/evaluation/f. Journaling-Based Evaluation Bot.md",
     "docs/patterns/case-study.md",
     "docs/playbook/4. Generating data.md",
     "docs/playbook/3. Facilitating via Core Processes.md",
@@ -358,11 +357,11 @@
     "docs/Assets/character.svg",
     "docs/Assets/communicating-al.png",
     "docs/processes/process-infrastructuring/timelining",
-    "docs/processes/Developmental Regenerative Evaluation",
+    "docs/processes/evaluation",
     "docs/collaborators/communities of practice/Holochain",
     "Tech",
     "docs/Decentralized Aspects",
     "docs/methodologies/Developmental Regenerative Evaluation",
-    "docs/Practices"
+    "docs/practices"
   ]
 }

@@ -21,45 +21,18 @@ We hold ourselves accountable to answering the following questions:
 1. what alternate forms of data on diverse value contributions be authentically reflected?
 2. how can a regenerative evaluation process be conducted?
 3. can multi-capital forms of value reading enable holistic evaluation?
-4. how willing are people to dedicate some energy to focused evaluation processes? how easy can we make it for them?
+4. which tools and practices lower the threshold for active, playful participation in the evaluation processes? 
 
 ---
 
-### **Principles & Values**  
-Our approach is rooted in four guiding stars:  
-1. **Humility**: Communities lead the design, ensuring evaluation mirrors their unique [[cultural narrative|narratives]] and rhythms.  
-2. **Integrity**: We balance rigor with pragmatism—measuring what matters, not just what’s measurable.  
-3. **Emergence**: We seek patterns, not endpoints, embracing the unpredictable alchemy of [[action-learning journeys]].  
-4. **Interdependence**: Every metric is a thread in a larger tapestry, woven from relationships between people, place, and practice.  
+### **Values**  
+Our approach is built on the foundations of the following four pillars:  
+1. **Playfulness**: Everything is an experiment - true emergence is a factor of trying out different approaches and tools.  
+2. **Curiosity**: We seek patterns, exploring how it all comes together - metrics, people, places, practices and the relationships therein.
+3. **Reciprocity**: 
+4. **Integrity**: We measure what matters - to communities who design their own evaluation methodologies to act as mirrors for their unique narratives and rhythms.
 
 ---
-
-### **Our Story of Evaluation**  
-Conventional evaluation asks, *“Did we hit the target?”*  
-We ask, *“What is the system telling us? How are we being reshaped by the work?”*  
-
-#### **From Extraction to Enlivening**  
-Traditional models reduce value to financial ROI or carbon metrics, severing the connective tissue between ecological, social, and cultural flows. Our [[developmental evaluation]] approach emerged from decades of observing how regenerative systems thrive when communities learn to *read their own vitality*:  
-- A forest’s health isn’t just in tree counts, but in the mycelial networks beneath.  
-- A community’s resilience isn’t just in GDP, but in the quiet strength of elders sharing stories around fires.  
-
-#### **The Dance of Enactment & Reflection**  
-Evaluation here is a dance between [[docs/Glossary/Enactment|doing]] and [[developmental evaluation|sensing]]. During an [[action-learning journey]] in Accra, youth-led recycling initiatives weren’t just measured by tons of plastic diverted. Through participatory storytelling and [[Warm Data Labs|relational mapping]], we surfaced how their work rewired local power dynamics—empowering women traders to co-design waste-to-energy microgrids. *That* is the alchemy of valuing energy flows.  
-
-#### **Tools as Living Systems**  
-Our tools—[[Holochain|decentralized governance protocols]], [[Speech-to-Currency]] systems, [[bot arrays]]—are designed to evolve with the communities using them. Like a river shaping its banks, our methodologies adapt to the terrain, guided by questions like:  
-- *What does this place need to become more of itself?*  
-- *How do we honor both data and intuition in our learning?*  
-
----
-
-### **Why This Matters**  
-In a world addicted to oversimplification, our work is to hold space for complexity. To evaluate regeneratively is to:  
-- **See systems whole**, refusing to fracture ecological health from cultural memory.  
-- **Trust communities** as the ultimate authors of their stories.  
-- **Rewrite the future** by listening deeply to the past.  
-
-This is not just evaluation—it’s a love letter to life’s interconnectedness.  
 
 **Implementation Framework**
 
