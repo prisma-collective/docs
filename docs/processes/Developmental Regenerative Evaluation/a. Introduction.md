@@ -8,13 +8,13 @@ aliases:
 
 ## **Introduction**  
 ### **The Essence of Our Evaluation Approach**  
-Evaluation, for us, is not a static measure of success but a living [[practice]] of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of ecological vitality, cultural wisdom, and emergent possibility. At Prisma, we see evaluation as the *essence of governance*—a way for collectives to sense, adapt, and evolve their actions in harmony with the essence of [[place]] and the [[Living Systems Principles]] that bind us all. 
+Evaluation, for us, is not a static measure of success but a living [[practice]] of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of social relationality, ecological vitality, cultural wisdom, governance systems and emergent possibility. At Prisma, we see evaluation as the *essence of organisational development*—a way for collectives to sense, adapt, and evolve their actions in harmony with the essence of [[place]] and the [[Living Systems Principles]] that bind us all. 
 
 #### Vision
-To redefine evaluation as a dynamic dialogue with life itself—a socio-technological practice that illuminates the invisible threads connecting ecological health, social equity, and cultural resilience.  
+To redefine evaluation as a dynamic dialogue with life itself—a socio-technological practice that illuminates the flows of value that drive collective evolution.  
 
 #### Mission
-To deploy and grow a general framework that adapts to [[place]] & [[practice]] through honouring energy flow in its [multi-capital](Multi-Capitals Framework) forms across [[g. Five Spheres of Evaluation|five spheres]], empowering communities to steward regenerative futures through participatory learning and adaptive action.  
+To deploy and grow a technology-enabled general framework that adapts to [[place]] & [[practice]] through honoring energy flow in its [multi-capital](Multi-Capitals Framework) forms across [[g. Five Spheres of Evaluation|five spheres]], empowering communities to steward regenerative futures.  
 
 #### Purpose
 We exist to:  
