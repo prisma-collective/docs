@@ -1,0 +1,17 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "../public",
+  "promptDelete": false,
+  "trashOption": "local",
+  "userIgnoreFilters": null,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 76
+  },
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute"
+}
