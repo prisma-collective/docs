@@ -1,6 +1,2 @@
-.obsidian/*
-.trash/*
-docs/.obsidian/*
-docs/Internal/*
-docs\.obsidian\workspace.json
-docs/.obsidian/workspace.json
+.next
+node_modules

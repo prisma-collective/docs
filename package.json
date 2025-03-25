@@ -1,0 +1,38 @@
+{
+  "name": "prisma-docs",
+  "version": "0.0.1",
+  "description": "Prisma Documentation",
+  "scripts": {
+    "dev": "next --turbopack",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prisma-collective/docs.git"
+  },
+  "author": "Prisma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prisma-collective/docs/issues"
+  },
+  "homepage": "https://docs.prisma.events",
+  "dependencies": {
+    "@vercel/analytics": "^1.5.0",
+    "chart.js": "^4.4.8",
+    "next": "^15.2.2",
+    "nextra": "^4.2.16",
+    "nextra-theme-docs": "^4.2.16",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remark-wiki-link": "^2.0.1",
+    "shiki": "3.2.1"
+  },
+  "devDependencies": {
+    "@mdx-js/react": "^3.1.0",
+    "@types/node": "22.13.10",
+    "@types/react": "19.0.10",
+    "typescript": "^5.8.2"
+  },
+  "type": "module"
+}

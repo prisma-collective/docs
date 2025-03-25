@@ -1,0 +1,100 @@
+/* Set the background color for the whole page */
+body {
+    background-color:rgb(0, 0, 0); /* Change this to your desired background color */
+    color: #ffffff; 
+}
+
+/* Set font style for headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', sans-serif; 
+    color:rgb(249, 249, 249); 
+}
+
+/* Set font style for links */
+a {
+    color: #7faec2; 
+    text-decoration: none; 
+}
+
+/* Add hover effect to links */
+a:hover {
+    color: #c362ff; 
+    text-decoration: none; 
+}
+
+/* Light theme styles when Nextra switches to light mode */
+html:not(.dark) body {
+    background-color: #ffffff; /* Light mode background */
+    color: #333333; /* Dark text for contrast */
+}
+
+html:not(.dark) h1, 
+html:not(.dark) h2, 
+html:not(.dark) h3, 
+html:not(.dark) h4, 
+html:not(.dark) h5, 
+html:not(.dark) h6 {
+    color: #000000; /* Darker text for readability */
+}
+
+.aspect {
+    animation: moveAround linear infinite;
+    transform-origin: center;
+    animation-play-state: running; /* Default to running */
+    opacity: 1;
+    transition: opacity 0.5s ease; /* Smooth transition */
+  }
+  
+  .aspectAnti {
+    animation: moveAroundAnti linear infinite;
+    transform-origin: center;
+    animation-play-state: running; 
+    opacity: 1;
+    transition: opacity 0.5s ease;
+  }
+  
+  .aspect:hover {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+  }
+  
+  .aspectAnti:hover {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+  }
+  
+  .level:hover .aspect {
+    animation-play-state: paused;
+  }
+  
+  .level:hover .aspectAnti {
+    animation-play-state: paused;
+  }
+  
+  .highlighted {
+    opacity: 1;
+    transition: opacity 2s ease;
+  }
+  
+  .unhighlighted {
+    opacity: 0.2;
+    transition: opacity 2s ease;
+  }
+  
+  @keyframes moveAround {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes moveAroundAnti {
+    from {
+      transform: rotate(360deg);
+    }
+    to {
+      transform: rotate(0deg);
+    }
+  }
