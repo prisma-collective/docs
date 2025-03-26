@@ -14,16 +14,18 @@ export const metadata = {
   openGraph: {
     title: 'Prisma Docs',
     description: 'Documentation for Prisma',
-    type: 'website'
+    type: 'website',
+    siteName: "Prisma Docs",
+    images: [{ url: "/social_card.png" }],
   }
 }
 
-const banner = <Banner storageKey="some-key">Upcoming action-learning journey: Accra, Ghana @ May 19 2025</Banner>
+const banner = <Banner storageKey="some-key">Upcoming action-learning journey: Accra, Ghana @ May 18 2025</Banner>
 const navbar = (
   <Navbar
     logo={
       <div>
-        <Image src="/logo_colour_w_text.svg" width={140} height={60} alt="Prisma Logo (Light)" />
+        <Image src="/logo_colour_w_text.svg" width={140} height={60} alt="Prisma Logo" />
       </div>
     }
     // ... Your additional navbar options
