@@ -17,7 +17,13 @@ export const metadata = {
     type: 'website',
     siteName: "Prisma Docs",
     images: [{ url: "/social_card.png" }],
-  }
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Prisma Docs",
+    description: "Documentation for Prisma",
+    images: [{ url: "/social_card.png" }],
+  },
 }
 
 const banner = <Banner storageKey="some-key">Upcoming action-learning journey: Accra, Ghana @ May 18 2025</Banner>
