@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "context & narrative/Core Value-Systems.md",
+                "file": "processes/process-infrastructuring/timelining/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Core Value-Systems"
+              "title": "index"
             }
           }
         ]
@@ -196,8 +196,11 @@
   },
   "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
-    "patterns/sociocratic organising.md",
+    "processes/process-infrastructuring/index.md",
+    "processes/process-infrastructuring/timelining/index.md",
     "context & narrative/Core Value-Systems.md",
+    "processes/process-infrastructuring/timelining/input protocol.md",
+    "patterns/sociocratic organising.md",
     "docs/processes/evaluation/a. Introduction.md",
     "docs/processes/evaluation/0. Overview.md",
     "docs/processes/evaluation/c. Design.md",
@@ -223,9 +226,6 @@
     "docs/practices/Regenerative Development & Design.md",
     "docs/processes/evaluation/f. Journaling-Based Evaluation Bot.md",
     "docs/patterns/case-study.md",
-    "docs/playbook/4. Generating data.md",
-    "docs/playbook/3. Facilitating via Core Processes.md",
-    "docs/playbook/3. Calling in an ALJ.md",
     "docs/playbook",
     "docs/Assets/concept_ordering.png",
     "docs/drafts",

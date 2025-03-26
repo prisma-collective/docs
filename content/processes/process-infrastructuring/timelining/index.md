@@ -1,4 +1,15 @@
-status: in-progress, early-stage
+---
+aliases:
+- timelining
+- timelining system
+- timeline
+
+sidebarTitle: Timelining
+asIndexPage: true
+
+---
+
+*status: in-progress, early-stage*
 
 The timelining system is a voice-first analytics pipeline that captures Telegram voice notes, transcribes them, generates vector embeddings, and presents insights via a timeline UI. It prompts reflection, analyzes participation, and synthesizes insights for participants, facilitators, and evaluators.
 
