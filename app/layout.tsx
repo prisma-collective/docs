@@ -1,32 +1,15 @@
 import { Footer, Layout, Navbar } from 'nextra-theme-docs'
-import { Banner, Head } from 'nextra/components'
-import { getPageMap } from 'nextra/page-map'
-import 'nextra-theme-docs/style.css'
-import '../styles.css'
-import { ReactNode } from 'react'
+import { Banner, Head } from 'nextra/components';
+import { getPageMap } from 'nextra/page-map';
+import 'nextra-theme-docs/style.css';
+import '../styles.css';
+import { ReactNode } from 'react';
 import Image from 'next/image';
-import { Analytics } from "@vercel/analytics/react"
-
-export const metadata = {
-  title: 'Prisma Docs',
-  description: 'Documentation for Prisma',
-  metadataBase: new URL('https://docs.prisma.events'),
-  openGraph: {
-    title: 'Prisma Docs',
-    description: 'Documentation for Prisma',
-    type: 'website',
-    siteName: "Prisma Docs",
-    images: [{ url: "/social_card.png" }],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Prisma Docs",
-    description: "Documentation for Prisma",
-    images: [{ url: "/social_card.png" }],
-  },
-}
+import { Analytics } from "@vercel/analytics/react";
+import { generateMetadata } from './utils/metadata';
 
 const banner = <Banner storageKey="some-key">Upcoming action-learning journey: Accra, Ghana @ May 18 2025</Banner>
+
 const navbar = (
   <Navbar
     logo={
@@ -37,22 +20,35 @@ const navbar = (
     // ... Your additional navbar options
   />
 );
+
 const footer = <Footer>Prisma © {new Date().getFullYear()}</Footer>
 
-export default async function RootLayout({ children }: { children: ReactNode }) {
+export default async function RootLayout({
+  children,
+  params,
+}: {
+  children: ReactNode;
+  params: { mdxPath?: string[] };
+}) {
+  const metadata = await generateMetadata({ params }); // Generate dynamic metadata
+
   return (
-    <html
-      // Not required, but good for SEO
-      lang="en"
-      // Required to be set
-      dir="ltr"
-      // Suggested by `next-themes` package https://github.com/pacocoursey/next-themes#with-app
-      suppressHydrationWarning
-    >
-      <Head
-      // ... Your additional head options
-      >
-        {/* Your additional tags should be passed as `children` of `<Head>` element */}
+    <html lang="en" dir="ltr" suppressHydrationWarning>
+      <Head>
+        <title>{metadata.title}</title>
+        <meta name="description" content={metadata.description} />
+        {/* OpenGraph Meta Tags */}
+        <meta property="og:title" content={metadata.openGraph.title} />
+        <meta property="og:description" content={metadata.openGraph.description} />
+        <meta property="og:url" content={metadata.openGraph.url} />
+        <meta property="og:site_name" content={metadata.openGraph.siteName} />
+        <meta property="og:type" content={metadata.openGraph.type} />
+        <meta property="og:image" content={metadata.openGraph.images[0].url} />
+        {/* Twitter Meta Tags */}
+        <meta name="twitter:card" content={metadata.twitter.card} />
+        <meta name="twitter:title" content={metadata.twitter.title} />
+        <meta name="twitter:description" content={metadata.twitter.description} />
+        <meta name="twitter:image" content={metadata.twitter.images[0]} />
       </Head>
       <body>
         <Layout
@@ -63,12 +59,12 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
           footer={footer}
           sidebar={{ autoCollapse: true, defaultMenuCollapseLevel: 1 }}
           editLink={null}
-          nextThemes={{ defaultTheme: 'dark' }}
+          nextThemes={{ defaultTheme: "dark" }}
         >
           {children}
           <Analytics />
         </Layout>
       </body>
     </html>
-  )
+  );
 }
