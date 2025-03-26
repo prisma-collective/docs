@@ -14,6 +14,9 @@ importers:
       chart.js:
         specifier: ^4.4.8
         version: 4.4.8
+      flexsearch:
+        specifier: ^0.8.142
+        version: 0.8.142
       next:
         specifier: ^15.2.2
         version: 15.2.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -1074,6 +1077,9 @@ packages:
   fill-range@7.1.1:
     resolution: {integrity: sha512-YsGpe3WHLK8ZYi4tWDg2Jy3ebRz2rXowDxnld4bkQB00cc/1Zw9AWnC0i9ztDJitivtQvaI9KaLyKrc+hBW0yg==}
     engines: {node: '>=8'}
+
+  flexsearch@0.8.142:
+    resolution: {integrity: sha512-16/Ag/5MUWCjoRjHxdhJrkRIoQpGkRIqoc1bXTEyi7HlxuN3RxW1pB3KuVk6BqrYiFPZi50Jzq+xMhD7CaJwJw==}
 
   format@0.2.2:
     resolution: {integrity: sha512-wzsgA6WOq+09wrU1tsJ09udeR/YZRaeArL9e1wPbFg3GG2yDnC2ldKpxs4xunpFF9DgqCqOIra3bc1HWrJ37Ww==}
@@ -3113,6 +3119,8 @@ snapshots:
   fill-range@7.1.1:
     dependencies:
       to-regex-range: 5.0.1
+
+  flexsearch@0.8.142: {}
 
   format@0.2.2: {}
 
