@@ -59,4 +59,4 @@ How? - Literally, how??
 	- With voice-interface backed onto LLMs, we can access greater capabilities with the fluency of spoken word
 
 What
-- 
+- We want to build a proof-of-concept that covers the full stack from event participation to presenting action-learning in
