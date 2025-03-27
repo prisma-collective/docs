@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/process-infrastructuring/timelining/Summary in 3 minutes.md",
+                "file": "processes/enactment/3. emergent learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Summary in 3 minutes"
+              "title": "3. emergent learning"
             }
           }
         ],
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5a49ceff6e9dc6c5",
@@ -223,8 +222,10 @@
   },
   "active": "0bf7fe4edc2209aa",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "processes/process-infrastructuring/timelining/Summary in 3 minutes.md",
+    "test1.mdx",
+    "test.mdx",
+    "conflict-files-obsidian-git.md",
     "Practices/Warm Data Labs.md",
     "Practices/Theory U.md",
     "Practices/Theory of Change.md",
@@ -250,7 +251,6 @@
     "context & narrative/Replace Academy Case Study.md",
     "context & narrative/Stakeholders and Growth Strategy.md",
     "processes/process-infrastructuring/timelining/index.md",
-    "processes/process-infrastructuring/index.md",
     "docs/processes/enactment",
     "docs/Assets/learning-arcs.png",
     "docs/Assets/learning-arcs-w-iteration.png",
@@ -266,8 +266,6 @@
     "docs/Assets/communicating-al.png",
     "docs/processes/process-infrastructuring/timelining",
     "docs/processes/evaluation",
-    "docs/collaborators/communities of practice/Holochain",
-    "Tech",
-    "docs/Decentralized Aspects"
+    "docs/collaborators/communities of practice/Holochain"
   ]
 }
