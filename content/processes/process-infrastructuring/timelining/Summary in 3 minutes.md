@@ -57,4 +57,6 @@ How? - Literally, how??
 	- Journaling is already pretty boring
 	- When you think of it that way, trying to make sense of journaling at the collective level sounds painstakingly tiresome
 	- With voice-interface backed onto LLMs, we can access greater capabilities with the fluency of spoken word
-	- 
+
+What
+- 
