@@ -61,6 +61,8 @@ How? - Literally, how??
 What
 - We want to build a proof-of-concept that covers the full stack from event participation to presenting action-learning in an interactive case-study online. 
 - We have the telegram voice-interface for journal entries
-- We will soon have vercel faas ingest system
+- We will soon have an operational vercel faas ingest system
+- We have the front-end for presenting a timeline of the process as a whole
+- We just need the embeddings of transcriptions of voice notes and the 
 - The next event is in May
 - The only piece that's 
