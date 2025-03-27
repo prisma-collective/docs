@@ -46,5 +46,5 @@ So, why did we apply for funding for?
 		- and how people approach relating with each other
 - So, we need an innovative approach to try and lift to the surface more of what usually stays hidden, personal, or implicit
 
-How
+How? - How??
 - 
