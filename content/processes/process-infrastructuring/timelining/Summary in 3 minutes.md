@@ -74,4 +74,4 @@ Key takeaways:
 - Why I want you to vote for us is 
 	- because of the kind of data that we're generating
 	- because of the ethical questions that this raises when combining AI with in-person social technology experimentation
-	- 
+	- because you're the community to develop with
