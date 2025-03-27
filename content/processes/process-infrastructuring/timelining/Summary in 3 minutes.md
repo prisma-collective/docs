@@ -4,7 +4,7 @@ Key words: systems change, facilitation, collaboration, hackathon
 
 key takeaway (remind at the end): 
 1. the kind of data that we're generating, and 
-2. what that means for the questions we can ask for the development of BGI
+2. what that means for the questions we can ask about the development of BGI
 
 Context
 - We're prisma
