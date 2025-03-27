@@ -59,4 +59,8 @@ How? - Literally, how??
 	- With voice-interface backed onto LLMs, we can access greater capabilities with the fluency of spoken word
 
 What
-- We want to build a proof-of-concept that covers the full stack from event participation to presenting action-learning in
+- We want to build a proof-of-concept that covers the full stack from event participation to presenting action-learning in an interactive case-study online. 
+- We have the telegram voice-interface for journal entries
+- We will soon have vercel faas ingest system
+- The next event is in May
+- The only piece that's 
