@@ -66,7 +66,8 @@ What
 - We just need the embeddings of transcriptions of voice notes and the inquiry with AI into the data
 
 When
-- The next event is in May
+- The next event is in May, happening in Ghana
+- We're literally working with a chief of an indigenous tribe in remote northern ghana, in the Oti region, and the hub is part of a network of community learning hubs focussing
 
 Key takeaways:
 - Everything is in place
