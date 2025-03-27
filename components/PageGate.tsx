@@ -1,7 +1,7 @@
 'use client' // Add this directive to indicate it's a client-side component
 
 import React, { useState } from 'react';
-import Button from './Button.tsx'
+import Button from './Button'
 
 interface PageGateProps {
   children: React.ReactNode;
