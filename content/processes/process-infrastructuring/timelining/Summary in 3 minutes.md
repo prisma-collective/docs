@@ -1,5 +1,3 @@
-Key words: systems change, facilitation, collaboration, hackathon
-
 5 sections: context, why, how, what, when
 
 key takeaway (remind at the end): 
