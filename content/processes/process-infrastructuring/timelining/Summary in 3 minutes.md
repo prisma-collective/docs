@@ -51,6 +51,6 @@ How? - Literally, how??
 - How do we do that? 
 	- Already existing technology of journaling
 	- Journaling is already pretty boring
-	- Making sense of journaling at the col
-	- With voice-interface to LLMs, we can access greater capabilities with the fluency 
+	- When you think of it that way, trying to make sense of journaling at the collective level sounds painstakingly tiresome
+	- With voice-interface backed onto LLMs, we can access greater capabilities with the fluency of spoken word
 	- 
