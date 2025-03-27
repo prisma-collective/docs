@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Summary in 3 minutes"
             }
+          },
+          {
+            "id": "3cb80cf77ab940c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,34 +244,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bf7fe4edc2209aa",
+  "active": "3cb80cf77ab940c7",
   "lastOpenFiles": [
+    "processes/process-infrastructuring/timelining/Summary in 3 minutes.md",
+    "conflict-files-obsidian-git.md",
+    "Practices/Warm Data Labs.md",
+    "Practices/Theory U.md",
+    "Practices/Theory of Change.md",
+    "Practices/Storytelling with Metaphors & Symbols.md",
+    "Practices/Somatic & Mental Journeys.md",
+    "Practices/Role Play.md",
+    "Practices/Regenerative Development & Design.md",
+    "Practices/Persona.md",
+    "Practices/Narrative-Based Social Change.md",
+    "Practices/Journalling.md",
+    "Practices/index.mdx",
+    "Practices/Generative Inquiry.md",
+    "Practices/Embodied Systemic Constellations.md",
+    "Practices/Ecosystem Mapping.md",
+    "Practices/Deep Time Journeys.md",
+    "Practices/Decoloniality.md",
+    "Practices/Awareness-Based Systems Change.md",
+    "Practices/Appreciative Inquiry.md",
+    "Practices",
     "processes/enactment/3. emergent learning.md",
     "context & narrative/Core Value-Systems.md",
     "context & narrative/Bioregional Celebration Festival.md",
     "context & narrative/Replace Academy Case Study.md",
     "context & narrative/Stakeholders and Growth Strategy.md",
-    "processes/process-infrastructuring/timelining/Summary in 3 minutes.md",
     "processes/process-infrastructuring/timelining/index.md",
     "processes/process-infrastructuring/index.md",
-    "processes/process-infrastructuring/timelining/input protocol.md",
-    "patterns/sociocratic organising.md",
-    "docs/processes/evaluation/a. Introduction.md",
-    "docs/processes/evaluation/0. Overview.md",
-    "docs/processes/evaluation/c. Design.md",
-    "docs/patterns/action-learning journeys.md",
-    "docs/processes/Developmental Regenerative Evaluation/().md",
-    "docs/Glossary/Practice.md",
-    "docs/processes/Developmental Regenerative Evaluation/b. Inspiration.md",
-    "docs/processes/evaluation/d. Technology.md",
-    "docs/processes/evaluation/e. Methodology.md",
-    "conflict-files-obsidian-git.md",
-    "docs/Glossary/Place.md",
-    "docs/processes/process-infrastructuring/practice-currencies.md",
-    "docs/processes/enactment/3. Emergent Learning.md",
-    "docs/processes/enactment/4. Iterate, iteration, iterating.md",
-    "docs/processes/enactment/1. learning arcs.md",
-    "docs/processes/enactment/2. Sense of Place.md",
     "docs/processes/enactment",
     "docs/Assets/learning-arcs.png",
     "docs/Assets/learning-arcs-w-iteration.png",
@@ -265,8 +291,6 @@
     "docs/processes/evaluation",
     "docs/collaborators/communities of practice/Holochain",
     "Tech",
-    "docs/Decentralized Aspects",
-    "docs/methodologies/Developmental Regenerative Evaluation",
-    "docs/practices"
+    "docs/Decentralized Aspects"
   ]
 }

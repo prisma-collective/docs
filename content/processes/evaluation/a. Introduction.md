@@ -4,89 +4,146 @@ aliases:
 - evaluation
 ---
 
+<<<<<<< HEAD:content/processes/evaluation/a. Introduction.md
 ## **Introduction**  
 ### **The Essence of Our Evaluation Approach**  
 Evaluation, for us, is not a static measure of success but a living [practice](/glossary/Practice.md) of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of social relationality, ecological vitality, cultural wisdom, governance systems and emergent possibility. At Prisma, we see evaluation as the *essence of organisational development*—a way for collectives to sense, adapt, and evolve their actions in harmony with the essence of [place](/glossary/Place.md) and the [Living Systems Principles](Living Systems Principles) that bind us all. 
+=======
+![[evaluating.png]]
 
-#### Vision
+# **Introduction**  
+## **Essence**  
+Evaluation, for us, is not a static measure of success but a living [[practice]] of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of social relationality, ecological vitality, cultural wisdom, governance systems and emergent possibility. At Prisma, we see evaluation as the *essence of organisational development*—a way for collectives to sense, adapt, and evolve their actions in harmony with the essence of [[place]] and the [[Living Systems Principles]] that bind us all. 
+>>>>>>> origin/main:docs/processes/evaluation/a. Introduction.md
+
+### Vision
 To redefine evaluation as a dynamic dialogue with life itself—a socio-technological practice that illuminates the flows of value that drive collective evolution.  
 
+<<<<<<< HEAD:content/processes/evaluation/a. Introduction.md
 #### Mission
 To deploy and grow a technology-enabled general framework that adapts to [place](/glossary/Place.md) & [practice](/glossary/Practice.md) through honoring energy flow in its [multi-capital](Multi-Capitals Framework) forms and provides insight into evolution across a system's [five spheres](five spheres), empowering communities to steward regenerative futures.  
-
-#### Responsibilities
-We hold ourselves accountable to answering the following questions:  
-1. what alternate forms of data on diverse value contributions be authentically reflected?
-2. how can a regenerative evaluation process be conducted?
-3. can multi-capital forms of value reading enable holistic evaluation?
-4. which tools and practices lower the threshold for active, playful participation in the evaluation processes? 
-
----
+=======
+### Mission
+To deploy and grow a technology-enabled general framework that adapts to [[place]] & [[practice]] through honoring energy flow in its [multi-capital](Multi-Capitals Framework) forms and provides insight into evolution across a system's [[g. Five Spheres of Evaluation|five spheres]], empowering communities to steward regenerative futures.  
+>>>>>>> origin/main:docs/processes/evaluation/a. Introduction.md
 
 ### **Values**  
 Our approach is built on the foundations of the following four pillars:  
 1. **Playfulness**: Everything is an experiment - true emergence is a factor of trying out different approaches and tools.  
-2. **Curiosity**: We seek patterns, exploring how it all comes together - metrics, people, places, practices and the relationships therein.
-3. **Reciprocity**: 
+2. **Curiosity**: We seek patterns, not endpoints, embracing the unpredictable alchemy of action-learning journeys.
+3. **Interdependence**: Every metric is a thread in a larger tapestry, woven from relationships between people, place, and practice. 
 4. **Integrity**: We measure what matters - to communities who design their own evaluation methodologies to act as mirrors for their unique narratives and rhythms.
 
----
+### Responsibilities
+We hold ourselves accountable to answering the following questions:  
+1. What are alternate forms of data on diverse value contributions? How best can they be authentically reflected?
+2. How can a regenerative evaluation process be conducted? What does the system look like?
+3. Can multi-capital forms of value reading enable holistic evaluation? What does that look like
+4. Can the threshold for active, playful participation in the evaluation processes be lowered? Which tools & practices enable this? 
 
-**Implementation Framework**
+## **Implementation**
 
-In addition to the above perspectives, we have designed our evaluation methodology by bringing together the following elements into a general framework that can be deployed anywhere in a contextual manner:
+Our evaluation methodology translates vision into action through a structured yet adaptable framework. This framework comprises three core components—**Container**, **Playground**, and **Instruments**—each designed to harmonize universal principles with contextual specificity.
 
-1. The Logistics
-	1. **When (does Data get Collected for Evaluation)**
-		1. In response to regular programming
-		2. On a regular basis
-		3. When emergent events happen
-	2. **Which (Touchpoints for Data Collection are Used)**
-		4. Verbose input (reflections, feedback)
-		5. Point systems (ranking, rating)
-		6. Programmatic data (submissions, sensor readings)
-	3. **Who (are the Value Generating Entities)**
-		1. Individuals (acting as sovereign agents)
-		2. Communities (groups of stakeholders)
-		3. Systems (as understood through ongoing processes)
+### **Container**
 
-The above 3 elements form the **container** for evaluation. These are largely set and do not change from place to place, although the specific nature of each element depends on the case in question.
+The Container defines the logistical boundaries within which evaluation unfolds. These elements remain consistent across contexts, though their specific expressions adapt to local realities:
 
-2. The Variables
-	1. **What (is of value *to us*)**
-		1. Activities (effort put into doing something)
-		2. Knowledge (writing documents, sharing past work)
-		3. Space (hosting a session, connecting to a network)
-	2. **Why (is it valued *by us*)**
-		4. Regenerative Shifts
-		5. Organizational Growth
-		6. Outputs Generated
-	3. **How (is value flowing *through us* seen)**
-		1. Actions (as captured through observations, technology)
-		2. Reflections (personally shared by stakeholders)
-		3. Attributions (peer awarded for different aspects)
+- **When (Timing of Data Collection)**:
+    
+    - **Responsive**: Triggered by regular programming activities.
+        
+    - **Periodic**: Scheduled at regular intervals for continuous insight.
+        
+    - **Emergent**: Activated by unforeseen events or shifts.
+        
+- **Which (Data Collection Touchpoints)**:
+    
+    - **Verbose Input**: Narrative reflections, qualitative feedback.
+        
+    - **Point Systems**: Quantitative rankings, ratings.
+        
+    - **Programmatic Data**: Structured submissions, sensor-derived metrics.
+        
+- **Who (Value-Generating Entities)**:
+    
+    - **Individuals**: Sovereign agents contributing personal insights and actions.
+        
+    - **Communities**: Stakeholder groups collectively generating value.
+        
+    - **Systems**: Broader processes and dynamics understood through ongoing interactions.
+        
 
+Together, these logistical parameters form a stable yet flexible container within which evaluation practices are embedded.
 
-The above 3 elements form the **playground** within which the stakeholders experiment with value generation and learning. These are simply examples and comprise the template that we offer to each community.
+### **Playground**
 
-3. The Delivery
-	1. In Stages
-		1. Baselining - established before intensive begins
-		2. Reading - during the intensive
-		3. Inferencing - after the intensive ends
-	2. Through Tech
-		4. Telegram Bot(s) - soliciting different forms of subjective data
-		5. Data Repositories - from GitHub repos to wiki publishing statistics
-		6. AI-enabled Analysis & Timelining - deployed on all data collected
-	3. Plotted against
-		1. Aspects - three to seven forms of primary value generation 
-		2. Capitals - five to ten kinds of resources mobilized for intensive
-		3. Spheres - realms of systems change within which evolution happens
+Within this container lies the Playground—an exploratory space where stakeholders identify, articulate, and experiment with forms of value generation. The Playground is customizable, shaped by community priorities and evolving needs:
 
-The above 3 elements form the **instruments** which provide dimensionality to the act of evaluation.
+- **What (Forms of Valued Contributions)**:
+    
+    - **Activities**: Efforts invested in tangible actions and initiatives.
+        
+    - **Knowledge**: Documentation, insights shared from past experiences.
+        
+    - **Space**: Hosting engagements, facilitating connections within networks.
+        
+- **Why (Purpose Behind Valuation)**:
+    
+    - **Regenerative Shifts**: Catalyzing systemic transformations toward sustainability.
+        
+    - **Organizational Growth**: Enhancing collective capacities and resilience.
+        
+    - **Outputs Generated**: Tangible results emerging from collaborative efforts.
+        
+- **How (Visibility of Value Flow)**:
+    
+    - **Actions**: Observable behaviors captured via direct observation or technology.
+        
+    - **Reflections**: Personal narratives and subjective stakeholder experiences.
+        
+    - **Attributions**: Peer recognition highlighting contributions across dimensions.
+        
 
-In action, the framework can be articulated as follows:
+These variables serve as illustrative templates that communities adapt to reflect their unique contexts and aspirations, fostering playful experimentation and authentic learning journeys.
 
-Starting with the Baselining stage, the facilitators of the action-learning journey work with different stakeholders to develop a foundational picture of the five systemic spheres as they currently exist for the community, and a list of activities that will be used as the primary means of understanding how value is being generated. These activities, termed Aspects, will be drawn upon by the stakeholders to resource from and contribute to the different forms of capital that are of relevance to the action learning journey's goals. Over the course of different activities that are undertaken as part of the programming, as well as emergent events that unfold, data will be collected in different forms such as through telegram bots and facilitator observations. This data will be analyzed with the support of an artificial intelligence engine trained to track multi-capital flows and where possible, live insights will be utilized for the purpose of enhancing facilitation and stakeholder participation.
+### **Instruments**
+
+The Instruments operationalize the evaluation process, providing dimensionality and depth through structured stages, technological tools, and analytical lenses:
+
+- **Stages of Delivery**:
+    
+    - **Baselining**: Establishing an initial understanding of systemic conditions before intensive engagement begins.
+        
+    - **Reading**: Capturing data dynamically during active programming phases.
+        
+    - **Inferencing**: Synthesizing insights post-intensive to inform future actions.
+        
+- **Technological Tools Employed**:
+    
+    - **Telegram Bots**: Facilitating real-time collection of subjective data from stakeholders.
+        
+    - **Data Repositories**: Centralized platforms (e.g., GitHub repositories, wikis) for structured data aggregation.
+        
+    - **AI-enabled Analysis & Timelining**: Leveraging artificial intelligence to interpret complex multi-capital flows and generate actionable insights.
+        
+- **Analytical Dimensions Plotted Against**:
+    
+    - **Aspects**: Three to seven primary modes through which value generation is expressed and tracked.
+        
+    - **Capitals**: Five to ten resource categories mobilized within the action-learning journey context.
+        
+    - **Spheres**: Realms within systems where evolutionary change is observed and evaluated.
+        
+
+These instruments collectively enable nuanced understanding of value generation dynamics, supporting informed decision-making and adaptive learning.
+
+### **Framework in Action**
+
+In practice, our methodology unfolds iteratively:
+
+Beginning with the Baselining stage, facilitators collaborate closely with stakeholders to map out the current state across five systemic spheres relevant to the community. Together they identify key activities—termed Aspects—that serve as focal points for understanding how value is generated. Stakeholders engage actively with these Aspects throughout the programming cycle, mobilizing diverse forms of capital aligned with their collective goals.
+
+As activities unfold—whether planned or emergent—data collection occurs continuously through accessible technological channels such as Telegram bots, alongside facilitator observations. The data gathered feeds into centralized repositories where AI-driven analysis illuminates multi-capital flows in real-time. These insights are then integrated back into facilitation processes, enhancing stakeholder participation and enabling agile responsiveness to emerging patterns of collective evolution.
 
 ---
