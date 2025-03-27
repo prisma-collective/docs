@@ -1,4 +1,4 @@
-How are we
+How are we going to be in beneficial relationship with AI without 
 
 5 sections: context, why, how, what, when
 
