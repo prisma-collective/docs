@@ -50,5 +50,7 @@ How? - Literally, how??
 - To make visible thinking to a broader audience in a case-study, people first need to be able to make visible their thinking to themselves 
 - How do we do that? 
 	- Already existing technology of journaling
-	- Journaling is pretty boring
-	- Voice-interface to LLMs, things get a bit more 
+	- Journaling is already pretty boring
+	- Making sense of journaling at the col
+	- With voice-interface to LLMs, we can access greater capabilities with the fluency 
+	- 
