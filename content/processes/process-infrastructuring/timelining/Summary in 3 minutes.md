@@ -1,8 +1,9 @@
 5 sections: context, why, how, what, when
 
 key takeaway (remind at the end): 
-1. the kind of data that we're generating, and 
-2. what that means for the questions we can ask about the development of BGI
+1. how powerful of an application this is
+2. the kind of data that we're generating, and 
+3. what that means for the questions we can ask about the development of BGI
 
 Context
 - We're prisma
@@ -45,7 +46,7 @@ WHY did we apply for funding for?
 		- and how people approach relating with each other
 - So, we need an innovative approach to try and lift to the surface more of what usually stays hidden, personal, or implicit
 
-How? - Literally, how??
+HOW
 - To make visible thinking to a broader audience in a case-study, people first need to be able to make visible their thinking to themselves 
 - How do we do that? 
 	- Already existing technology of journaling
@@ -62,7 +63,6 @@ What
 
 When
 - The next event is in May, happening in Ghana
-- We're literally working with a chief of an indigenous tribe in remote northern ghana, in the Oti region, and the hub is part of a network of community learning hubs focussing on training youth in emerging technologies
 
 Key takeaways:
 - Everything is in place
@@ -71,7 +71,7 @@ Key takeaways:
 	- because of the ethical questions that this raises when combining AI with in-person social technology experimentation
 	- because you're the community to develop with
 
-Not inc
+Not inc.
 
 - We're moving forwards whether we get this grant or not because we need to. The grant means we can do it properly and share it with your community
 - Emphasis of our work is to embody processes of decentralised organising 
