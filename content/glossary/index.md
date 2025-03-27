@@ -11,3 +11,9 @@ This folder contains a glossary to help make our documentation clearer and more 
 1. Write as if your most attentive reader is paying close attention.
 2. Be as clear and accurate as possible—good writing turns inspiration into reality.
 3. For complex topics, use precise language and provide context when needed by adding to this glossary.
+
+
+## Contributions
+
+<ContributorChart />
+
