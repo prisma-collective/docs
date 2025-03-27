@@ -13,17 +13,15 @@ Context
 	- Every event is essentially an experiment in applying social technology. 
 - Action-learning
 	- The action is 
-		- applying a given practice of systems-evolution
-		- i.e. to design and implement a systemic intervention in the place where the hackathon is hosted
+		- design and implement a systemic intervention in the place where the hackathon is hosted
 	- The learning is 
-		- how thinking changes as theory is applied in the real world. 
-		- Think of the difference between drills and sparring, training and match-day. 
+		- how thinking changes as theory is applied in the real world
 - We have HUGE potential lined up
 	- €20M fund kind of huge
 	- Several communities of practice
 	- Coming from long-term partnership work, spanning several years
 - We work at the grassroots level
-	- Focussed but growing network of partner hubs
+	- We have a focussed but growing network of partner hubs, on-the-ground
 	- Bootstrapped the whole thing so far
 
 WHY did we apply for funding for?
