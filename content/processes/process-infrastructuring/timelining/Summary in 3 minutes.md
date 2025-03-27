@@ -5,4 +5,4 @@
 - We have HUGE potential lined up: €20M kind of huge
 - We work at the grassroots level, across a focussed but growing network of partner hubs, and we've bootstrapped the whole thing so far.
 - We're moving forwards whether we get this grant or not because we need to. The grant means we can do it properly and share it with your community
-- 
+- A big emphasis of our work is to embody processes of decentralised organising during our in-person intensives. It's about truly activating the agency of eThis is totally transformational. I designed a workshop on the way to a conference here in Barcelona. It lasted 
