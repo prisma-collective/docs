@@ -6,7 +6,7 @@ Context
 	- An action-learning journey is an event. 
 	- Think of them as a facilitated hackathon that lasts multiple weeks and happens at the end of multiple months of alignment between different kinds of stakeholders. 
 	- It's a multi-disciplinary intensive. 
-	- Every event is essentially an experiment in social technology. 
+	- Every event is essentially an experiment in applying social technology. 
 - Action-learning
 	- The action is 
 		- applying a given practice of systems-evolution
