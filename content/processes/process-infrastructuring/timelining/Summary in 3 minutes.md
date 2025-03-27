@@ -63,6 +63,12 @@ What
 - We have the telegram voice-interface for journal entries
 - We will soon have an operational vercel faas ingest system
 - We have the front-end for presenting a timeline of the process as a whole
-- We just need the embeddings of transcriptions of voice notes and the 
+- We just need the embeddings of transcriptions of voice notes and the inquiry with AI into the data
+
+When
 - The next event is in May
-- The only piece that's 
+
+Key takeaways:
+- Everything is in place
+- Why I want you to vote for us is that
+	- 
