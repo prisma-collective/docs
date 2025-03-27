@@ -8,7 +8,7 @@ interface PageGateProps {
   requiredPassword: string;
 }
 
-export function PageGate({ children, requiredPassword }: PageGateProps) {
+const PageGate: React.FC<PageGateProps> = ({ children, requiredPassword }) => {
   const [inputPassword, setInputPassword] = useState('');
   const [isAuthenticated, setIsAuthenticated] = useState(false);
 
@@ -45,3 +45,5 @@ export function PageGate({ children, requiredPassword }: PageGateProps) {
     </div>
   );
 }
+
+export default PageGate;

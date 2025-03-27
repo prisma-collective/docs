@@ -2,10 +2,11 @@ import { useMDXComponents as getThemeComponents } from 'nextra-theme-docs' // ne
 import ContributorChart from './components/ContributorChart'; 
 import AspectsWithPrisma from './components/AspectsWithPrisma';
 import Button from './components/Button';
-import { PageGate } from './components/PageGate';
+import PageGate from './components/PageGate';
+
 // Get the default MDX components
 const themeComponents = getThemeComponents()
- 
+
 // Merge components
 export function useMDXComponents(components) {
   return {
