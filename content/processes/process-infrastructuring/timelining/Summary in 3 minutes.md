@@ -1,7 +1,7 @@
 - We're prisma
 - We organise action-learning journeys
 - The action is designing and enacting a systemic intervention into a system of place
-- 
+- The learning is how 
 - We have HUGE potential lined up: €20M kind of huge
 - We're moving forwards whether we get this grant or not because we need to. The grant means we can do it properly and share it with your community
 - 
