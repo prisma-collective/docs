@@ -67,9 +67,11 @@ What
 
 When
 - The next event is in May, happening in Ghana
-- We're literally working with a chief of an indigenous tribe in remote northern ghana, in the Oti region, and the hub is part of a network of community learning hubs focussing
+- We're literally working with a chief of an indigenous tribe in remote northern ghana, in the Oti region, and the hub is part of a network of community learning hubs focussing on training youth in emerging technologies
 
 Key takeaways:
 - Everything is in place
-- Why I want you to vote for us is that
+- Why I want you to vote for us is 
+	- because of the kind of data that we're generating
+	- because of the ethical questions that this raises when combining AI with in-person social technology experimentation
 	- 
