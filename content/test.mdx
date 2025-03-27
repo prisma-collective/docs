@@ -1,0 +1,17 @@
+---
+title: Protected Test Document
+---
+
+import { PageGate } from '../components/PageGate' // Import the PageGate component
+
+# Confidential Document
+
+<PageGate requiredPassword="test123">
+  ## Secret Content
+
+  This is the sensitive information that will be hidden behind a password.
+
+  - Only visible after correct password entry
+  - Demonstrates page-level protection
+  - Integrated with Nextra/MDX
+</PageGate>
