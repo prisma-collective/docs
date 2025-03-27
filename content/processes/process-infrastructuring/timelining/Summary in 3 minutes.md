@@ -1,6 +1,8 @@
 Key words: systems change, facilitation, collaboration, hackathon
 
-4 sections: context, why, how, what, when
+5 sections: context, why, how, what, when
+
+key takeaway (remind at the end): the kind of data that we're generating and what questions that means we can ask for the development of BGI
 
 Context
 - We're prisma
