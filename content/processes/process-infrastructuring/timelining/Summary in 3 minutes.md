@@ -2,7 +2,9 @@ Key words: systems change, facilitation, collaboration, hackathon
 
 5 sections: context, why, how, what, when
 
-key takeaway (remind at the end): the kind of data that we're generating and what questions that means we can ask for the development of BGI
+key takeaway (remind at the end): 
+1. the kind of data that we're generating, and 
+2. what that means for the questions we can ask for the development of BGI
 
 Context
 - We're prisma
@@ -72,3 +74,13 @@ Key takeaways:
 	- because of the kind of data that we're generating
 	- because of the ethical questions that this raises when combining AI with in-person social technology experimentation
 	- because you're the community to develop with
+
+Not inc
+
+- We're moving forwards whether we get this grant or not because we need to. The grant means we can do it properly and share it with your community
+- Emphasis of our work is to embody processes of decentralised organising 
+	- In-person intensives. 
+	- There are many ways this can happen. 
+	- Mostly sociocracy, so far. 
+	- It's about truly activating the agency of every individual - in a group coordination exercise. This is totally transformational. 
+	- E.g. A workshop was designed by one of our team on the way to a conference, here, in Barcelona. It lasted under an hour. Several months later, the same facilitator bumped into a participant of that workshop who told them that the workshop had literally changed their life. They took so many decisions on things they were previously blocked on.
