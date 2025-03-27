@@ -1,5 +1,6 @@
 - We're prisma
-- We're doing awesome shit and bootstrapping everything af
+- We organise action-learning journeys
+- The action is designing and 
 - We have HUGE potential lined up: €20M kind of huge
 - We're moving forwards whether we get this grant or not because we need to. The grant means we can do it properly and share it with your community
 - 
