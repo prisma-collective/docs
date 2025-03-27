@@ -1,4 +1,6 @@
-How are we going to be in beneficial relationship with AI without 
+How are we going to be in beneficial relationship with AI without growing our bandwidth for how we're in relationship with each other? 
+
+How 
 
 5 sections: context, why, how, what, when
 
