@@ -41,6 +41,10 @@ So, why did we apply for funding for?
 	- But, the real learning that is most important relates to how people evolve their view of the world. 
 - The challenge is to make that visible
 	- This has sunk many great systems-change efforts in the past
+	- Systems change practitioners know that to effect change means needing to go to the root.
+		- Think iceberg
+		- Carbon emissions just the tip of the iceberg
+		- Below the surface are beliefs, worldviews etc, and that
 	- Because working radically (at the root) is difficult to see 
 		- you work with beliefs
 		- and how people approach relating with each other
