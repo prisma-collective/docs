@@ -21,7 +21,6 @@ a:hover {
     color: #c362ff; 
     text-decoration: none; 
 }
-
 /* Light theme styles when Nextra switches to light mode */
 html:not(.dark) body {
     background-color: #ffffff; /* Light mode background */

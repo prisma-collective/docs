@@ -18,13 +18,13 @@ const navbar = (
         <Image src="/logo_colour_w_text.svg" width={140} height={60} alt="Prisma Logo" />
       </div>
     }
-    chatIcon={<Send size={20} />}
+    chatIcon={<Send size={24} />}
     chatLink={"https://t.me/+9-UF8k9H8dBjNWFk"}
     children={
       <div className="flex gap-4">
         {/* Website */}
         <a href="https://www.prisma.events" target="_blank" rel="noopener noreferrer">
-          <Globe size={20} />
+          <Globe size={24} />
         </a>
       </div>
     }
