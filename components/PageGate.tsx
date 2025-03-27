@@ -1,6 +1,7 @@
 'use client' // Add this directive to indicate it's a client-side component
 
 import React, { useState } from 'react';
+import Button from './button'
 
 interface PageGateProps {
   children: React.ReactNode;
@@ -36,7 +37,7 @@ export function PageGate({ children, requiredPassword }: PageGateProps) {
         />
         <button 
           onClick={handlePasswordCheck}
-          className="unlock-button"
+          className="button"
         >
           Unlock Content
         </button>
