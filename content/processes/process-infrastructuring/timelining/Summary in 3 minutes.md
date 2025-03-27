@@ -47,4 +47,5 @@ So, why did we apply for funding for?
 - So, we need an innovative approach to try and lift to the surface more of what usually stays hidden, personal, or implicit
 
 How? - Literally, how??
-- 
+- To make visible thinking to a broader audience in a case-study, people first need to make visible their thinking to themselves 
+- How do we do that? 
