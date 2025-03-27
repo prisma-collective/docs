@@ -2,7 +2,8 @@ Key words: systems change, facilitation, collaboration, hackathon
 
 Context
 - We're prisma
-- We organise action-learning journeys. At its most basic level an ALJ is an event. You can think of them as a facilitated hackathon that lasts multiple weeks and happens at the end of multiple months of alignment between stakeholders. It's a multi-disciplinary intensive. Every event is essentially an experiment in social technology. 
+- We organise action-learning journeys. 
+	- At its most basic level an ALJ is an event. You can think of them as a facilitated hackathon that lasts multiple weeks and happens at the end of multiple months of alignment between stakeholders. It's a multi-disciplinary intensive. Every event is essentially an experiment in social technology. 
 - We organise action-learning journeys. 
 - The action is applying a given practice of systems-evolution - i.e. to design and implement a systemic intervention in place
 - The learning is how thinking changes as theory is applied in the real world. Think of the difference between drills and sparring, training and match-day. 
