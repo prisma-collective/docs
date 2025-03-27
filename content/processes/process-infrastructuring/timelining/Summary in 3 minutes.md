@@ -54,7 +54,7 @@ HOW
 	- When you think of it that way, trying to make sense of journaling at the collective level sounds painstakingly tiresome
 	- With voice-interface backed onto LLMs, we can access greater capabilities with the fluency of spoken word
 
-What
+WHAT
 - We want to build a proof-of-concept that covers the full stack from event participation to presenting action-learning in an interactive case-study online. 
 - We have the telegram voice-interface for journal entries
 - We will soon have an operational vercel faas ingest system
