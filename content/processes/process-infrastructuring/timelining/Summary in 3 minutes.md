@@ -12,7 +12,7 @@ Context
 So, why did we apply for funding for?
 - In order to learn from these actions, we need to make visible not just the outcomes from these events but the approach. 
 - We make these visible in a case-study. One per action-learning journey. 
-- Yes, you can have networks of IoT sensors - digital MRV from the ReFi space, or DePIN - but what Prisma wants to contribute is more essential. We want to show how people evolve their view of the world. 
+- Yes, you can have networks of IoT sensors - digital MRV from the ReFi space, or DePIN, assessing "impact" - and we're going there, too. But, the learning that is most important important is to show how people evolve their view of the world. 
 - Making visible the shifts in people's thinking is a challenge that has sunk many great systems-change projects before, because the working radically (at the root) is difficult to see
 - So, we're bringing an innovative approach to try and lift to the surface more of what usually stays hidden, personal, or implicit
 - How? 
