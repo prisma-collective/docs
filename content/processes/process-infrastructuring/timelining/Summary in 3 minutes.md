@@ -44,8 +44,8 @@ So, why did we apply for funding for?
 	- Systems change practitioners know that to effect change means needing to go to the root.
 		- Think iceberg
 		- Carbon emissions just the tip of the iceberg
-		- Below the surface are beliefs, worldviews etc, and that
-	- Because working radically (at the root) is difficult to see 
+		- Below the surface are beliefs, worldviews etc, and that's where real change happens
+	- Working radically (lit. means "at the root") is difficult to see 
 		- you work with beliefs
 		- and how people approach relating with each other
 - So, we need an innovative approach to try and lift to the surface more of what usually stays hidden, personal, or implicit
