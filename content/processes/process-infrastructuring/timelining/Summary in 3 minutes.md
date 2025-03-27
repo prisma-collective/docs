@@ -1,7 +1,7 @@
 Context
 - We're prisma
 - We organise action-learning journeys. At its most basic level an ALJ is an event. You can think of them as a facilitated hackathon that lasts multiple weeks and happens at the end of multiple months of alignment between stakeholders. It's a multi-disciplinary intensive. 
-- The action is applying a given practice of systems-evolution - to design and implement a systemic intervention in place
+- The action is applying a given practice of systems-evolution - i.e. to design and implement a systemic intervention in place
 - The learning is how thinking changes as theory is applied in the real world
 - We have HUGE potential lined up: €20M kind of huge
 - We work at the grassroots level, across a focussed but growing network of partner hubs, and we've bootstrapped the whole thing so far.
