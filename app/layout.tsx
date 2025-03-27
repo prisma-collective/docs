@@ -7,6 +7,7 @@ import { ReactNode } from 'react';
 import Image from 'next/image';
 import { Analytics } from "@vercel/analytics/react";
 import { generateMetadata } from './utils/metadata';
+import { Send, Globe } from "lucide-react";
 
 const banner = <Banner storageKey="some-key">Upcoming action-learning journey: Accra, Ghana @ May 18 2025</Banner>
 
@@ -17,7 +18,17 @@ const navbar = (
         <Image src="/logo_colour_w_text.svg" width={140} height={60} alt="Prisma Logo" />
       </div>
     }
-    // ... Your additional navbar options
+    chatIcon={<Send size={20} />}
+    chatLink={"https://t.me/+9-UF8k9H8dBjNWFk"}
+    children={
+      <div className="flex gap-4">
+        {/* Website */}
+        <a href="https://www.prisma.events" target="_blank" rel="noopener noreferrer">
+          <Globe size={20} />
+        </a>
+      </div>
+    }
+    projectLink={"https://github.com/prisma-collective/"}
   />
 );
 

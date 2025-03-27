@@ -44,57 +44,57 @@ html:not(.dark) h6 {
     opacity: 1;
     transition: opacity 0.5s ease; /* Smooth transition */
   }
-  
-  .aspectAnti {
-    animation: moveAroundAnti linear infinite;
-    transform-origin: center;
-    animation-play-state: running; 
-    opacity: 1;
-    transition: opacity 0.5s ease;
+
+.aspectAnti {
+  animation: moveAroundAnti linear infinite;
+  transform-origin: center;
+  animation-play-state: running; 
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+.aspect:hover {
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+.aspectAnti:hover {
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+.level:hover .aspect {
+  animation-play-state: paused;
+}
+
+.level:hover .aspectAnti {
+  animation-play-state: paused;
+}
+
+.highlighted {
+  opacity: 1;
+  transition: opacity 2s ease;
+}
+
+.unhighlighted {
+  opacity: 0.2;
+  transition: opacity 2s ease;
+}
+
+@keyframes moveAround {
+  from {
+    transform: rotate(0deg);
   }
-  
-  .aspect:hover {
-    opacity: 1;
-    transition: opacity 0.5s ease;
+  to {
+    transform: rotate(360deg);
   }
-  
-  .aspectAnti:hover {
-    opacity: 1;
-    transition: opacity 0.5s ease;
+}
+
+@keyframes moveAroundAnti {
+  from {
+    transform: rotate(360deg);
   }
-  
-  .level:hover .aspect {
-    animation-play-state: paused;
+  to {
+    transform: rotate(0deg);
   }
-  
-  .level:hover .aspectAnti {
-    animation-play-state: paused;
-  }
-  
-  .highlighted {
-    opacity: 1;
-    transition: opacity 2s ease;
-  }
-  
-  .unhighlighted {
-    opacity: 0.2;
-    transition: opacity 2s ease;
-  }
-  
-  @keyframes moveAround {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
-  
-  @keyframes moveAroundAnti {
-    from {
-      transform: rotate(360deg);
-    }
-    to {
-      transform: rotate(0deg);
-    }
-  }
+}
