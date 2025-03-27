@@ -38,8 +38,12 @@ So, why did we apply for funding for?
 - What's in a case-study? 
 	- Yes, you can have networks of IoT sensors - digital MRV from the ReFi space, or DePIN, assessing "impact"
 	- That's what would conventionally be expected and we're going there, too. 
-	- But, the learning that is most important important relates to how people evolve their view of the world. 
-- Making visible the shifts in people's thinking is a challenge that has sunk many great systems-change efforts in the past, because the working radically (at the root) is difficult to see - you work with beliefs, and how people approach relating with each other
+	- But, the real learning that is most important relates to how people evolve their view of the world. 
+- The challenge is to make that visible
+	- This has sunk many great systems-change efforts in the past
+	- Because working radically (at the root) is difficult to see 
+		- you work with beliefs
+		- and how people approach relating with each other
 - So, we need an innovative approach to try and lift to the surface more of what usually stays hidden, personal, or implicit
 
 How
