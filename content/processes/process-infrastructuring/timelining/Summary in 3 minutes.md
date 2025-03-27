@@ -1,5 +1,7 @@
 Key words: systems change, facilitation, collaboration, hackathon
 
+4 sections: context, why, how, what, when
+
 Context
 - We're prisma
 - We organise action-learning journeys. 
@@ -21,15 +23,8 @@ Context
 - We work at the grassroots level
 	- Focussed but growing network of partner hubs
 	- Bootstrapped the whole thing so far
-- We're moving forwards whether we get this grant or not because we need to. The grant means we can do it properly and share it with your community
-- Emphasis of our work is to embody processes of decentralised organising 
-	- In-person intensives. 
-	- There are many ways this can happen. 
-	- Mostly sociocracy, so far. 
-	- It's about truly activating the agency of every individual - in a group coordination exercise. This is totally transformational. 
-	- E.g. A workshop was designed by one of our team on the way to a conference, here, in Barcelona. It lasted under an hour. Several months later, the same facilitator bumped into a participant of that workshop who told them that the workshop had literally changed their life. They took so many decisions on things they were previously blocked on.
 
-So, why did we apply for funding for?
+WHY did we apply for funding for?
 - In order to learn from these actions, we need 
 	- to make visible not just the outcomes from these events 
 	- but also the approach. 
