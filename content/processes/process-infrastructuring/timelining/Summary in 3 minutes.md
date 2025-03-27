@@ -63,6 +63,7 @@ What
 
 When
 - The next event is in May, happening in Ghana
+- We're literally working with a chief in the Oti region, and the hub is part of a network of community learning hubs focussing on training youth in emerging technologies
 
 Key takeaways:
 - Everything is in place
