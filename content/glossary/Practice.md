@@ -2,6 +2,8 @@
 aliases:
 - practice-based
 - practices
+
+sidebarTitle: Practice
 ---
 
 Some ways to discern: 
