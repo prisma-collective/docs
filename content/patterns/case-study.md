@@ -12,7 +12,7 @@ each case-study therefore aims to utilise one or multiple [practice-currencies](
 
 these currencies are the verified measurements that form the foundation for data-backed storytelling. all the additional media - meeting recordings, photos, audio notes, design documents - are (qualitative) layers of additional context that give wholeness to this underlying, transactional (quantitative) heartbeat. 
 
-1. Curation - 
+1. Curation - the most polished, and also the most abstracted. see [prisma.events](https://website.)
 2. Archive - 
 3. Integrations - 
 4. Aspects - 
