@@ -4,3 +4,4 @@ an [action-learning journey](patterns/action-learning%20journeys.md) serves the 
 
 the indirect work of regenerative interventions requires the secondary evaluation signalling of additional, perhaps more conventional, ecosystem health indicators. practice-currencies, co-designed between [communities of place](collaborators/communities%20of%20place/hubs.md) and [communities of practice](collaborators/communities%20of%20practice/practice%20networks.md), give voice to those stewarding the essence of their regions. 
 
+![case-study.png](/case-study.png)
