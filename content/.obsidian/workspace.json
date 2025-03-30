@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/process-infrastructuring/timelining/index.md",
+                "file": "patterns/case-study.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "0bf7fe4edc2209aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "processes/process-infrastructuring/timelining/Summary in 3 minutes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Summary in 3 minutes"
+              "title": "case-study"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5a49ceff6e9dc6c5",
@@ -221,12 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bf7fe4edc2209aa",
+  "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
+    "processes/process-infrastructuring/timelining/index.md",
+    "processes/process-infrastructuring/timelining/Summary in 3 minutes.md",
     "test1.mdx",
     "test.mdx",
     "conflict-files-obsidian-git.md",
-    "processes/process-infrastructuring/timelining/Summary in 3 minutes.md",
     "Practices/Warm Data Labs.md",
     "Practices/Theory U.md",
     "Practices/Theory of Change.md",
@@ -251,7 +226,6 @@
     "context & narrative/Bioregional Celebration Festival.md",
     "context & narrative/Replace Academy Case Study.md",
     "context & narrative/Stakeholders and Growth Strategy.md",
-    "processes/process-infrastructuring/timelining/index.md",
     "docs/processes/enactment",
     "docs/Assets/learning-arcs.png",
     "docs/Assets/learning-arcs-w-iteration.png",
@@ -267,7 +241,6 @@
     "docs/Assets/communicating-al.png",
     "docs/processes/process-infrastructuring/timelining",
     "docs/processes/evaluation",
-    "docs/collaborators/communities of practice/Holochain",
-    "Tech"
+    "docs/collaborators/communities of practice/Holochain"
   ]
 }
