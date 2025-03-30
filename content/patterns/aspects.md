@@ -2,3 +2,4 @@ aspects are an account of verified interactions that indicate the realisation of
 
 an [action-learning journey](patterns/action-learning%20journeys.md) serves the purpose of onboarding and aligning the necessary stakeholders, at multiple levels of [place](glossary/Place.md), into a process of designing a peer-to-peer protocol that encodes a given place-sourced practice. 
 
+the indirect work of regenerative interventions requires the secondary evaluation signalling of additional, perhaps more conventional, ecosystem health indicators. practice-currencies, co-designed by [communities of place](collaborators/communities%20of%20place/hubs.md), give voice to those steward the essence of their regions. 
