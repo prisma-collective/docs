@@ -4,5 +4,7 @@
   "baseFontSize": 16,
   "cssTheme": "Black",
   "interfaceFontFamily": "",
-  "theme": "system"
+  "theme": "system",
+  "showViewHeader": true,
+  "showRibbon": true
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/case-study.md",
+                "file": "patterns/aspects.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "case-study"
+              "title": "aspects"
             }
           }
         ]
@@ -197,6 +197,11 @@
   },
   "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
+    "glossary/Place.md",
+    "patterns/aspects.md",
+    "glossary/place-sourced potential.md",
+    "patterns/case-study.md",
+    "patterns/potential.md",
     "processes/process-infrastructuring/timelining/index.md",
     "processes/process-infrastructuring/timelining/Summary in 3 minutes.md",
     "test1.mdx",
@@ -222,10 +227,6 @@
     "Practices/Appreciative Inquiry.md",
     "Practices",
     "processes/enactment/3. emergent learning.md",
-    "context & narrative/Core Value-Systems.md",
-    "context & narrative/Bioregional Celebration Festival.md",
-    "context & narrative/Replace Academy Case Study.md",
-    "context & narrative/Stakeholders and Growth Strategy.md",
     "docs/processes/enactment",
     "docs/Assets/learning-arcs.png",
     "docs/Assets/learning-arcs-w-iteration.png",

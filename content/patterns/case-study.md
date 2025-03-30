@@ -10,7 +10,7 @@ capacity-building has many dimensions. we call these dimensions [aspects](aspect
 
 each case-study therefore aims to utilise one or multiple [practice-currencies](/processes/process-infrastructuring/practice-currencies.md). this dynamic interplay between action (practice) and learning (evaluation, aided by currency), is the essence of our work at prisma.
 
-these currencies are the verified measurements that form the foundation for data-backed storytelling. all the additional media - meeting recordings, photos, audio notes, design documents - are (qualitative) layers of additional context around this underlying (quantitative) heartbeat. 
+these currencies are the verified measurements that form the foundation for data-backed storytelling. all the additional media - meeting recordings, photos, audio notes, design documents - are (qualitative) layers of additional context that give wholeness to this underlying, transactional (quantitative) heartbeat. 
 
 the purpose of [enrolment](/processes/enrolment.md) and [ground-potentialising](/processes/ground-potentialising.md), in the lead up to [action-learning journey](action-learning journey) intensives, is for the whole system of [place](/glossary/Place.md) to become more visible, and for a place-sourced [practice](/glossary/Practice.md) to be identified. these place-sourced practices are what animate the multi-stakeholder, multi-level [enactment](/processes/enactment), gesturing toward potential-led, place-sourced economy. 
 

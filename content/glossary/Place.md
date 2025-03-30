@@ -1,6 +1,7 @@
 ---
 aliases:
 - places
+- place
 ---
 
 > “Every great people, each culture, each form of life has its own world.
