@@ -1,4 +1,5 @@
-**Appreciative Inquiry (AI)** is an approach that focuses on identifying and amplifying the strengths and positive aspects of a system. It involves asking positive questions to uncover what works well and envision ideal futures.
+Appreciative Inquiry can be a powerful intervention for strategic change and sustainable growth of groups, communities and organizations. It is an inquiry that creates new possible futures capable of inspiring, mobilizing, and sustaining changes over time. 
 
-**Example Use Case:**
-A community uses Appreciative Inquiry to identify successful initiatives for local economic development. By focusing on what is already working, they build momentum and create a shared vision for a thriving local economy.
+Appreciative Inquiry is a process that selectively seeks to locate, emphasize, and discover what we define as the forces that give life to the existence of the organization. It is an action research process focused on what gives life to an individual, group, community or an organization. It uses a set of principles to discover what gives life, to design and innovate what will bring more of it. 
+
+Appreciative Inquiry seeks the best of "what is" to help awaken the collective imagination of "what could be." The goal is to generate new knowledge that expands "the limits of the possible" and helps members of an organization to have a collective vision of the desired future and carry out that vision in a way that successfully turns potential intentions into reality and beliefs into practice.

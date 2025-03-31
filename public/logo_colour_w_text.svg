@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.54299809"
-     inkscape:cx="910.68461"
-     inkscape:cy="-42.357424"
+     inkscape:cx="910.6846"
+     inkscape:cy="-43.278237"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="-9"
@@ -295,16 +295,10 @@
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.564999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
          d="m 635.18345,210.73391 a 7.6059604,7.6059604 0 0 0 -6.85333,7.55199 7.6059604,7.6059604 0 0 0 6.85333,7.55251 v -2.53731 a 5.0805187,5.0805187 0 0 1 -4.3279,-5.0152 5.0805187,5.0805187 0 0 1 4.3279,-5.01468 z" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:79.1899px;line-height:0.55;font-family:'Game Of Squids';-inkscape-font-specification:'Game Of Squids';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.412449"
-       x="349.56677"
-       y="141.11728"
-       id="text283"><tspan
-         sodipodi:role="line"
-         id="tspan283"
-         style="font-size:79.1899px;fill:#ffffff;fill-opacity:1;stroke-width:0.412449"
-         x="349.56677"
-         y="141.11728">A</tspan></text>
+    <path
+       style="font-size:79.1899px;line-height:0.55;font-family:'Game Of Squids';-inkscape-font-specification:'Game Of Squids';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.412449"
+       d="m 324.81993,141.11728 24.74684,-51.968375 24.74685,51.968375 h -11.13608 l -13.61077,-28.45887 -13.61076,28.45887 z"
+       id="text283"
+       aria-label="A" />
   </g>
 </svg>

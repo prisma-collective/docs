@@ -2,13 +2,13 @@ import { Footer, Layout, Navbar } from 'nextra-theme-docs'
 import { Banner, Head } from 'nextra/components';
 import { getPageMap } from 'nextra/page-map';
 import 'nextra-theme-docs/style.css';
-import '../styles.css';
+import '@/styles.css';
 import { ReactNode } from 'react';
 import Image from 'next/image';
 import { Analytics } from "@vercel/analytics/react";
 import { generateMetadata } from './utils/metadata';
-import { Send, Globe } from "lucide-react";
-import "@/styles.css";
+import { FaXTwitter } from "react-icons/fa6";
+import { FaTelegramPlane, FaGithub } from "react-icons/fa";
 
 const banner = <Banner storageKey="some-key">Upcoming action-learning journey: Accra, Ghana @ May 18 2025</Banner>
 
@@ -19,17 +19,19 @@ const navbar = (
         <Image src="/logo_colour_w_text.svg" width={140} height={60} alt="Prisma Logo" />
       </div>
     }
-    chatIcon={<Send size={24} />}
+    logoLink={"https://www.prisma.events/"}
+    chatIcon={<FaTelegramPlane size={20} style={{ color: "white" }} />}
     chatLink={"https://t.me/+9-UF8k9H8dBjNWFk"}
     children={
-      <div className="flex gap-4">
-        {/* Website */}
-        <a href="https://www.prisma.events" target="_blank" rel="noopener noreferrer">
-          <Globe size={24} />
+      <div className="inline-flex items-center gap-4">
+        {/* X (Twitter) */}
+        <a href="https://twitter.com/__prismaevents" target="_blank" rel="noopener noreferrer">
+          <FaXTwitter size={20} style={{ color: "white" }}/>
         </a>
       </div>
     }
     projectLink={"https://github.com/prisma-collective/"}
+    projectIcon={<FaGithub size={20} style={{ color: "white" }} />}
   />
 );
 

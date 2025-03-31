@@ -13,5 +13,6 @@
     "downscalePercent": 76
   },
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "propertiesInDocument": "source"
 }
