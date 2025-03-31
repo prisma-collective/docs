@@ -2,7 +2,7 @@ import { Footer, Layout, Navbar } from 'nextra-theme-docs'
 import { Banner, Head } from 'nextra/components';
 import { getPageMap } from 'nextra/page-map';
 import 'nextra-theme-docs/style.css';
-import '../styles.css';
+import '@/styles.css';
 import { ReactNode } from 'react';
 import Image from 'next/image';
 import { Analytics } from "@vercel/analytics/react";
