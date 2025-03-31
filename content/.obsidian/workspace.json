@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/aspects.md",
+                "file": "Practices/Appreciative Inquiry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "aspects"
+              "title": "Appreciative Inquiry"
             }
           }
         ]
@@ -197,11 +197,13 @@
   },
   "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
+    "Practices/Awareness-Based Systems Change.md",
+    "Practices/Appreciative Inquiry.md",
+    "patterns/aspects.md",
     "glossary/Practice.md",
     "patterns/sociocratic organising.md",
     "glossary/place-sourced potential.md",
     "patterns/case-study.md",
-    "patterns/aspects.md",
     "patterns/action-learning.md",
     "glossary/Place.md",
     "patterns/potential.md",
@@ -224,8 +226,6 @@
     "Practices/Generative Inquiry.md",
     "Practices/Embodied Systemic Constellations.md",
     "Practices/Ecosystem Mapping.md",
-    "Practices/Deep Time Journeys.md",
-    "Practices/Decoloniality.md",
     "Practices",
     "docs/processes/enactment",
     "docs/Assets/learning-arcs.png",
