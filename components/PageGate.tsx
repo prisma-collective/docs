@@ -1,6 +1,7 @@
 'use client' // Add this directive to indicate it's a client-side component
 
 import React, { useState } from 'react';
+import StandardButton from '@/components/StandardButton';
 
 interface PageGateProps {
   children: React.ReactNode;
@@ -25,21 +26,21 @@ export function PageGate({ children, requiredPassword }: PageGateProps) {
 
   return (
     <div className="page-gate">
-      <div className="password-prompt">
+      <div className="flex flex-col items-start">
         <h2>Restricted Content</h2>
         <input 
           type="password"
           value={inputPassword}
           onChange={(e) => setInputPassword(e.target.value)}
           placeholder="Enter password"
-          className="password-input"
+          className="w-5/6 sm:w-1/2 p-3 mt-4 mb-4 bg-gray-800 text-white border border-transparent rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-[#c362ff] focus:border-transparent placeholder-gray-400 transition duration-300 ease-in-out"
         />
-        <button 
+
+        <StandardButton
           onClick={handlePasswordCheck}
-          className="unlock-button"
         >
-          Unlock Content
-        </button>
+          Unlock
+        </StandardButton>
       </div>
     </div>
   );

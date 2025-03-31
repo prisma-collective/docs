@@ -8,6 +8,7 @@ import Image from 'next/image';
 import { Analytics } from "@vercel/analytics/react";
 import { generateMetadata } from './utils/metadata';
 import { Send, Globe } from "lucide-react";
+import "@/styles.css";
 
 const banner = <Banner storageKey="some-key">Upcoming action-learning journey: Accra, Ghana @ May 18 2025</Banner>
 
