@@ -19,7 +19,7 @@ each aspect makes visible one view into the application of practice on-the-groun
 
 each case-study therefore aims to utilise one or multiple [practice-currencies](/processes/process-infrastructuring/practice-currencies.md). this dynamic interplay between action (practice) and learning (evaluation, aided by currency), is the essence of our work at prisma.
 
-these currencies are the verified measurements that form the foundation for data-backed storytelling. all the additional media - meeting recordings, photos, audio notes, design documents - are (qualitative) layers of additional context that give wholeness to this underlying, transactional (quantitative) heartbeat. 
+these currencies are the verified measurements that form the foundation for data-backed storytelling. all the additional media - meeting recordings, photos, audio notes, design documents - are (qualitative) layers of additional context that give wholeness to this underlying (quantitative yet non-transaction) heartbeat. 
 
 1. Curation - the most polished, and also the most abstracted. see [prisma.events](https://www.prisma.events)
 2. Archive - more complete, and also more raw and rugged. see [docs.prisma.events](https://docs.prisma.events)
