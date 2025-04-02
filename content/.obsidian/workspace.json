@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practices/Appreciative Inquiry.md",
+                "file": "patterns/action-learning journeys.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Appreciative Inquiry"
+              "title": "action-learning journeys"
             }
           }
         ]
@@ -197,8 +197,12 @@
   },
   "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
-    "Practices/Awareness-Based Systems Change.md",
     "Practices/Appreciative Inquiry.md",
+    "patterns/action-learning journeys.md",
+    "processes/process-infrastructuring/practice-currencies.md",
+    "context & narrative/Stakeholders and Growth Strategy.md",
+    "context & narrative/Core Value-Systems.md",
+    "Practices/Awareness-Based Systems Change.md",
     "patterns/aspects.md",
     "glossary/Practice.md",
     "patterns/sociocratic organising.md",
@@ -221,11 +225,7 @@
     "Practices/Regenerative Development & Design.md",
     "Practices/Persona.md",
     "Practices/Narrative-Based Social Change.md",
-    "Practices/Journalling.md",
     "Practices/index.mdx",
-    "Practices/Generative Inquiry.md",
-    "Practices/Embodied Systemic Constellations.md",
-    "Practices/Ecosystem Mapping.md",
     "Practices",
     "docs/processes/enactment",
     "docs/Assets/learning-arcs.png",

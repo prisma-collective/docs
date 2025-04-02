@@ -1,0 +1,60 @@
+[
+  {
+    "user": "regeneshik",
+    "history": [
+      {
+        "month": "2024-10",
+        "commits": 0
+      },
+      {
+        "month": "2024-11",
+        "commits": 6
+      },
+      {
+        "month": "2024-12",
+        "commits": 1
+      },
+      {
+        "month": "2025-01",
+        "commits": 0
+      },
+      {
+        "month": "2025-02",
+        "commits": 12
+      },
+      {
+        "month": "2025-03",
+        "commits": 38
+      }
+    ]
+  },
+  {
+    "user": "tbsfchnr",
+    "history": [
+      {
+        "month": "2024-10",
+        "commits": 38
+      },
+      {
+        "month": "2024-11",
+        "commits": 22
+      },
+      {
+        "month": "2024-12",
+        "commits": 47
+      },
+      {
+        "month": "2025-01",
+        "commits": 18
+      },
+      {
+        "month": "2025-02",
+        "commits": 58
+      },
+      {
+        "month": "2025-03",
+        "commits": 116
+      }
+    ]
+  }
+]
