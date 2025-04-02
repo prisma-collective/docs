@@ -197,6 +197,9 @@
   },
   "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
+    "processes/process-infrastructuring/practice-currencies.mdx",
+    "context & narrative/Stakeholders and Growth Strategy.mdx",
+    "context & narrative/Core Value-Systems.mdx",
     "Practices/Appreciative Inquiry.md",
     "patterns/action-learning journeys.md",
     "processes/process-infrastructuring/practice-currencies.md",
@@ -224,7 +227,6 @@
     "Practices/Role Play.md",
     "Practices/Regenerative Development & Design.md",
     "Practices/Persona.md",
-    "Practices/Narrative-Based Social Change.md",
     "Practices/index.mdx",
     "Practices",
     "docs/processes/enactment",
@@ -240,8 +242,6 @@
     "docs/Assets/bus_model.png",
     "docs/Assets/character.svg",
     "docs/Assets/communicating-al.png",
-    "docs/processes/process-infrastructuring/timelining",
-    "docs/processes/evaluation",
-    "docs/collaborators/communities of practice/Holochain"
+    "docs/processes/process-infrastructuring/timelining"
   ]
 }
