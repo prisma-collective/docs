@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "action-learning journeys"
             }
-          },
-          {
-            "id": "a35fc9672cb3e820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "patterns/index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a35fc9672cb3e820",
+  "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
-    "processes/index.md",
     "patterns/index.md",
+    "processes/index.md",
     "patterns/action-learning journeys.md",
     "processes/process-infrastructuring/practice-currencies.mdx",
     "context & narrative/Stakeholders and Growth Strategy.mdx",
