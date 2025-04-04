@@ -38,11 +38,10 @@ export function PageGate({ children, requiredPassword }: PageGateProps) {
         value={inputPassword}
         onChange={(e) => setInputPassword(e.target.value)}
         placeholder="Enter password"
-        className="w-5/6 sm:w-1/2 p-3 mt-4 mb-4 bg-gray-800 text-white border border-transparent rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-[#c362ff] focus:border-transparent placeholder-gray-400 transition duration-300 ease-in-out"
+        className="w-5/6 sm:w-1/2 p-3 mt-4 mb-4 bg-gray-800/80 text-white border border-transparent rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-[#c362ff] focus:border-transparent placeholder-gray-400 transition duration-300 ease-in-out"
       />
 
-      <StandardButton
-      >
+      <StandardButton>
         Unlock
       </StandardButton>
     </form>

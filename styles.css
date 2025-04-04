@@ -1,5 +1,12 @@
 @import "tailwindcss";
 
+@theme {
+  --color-prisma-a: #cd5aff;
+  --color-prisma-b: #8067ff;
+  --color-prisma-c: #ef64ff;
+  --color-prisma-d: #ff4b85;
+}
+
 /* Set the background color for the whole page */
 body {
     background-color:rgb(0, 0, 0); /* Change this to your desired background color */
