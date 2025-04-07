@@ -19,9 +19,9 @@ process-infrastructuring refers to facilitating the creation of a distributed sy
 	3. network agreements
 	4. product specification
 3. [evaluating](/processes/evaluation) includes...
-	1. value signalling (p2p)
-	2. event trajectory timeline
-	3. documentation: wiki
+	1. value signalling (p2p): [practice-currencies](/processes/process-infrastructuring/practice-currencies)
+	2. event trajectory timeline: [timelining](processes/process-infrastructuring/timelining/index.md)
+	3. documentation: docs
 4. [enacting](/processes/enactment) includes...
 	1. self-organising [practice](/glossary/Practice.md) participation
 

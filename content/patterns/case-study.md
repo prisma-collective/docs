@@ -20,7 +20,7 @@ capacity-building can happen in many different dimensions. we call these dimensi
 
 each aspect makes visible one view into the application of practice on-the-ground. we make this visible with currencies. [^2]
 
-each case-study therefore aims to utilise one or multiple [practice-currencies](/processes/process-infrastructuring/practice-currencies.md). this dynamic interplay between action (practice) and learning (evaluation, aided by currency), is the essence of our work at prisma.
+each case-study therefore aims to utilise one or multiple [practice-currencies](processes/process-infrastructuring/practice-currencies.mdx). this dynamic interplay between action (practice) and learning (evaluation, aided by currency), is the essence of our work at prisma.
 
 these currencies are the verified measurements that form the foundation for data-backed storytelling. all the additional media - meeting recordings, photos, audio notes, design documents - are (qualitative) layers of additional context that give wholeness to this underlying (quantitative, yet non-transactional) heartbeat. 
 

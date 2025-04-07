@@ -14,5 +14,6 @@
   },
   "useMarkdownLinks": true,
   "newLinkFormat": "absolute",
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "showUnsupportedFiles": true
 }

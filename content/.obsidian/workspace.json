@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/process-infrastructuring/index.md",
+                "file": "patterns/case-study.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "case-study"
             }
           }
         ]
@@ -197,12 +197,13 @@
   },
   "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
+    "processes/process-infrastructuring/practice-currencies.mdx",
+    "context & narrative/Stakeholders and Growth Strategy.mdx",
+    "processes/process-infrastructuring/index.md",
     "patterns/case-study.md",
     "patterns/action-learning journeys.md",
     "patterns/index.md",
     "processes/index.md",
-    "processes/process-infrastructuring/practice-currencies.mdx",
-    "context & narrative/Stakeholders and Growth Strategy.mdx",
     "context & narrative/Core Value-Systems.mdx",
     "Practices/Appreciative Inquiry.md",
     "processes/process-infrastructuring/practice-currencies.md",
@@ -226,8 +227,6 @@
     "Practices/Theory of Change.md",
     "Practices/Storytelling with Metaphors & Symbols.md",
     "Practices/Somatic & Mental Journeys.md",
-    "Practices/Role Play.md",
-    "Practices/Regenerative Development & Design.md",
     "Practices/index.mdx",
     "Practices",
     "docs/processes/enactment",
