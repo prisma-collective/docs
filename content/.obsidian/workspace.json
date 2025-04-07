@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/case-study.md",
+                "file": "processes/process-infrastructuring/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "case-study"
+              "title": "index"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
+    "patterns/case-study.md",
     "patterns/action-learning journeys.md",
     "patterns/index.md",
     "processes/index.md",
@@ -212,7 +213,6 @@
     "glossary/Practice.md",
     "patterns/sociocratic organising.md",
     "glossary/place-sourced potential.md",
-    "patterns/case-study.md",
     "patterns/action-learning.md",
     "glossary/Place.md",
     "patterns/potential.md",

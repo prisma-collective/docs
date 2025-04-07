@@ -12,11 +12,12 @@ process-infrastructuring refers to facilitating the creation of a distributed sy
 
 1. [enrolment](/processes/enrolment.md) includes...
 	1. [registration](https://register.prisma.events): on-boarding forms
-	3. profiles: wallet verification
+	2. profiles & IDs
 2. [ground-potentialising](/processes/ground-potentialising.md) includes...
 	1. [hubs](/collaborators/communities%20of%20place/hubs.md): mapping
-	2. multi-stakeholder alignment: on-boarding calls with pre- and post-call exercises (homework)
-	3. product specification
+	2. multi-stakeholder alignment
+	3. network agreements
+	4. product specification
 3. [evaluating](/processes/evaluation) includes...
 	1. value signalling (p2p)
 	2. event trajectory timeline
