@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/action-learning journeys.md",
+                "file": "patterns/case-study.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "action-learning journeys"
+              "title": "case-study"
             }
           }
         ]
@@ -197,9 +197,9 @@
   },
   "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
+    "patterns/action-learning journeys.md",
     "patterns/index.md",
     "processes/index.md",
-    "patterns/action-learning journeys.md",
     "processes/process-infrastructuring/practice-currencies.mdx",
     "context & narrative/Stakeholders and Growth Strategy.mdx",
     "context & narrative/Core Value-Systems.mdx",
