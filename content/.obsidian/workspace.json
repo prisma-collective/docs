@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/case-study.md",
+                "file": "processes/enactment/1. learning arcs.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "case-study"
+              "title": "1. learning arcs"
             }
           }
         ]
@@ -197,10 +197,13 @@
   },
   "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
+    "processes/enactment/4. iterate, iteration, iterating.md",
+    "processes/enactment/1. learning arcs.md",
+    "processes/enactment/1. learning arcs.mdx",
+    "patterns/case-study.md",
     "processes/process-infrastructuring/practice-currencies.mdx",
     "context & narrative/Stakeholders and Growth Strategy.mdx",
     "processes/process-infrastructuring/index.md",
-    "patterns/case-study.md",
     "patterns/action-learning journeys.md",
     "patterns/index.md",
     "processes/index.md",
@@ -226,7 +229,6 @@
     "Practices/Theory U.md",
     "Practices/Theory of Change.md",
     "Practices/Storytelling with Metaphors & Symbols.md",
-    "Practices/Somatic & Mental Journeys.md",
     "Practices/index.mdx",
     "Practices",
     "docs/processes/enactment",
@@ -235,7 +237,6 @@
     "docs/Assets/emergent_learning_table.png",
     "docs/playbook",
     "docs/Assets/concept_ordering.png",
-    "docs/drafts",
     "docs/Assets/concept_ordering 1.png",
     "docs/img/logo_colour.svg",
     "docs/Assets/action-learning.png",
