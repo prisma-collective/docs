@@ -6,6 +6,7 @@
   --color-prisma-c: #ef64ff;
   --color-prisma-d: #ff4b85;
   --font-custom: "Space Grotesk", sans-serif;
+  --font-custom-bold: "Bebas Neue", sans-serif;
 }
 
 /* Set the background color for the whole page */
@@ -106,4 +107,24 @@ html:not(.dark) h6 {
   to {
     transform: rotate(0deg);
   }
+}
+
+.animated-rect {
+  transition: stroke 0.5s ease-in-out;
+}
+
+.animated-link:hover .animated-rect {
+  stroke: #cd5aff;
+}
+
+.linked-path {
+  fill: none;
+  stroke: #ffffff;
+  stroke-width: 1;
+  stroke-linejoin: miter;
+  transition: stroke 0.5s ease;
+}
+
+.linked-path:hover {
+  stroke: #cd5aff;
 }
