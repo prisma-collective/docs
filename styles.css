@@ -119,12 +119,36 @@ html:not(.dark) h6 {
 
 .linked-path {
   fill: none;
-  stroke: #ffffff;
-  stroke-width: 1;
+  stroke-width: 1.6;
   stroke-linejoin: miter;
   transition: stroke 0.5s ease;
+  pointer-events: none;
 }
 
-.linked-path:hover {
-  stroke: #cd5aff;
+/* Hover Area */
+.hover-area-link:hover .linked-path {
+  stroke: #cd5aff; /* Change the stroke color to red when hovered */
+  transition: stroke 0.3s ease; /* Smooth transition for stroke color change */
+}
+
+.hover-area-link {
+  position: relative;
+}
+
+.hover-path {
+  pointer-events: auto;  /* Ensure the invisible hover path can be interacted with */
+  z-index: 1;  /* Ensure it sits on top of the link */
+}
+
+/* styles/glow.css or similar */
+@keyframes dashFlow {
+  to {
+    stroke-dashoffset: -7;
+  }
+}
+
+.animate-path {
+  stroke-dasharray: 6 1;
+  stroke-dashoffset: 0;
+  animation: dashFlow 2s linear infinite;
 }
