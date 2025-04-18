@@ -20,6 +20,9 @@ importers:
       chart.js:
         specifier: ^4.4.8
         version: 4.4.8
+      dotenv:
+        specifier: ^16.5.0
+        version: 16.5.0
       next:
         specifier: ^15.2.4
         version: 15.2.4(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -1132,6 +1135,10 @@ packages:
 
   dompurify@3.2.4:
     resolution: {integrity: sha512-ysFSFEDVduQpyhzAob/kkuJjf5zWkZD8/A9ywSp1byueyuCfHamrCBa14/Oc2iiB0e51B+NpxSl5gmzn+Ms/mg==}
+
+  dotenv@16.5.0:
+    resolution: {integrity: sha512-m/C+AwOAr9/W1UOIZUo232ejMNnJAJtYQjUbHoNTBNTJSvqzzDh7vnrei3o3r3m9blf6ZoDkvcw0VmozNRFJxg==}
+    engines: {node: '>=12'}
 
   emoji-regex-xs@1.0.0:
     resolution: {integrity: sha512-LRlerrMYoIDrT6jgpeZ2YYl/L8EulRTt5hQcYjy5AInh7HWXKimpqx68aknBFpGL2+/IcogTcaydJEgaTmOpDg==}
@@ -3325,6 +3332,8 @@ snapshots:
   dompurify@3.2.4:
     optionalDependencies:
       '@types/trusted-types': 2.0.7
+
+  dotenv@16.5.0: {}
 
   emoji-regex-xs@1.0.0: {}
 

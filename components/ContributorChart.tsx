@@ -5,7 +5,7 @@ import Chart from 'chart.js/auto';
 
 // Define types for the contributor data structure
 interface ContributorHistory {
-  month: string;
+  week: string;
   commits: number;
 }
 
@@ -28,10 +28,10 @@ const ContributorChart: React.FC = () => {
 
   // Fetch contributor data when the component mounts
   useEffect(() => {
-    fetch("/contributions.json")
+    fetch("/api/contributors")
       .then((response) => response.json())
       .then((data: ContributorData[]) => setData(data))
-      .catch((err) => console.error('Error fetching data: ', err));
+      .catch((err) => console.error('Error fetching contributors: ', err));
   }, []);
 
   // Chart rendering logic
@@ -39,7 +39,7 @@ const ContributorChart: React.FC = () => {
     if (data && chartRef.current) {
 
       const chartData = {
-        labels: [] as string[],  // Array to store months
+        labels: [] as string[],  // Array to store weeks
         datasets: [] as {
           label: string;
           data: number[];
@@ -49,24 +49,23 @@ const ContributorChart: React.FC = () => {
         }[] // Array to store the data for each contributor
       };
 
-      // Prepare the data for each contributor
+      // Fill in weeks from the first contributor's history
+      if (data.length > 0) {
+        chartData.labels = data[0].history.map((h) => h.week);
+      }
+
       data.forEach((entry, index) => {
         const user = entry.user;
         const history = entry.history;
 
-        // Fill in the labels (months) from the first contributor's data
-        if (chartData.labels.length === 0) {
-          chartData.labels = history.map((h) => h.month);
-        }
-
-        // Prepare the data for each contributor
         const userCommits = history.map((h) => h.commits);
+
         chartData.datasets.push({
           label: user,
           data: userCommits,
-          fill: false, // No filling under the line
-          borderColor: getBrandColor(index), // Use brand color from the palette
-          tension: 0.4, // Makes the line smooth
+          fill: false,
+          borderColor: getBrandColor(index),
+          tension: 0.4,
         });
       });
 

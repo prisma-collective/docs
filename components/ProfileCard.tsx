@@ -26,8 +26,9 @@ export const ProfileCard: FC<ProfileCardProps> = ({ name, role, profile_card_lin
         <Image
           src={avatar}
           alt={name}
-          layout="fill"
-          className="rounded-full object-cover"
+          width={200}
+          height={200}
+          className="rounded-full object-fill"
         />
       </div>
       <p className="text-lg font-semibold text-gray-800 dark:text-white">{name}</p>
