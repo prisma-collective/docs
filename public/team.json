@@ -12,27 +12,26 @@
       "name": "Shik",
       "photo": "/shik.svg",
       "links": [
-        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://linkedin.com/in/alex", "icon": "FaLinkedinIn" },
-        { "label": "GitHub", "url": "https://github.com/tbsfchnr", "icon": "FaGithub" }
+        { "label": "Meet", "url": "https://cal.com/shikharwah", "icon": "FaPhone" },
+        { "label": "LinkedIn", "url": "https://linkedin.com/in/shik", "icon": "FaLinkedinIn" },
+        { "label": "GitHub", "url": "https://github.com/regeneshik", "icon": "FaGithub" }
       ]
     },
     {
       "name": "Delfi",
       "photo": "/delfi.svg",
       "links": [
-        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://linkedin.com/in/alex", "icon": "FaLinkedinIn" },
-        { "label": "GitHub", "url": "https://github.com/tbsfchnr", "icon": "FaGithub" }
+        { "label": "Meet", "url": "https://cal.com/delfina-terrado", "icon": "FaPhone" },
+        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/delfina-terrado/", "icon": "FaLinkedinIn" },
+        { "label": "Website", "url": "https://iniciativamurmullo.com/", "icon": "FaGlobe" }
       ]
     },
     {
       "name": "Mercy",
       "photo": "/mercy.svg",
       "links": [
-        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://linkedin.com/in/alex", "icon": "FaLinkedinIn" },
-        { "label": "GitHub", "url": "https://github.com/tbsfchnr", "icon": "FaGithub" }
+        { "label": "Meet", "url": "https://cal.com/mercy-wada", "icon": "FaPhone" },
+        { "label": "Website", "url": "https://www.wada.org", "icon": "FaGlobe" }
       ]
     }
   ]
