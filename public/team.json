@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Tabs",
+      "photo": "/tabs.svg",
+      "links": [
+        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
+        { "label": "LinkedIn", "url": "https://linkedin.com/in/alex", "icon": "FaLinkedinIn" },
+        { "label": "GitHub", "url": "https://github.com/tbsfchnr", "icon": "FaGithub" }
+      ]
+    },
+    {
+      "name": "Shik",
+      "photo": "/shik.svg",
+      "links": [
+        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
+        { "label": "LinkedIn", "url": "https://linkedin.com/in/alex", "icon": "FaLinkedinIn" },
+        { "label": "GitHub", "url": "https://github.com/tbsfchnr", "icon": "FaGithub" }
+      ]
+    },
+    {
+      "name": "Delfi",
+      "photo": "/delfi.svg",
+      "links": [
+        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
+        { "label": "LinkedIn", "url": "https://linkedin.com/in/alex", "icon": "FaLinkedinIn" },
+        { "label": "GitHub", "url": "https://github.com/tbsfchnr", "icon": "FaGithub" }
+      ]
+    },
+    {
+      "name": "Mercy",
+      "photo": "/mercy.svg",
+      "links": [
+        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
+        { "label": "LinkedIn", "url": "https://linkedin.com/in/alex", "icon": "FaLinkedinIn" },
+        { "label": "GitHub", "url": "https://github.com/tbsfchnr", "icon": "FaGithub" }
+      ]
+    }
+  ]
+  
