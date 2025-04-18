@@ -7,13 +7,13 @@ aliases:
 <<<<<<< HEAD:content/processes/evaluation/a. Introduction.md
 ## **Introduction**  
 ### **The Essence of Our Evaluation Approach**  
-Evaluation, for us, is not a static measure of success but a living [practice](/glossary/Practice.md) of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of social relationality, ecological vitality, cultural wisdom, governance systems and emergent possibility. At Prisma, we see evaluation as the *essence of organisational development*—a way for collectives to sense, adapt, and evolve their actions in harmony with the essence of [place](/glossary/Place.md) and the [Living Systems Principles](Living Systems Principles) that bind us all. 
+Evaluation is the living [practice](/glossary/Practice.md) of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of social relationality, ecological vitality, cultural wisdom, governance systems and emergent possibility. At Prisma, we see evaluation as the *essence of organisational evolution*—a way for collectives to sense, adapt, and evolve their actions in harmony with the essence of [place](/glossary/Place.md) and the [Living Systems Principles](Living Systems Principles) that bind us all. 
 =======
 ![[evaluating.png]]
 
 # **Introduction**  
 ## **Essence**  
-Evaluation, for us, is not a static measure of success but a living [[practice]] of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of social relationality, ecological vitality, cultural wisdom, governance systems and emergent possibility. At Prisma, we see evaluation as the *essence of organisational development*—a way for collectives to sense, adapt, and evolve their actions in harmony with the essence of [[place]] and the [[Living Systems Principles]] that bind us all. 
+Evaluation is the *living [[practice]]* of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of social relationality, ecological vitality, cultural wisdom, governance systems and emergent possibility. At Prisma, we see evaluation as the *essence of organisational evolution*—a way for collectives to sense, adapt, and evolve their actions in harmony with the essence of [[place]] and the [[Living Systems Principles]] that bind us all. 
 >>>>>>> origin/main:docs/processes/evaluation/a. Introduction.md
 
 ### Vision
@@ -36,10 +36,10 @@ Our approach is built on the foundations of the following four pillars:
 
 ### Responsibilities
 We hold ourselves accountable to answering the following questions:  
-1. What are alternate forms of data on diverse value contributions? How best can they be authentically reflected?
+1. What forms of data can be generated on diverse value contributions? How best can they be authentically reflected?
 2. How can a regenerative evaluation process be conducted? What does the system look like?
-3. Can multi-capital forms of value reading enable holistic evaluation? What does that look like
-4. Can the threshold for active, playful participation in the evaluation processes be lowered? Which tools & practices enable this? 
+3. Can multi-capital forms of value reading enable holistic evaluation? How can complexity be retained in this process without being overwhelming?
+4. Can the threshold for active, playful co-creation of the evaluation processes be lowered? Which tools & practices enable this? 
 
 ## **Implementation**
 
@@ -63,7 +63,7 @@ The Container defines the logistical boundaries within which evaluation unfolds.
         
     - **Point Systems**: Quantitative rankings, ratings.
         
-    - **Programmatic Data**: Structured submissions, sensor-derived metrics.
+    - **Programmatic Data**: Code submissions, public chat histories.
         
 - **Who (Value-Generating Entities)**:
     
@@ -78,7 +78,11 @@ Together, these logistical parameters form a stable yet flexible container withi
 
 ### **Playground**
 
-Within this container lies the Playground—an exploratory space where stakeholders identify, articulate, and experiment with forms of value generation. The Playground is customizable, shaped by community priorities and evolving needs:
+Within this Container lie different Playgrounds—exploratory spaces where stakeholders identify, articulate, and experiment with forms of value generation. The Playground is customizable, shaped by community priorities and evolving needs. 
+
+Each Playground has a primary goal that determines its design and by default there are three playgrounds in any Container - the Facilitators, the Cohort and the Place.  
+
+Below are some examples of the value elements that build a Playground.
 
 - **What (Forms of Valued Contributions)**:
     
