@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "1. learning arcs"
             }
+          },
+          {
+            "id": "8963c310a6e3e9a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,11 +220,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c39b28cd962b7c08",
+  "active": "8963c310a6e3e9a7",
   "lastOpenFiles": [
+    "processes/enactment/1. learning arcs.mdx",
+    "conflict-files-obsidian-git.md",
     "processes/enactment/4. iterate, iteration, iterating.md",
     "processes/enactment/1. learning arcs.md",
-    "processes/enactment/1. learning arcs.mdx",
     "patterns/case-study.md",
     "processes/process-infrastructuring/practice-currencies.mdx",
     "context & narrative/Stakeholders and Growth Strategy.mdx",
@@ -224,11 +250,9 @@
     "processes/process-infrastructuring/timelining/Summary in 3 minutes.md",
     "test1.mdx",
     "test.mdx",
-    "conflict-files-obsidian-git.md",
     "Practices/Warm Data Labs.md",
     "Practices/Theory U.md",
     "Practices/Theory of Change.md",
-    "Practices/Storytelling with Metaphors & Symbols.md",
     "Practices/index.mdx",
     "Practices",
     "docs/processes/enactment",
