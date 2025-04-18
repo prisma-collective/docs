@@ -10,16 +10,31 @@
 }
 
 /* Set the background color for the whole page */
-body {
+.dark body {
     background-color:rgb(0, 0, 0); /* Change this to your desired background color */
     color: #ffffff; 
 }
 
+/* Light theme styles when Nextra switches to light mode */
+html:not(.dark) body {
+    background-color: #ffffff;
+    color: #333333;
+}
+
 /* Set font style for headings */
-h1, h2, h3, h4, h5, h6 {
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
     font-family: 'Space Grotesk', sans-serif; 
     color:rgb(249, 249, 249); 
 }
+
+/* html:not(.dark) h1, 
+html:not(.dark) h2, 
+html:not(.dark) h3, 
+html:not(.dark) h4, 
+html:not(.dark) h5, 
+html:not(.dark) h6 {
+    color: #000000; 
+} */
 
 /* Set font style for links */
 a {
@@ -31,20 +46,6 @@ a {
 a:hover {
     color: #c362ff; 
     text-decoration: none; 
-}
-/* Light theme styles when Nextra switches to light mode */
-html:not(.dark) body {
-    background-color: #ffffff; /* Light mode background */
-    color: #333333; /* Dark text for contrast */
-}
-
-html:not(.dark) h1, 
-html:not(.dark) h2, 
-html:not(.dark) h3, 
-html:not(.dark) h4, 
-html:not(.dark) h5, 
-html:not(.dark) h6 {
-    color: #000000; /* Darker text for readability */
 }
 
 .aspect {

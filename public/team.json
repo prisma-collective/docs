@@ -1,16 +1,9 @@
 [
     {
-      "name": "Tabs",
-      "photo": "/tabs.svg",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://linkedin.com/in/alex", "icon": "FaLinkedinIn" },
-        { "label": "GitHub", "url": "https://github.com/tbsfchnr", "icon": "FaGithub" }
-      ]
-    },
-    {
       "name": "Shik",
+      "role": "Evaluation",
       "photo": "/shik.svg",
+      "profile_card_link": "/processes/evaluation",
       "links": [
         { "label": "Meet", "url": "https://cal.com/shikharwah", "icon": "FaPhone" },
         { "label": "LinkedIn", "url": "https://linkedin.com/in/shik", "icon": "FaLinkedinIn" },
@@ -19,7 +12,9 @@
     },
     {
       "name": "Delfi",
+      "role": "Enaction",
       "photo": "/delfi.svg",
+      "profile_card_link": "/processes/enactment",
       "links": [
         { "label": "Meet", "url": "https://cal.com/delfina-terrado", "icon": "FaPhone" },
         { "label": "LinkedIn", "url": "https://www.linkedin.com/in/delfina-terrado/", "icon": "FaLinkedinIn" },
@@ -28,10 +23,23 @@
     },
     {
       "name": "Mercy",
+      "role": "Ground-Potential",
       "photo": "/mercy.svg",
+      "profile_card_link": "/processes/ground-potentialising",
       "links": [
         { "label": "Meet", "url": "https://cal.com/mercy-wada", "icon": "FaPhone" },
         { "label": "Website", "url": "https://www.wada.org", "icon": "FaGlobe" }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "role": "Infrastructure",
+      "photo": "/tabs.svg",
+      "profile_card_link": "/processes/process-infrastructuring",
+      "links": [
+        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
+        { "label": "LinkedIn", "url": "https://linkedin.com/in/tobias-fechner", "icon": "FaLinkedinIn" },
+        { "label": "GitHub", "url": "https://github.com/tbsfchnr", "icon": "FaGithub" }
       ]
     }
   ]
