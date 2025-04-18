@@ -2,6 +2,7 @@ import { useMDXComponents as getThemeComponents } from 'nextra-theme-docs' // ne
 import ContributorChart from '@/components/ContributorChart'; 
 import AspectsWithPrisma from '@/components/AspectsWithPrisma';
 import StandardButton from '@/components/StandardButton';
+import TeamCards from '@/components/TeamCards';
  
 // Get the default MDX components
 const themeComponents = getThemeComponents()
@@ -13,6 +14,7 @@ export function useMDXComponents(components) {
     ContributorChart, 
     AspectsWithPrisma,
     StandardButton,
+    TeamCards,
     ...components
   }
 }
