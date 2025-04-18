@@ -15,7 +15,7 @@ The timelining system is a voice-first analytics pipeline that captures Telegram
 
 The system has three stages: 
 
-1. [input protocol](/processes/process-infrastructuring/timelining/input%20protocol.md)
+1. input protocol
 2. Data Preparation
 3. Insight Generation
 

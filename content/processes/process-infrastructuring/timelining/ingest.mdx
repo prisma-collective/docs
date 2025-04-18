@@ -1,6 +1,6 @@
 # **Ingest**
 
-### **Top-level Directories:**
+### **Top-level Directories**
 - **`src`**: Contains the core application logic.
   - **`api`**: Contains API endpoint logic for the webhook and worker.
   - **`lib`**: Holds libraries for Telegram interaction (`telegram.ts`), Redis management (`redis.ts`), and database (`neo4j.ts`, `entries.ts`, `participants.ts`).
@@ -46,7 +46,7 @@ import { FileTree } from 'nextra/components'
   </FileTree.Folder>
 </FileTree>
 
-### **API Deployment:**
+### **API Deployment**
 - **Vercel Functions**: The API is deployed as serverless functions on Vercel.
   - **API Endpoints**:
     1. **`webhook.ts`**: Triggered when the Telegram bot receives a new message. It:
@@ -60,13 +60,13 @@ import { FileTree } from 'nextra/components'
        - Attaches media to BLOB storage (not implemented yet).
        - This script helps process data that the bot picks up on a scheduled basis.
 
-### **Database:**
+### **Database**
 - **Neo4j**: Used to store and manage the application’s graph-based data (entries and participants).
   - The database logic is located in `src/lib/neo4j.ts`, with separate modules for managing entries (`entries.ts`) and participants (`participants.ts`).
   - **Entries**: Represent messages processed by the worker.
   - **Participants**: Represent users who send messages to the Telegram bot.
 
-### **Testing:**
+### **Testing**
 - **Jest**: Used for testing the application’s core logic, both for the API endpoints and the database interactions.
   - **API Tests**: Mocks third-party APIs like Telegram and Redis, testing the interaction between the endpoints and the system.
   - **Database Tests**: Use Docker to stand up a test instance of the Neo4j database. Tests include the creation of entries and participants.
@@ -75,7 +75,7 @@ import { FileTree } from 'nextra/components'
     - **Health check script**: Ensures the database is ready before running tests.
   - **Test Data**: Data is currently deleted at the end of tests but the Docker volume can persist for inspection if desired.
 
-### **Production Environment:**
+### **Production**
 - **Environment Variables**: Set in the Vercel dashboard for production configurations like the `BOT_TOKEN` and Neo4j connection credentials.
 - **CI/CD**: Deployment happens on Vercel via GitHub integration. The `main` branch triggers deployment when code is pushed.
 
