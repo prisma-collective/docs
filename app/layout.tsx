@@ -9,6 +9,7 @@ import { Analytics } from "@vercel/analytics/react";
 import { generateMetadata } from './utils/metadata';
 import { FaXTwitter } from "react-icons/fa6";
 import { FaTelegramPlane, FaGithub } from "react-icons/fa";
+import { ActiveJourneyProvider } from '@/contexts/ActiveJourneyContext'
 
 const banner = <Banner storageKey="some-key">Upcoming action-learning journey: Accra, Ghana @ May 18, 2025</Banner>
 const iconClasses = "w-5 h-5 text-gray-600 dark:text-gray-400 transition-all duration-300 hover:scale-110"
@@ -117,7 +118,9 @@ export default async function RootLayout({
           editLink={null}
           nextThemes={{ defaultTheme: "dark" }}
         >
-          {children}
+          <ActiveJourneyProvider>
+            {children}
+          </ActiveJourneyProvider>
           <Analytics />
         </Layout>
       </body>
