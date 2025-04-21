@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.mdx",
+                "file": "processes/enactment/1. learning arcs.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "1. learning arcs"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "c39b28cd962b7c08",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "index.mdx",
+    "conflict-files-obsidian-git.md",
     "processes/process-infrastructuring/practice-currencies.mdx",
     "processes/evaluation/b. Design.mdx",
     "processes/enactment/1. learning arcs.mdx",
