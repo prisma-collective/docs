@@ -2,7 +2,7 @@
 
 import React, { useEffect } from "react";
 import { RiRadioButtonLine } from "react-icons/ri";
-import { useActiveJourney } from "@/contexts/ActiveJourneyContext"; // Adjust if necessary
+import { useActiveJourney } from "@/contexts/ActiveJourneyContext"; 
 
 const ActiveJourneyDisplay: React.FC = () => {
   const { journeyData, fetchJourneyData } = useActiveJourney();

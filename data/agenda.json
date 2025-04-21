@@ -1,0 +1,82 @@
+{
+    "version": 1.0,
+    "start": "2025-03-01",
+    "end": "2025-06-30",
+    "phases": {
+      "Phase 1: Awakening": {
+        "start": "2025-04-01",
+        "end": "2025-06-03",
+        "purpose": "Awaken sense of place and community potential."
+      },
+      "Phase 2: Deepening": {
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "purpose": "Deepen relationships and regenerative practices."
+      }
+    },
+    "actions": {
+      "Welcome Day": {
+        "day": "2025-05-19",
+        "phase": "Phase 1: Awakening",
+        "text": "Opening gathering to set intentions.",
+        "mainThemes": ["Connection", "Intention Setting"],
+        "roles": ["Facilitators", "Participants"],
+        "schedule": [
+          {
+            "time": "09:00",
+            "duration": "00:30:00",
+            "theme": "Arrival & Welcome",
+            "activity": "Warm-up, setting shared agreements.",
+            "facilitation": "Anna, Leo"
+          },
+          {
+            "time": "09:30",
+            "duration": "01:00:00",
+            "theme": "Sense of Place",
+            "activity": "Guided exploration of the land and its history.",
+            "facilitation": "Jorge"
+          }
+        ]
+      },
+      "Mapping Session": {
+        "day": "2025-05-19",
+        "phase": "Phase 1: Awakening",
+        "text": "Mapping ourselves as living systems.",
+        "mainThemes": ["Systems Thinking", "Self Awareness"],
+        "roles": ["Participants"],
+        "schedule": [
+          {
+            "time": "11:00",
+            "duration": "00:45:00",
+            "theme": "Ecosystem Mapping",
+            "activity": "Draw your personal ecosystem map.",
+            "facilitation": "Delfi"
+          }
+        ]
+      },
+      "Community Inquiry": {
+        "day": "2025-05-20",
+        "phase": "Phase 2: Deepening",
+        "text": "Interviewing community members for deep insights.",
+        "mainThemes": ["Listening", "Community Wisdom"],
+        "roles": ["Participants as Researchers"],
+        "collaboration": "Pairs and small groups",
+        "schedule": [
+          {
+            "time": "10:00",
+            "duration": "01:30:00",
+            "theme": "Interviews",
+            "activity": "Walk and listen to local community stories.",
+            "facilitation": "Local Hosts"
+          },
+          {
+            "time": "11:30",
+            "duration": "00:30:00",
+            "theme": "Harvesting Insights",
+            "activity": "Share collected insights in small groups.",
+            "facilitation": "Team Facilitators"
+          }
+        ]
+      }
+    }
+  }
