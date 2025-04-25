@@ -9,6 +9,7 @@ import { Analytics } from "@vercel/analytics/react";
 import { generateMetadata } from './utils/metadata';
 import { FaXTwitter } from "react-icons/fa6";
 import { FaTelegramPlane, FaGithub } from "react-icons/fa";
+import { BsCalendarWeek } from "react-icons/bs";
 import { ActiveJourneyProvider } from '@/contexts/ActiveJourneyContext'
 
 const banner = <Banner storageKey="some-key">Upcoming action-learning journey: Accra, Ghana @ May 18, 2025</Banner>
@@ -70,6 +71,15 @@ const navbar = (
           rel="noopener noreferrer"
         >
           <OpenCollectiveIcon className={`${iconClasses} ${getRandomHoverColor()}`} />
+        </a>
+
+        {/* Calendar */}
+        <a
+          href="https://lu.ma/prisma"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <BsCalendarWeek className={`${iconClasses} ${getRandomHoverColor()}`} />
         </a>
       </div>
     }
