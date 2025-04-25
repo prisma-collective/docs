@@ -57,6 +57,8 @@
           }
         ],
         "currentTab": 1
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,6 +229,7 @@
     "processes/index.md",
     "processes/enrolment",
     "processes/enactment/1. learning arcs.mdx",
+    "index.mdx",
     "index.mdx",
     "conflict-files-obsidian-git.md",
     "processes/process-infrastructuring/practice-currencies.mdx",
