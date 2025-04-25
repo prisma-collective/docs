@@ -55,5 +55,5 @@ This isn't just a tool; it's a companion on the journey toward a more just, sust
     
 - [Living Lab](/glossary/Living%20Lab.md)
     
-- [Enrolment](/processes/enrolment.md)
+- [Enrolment](processes/enrolment/index.md)
     
