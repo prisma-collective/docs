@@ -1,5 +1,5 @@
 import shapesData from '@/data/agenda.json'; 
-import { format, parseISO } from 'date-fns';
+import { addDays, format, parseISO } from 'date-fns';
 
 export interface Journey {
   version: number;
@@ -78,12 +78,16 @@ const JourneyAgendas: React.FC = () => {
     const totalDays = Math.floor((endDate.getTime() - startDate.getTime()) / (1000 * 3600 * 24));
 
     const radius = 250;
+    const viewboxBuffer = 100;
+    const svgSize = 2 * radius + viewboxBuffer;
 
     const angleIncrement = 360 / totalDays; // Angle between each circle
     const actionsByDay = getActionsByDay(actions, startDate);
   
     const circles = Array.from({ length: totalDays }, (_, i) => {
       const actionsToday = actionsByDay.get(i) || [];
+      const currentDate = addDays(startDate, i);
+      const dayToday = format(currentDate, 'EEE d LLL'); // e.g. "Fri 25 Apr"
       const angleInRadians = (angleIncrement * i - 90) * (Math.PI / 180);
     
       if (actionsToday.length === 0) {
@@ -99,6 +103,16 @@ const JourneyAgendas: React.FC = () => {
               fill="white"
               className="opacity-50 hover:opacity-100 transition"
             />
+            <text
+              x="0%"
+              y="0%"
+              textAnchor="middle"
+              dominantBaseline="middle"
+              fill="white"
+              className="opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none"
+            >
+              <tspan x="0%" className="font-custom-bold text-3xl">{dayToday}</tspan>
+            </text>
           </g>
         );
       }
@@ -116,18 +130,19 @@ const JourneyAgendas: React.FC = () => {
               cy={y}
               r="5.5"
               fill={phaseColor}
-              className="opacity-80 hover:opacity-100 transition"
+              className="opacity-90 hover:opacity-100 transition"
             />
             <text
               x="0%"
-              y="0%"
+              y="-5%"
               textAnchor="middle"
               dominantBaseline="middle"
               fill="white"
               fontSize="0.75rem"
-              className="opacity-0 group-hover:opacity-100 transition-opacity duration-200"
+              className="opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none"
             >
-              <tspan fontWeight="bold">{actionName}</tspan>
+              <tspan x="0%" className="font-custom-bold text-3xl">{dayToday}</tspan>
+              <tspan x="0%" dy="2.5em" fontWeight="bold">{actionName}</tspan>
               {generateScheduleDetails(action.schedule)}
             </text>
           </g>
@@ -138,13 +153,13 @@ const JourneyAgendas: React.FC = () => {
   
     return (
       <svg
-        width={2 * radius + 50}
-        height={2 * radius + 50}
-        viewBox={`0 0 ${2 * radius + 50} ${2 * radius + 50}`}
+        width={svgSize}
+        height={svgSize}
+        viewBox={`0 0 ${svgSize} ${svgSize}`}
         xmlns="http://www.w3.org/2000/svg"
         className='border-gray-500 border-2 w-full'
       >
-        <g transform={`translate(${radius + 25}, ${radius + 25})`} className='relative'>
+        <g transform={`translate(${radius + viewboxBuffer/2}, ${radius + viewboxBuffer/2})`} className='relative'>
           {circles}
         </g>
       </svg>
