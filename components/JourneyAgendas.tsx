@@ -78,8 +78,10 @@ const JourneyAgendas: React.FC = () => {
     const totalDays = Math.floor((endDate.getTime() - startDate.getTime()) / (1000 * 3600 * 24));
 
     const radius = 250;
-    const viewboxBuffer = 100;
+    const viewboxBuffer = 50;
     const svgSize = 2 * radius + viewboxBuffer;
+    const dayCricleSize = 5;
+    const dayCircleStackOffset = 15;
 
     const angleIncrement = 360 / totalDays; // Angle between each circle
     const actionsByDay = getActionsByDay(actions, startDate);
@@ -99,7 +101,7 @@ const JourneyAgendas: React.FC = () => {
             <circle
               cx={x}
               cy={y}
-              r="5.5"
+              r={dayCricleSize}
               fill="white"
               className="opacity-50 hover:opacity-100 transition"
             />
@@ -118,7 +120,7 @@ const JourneyAgendas: React.FC = () => {
       }
     
       return actionsToday.map(([actionName, action], idx) => {
-        const localRadius = radius + idx * 15;
+        const localRadius = radius + idx * dayCircleStackOffset;
         const x = localRadius * Math.cos(angleInRadians);
         const y = localRadius * Math.sin(angleInRadians);
         const phaseColor = getPhaseColor(action.phase, PHASE_COLORS, phases);
@@ -128,7 +130,7 @@ const JourneyAgendas: React.FC = () => {
             <circle
               cx={x}
               cy={y}
-              r="5.5"
+              r={dayCricleSize}
               fill={phaseColor}
               className="opacity-90 hover:opacity-100 transition"
             />
