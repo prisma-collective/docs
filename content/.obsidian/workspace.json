@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/enactment/1. learning arcs.mdx",
+                "file": "processes/enrolment/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. learning arcs"
+              "title": "index"
+            }
+          },
+          {
+            "id": "6213326619faf75c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "processes/enrolment/Applicant Interview Guidance Questions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Applicant Interview Guidance Questions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +220,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c39b28cd962b7c08",
+  "active": "6213326619faf75c",
   "lastOpenFiles": [
-    "index.mdx",
+    "processes/enrolment/index.md",
+    "processes/enrolment/Applicant Interview Guidance Questions.md",
+    "processes/index.md",
+    "processes/enrolment",
     "processes/enactment/1. learning arcs.mdx",
+    "index.mdx",
     "conflict-files-obsidian-git.md",
     "processes/process-infrastructuring/practice-currencies.mdx",
     "processes/evaluation/b. Design.mdx",
@@ -209,7 +238,6 @@
     "processes/process-infrastructuring/index.md",
     "patterns/action-learning journeys.md",
     "patterns/index.md",
-    "processes/index.md",
     "context & narrative/Core Value-Systems.mdx",
     "Practices/Appreciative Inquiry.md",
     "processes/process-infrastructuring/practice-currencies.md",
@@ -229,9 +257,7 @@
     "test.mdx",
     "Practices/Warm Data Labs.md",
     "Practices/Theory U.md",
-    "Practices/Theory of Change.md",
     "Practices/index.mdx",
-    "Practices",
     "docs/Assets/learning-arcs.png",
     "docs/Assets/learning-arcs-w-iteration.png",
     "docs/Assets/emergent_learning_table.png",
