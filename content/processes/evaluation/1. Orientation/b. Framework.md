@@ -116,11 +116,3 @@ text
 `┌─────────────────── CONTAINER ───────────────────┐ │ WHEN         │ WHICH           │ WHO            │ │ Responsive   │ Verbose Input   │ Individuals    │ │ Periodic     │ Point Systems   │ Communities    │ │ Emergent     │ Programmatic    │ Systems        │ ├─────────────────── PLAYGROUND ───────────────────┤ │ WHAT         │ WHY             │ HOW            │ │ Activities   │ Regenerative    │ Actions        │ │ Knowledge    │ Organizational  │ Reflections    │ │ Space        │ Outputs         │ Attributions   │ ├─────────────────── INSTRUMENTS ──────────────────┤ │ STAGES       │ TOOLS           │ DIMENSIONS     │ │ Baselining   │ Telegram Bots   │ Aspects        │ │ Reading      │ Repositories    │ Capitals       │ │ Inferencing  │ AI Analysis     │ Spheres        │ └──────────────────────────────────────────────────┘`
 
 This framework provides a comprehensive yet adaptable structure for evaluation that honors both universal principles and local contexts, enabling communities to track and learn from the flows of multiple forms of capital throughout their regenerative journey.
-
-### Citations:
-
-1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt)
-
----
-
-Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)

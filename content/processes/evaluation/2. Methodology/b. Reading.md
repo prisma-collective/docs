@@ -167,11 +167,3 @@ The Reading stage creates integration points between:
     
 
 By maintaining this dynamic, multi-dimensional mapping throughout the journey, the Reading stage creates a rich tapestry of data that reveals not just what value is being created, but how it flows, transforms, and contributes to systemic evolution across multiple scales and dimensions.
-
-### Citations:
-
-1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt)
-
----
-
-Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)

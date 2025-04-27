@@ -175,11 +175,3 @@ Guide for evaluation team reflection:
     
 
 These templates and assets provide a comprehensive toolkit for implementing our evaluation framework, offering enough structure to ensure consistency while remaining flexible enough to adapt to the unique context of each action-learning journey.
-
-### Citations:
-
-1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt)
-
----
-
-Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)

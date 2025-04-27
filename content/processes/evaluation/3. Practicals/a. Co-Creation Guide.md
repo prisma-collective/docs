@@ -133,30 +133,3 @@ Throughout the process, facilitators support participants with:
 
 By engaging as co-evaluators, participants develop valuable skills in systems thinking, pattern recognition, and collaborative sense-making that extend far beyond the specific action-learning journey. The evaluation process becomes not just a way to assess outcomes, but a powerful practice for developing collective intelligence and regenerative capacity.
 
-### Citations:
-
-1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt)
-2. [https://thrivabilitymatters.org/thrive-framework/thrive-framework-multi-capital-approach/](https://thrivabilitymatters.org/thrive-framework/thrive-framework-multi-capital-approach/)
-3. [https://mau.diva-portal.org/smash/get/diva2:1942641/FULLTEXT01.pdf](https://mau.diva-portal.org/smash/get/diva2:1942641/FULLTEXT01.pdf)
-4. [https://thrivabilitymatters.org/thrive-framework-multicapital-approach/](https://thrivabilitymatters.org/thrive-framework-multicapital-approach/)
-5. [https://www.linkedin.com/pulse/five-capitals-playbook-game-plan-regenerative-cities-ladouceur-8arac](https://www.linkedin.com/pulse/five-capitals-playbook-game-plan-regenerative-cities-ladouceur-8arac)
-6. [https://www.multicapitalscorecard.com/wp-content/uploads/2018/02/MultiCapital_Scorecard.pdf](https://www.multicapitalscorecard.com/wp-content/uploads/2018/02/MultiCapital_Scorecard.pdf)
-7. [https://www.sciencedirect.com/science/article/pii/S0195925524001367](https://www.sciencedirect.com/science/article/pii/S0195925524001367)
-8. [https://www.sciencedirect.com/science/article/pii/S2590332223003020](https://www.sciencedirect.com/science/article/pii/S2590332223003020)
-9. [https://eprints.whiterose.ac.uk/200691/8/PIIS2590332223003020.pdf](https://eprints.whiterose.ac.uk/200691/8/PIIS2590332223003020.pdf)
-10. [https://www.preprints.org/manuscript/202503.1365/v2](https://www.preprints.org/manuscript/202503.1365/v2)
-11. [https://integratedreporting.ifrs.org/news/from-monocapitalism-to-multicapitalism-21st-century-system-value-creation/](https://integratedreporting.ifrs.org/news/from-monocapitalism-to-multicapitalism-21st-century-system-value-creation/)
-12. [https://conservancy.umn.edu/items/a9e50ebf-84bd-489d-afd2-c6a4dd65eff4](https://conservancy.umn.edu/items/a9e50ebf-84bd-489d-afd2-c6a4dd65eff4)
-13. [https://insights7.com/multi-capital-model-for-esg-value-optimization/](https://insights7.com/multi-capital-model-for-esg-value-optimization/)
-14. [https://www.sciencedirect.com/science/article/pii/S136403212200805X](https://www.sciencedirect.com/science/article/pii/S136403212200805X)
-15. [https://www.nature.org/content/dam/tnc/nature/en/documents/Foodscapes_MEL_Digital.pdf](https://www.nature.org/content/dam/tnc/nature/en/documents/Foodscapes_MEL_Digital.pdf)
-16. [https://www.mdpi.com/2071-1050/16/3/1264](https://www.mdpi.com/2071-1050/16/3/1264)
-17. [https://www.sciencedirect.com/science/article/abs/pii/S0959652618321735](https://www.sciencedirect.com/science/article/abs/pii/S0959652618321735)
-18. [https://www.sap.com/hungary/research/regenerative-business-build-a-net-positive-future](https://www.sap.com/hungary/research/regenerative-business-build-a-net-positive-future)
-19. [https://assets.publishing.service.gov.uk/media/5a78fcf640f0b679c0a07a71/1795633.pdf](https://assets.publishing.service.gov.uk/media/5a78fcf640f0b679c0a07a71/1795633.pdf)
-20. [https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealth_theme_file/study_regnerativedevelopment.pdf](https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealth_theme_file/study_regnerativedevelopment.pdf)
-21. [https://shura.shu.ac.uk/27422/2/valuing-benefits-regen-paper7-vol1.pdf](https://shura.shu.ac.uk/27422/2/valuing-benefits-regen-paper7-vol1.pdf)
-
----
-
-Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)

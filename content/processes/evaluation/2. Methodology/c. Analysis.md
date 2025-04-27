@@ -115,31 +115,3 @@ The Inferencing stage doesn't represent an endpoint but rather a bridge to futur
     
 
 By moving through these three stages-Baselining, Reading, and Inferencing-our evaluation methodology creates a continuous learning loop that enhances the regenerative capacity of the communities we serve, making visible the often-invisible flows of value that drive systemic evolution.
-
-### Citations:
-
-1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt)
-2. [https://education.nsw.gov.au/teaching-and-learning/curriculum/literacy-and-numeracy/teaching-and-learning-resources/literacy/teaching-strategies/stage-3/reading/stage-3-inference-](https://education.nsw.gov.au/teaching-and-learning/curriculum/literacy-and-numeracy/teaching-and-learning-resources/literacy/teaching-strategies/stage-3/reading/stage-3-inference-)
-3. [https://www.scielo.br/j/bjb/a/LRrpwBjpnhwvmN58dFvjrYR/?lang=en](https://www.scielo.br/j/bjb/a/LRrpwBjpnhwvmN58dFvjrYR/?lang=en)
-4. [https://www.benlinders.com/workshop-increasing-organizational-agility-with-retrospectives/](https://www.benlinders.com/workshop-increasing-organizational-agility-with-retrospectives/)
-5. [https://www.nature.com/articles/s43247-024-01949-9](https://www.nature.com/articles/s43247-024-01949-9)
-6. [https://miro.com/miroverse/retrospective-workshop/](https://miro.com/miroverse/retrospective-workshop/)
-7. [https://pmc.ncbi.nlm.nih.gov/articles/PMC3883180/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3883180/)
-8. [https://c2h.niph.go.jp/tools/guideline/guideline_en_2024.pdf](https://c2h.niph.go.jp/tools/guideline/guideline_en_2024.pdf)
-9. [https://www.sciencedirect.com/science/article/pii/S2444569X24001586](https://www.sciencedirect.com/science/article/pii/S2444569X24001586)
-10. [https://pmc.ncbi.nlm.nih.gov/articles/PMC10994642/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10994642/)
-11. [https://www.nature.com/articles/s41598-023-28267-y](https://www.nature.com/articles/s41598-023-28267-y)
-12. [https://www.sciencedirect.com/science/article/pii/S1476945X1830165X](https://www.sciencedirect.com/science/article/pii/S1476945X1830165X)
-13. [https://assets.publishing.service.gov.uk/media/5a79d0d240f0b66d161ae57c/design-method-impact-eval.pdf](https://assets.publishing.service.gov.uk/media/5a79d0d240f0b66d161ae57c/design-method-impact-eval.pdf)
-14. [https://www.sciencedirect.com/science/article/pii/S2352320420300043](https://www.sciencedirect.com/science/article/pii/S2352320420300043)
-15. [https://www.povertyactionlab.org/blog/4-16-25/ai-evaluation-framework-development-sector](https://www.povertyactionlab.org/blog/4-16-25/ai-evaluation-framework-development-sector)
-16. [https://www.atlassian.com/team-playbook/plays/retrospective](https://www.atlassian.com/team-playbook/plays/retrospective)
-17. [https://www.sciencedirect.com/science/article/pii/S2590332223003020](https://www.sciencedirect.com/science/article/pii/S2590332223003020)
-18. [https://tnfd.global/wp-content/uploads/2023/08/Guidance_on_the_identification_and_assessment_of_nature-related-issues_The_TNFD_LEAP_approach_v1.pdf](https://tnfd.global/wp-content/uploads/2023/08/Guidance_on_the_identification_and_assessment_of_nature-related-issues_The_TNFD_LEAP_approach_v1.pdf)
-19. [https://pmc.ncbi.nlm.nih.gov/articles/PMC8209524/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8209524/)
-20. [http://www.susted.com/wordpress/content/the-new-three-rs-in-an-age-of-climate-change-reclamation-resilience-and-regeneration-as-possible-approaches-for-climate-responsive-environmental-and-sustainability-education_2017_02/](http://www.susted.com/wordpress/content/the-new-three-rs-in-an-age-of-climate-change-reclamation-resilience-and-regeneration-as-possible-approaches-for-climate-responsive-environmental-and-sustainability-education_2017_02/)
-21. [https://arxiv.org/html/2404.05388v3](https://arxiv.org/html/2404.05388v3)
-
----
-
-Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)

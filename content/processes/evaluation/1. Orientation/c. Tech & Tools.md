@@ -117,11 +117,3 @@ text
 The dashboard updates in near real-time as new data flows in, providing a living picture of the evaluation landscape throughout the action-learning journey.
 
 By integrating these technological tools into a cohesive system, we create an evaluation infrastructure that makes visible the often-invisible flows of value that drive regenerative development, while keeping the human experience at the center of the process.
-
-### Citations:
-
-1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt)
-
----
-
-Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)

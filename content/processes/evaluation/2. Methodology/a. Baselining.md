@@ -109,10 +109,3 @@ _"The community of Accra currently demonstrates strong cultural capital in the f
 
 By establishing these baselines through a co-creative process, we ensure that the evaluation framework is both contextually relevant and owned by the community. This foundation enables meaningful tracking of capital flows and systemic evolution throughout the action-learning journey.
 
-### Citations:
-
-1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt)
-
----
-
-Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)

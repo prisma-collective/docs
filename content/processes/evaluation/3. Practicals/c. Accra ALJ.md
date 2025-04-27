@@ -101,11 +101,3 @@ The table below maps the Accra ALJ events alongside the evaluation stages, showi
         
 
 This evaluation package makes visible the flows of multiple forms of capital throughout the Accra ALJ, revealing how waste diversion initiatives, community storytelling, and microbusiness development contribute to regenerative outcomes across cultural, social, economic, political, and ecological spheres.
-
-### Citations:
-
-1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt)
-
----
-
-Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)
