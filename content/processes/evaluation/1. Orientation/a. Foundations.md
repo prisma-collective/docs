@@ -1,0 +1,161 @@
+---
+sidebarTitle: Evaluation
+asIndexPage: true
+---
+## E-valuation ↔ Valuing ↔ Energy Flows
+
+At its core, our evaluation framework is built on a simple yet profound insight: evaluation is fundamentally about **valuing energy flows**. This perspective transforms evaluation from a static measurement exercise into a dynamic practice of tracking how energy moves, transforms, and creates value within living systems.
+
+Energy flows manifest in multiple ways:
+
+- Through human actions and interactions
+    
+- Via automated protocols and technological systems
+    
+- Within natural cycles and ecological processes
+    
+- Across social and cultural exchanges
+    
+
+When we track these flows, we're observing how systems complexify and evolve toward greater wholeness. This approach aligns with living systems thinking, which recognizes that value emerges from relationships and interactions rather than isolated components.1
+
+## Multi-capital Framework
+
+The multi-capital framework provides a comprehensive lens for understanding the diverse forms of value that flow through regenerative systems. Unlike conventional approaches that prioritize financial metrics, our framework recognizes eight interconnected forms of capital:
+
+## Natural Capital
+
+Ecological assets including ecosystems, biodiversity, and natural resources.
+
+- **Example**: Soil health improvements resulting from regenerative farming practices
+    
+- **Prompt**: "How did your actions today support the local environment?"
+    
+
+## Social Capital
+
+Relationships, networks, trust, and social cohesion.
+
+- **Example**: Strengthened community bonds through collaborative problem-solving
+    
+- **Prompt**: "What strengthened trust within your group today?"
+    
+
+## Cultural Capital
+
+Shared values, traditions, knowledge systems, and cultural practices.
+
+- **Example**: Integration of traditional ecological knowledge into design solutions
+    
+- **Prompt**: "What cultural values guided your choices today?"
+    
+
+## Human Capital
+
+Skills, capabilities, knowledge, and wellbeing of individuals.
+
+- **Example**: New technical skills developed through peer learning
+    
+- **Prompt**: "What new capabilities did you develop or share today?"
+    
+
+## Economic Capital
+
+Financial resources and economic assets.
+
+- **Example**: Local currency circulation within regenerative microbusinesses
+    
+- **Prompt**: "How did you contribute to economic wellbeing in your community?"
+    
+
+## Political Capital
+
+Influence within decision-making processes and governance structures.
+
+- **Example**: Increased participation in collective governance processes
+    
+- **Prompt**: "How did you participate in governance decisions today?"
+    
+
+## Built Capital
+
+Physical infrastructure, technology, and built environment.
+
+- **Example**: Community-designed spaces that enhance ecological function
+    
+- **Prompt**: "What infrastructure or technology supported your work today?"
+    
+
+## Intellectual Capital
+
+Knowledge systems, innovations, and intellectual property.
+
+- **Example**: Open-source solutions developed for community challenges
+    
+- **Prompt**: "What ideas or innovations emerged from your work today?"
+    
+
+These capitals don't exist in isolation-they flow into and transform one another. For instance, social capital might enable the mobilization of economic capital, which in turn could be invested in restoring natural capital.
+
+## Five Systemic Spheres
+
+To understand how capital flows affect systemic change, we evaluate across five interconnected spheres that represent different domains of collective life:
+
+## Cultural Sphere
+
+The realm of values, beliefs, narratives, and meaning-making.
+
+- **Indicators**: Shifts in dominant narratives, emergence of new cultural practices
+    
+- **Example**: Evolution from extractive to regenerative mindsets
+    
+
+## Economic Sphere
+
+The domain of resource flows, exchange systems, and value creation.
+
+- **Indicators**: Local economic resilience, circular economy development
+    
+- **Example**: Community-owned enterprises replacing extractive business models
+    
+
+## Social Sphere
+
+The space of relationships, community structures, and social organization.
+
+- **Indicators**: Trust levels, collaboration effectiveness, conflict resolution capacity
+    
+- **Example**: Strengthened social fabric through inclusive decision-making
+    
+
+## Political Sphere
+
+The arena of governance, power dynamics, and decision-making processes.
+
+- **Indicators**: Participation rates, distribution of decision-making authority
+    
+- **Example**: Evolution from hierarchical to distributed governance models
+    
+
+## Ecological Sphere
+
+The living systems and ecological processes that sustain life.
+
+- **Indicators**: Biodiversity metrics, ecosystem health markers
+    
+- **Example**: Restoration of watershed function through community stewardship
+    
+
+These spheres provide a holistic framework for tracking how capital flows contribute to regenerative development across multiple dimensions of systemic health.
+
+The interconnection between capitals and spheres creates a dynamic matrix for evaluation. For example, we might track how social capital (trust-building) in the cultural sphere enables new forms of collaboration in the economic sphere, which in turn supports ecological restoration work.
+
+By mapping these relationships, we can identify leverage points for intervention and understand how change in one area ripples through the entire system-revealing the true complexity and potential of regenerative work.1: This approach draws inspiration from living systems theory as articulated by Fritjof Capra and Pier Luigi Luisi in "The Systems View of Life" (2014), as well as regenerative development frameworks developed by Regenesis Group.: Our multi-capital framework builds upon the work of the MultiCapital Scorecard developed by Martin Thomas and Mark McElroy, while incorporating elements from Ethan Roland and Gregory Landua's 8 Forms of Capital framework.: The five spheres approach is influenced by Rudolf Steiner's social threefolding, expanded to include ecological and cultural dimensions as articulated in regenerative development literature by Daniel Christian Wahl and others.
+
+### Citations:
+
+1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/19855140/8749551e-6ddc-42e7-bc7c-8702c7a85201/evaluation-full-text.txt)
+
+---
+
+Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)
