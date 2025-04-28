@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/index.md",
+                "file": "content/processes/evaluation/1. Orientation/b. Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "b. Framework"
             }
           }
         ],
@@ -208,11 +208,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "13d43a5ebe890bab",
   "lastOpenFiles": [
+    "content/processes/evaluation/1. Orientation/a. Foundations.md",
+    "content/processes/evaluation/index.md",
     "content/processes/evaluation/3. Practicals/index.md",
     "content/processes/evaluation/e. Journaling-Based Evaluation Bot.md",
     "content/processes/evaluation/3. Practicals/c. Accra ALJ.md",
@@ -225,8 +228,6 @@
     "content/processes/evaluation/1. Orientation/index.md",
     "content/processes/evaluation/1. Orientation/c. Tech & Tools.md",
     "content/processes/evaluation/1. Orientation/b. Framework.md",
-    "content/processes/evaluation/1. Orientation/a. Foundations.md",
-    "content/processes/evaluation/index.md",
     "content/processes/evaluation/3. Practicals",
     "content/processes/evaluation/1. Orientation",
     "content/processes/evaluation/2. Methodology",

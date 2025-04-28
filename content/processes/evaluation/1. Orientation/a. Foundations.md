@@ -150,4 +150,10 @@ These spheres provide a holistic framework for tracking how capital flows contri
 
 The interconnection between capitals and spheres creates a dynamic matrix for evaluation. For example, we might track how social capital (trust-building) in the cultural sphere enables new forms of collaboration in the economic sphere, which in turn supports ecological restoration work.
 
-By mapping these relationships, we can identify leverage points for intervention and understand how change in one area ripples through the entire system-revealing the true complexity and potential of regenerative work.1: This approach draws inspiration from living systems theory as articulated by Fritjof Capra and Pier Luigi Luisi in "The Systems View of Life" (2014), as well as regenerative development frameworks developed by Regenesis Group.: Our multi-capital framework builds upon the work of the MultiCapital Scorecard developed by Martin Thomas and Mark McElroy, while incorporating elements from Ethan Roland and Gregory Landua's 8 Forms of Capital framework.: The five spheres approach is influenced by Rudolf Steiner's social threefolding, expanded to include ecological and cultural dimensions as articulated in regenerative development literature by Daniel Christian Wahl and others.
+By mapping these relationships, we can identify leverage points for intervention and understand how change in one area ripples through the entire system-revealing the true complexity and potential of regenerative work.
+
+1: This approach draws inspiration from living systems theory as articulated by Fritjof Capra and Pier Luigi Luisi in "The Systems View of Life" (2014), as well as regenerative development frameworks developed by Regenesis Group.
+
+2: Our multi-capital framework builds upon the work of the MultiCapital Scorecard developed by Martin Thomas and Mark McElroy, while incorporating elements from Ethan Roland and Gregory Landua's 8 Forms of Capital framework.
+
+3: The five spheres approach is influenced by Rudolf Steiner's social threefolding, expanded to include ecological and cultural dimensions as articulated in regenerative development literature by Daniel Christian Wahl and others.
