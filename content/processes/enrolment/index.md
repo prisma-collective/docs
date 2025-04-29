@@ -1,3 +1,10 @@
+---
+
+asIndexPage: true
+sidebarTitle: Enrolment
+
+---
+
 Enrolment in the context of Prisma refers to the process of engaging stakeholders and participants in the co-design and preparation phases of [action-learning journeys](/patterns/action-learning%20journeys.md). This process is crucial for building trust, ensuring alignment with local contexts, and fostering a sense of community ownership.
 
 ### **Key Components of Enrolment**

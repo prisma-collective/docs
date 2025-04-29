@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "486d313c2890efe7",
+    "id": "2330e0879bca1402",
     "type": "split",
     "children": [
       {
-        "id": "53ff3583e7921e85",
+        "id": "e9d4f863b3d36ac8",
         "type": "tabs",
         "children": [
           {
-            "id": "c39b28cd962b7c08",
+            "id": "65bf62b8c9de3172",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/enrolment/index.md",
+                "file": "processes/enactment/1. learning arcs.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,49 +28,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "be2c85a508d190f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "processes/enrolment/Applicant Interview Guiding Questions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Applicant Interview Guiding Questions"
+              "title": "1. learning arcs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "587e2cc59c5e098a",
+    "id": "d3b5d789046ae7f3",
     "type": "split",
     "children": [
       {
-        "id": "4cec4addf9a7079b",
+        "id": "ba4052012b8b3567",
         "type": "tabs",
         "children": [
           {
-            "id": "16e4bb6a5c6a58ac",
+            "id": "3ba641f7722323ec",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,15 +58,15 @@
             }
           },
           {
-            "id": "bfcfb24e6e5d8db8",
+            "id": "501a788e48da36f3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -100,7 +75,7 @@
             }
           },
           {
-            "id": "e6e8834566b2ef3a",
+            "id": "4cf0321d85ea6246",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -116,20 +91,20 @@
     "width": 300
   },
   "right": {
-    "id": "5a49ceff6e9dc6c5",
+    "id": "9234ef027512c560",
     "type": "split",
     "children": [
       {
-        "id": "fe3dbe0941a5c761",
+        "id": "ae58f50360dcb443",
         "type": "tabs",
         "children": [
           {
-            "id": "493d2d40d2a30d03",
+            "id": "486466bfeee61155",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "processes/enactment/1. learning arcs.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,31 +114,31 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 1. learning arcs"
             }
           },
           {
-            "id": "3c9638f99ddd70ea",
+            "id": "58a14dc6b8a819df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "processes/enactment/1. learning arcs.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 1. learning arcs"
             }
           },
           {
-            "id": "0a076b31e14ca464",
+            "id": "7d4621fa89fdf3cc",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -172,22 +147,7 @@
             }
           },
           {
-            "id": "d48cbd1edaf061b9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
-            "id": "5b499eefbb64c497",
+            "id": "48dddaddc7ca7c11",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -199,9 +159,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "1d8c8a0625d3b5ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "processes/enactment/1. learning arcs.mdx",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. learning arcs"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,62 +184,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "command-palette:Open command palette": false
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be2c85a508d190f3",
+  "active": "65bf62b8c9de3172",
   "lastOpenFiles": [
     "processes/enrolment/index.md",
-    "processes/enrolment/Applicant Interview Guiding Questions.md",
-    "processes/enrolment",
-    "processes/index.md",
-    "processes/enrolment/Applicant Interview Guidance Questions.md",
-    "processes/enrolment",
+    "processes/enactment/index.md",
     "processes/enactment/1. learning arcs.mdx",
-    "index.mdx",
-    "conflict-files-obsidian-git.md",
-    "processes/process-infrastructuring/practice-currencies.mdx",
     "processes/evaluation/b. Design.mdx",
-    "processes/enactment/4. iterate, iteration, iterating.md",
-    "processes/enactment/1. learning arcs.md",
-    "patterns/case-study.md",
-    "context & narrative/Stakeholders and Growth Strategy.mdx",
-    "processes/process-infrastructuring/index.md",
-    "patterns/action-learning journeys.md",
-    "patterns/index.md",
-    "context & narrative/Core Value-Systems.mdx",
-    "Practices/Appreciative Inquiry.md",
-    "processes/process-infrastructuring/practice-currencies.md",
-    "context & narrative/Stakeholders and Growth Strategy.md",
-    "context & narrative/Core Value-Systems.md",
-    "Practices/Awareness-Based Systems Change.md",
-    "patterns/aspects.md",
-    "glossary/Practice.md",
-    "patterns/sociocratic organising.md",
-    "glossary/place-sourced potential.md",
-    "patterns/action-learning.md",
-    "glossary/Place.md",
-    "patterns/potential.md",
-    "processes/process-infrastructuring/timelining/index.md",
-    "processes/process-infrastructuring/timelining/Summary in 3 minutes.md",
-    "test1.mdx",
-    "test.mdx",
-    "docs/Assets/learning-arcs.png",
-    "docs/Assets/learning-arcs-w-iteration.png",
-    "docs/Assets/emergent_learning_table.png",
-    "docs/Assets/concept_ordering.png",
-    "docs/Assets/concept_ordering 1.png",
-    "docs/img/logo_colour.svg",
-    "docs/Assets/action-learning.png",
-    "docs/Assets/bus_model.png",
-    "docs/Assets/character.svg",
-    "docs/Assets/communicating-al.png"
+    "processes/evaluation/3. Practicals/index.md",
+    "processes/evaluation/3. Practicals/c. Accra ALJ.md",
+    "processes/evaluation/3. Practicals/a. Co-Creation Guide.md",
+    "processes/evaluation/3. Practicals/b. Templates.md",
+    "processes/evaluation/3. Practicals",
+    "processes/evaluation/2. Methodology/index.md",
+    "processes/evaluation/2. Methodology/c. Analysis.md",
+    "processes/evaluation/2. Methodology/a. Baselining.md",
+    "processes/evaluation/2. Methodology/b. Reading.md",
+    "processes/evaluation/2. Methodology",
+    "processes/evaluation/1. Orientation/index.md",
+    "processes/evaluation/1. Orientation/c. Tech & Tools.md",
+    "processes/evaluation/1. Orientation/b. Framework.md",
+    "processes/evaluation/1. Orientation/a. Foundations.md",
+    "processes/evaluation/1. Orientation",
+    "processes/evaluation/a. Introduction.md"
   ]
 }
