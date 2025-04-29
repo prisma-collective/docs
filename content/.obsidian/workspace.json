@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/enrolment/Applicant Interview Guiding Questions.mdx",
+                "file": "processes/enrolment/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Applicant Interview Guiding Questions"
+              "title": "index"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "65bf62b8c9de3172",
   "lastOpenFiles": [
-    "processes/process-infrastructuring/practice-currencies.mdx",
     "processes/enrolment/Applicant Interview Guiding Questions.mdx",
+    "processes/process-infrastructuring/practice-currencies.mdx",
     "processes/enactment/1. learning arcs.mdx",
     "processes/enrolment/Applicant Interview Guiding Questions.md",
     "processes/enrolment/index.md",

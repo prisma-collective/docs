@@ -5,15 +5,16 @@ sidebarTitle: Enrolment
 
 ---
 
-Enrolment in the context of Prisma refers to the process of engaging stakeholders and participants in the co-design and preparation phases of [action-learning journeys](/patterns/action-learning%20journeys.md). This process is crucial for building trust, ensuring alignment with local contexts, and fostering a sense of community ownership.
+# Context
+Enrolment is the process of engaging stakeholders and participants in the co-design of the [action-learning journeys](/patterns/action-learning%20journeys.md) intensive. This process is crucial for building trust, ensuring alignment with local contexts, and fostering a sense of ownership with the outcome aims.
 
-### **Key Components of Enrolment**
+#### **Key Components of Enrolment**
 1. **Stakeholder Engagement**  
-   - Identifying and engaging key stakeholders from [communities of place](communities of place) and [communities of practice](communities of practice).
+   - Identifying and engaging key stakeholders from [communities of place](collaborators/communities%20of%20place/hubs.md) and [communities of practice](collaborators/communities%20of%20practice/practice%20networks.md).
    - Building relationships based on humility, openness, and a deep understanding of local needs.
 
 2. **Co-Design Process**  
-   - Collaborative planning with local stakeholders to ensure that events align with the essence of [place](/glossary/Place.md).
+   - Collaborative planning with local stakeholders to ensure that the outcome aims align with the essence of [place](/glossary/Place.md).
    - Integrating feedback and insights from diverse perspectives to enrich the design process.
 
 3. **Trust Building**  
