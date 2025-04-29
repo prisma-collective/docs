@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/enactment/1. learning arcs.mdx",
+                "file": "processes/enrolment/Applicant Interview Guiding Questions.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. learning arcs"
+              "title": "Applicant Interview Guiding Questions"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "processes/enactment/1. learning arcs.mdx",
+                "file": "processes/process-infrastructuring/practice-currencies.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. learning arcs"
+              "title": "Backlinks for practice-currencies"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "processes/enactment/1. learning arcs.mdx",
+                "file": "processes/process-infrastructuring/practice-currencies.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. learning arcs"
+              "title": "Outgoing links from practice-currencies"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "processes/enactment/1. learning arcs.mdx",
+                "file": "processes/process-infrastructuring/practice-currencies.mdx",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. learning arcs"
+              "title": "Outline of practice-currencies"
             }
           }
         ]
@@ -196,9 +196,12 @@
   },
   "active": "65bf62b8c9de3172",
   "lastOpenFiles": [
+    "processes/process-infrastructuring/practice-currencies.mdx",
+    "processes/enrolment/Applicant Interview Guiding Questions.mdx",
+    "processes/enactment/1. learning arcs.mdx",
+    "processes/enrolment/Applicant Interview Guiding Questions.md",
     "processes/enrolment/index.md",
     "processes/enactment/index.md",
-    "processes/enactment/1. learning arcs.mdx",
     "processes/evaluation/b. Design.mdx",
     "processes/evaluation/3. Practicals/index.md",
     "processes/evaluation/3. Practicals/c. Accra ALJ.md",
