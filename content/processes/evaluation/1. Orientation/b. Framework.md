@@ -4,7 +4,7 @@ Our evaluation framework translates vision into action through a structured yet 
 
 ## Container / Playground / Instruments Model
 
-## Container
+### Container
 
 The Container defines the logistical boundaries within which evaluation unfolds. These elements remain consistent across contexts, though their specific expressions adapt to local realities:
 
@@ -35,7 +35,7 @@ The Container defines the logistical boundaries within which evaluation unfolds.
 
 Together, these logistical parameters form a stable yet flexible container within which evaluation practices are embedded.
 
-## Playground
+### Playground
 
 Within this Container lie different Playgrounds-exploratory spaces where stakeholders identify, articulate, and experiment with forms of value generation. The Playground is customizable, shaped by community priorities and evolving needs.
 
@@ -70,7 +70,7 @@ Below are some examples of the value elements that build a Playground:
 
 These variables serve as illustrative templates that communities adapt to reflect their unique contexts and aspirations, fostering playful experimentation and authentic learning journeys.
 
-## Instruments
+### Instruments
 
 The Instruments operationalize the evaluation process, providing dimensionality and depth through structured stages, technological tools, and analytical lenses:
 
