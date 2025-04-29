@@ -15,7 +15,7 @@
               "state": {
                 "file": "processes/evaluation/index.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,

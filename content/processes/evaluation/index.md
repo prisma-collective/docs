@@ -54,9 +54,7 @@ At prisma, our mission is to enable collectives to undertake intentional [action
 The purpose of evaluation then, is to assist this endeavour in three ways:
 
 1. To enable the collectives undertaking these journeys to be clear about **what they are inherently valuing** through their actions, learning and processing.
-    
 2. To provide tools that **make visible the value being generated**, and inform analyses and insights that enhance future group endeavors as well as the broader ecosystem of systems change experiments.
-    
 3. To enhance the ability of the collective to **grow as a system** by weaving in insights from their own behavior into organizational and personal development.
 
 In regenerative systems, evaluation becomes a dynamic dialogue with life itself—a socio-technological practice that illuminates the flows of value that unlock collective evolution.
@@ -69,7 +67,7 @@ To redefine evaluation as a dynamic dialogue with life itself—a socio-technolo
 
 ## Mission
 
-To deploy and grow a technology-enabled general framework that adapts to [place](https://www.perplexity.ai/glossary/Place.md) & [practice](https://www.perplexity.ai/glossary/Practice.md) through honoring energy flow in its [multi-capital](Multi-Capitals Framework) forms and provides insight into evolution across a system's [five spheres](five spheres), empowering communities to steward regenerative futures.
+To deploy and grow a technology-enabled general framework that adapts to [place](/glossary/Place.md) & [practice](/glossary/Practice.md) through honouring energy flow in its [multi-capital](/glossary/Multi-Capitals Framework) forms and provides insight into evolution across a system's [five spheres](/patterns/spheres), empowering communities to steward regenerative futures.
 
 ## Values
 
@@ -91,7 +89,7 @@ We measure what matters - to communities who design their own evaluation methodo
 
 ## Perspective
 
-We are grounded in an **ethos of co-creation**. We see our work as that of facilitators who work with [Place](https://www.perplexity.ai/glossary/Place.md) and [Practice](https://www.perplexity.ai/glossary/Practice.md) (and the humans stewarding them) to concoct the ideal recipes for long term, systemic catalysis.
+We are grounded in an **ethos of co-creation**. We see our work as that of facilitators who work with [Place](/glossary/Place.md) and [Practice](/glossary/Practice.md) (and the humans stewarding them) to concoct the ideal recipes for long term, systemic catalysis.
 
 As such, we hold the following perspectives towards evaluation:
 
@@ -103,42 +101,26 @@ What shall be evaluated (variables), how it will be measured (metrics), what lev
 Co-creative processes grounded from context require a multi-capital lens to valuing flows of energy to truly honor the diversity of knowings and associated actions. Our approach is premised on _seeing, valuing and developing all forms of capital_ - not just financial and economic.
 
 ### Developmental
-We see evaluation as an ongoing act, not just something that begins once the programming is complete. Our tooling is designed to start valuing flows the moment they begin, even before the journey starts, and we intend to provide stakeholders with _live_ signals and insights into value generation.
+We see evaluation as an ongoing act, not just something that begins once the programming is complete. Our tooling is designed to start valuing flows the moment [hubs](collaborators/communities%20of%20place/hubs.md) and facilitators start [potentialising](processes/ground-potentialising.md) an [action-learning journey](patterns/action-learning%20journeys.md), even before the journey starts, and we intend to provide stakeholders with _live_ signals and insights into value generation.
 
 ### Regenerative
 The direction of our evaluation methodology is towards seeing potential, gauging fit rather than effectiveness, and enabling further experimentation. We are looking for how (& why) different components of the system are growing, not just temporary actions designed to meet short-term needs. **We are placing the capacity, potential and will of the people, the place and _life itself_ at the center.**
 
 </Steps>
-1. **Co-creative**: 
-    
-2. **Multi-perspectival**: 
-    
-3. **Developmental**: 
-    
-4. **Regenerative**: 
-    
 
 ## Responsibilities
 
 We hold ourselves accountable to answering the following questions:
 
 1. What forms of data can be generated on diverse value contributions? How best can they be authentically reflected?
-    
 2. How can a regenerative evaluation process be conducted? What does the system look like?
-    
 3. Can multi-capital forms of value reading enable holistic evaluation? How can complexity be retained in this process without being overwhelming?
-    
 4. Can the threshold for active, playful co-creation of the evaluation processes be lowered? Which tools & practices enable this?
-    
 
-By designing a multi-perspectival evaluation methodology that is co-created with members of each collective, is implemented developmentally via innovative technologies and structured using life-centered, regenerative principles - we are equipping communities to emerge with the following:
+By designing a multi-perspectival evaluation methodology that is co-created with members of each collective, is implemented developmentally via innovative technologies and structured using life-centered, regenerative principles - we aim to equip communities to emerge with the following:
 
 1. Alternate forms of data on value contributions
-    
 2. Multi-dimensional evolutionary timeline
-    
 3. Overview of multi-capital economy in play
-    
 4. Wholistic insights on systems, people and processes
-    
 5. Contextual toolkits for future evaluation practices
