@@ -4,6 +4,7 @@ aliases:
 - enaction
 - action
 - application
+- enacting
 
 sidebarTitle: Enactment
 asIndexPage: true
