@@ -2,13 +2,13 @@
 aliases:
 - evaluating
 - evaluation
+sidebarTitle: Evaluation
+asIndexPage: true
 ---
-
-<<<<<<< HEAD:content/processes/evaluation/a. Introduction.md
-## **Introduction**  
-### **The Essence of Our Evaluation Approach**  
+# Introduction
+### The Essence of Our Evaluation Approach
 Evaluation is the living [practice](/glossary/Practice.md) of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of social relationality, ecological vitality, cultural wisdom, governance systems and emergent possibility. At Prisma, we see evaluation as the *essence of organisational evolution*—a way for collectives to sense, adapt, and evolve their actions in harmony with the essence of [place](/glossary/Place.md) and the [Living Systems Principles](Living Systems Principles) that bind us all. 
-=======
+
 ![[evaluating.png]]
 
 Evaluation is about **finding or ascribing value**.

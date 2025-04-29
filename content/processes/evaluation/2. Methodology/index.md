@@ -1,3 +1,7 @@
+---
+sidebarTitle: 2. Methodology
+asIndexPage: true
+---
 # Methodology
 
 ## The Living Practice of Evaluation

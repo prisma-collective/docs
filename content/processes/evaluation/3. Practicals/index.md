@@ -1,3 +1,8 @@
+---
+sidebarTitle: 3. Practicals
+asIndexPage: true
+---
+
 # Practicals: Implementing the Evaluation Framework
 
 Welcome to the Practicals section of our evaluation methodology. While the Orientation materials introduced you to the conceptual foundations of our approach, these documents provide the hands-on tools, templates, and examples needed to put the framework into action.

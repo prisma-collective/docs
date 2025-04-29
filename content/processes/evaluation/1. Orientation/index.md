@@ -1,3 +1,7 @@
+---
+sidebarTitle: 1. Orientation
+asIndexPage: true
+---
 # Orientation to Evaluation
 
 Welcome to our evaluation orientation. This guide introduces you to the foundations, frameworks, and tools that underpin our approach to regenerative evaluation - a practice that goes beyond conventional measurement to reveal the flows of multiple forms of capital through living systems.

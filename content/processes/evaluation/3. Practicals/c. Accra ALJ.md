@@ -1,3 +1,5 @@
+<ActiveJourneyDisplay/>
+
 Based on the evaluation methodology outlined in your documents, I've designed a comprehensive evaluation package for the Accra Action-Learning Journey (ALJ) that tracks both the progression of events and the corresponding evaluation stages.
 
 ## Evaluation Timeline & Progression Framework

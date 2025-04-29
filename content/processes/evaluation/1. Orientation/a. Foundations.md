@@ -1,7 +1,3 @@
----
-sidebarTitle: Evaluation
-asIndexPage: true
----
 ## E-valuation ↔ Valuing ↔ Energy Flows
 
 At its core, our evaluation framework is built on a simple yet profound insight: evaluation is fundamentally about **valuing energy flows**. This perspective transforms evaluation from a static measurement exercise into a dynamic practice of tracking how energy moves, transforms, and creates value within living systems.
