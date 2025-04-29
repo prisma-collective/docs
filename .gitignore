@@ -3,3 +3,4 @@ node_modules
 content\.obsidian
 _pagefind/
 .env*
+content/.obsidian
