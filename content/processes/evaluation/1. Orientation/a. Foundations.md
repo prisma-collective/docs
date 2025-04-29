@@ -13,7 +13,7 @@ Energy flows manifest in multiple ways:
 - Across social and cultural exchanges
     
 
-When we track these flows, we're observing how systems complexify and evolve toward greater wholeness. This approach aligns with living systems thinking, which recognizes that value emerges from relationships and interactions rather than isolated components.1
+When we track these flows, we're observing how systems complexify and evolve toward greater wholeness. This approach aligns with living systems thinking, which recognizes that value emerges from relationships and interactions rather than isolated components.[^1]
 
 ## Multi-capital Framework
 
@@ -148,8 +148,8 @@ The interconnection between capitals and spheres creates a dynamic matrix for ev
 
 By mapping these relationships, we can identify leverage points for intervention and understand how change in one area ripples through the entire system-revealing the true complexity and potential of regenerative work.
 
-1: This approach draws inspiration from living systems theory as articulated by Fritjof Capra and Pier Luigi Luisi in "The Systems View of Life" (2014), as well as regenerative development frameworks developed by Regenesis Group.
+[^1]: This approach draws inspiration from living systems theory as articulated by Fritjof Capra and Pier Luigi Luisi in "The Systems View of Life" (2014), as well as regenerative development frameworks developed by Regenesis Group.
 
-2: Our multi-capital framework builds upon the work of the MultiCapital Scorecard developed by Martin Thomas and Mark McElroy, while incorporating elements from Ethan Roland and Gregory Landua's 8 Forms of Capital framework.
+[^2]: Our multi-capital framework builds upon the work of the MultiCapital Scorecard developed by Martin Thomas and Mark McElroy, while incorporating elements from Ethan Roland and Gregory Landua's 8 Forms of Capital framework.
 
-3: The five spheres approach is influenced by Rudolf Steiner's social threefolding, expanded to include ecological and cultural dimensions as articulated in regenerative development literature by Daniel Christian Wahl and others.
+[^3]: The five spheres approach is influenced by Rudolf Steiner's social threefolding, expanded to include ecological and cultural dimensions as articulated in regenerative development literature by Daniel Christian Wahl and others.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/enactment/index.md",
+                "file": "processes/evaluation/1. Orientation/a. Foundations.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "a. Foundations"
             }
           }
         ]
@@ -196,9 +196,10 @@
   },
   "active": "65bf62b8c9de3172",
   "lastOpenFiles": [
+    "processes/evaluation/1. Orientation/index.md",
+    "processes/enactment/index.md",
     "processes/evaluation/index.md",
     "processes/evaluation/index.mdx",
-    "processes/enactment/index.md",
     "processes/evaluation/b. Design.mdx",
     "processes/enactment/2. sense of place.mdx",
     "processes/evaluation/3. Practicals/index.md",
@@ -207,7 +208,6 @@
     "processes/evaluation/3. Practicals/a. Co-Creation Guide.md",
     "processes/evaluation/2. Methodology/index.md",
     "processes/evaluation/2. Methodology/b. Reading.md",
-    "processes/evaluation/1. Orientation/index.md",
     "processes/evaluation/2. Methodology/a. Baselining.md",
     "processes/evaluation/1. Orientation/c. Tech & Tools.md",
     "processes/evaluation/1. Orientation/a. Foundations.md",
