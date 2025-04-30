@@ -1,3 +1,7 @@
+---
+sidebarTitle: b. Framework
+---
+
 # Overall Framework Overview
 
 Our evaluation framework translates vision into action through a structured yet adaptable approach. This framework comprises three core components-**Container**, **Playground**, and **Instruments**-each designed to harmonize universal principles with contextual specificity.

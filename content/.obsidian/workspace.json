@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/evaluation/1. Orientation/a. Foundations.mdx",
+                "file": "processes/enactment/1. learning arcs.mdx",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "a. Foundations"
+              "title": "1. learning arcs"
             }
           }
         ]
@@ -196,22 +196,22 @@
   },
   "active": "65bf62b8c9de3172",
   "lastOpenFiles": [
+    "processes/evaluation/1. Orientation/b. Framework.md",
+    "processes/evaluation/1. Orientation/c. Tech & Tools.md",
+    "processes/evaluation/1. Orientation/a. Foundations.mdx",
     "processes/evaluation/index.mdx",
     "processes/evaluation/1. Orientation/a. Foundations.md",
-    "processes/evaluation/1. Orientation/a. Foundations.mdx",
     "processes/evaluation/1. Orientation/index.md",
     "processes/enactment/index.md",
     "processes/evaluation/index.md",
     "processes/evaluation/b. Design.mdx",
     "processes/enactment/2. sense of place.mdx",
     "processes/evaluation/3. Practicals/index.md",
-    "processes/evaluation/1. Orientation/b. Framework.md",
     "processes/evaluation/2. Methodology/c. Analysis.md",
     "processes/evaluation/3. Practicals/a. Co-Creation Guide.md",
     "processes/evaluation/2. Methodology/index.md",
     "processes/evaluation/2. Methodology/b. Reading.md",
     "processes/evaluation/2. Methodology/a. Baselining.md",
-    "processes/evaluation/1. Orientation/c. Tech & Tools.md",
     "processes/enrolment/index.md",
     "processes/enrolment/Applicant Interview Guiding Questions.mdx",
     "processes/evaluation/3. Practicals/c. Accra ALJ.md",

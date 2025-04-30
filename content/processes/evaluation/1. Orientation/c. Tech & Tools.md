@@ -1,3 +1,7 @@
+---
+sidebarTitle: c. Tech & Tools
+---
+
 # Technology & Tools
 
 Our evaluation methodology is powered by a suite of technological tools designed to capture, process, and visualize the flow of multiple forms of capital throughout an action-learning journey. These tools work together to create a seamless evaluation experience that balances ease of use with analytical depth.
