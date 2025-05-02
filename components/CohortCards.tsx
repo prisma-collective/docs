@@ -72,9 +72,13 @@ export default function CohortCards({ event_api_id }: CohortCardsProps) {
                     icon: 'FaGithub',
                   };
                 }
-
                 return null;
               }).filter(Boolean),
+              {
+                label: 'Email',
+                url: `mailto:${participant.user_email}`,
+                icon: 'Email',
+              },
             ].filter(Boolean),
           };
         });

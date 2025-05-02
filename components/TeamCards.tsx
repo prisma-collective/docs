@@ -1,6 +1,7 @@
 import teamData from '@/public/team.json';
 import { FaXTwitter, FaTelegram, FaGithub, FaLinkedinIn, FaPhone, FaGlobe } from "react-icons/fa6";
 import { ProfileCard } from './ProfileCard';
+import { MdOutlineEmail } from "react-icons/md";
 
 
 interface TeamLink {
@@ -23,7 +24,8 @@ const iconMap = {
   FaGithub: FaGithub, 
   FaLinkedinIn: FaLinkedinIn,
   FaPhone: FaPhone,
-  FaGlobe: FaGlobe
+  FaGlobe: FaGlobe,
+  Email: MdOutlineEmail,
 };
 
 interface TeamCardsProps {
