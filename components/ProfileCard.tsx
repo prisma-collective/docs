@@ -1,11 +1,12 @@
 import Image from "next/image";
 import { Link } from "nextra-theme-docs";
 import type { FC, ReactNode } from "react";
+import Avatar from "boring-avatars";
 
 interface ProfileCardProps {
   name: string;
   role?: string;
-  avatar: string;
+  avatar?: string;
   profile_card_link?: string;
   links?: {
     label: string;
@@ -19,17 +20,27 @@ export const ProfileCard: FC<ProfileCardProps> = ({ name, role, profile_card_lin
   return (
     <div
       className={
-        `flex flex-col items-center rounded-xl border p-6 transition hover:border-[#c362ff]/50 dark:border-neutral-700 bg-white dark:bg-gray-700/30 ${className}`
+        `flex flex-col items-center text-center rounded-xl border p-6 transition hover:border-[#c362ff]/50 dark:border-neutral-700 bg-white dark:bg-gray-700/30 ${className}`
       }
     >
       <div className="relative w-24 h-24 mb-4">
-        <Image
-          src={avatar}
-          alt={name}
-          width={200}
-          height={200}
-          className="rounded-full object-fill"
-        />
+        {avatar ? (
+          <Image
+            src={avatar}
+            alt={name}
+            width={200}
+            height={200}
+            className="rounded-full object-fill"
+          />
+        ) : (
+          <Avatar
+            size={96}
+            name={name}
+            variant="ring" // Try others like 'marble', 'pixel', 'sunset', 'ring'
+            square={false}
+            colors={['#cd5aff', '#8067ff', '#ef64ff', '#ff4b85', '#000']}
+          />
+        )}
       </div>
       <p className="text-lg font-semibold text-gray-800 dark:text-white">{name}</p>
       {role && <Link href={profile_card_link} className="text-md">{role}</Link>}

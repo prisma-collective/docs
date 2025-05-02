@@ -1,6 +1,7 @@
 import teamData from '@/public/team.json';
 import { FaXTwitter, FaTelegram, FaGithub, FaLinkedinIn, FaPhone, FaGlobe } from "react-icons/fa6";
-import { ProfileCard } from './ProfileCard'; 
+import { ProfileCard } from './ProfileCard';
+
 
 interface TeamLink {
   label: string;
@@ -8,7 +9,7 @@ interface TeamLink {
   icon: 'FaXTwitter' | 'FaTelegram' | 'FaGithub' | 'FaLinkedinIn' | 'FaPhone' | 'FaGlobe';
 }
 
-interface TeamMember {
+export interface TeamMember {
   name: string;
   role: string;
   profile_card_link: string;
@@ -16,7 +17,6 @@ interface TeamMember {
   links: TeamLink[];
 }
 
-// Create a mapping from name -> icon component
 const iconMap = {
   FaXTwitter: FaXTwitter,
   FaTelegram: FaTelegram,
@@ -26,12 +26,16 @@ const iconMap = {
   FaGlobe: FaGlobe
 };
 
-const typedTeamData = teamData as TeamMember[];
+interface TeamCardsProps {
+  team?: TeamMember[];
+}
 
-export default function TeamCards() {
+export default function TeamCards({ team }: TeamCardsProps) {
+  const dataToUse = team ?? (teamData as TeamMember[]);
+
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-6">
-      {typedTeamData.map((member, index) => (
+      {dataToUse.map((member, index) => (
         <ProfileCard
           key={index}
           name={member.name}
@@ -43,11 +47,11 @@ export default function TeamCards() {
             return {
               label: link.label,
               url: link.url,
-              icon: Icon ? <Icon className="w-3 h-3" /> : null
+              icon: Icon ? <Icon className="w-3 h-3" /> : null,
             };
           })}
         />
       ))}
     </div>
   );
-};
+}

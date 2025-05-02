@@ -4,6 +4,7 @@ import AspectsWithPrisma from '@/components/AspectsWithPrisma';
 import StandardButton from '@/components/StandardButton';
 import TeamCards from '@/components/TeamCards';
 import ActiveJourneyDisplay from '@/components/ActiveJourneyDisplay';
+import CohortCards from '@/components/CohortCards';
 
 // Get the default MDX components
 const themeComponents = getThemeComponents()
@@ -17,6 +18,7 @@ export function useMDXComponents(components) {
     StandardButton,
     TeamCards,
     ActiveJourneyDisplay,
+    CohortCards,
     ...components
   }
 }
