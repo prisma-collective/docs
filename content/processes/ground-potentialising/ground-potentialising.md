@@ -1,4 +1,6 @@
 ---
+asIndexPage: true
+sidebarTitle: Ground-Potentialising
 aliases:
   - potentialising
   - potentializing
