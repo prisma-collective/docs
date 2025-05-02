@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/enactment/1. learning arcs.mdx",
+                "file": "events/accra.mdx",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. learning arcs"
+              "title": "accra"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "65bf62b8c9de3172",
   "lastOpenFiles": [
+    "processes/enactment/1. learning arcs.mdx",
     "processes/evaluation/index.md",
     "processes/evaluation/b. Design.mdx",
     "processes/evaluation/1. Orientation/a. Foundations.md",
@@ -215,7 +216,6 @@
     "processes/enrolment/index.md",
     "processes/enrolment/Applicant Interview Guiding Questions.mdx",
     "processes/evaluation/3. Practicals/c. Accra ALJ.md",
-    "processes/enactment/1. learning arcs.mdx",
     "processes/enactment/3. emergent learning.md",
     "processes/process-infrastructuring/practice-currencies.mdx",
     "processes/enrolment/Applicant Interview Guiding Questions.md",
