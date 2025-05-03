@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "events/accra.mdx",
+                "file": "collaborators/communities of practice/practice networks.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "accra"
+              "title": "practice networks"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "65bf62b8c9de3172",
   "lastOpenFiles": [
+    "events/accra.mdx",
     "processes/enactment/1. learning arcs.mdx",
     "processes/evaluation/index.md",
     "processes/evaluation/b. Design.mdx",
