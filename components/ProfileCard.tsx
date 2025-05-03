@@ -36,7 +36,7 @@ export const ProfileCard: FC<ProfileCardProps> = ({ name, role, profile_card_lin
           <Avatar
             size={96}
             name={name}
-            variant="ring" // Try others like 'marble', 'pixel', 'sunset', 'ring'
+            variant="beam" // Try others like 'marble', 'pixel', 'sunset', 'beam'
             square={false}
             colors={['#cd5aff', '#8067ff', '#ef64ff', '#ff4b85', '#000']}
           />

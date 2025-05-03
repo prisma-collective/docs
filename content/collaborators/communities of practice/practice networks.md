@@ -18,7 +18,7 @@ at the core of our [action-learning](/patterns/action-learning.md) is the dynami
 > 
 > *aims to* apply these processes to facilitate the self-organising of place-sourced [action-learning journeys](/patterns/action-learning%20journeys.md)…
 > 
-> *in order to* produce a suite of developmental case studies that engage a broader (global) audience with the work of regenerative development and design
+> *in order to* produce a suite of developmental case studies that engage a broader (global) [^3] audience with the work of regenerative development and design
 > 
 > *in a way that* enables practitioners working on-the-ground to communicate the essence of their work **themselves** 
 > 
@@ -37,15 +37,7 @@ event capacities are sourced from at least the following four stakeholder groups
 these [stakeholder development pathways](https://register.prisma.events) are being designed to form a 3-5 month onboarding process. 
 
 the [process-infrastructuring](/processes/process-infrastructuring) developed to support the organisation of each event instance is also designed to be configurable and self-contained, able to be deployed to a server/ device network local to the [hubs](/collaborators/communities%20of%20place/hubs.md) hosting the event. the purpose of this is to align with the aim of building capacity in-place for ongoing development of the products incubated during the intensive. 
-# Instrumenting
-instruments supporting this process design are:
-
-- [case-study](/patterns/case-study.md) [publishing](/processes/process-infrastructuring/publishing.md) stack - an interface into [action-learning](/patterns/action-learning.md)
-- [patterns for facilitator teams](patterns for facilitator teams) - see [liberating structures](https://www.liberatingstructures.com/)
-- reputation - participant registrations, contribution accounting and participation timelines
-- Organisational agreements-making, serving [intensives as incubation processes](intensives as incubation processes)
-- [practice-currencies](/processes/process-infrastructuring/practice-currencies.md) and [practice](/glossary/Practice.md) DAOs
 
 [^1]: Regenesis Institute for Regenerative Practice, [ref](https://regenerat.es/). See [Regenesis](/collaborators/communities%20of%20practice/Regenesis.md).
-[^2]: (describe the on-boarding process)
+[^2]: [index](processes/enrolment/index.md)
 [^3]: The creative tension of glocal: visibility and verification of local network effect at global-scale levels of capital distribution. mediating multiple forms of evaluation and communicating success cases of application of practice. global systemic crises (are [complex systems](complex systems) and) require vast amounts of thinking processing in order to respond collectively and regeneratively. evolving systems at those scales whilst at the same time in alignment with the continuity of life on earth requires place-specific practices. [practice](/glossary/Practice.md) has the role of developing ecological literacy (seeing patterns in nature).

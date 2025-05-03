@@ -1,5 +1,10 @@
 ---
 
+aliases:
+- enrolment
+- enrollment
+- onboarding
+
 asIndexPage: true
 sidebarTitle: Enrolment
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collaborators/communities of practice/practice networks.md",
+                "file": "events/accra.mdx",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "practice networks"
+              "title": "accra"
             }
           }
         ]
@@ -196,6 +196,8 @@
   },
   "active": "65bf62b8c9de3172",
   "lastOpenFiles": [
+    "collaborators/communities of practice/practice networks.md",
+    "processes/enrolment/index.md",
     "events/accra.mdx",
     "processes/enactment/1. learning arcs.mdx",
     "processes/evaluation/index.md",
@@ -214,7 +216,6 @@
     "processes/evaluation/2. Methodology/index.md",
     "processes/evaluation/2. Methodology/b. Reading.md",
     "processes/evaluation/2. Methodology/a. Baselining.md",
-    "processes/enrolment/index.md",
     "processes/enrolment/Applicant Interview Guiding Questions.mdx",
     "processes/evaluation/3. Practicals/c. Accra ALJ.md",
     "processes/enactment/3. emergent learning.md",
@@ -223,7 +224,6 @@
     "processes/evaluation/3. Practicals/b. Templates.md",
     "processes/evaluation/3. Practicals",
     "processes/evaluation/2. Methodology",
-    "processes/evaluation/1. Orientation",
     "processes/evaluation/a. Introduction.md"
   ]
 }

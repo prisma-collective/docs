@@ -26,9 +26,9 @@ export default function CohortCards({ event_api_id }: CohortCardsProps) {
           const participant = entry.guest;
 
           return {
-            name: `${participant.user_first_name} ${participant.user_last_name}`,
+            name: participant.user_first_name ? `${participant.user_first_name} ${participant.user_last_name}` : `${participant.user_name}`,
             role: `${participant.registration_answers.find((a: any) => a.label === 'Role')?.answer ?? 'Participant'}`,
-            profile_card_link: `${participant.registration_answers.find((a: any) => a.label.includes('a link'))?.answer ?? '#'}`,
+            profile_card_link: ` ${participant.registration_answers.find((a: any) => a.label.includes('A link'))?.answer ?? '#'}`,
             links: [
               ...(participant.registration_answers || []).map((answer: any) => {
                 const label = answer.label.toLowerCase();
@@ -58,7 +58,7 @@ export default function CohortCards({ event_api_id }: CohortCardsProps) {
                 if (label.includes('x (twitter)')) {
                   const url = isUrl ? answerText : `https://twitter.com/${answerText.replace(/^@/, '')}`;
                   return {
-                    label: 'Resource',
+                    label: 'X (Twitter)',
                     url,
                     icon: 'FaXTwitter',
                   };
