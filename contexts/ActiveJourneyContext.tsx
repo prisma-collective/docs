@@ -2,6 +2,11 @@
 
 import { createContext, useState, useContext, ReactNode } from 'react';
 
+const MOCK_JOURNEY_DID = {
+  "journeyId": "0xrh3rh803ht38023t8024gh0i2hg2oewvhfghal2r0h",
+  "journeyName": "Accra Resource Center"
+}
+
 type JourneyData = {
   journeyId: string;
   journeyName: string;
@@ -19,12 +24,7 @@ export function ActiveJourneyProvider({ children }: { children: ReactNode }) {
 
   const fetchJourneyData = async () => {
     try {
-      const res = await fetch('/mock_journey_did.json');
-      if (!res.ok) {
-        throw new Error('Failed to fetch journey data');
-      }
-      const data = await res.json();
-      setJourneyData(data);
+      setJourneyData(MOCK_JOURNEY_DID);
     } catch (error) {
       console.error('Error fetching journey data:', error);
     }
