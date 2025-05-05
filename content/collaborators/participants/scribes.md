@@ -4,61 +4,61 @@ aliases:
 ---
 # Scribes
 
-Scribes are agents of articulation, transforming lived experiences into documented knowledge.
+In the tapestry of our collective work, scribes weave threads of meaning, capturing the vibrant stories unfolding on the ground and translating them into our shared documentation. They don't just record-they interpret, synthesize, and help shape our collective understanding.
 
-Scribes are stewards, their attentiveness and ability to capture essence being absolutely essential for the [action-learning journeys](https://www.perplexity.ai/patterns/action-learning%20journeys.md) to be meaningfully expressed through documentation.
+The scribe's art lies in listening deeply, not just to what is said, but to what resonates beneath the surface. They bear witness to the emergence of ideas and hold the responsibility of preserving the essence of place through our documentation ecosystem.
 
-Scribes are responsible for ensuring the docs are representative of the work happening on the ground, stewarding the expression of the essence of place, and creating a sense of wholeness in the documentation.
+When you step into the role of a scribe, you become both witness and translator. Your hands craft the bridge between lived experience and lasting knowledge. You ensure our docs aren't mere collections of information but living representations of the work happening in communities, with all its complexity, beauty, and challenges.
 
-This attentiveness to essence is the prerequisite for effective capturing of the various different capacities present in a [cohort](https://www.perplexity.ai/search/cohort) - artists, engineers, community leaders, farmers, cooks, and guests, to name just a few. Each voice has an essential perspective to contribute in making visible the ways in which a system is trying to evolve, and scribes ensure these voices are documented with clarity and intention.
+Creating wholeness in documentation isn't about completeness-it's about coherence. Scribes cultivate this sense of wholeness by connecting disparate elements into a narrative that feels true to the spirit of our [action-learning journeys](/content/patterns/action-learning%20journeys.md).
 
-It is crucial that scribes appreciate their relationship with the character and potential of the context in which the ALJ is being hosted. The [hubs](https://www.perplexity.ai/collaborators/communities%20of%20place/hubs.md) play an important role in helping develop those relationships, creating spaces in which local stakeholders can illuminate the locality's systems and particularities.
+While technical skills like front-end development can enhance your scribing journey (making it a delightful hybrid of technical work and community engagement), the heart of scribing lies in your capacity to listen, distill, and articulate with clarity and care.
 
-Front-end skills are a nice-to-have and can make the role really enjoyable as it's a hybrid between technical documentation and direct engagement with the work, communities and places. It's a very active role, and those who scribe will learn a great deal through the process.
+Make no mistake-this isn't a passive role. Scribes are actively engaged in the field, present with communities, attuned to nuance, and learning constantly through the process of documentation.
 
 ## Outcomes
 
-Scribes are encouraged to reflect frequently on their experience of the process, noting insights into how their perspective on documentation and communication evolves. [Action-learning journeys](https://www.perplexity.ai/patterns/action-learning%20journeys.md) are a collaboration intensive, generating many opportunities for experimentation, growth, play and learning. The list of examples below is non-exhaustive.
+Through their presence and practice, scribes cultivate several key outcomes for themselves and the broader ecosystem:
 
-1. Documentation
+1. **Essence Capture**
     
-    - Capturing the essence of what is being communicated
+    - The ability to distill complex conversations into their essential elements
         
-    - Identifying and articulating value-laden undercurrents of contributions
+    - Developing an ear for the unspoken values underlying contributions
         
-    - Creating a richer image of the ALJ experience
+    - Recognizing patterns that might otherwise remain invisible
         
-2. Communication
+2. **Knowledge Stewardship**
     
-    - Translating complex concepts into accessible documentation
+    - Creating documentation that honors diverse voices and perspectives
         
-    - Engaging stakeholders through clear narrative construction
+    - Building bridges between technical and experiential knowledge
         
-    - Bridging different perspectives and knowledge systems
+    - Ensuring learning remains accessible beyond the moment of its emergence
         
-3. Representation
+3. **Narrative Cultivation**
     
-    - Shaping and representing the cohort as a whole
+    - Weaving isolated moments into coherent storylines that serve the whole
         
-    - Enabling depth to documentation that honors diverse voices
+    - Helping shape the unique character and expression of each ALJ
         
-    - Ensuring the unique flavor of the ALJ story is preserved
+    - Creating documentation that breathes with the life of the place it represents
         
-4. Integration
+4. **Collective Liberation**
     
-    - Developing approaches to docs components integration
+    - Freeing other participants from the burden of comprehensive documentation
         
-    - Creating documentation systems that can evolve and grow
+    - Building trust through reliable knowledge capture and synthesis
         
-    - Building bridges between technical and non-technical contributors
+    - Creating shared reference points that ground collective understanding
         
-5. Capacity Building
+5. **Learning Acceleration**
     
-    - Freeing up others' productive capacity through documentation support
+    - Developing personal approaches to knowledge capture and representation
         
-    - Developing personal scribing and documenting approaches
+    - Exploring the integration of multimedia elements into documentation
         
-    - Establishing trust through reliable knowledge capture
+    - Discovering patterns in how knowledge flows through collective experiences
         
 
 ## Process
@@ -67,45 +67,61 @@ TBC
 
 ## Functional Capabilities
 
-The extensive onboarding process leading up to an ALJ is the window of time in which the functional capabilities needed for effective scribing are developed.
+The journey to becoming a scribe unfolds through several key preparatory experiences:
 
-1. Access to dedicated communication space ([telegram](https://telegram.org/tour/groups))
+1. **Community Integration**
     
-2. Calendar and call scheduling setup ([cal.com](https://cal.com/))
-    
-3. Access to ALJ repos: code and docs ([github.com](https://github.com/))
-    
-4. Introductory call with local hub and relevant stakeholders
-    
-5. [Index](https://www.perplexity.ai/search/processes/enrolment/index.md) into the onboarding call series and associated learning exercises
-    
-6. Scribe self-assessment of context understanding, potential, and their relevant documentation capacities
-    
-    - Requires engagement with hub and/or potential users
+    - Formalized integration into dedicated Telegram channels where the work unfolds
         
-    - Requires attunement to definitions around community, place, regeneration
+    - Calendar coordination for synchronizing with key moments and conversations
         
-    - Requires communication and cultivation of mutual interest among the cohort
+    - Early relationship-building with key prisma team, hub members and other stakeholders
         
-7. Confirm attendance, duration, participation requirements and health preferences
+2. **Technical Foundations**
     
-8. Initiation into documentation-as-synthesis practice
+    - Onboarding to documentation repositories and workflows
+        
+    - Familiarity with Obsidian & related tools for knowledge capture
+        
+    - Understanding the existing documentation ecosystem and its organizing principles
+        
+3. **Contextual Attunement**
     
-9. Equipment: laptops/personal computers/recording devices/hub facilities that can be leveraged
+    - Self-assessment of documentation capacities and learning edges
+        
+    - Developing awareness of key concepts and definitions particular to the context
+        
+    - Building sensitivity to the unique language and framing used by local communities
+        
+4. **Practical Preparations**
     
-10. Identifying documentation needs and knowledge gaps
+    - Confirming attendance details, duration, and specific logistical needs
+        
+    - Securing appropriate equipment for documentation in varied environments
+        
+    - Identifying any specific documentation needs or gaps to be addressed
+        
+5. **Practice Initiation**
     
+    - Beginning documentation practice before the formal ALJ begins
+        
+    - Learning to notice and capture not just what happens, but how it happens
+        
+    - Developing routines for processing and synthesizing captured material
+        
 
 ## Invitation and Intention
 
-If this sounds like you, we'd like to enthusiastically invite you to an upcoming event. As part of that, we invite you to observe the following key moments that require careful attention:
+If the art of witnessing and weaving calls to you, we invite you to approach your scribing practice with these intentions:
 
-1. As you begin this process, ask yourself not just "What am I documenting?" but also "How am I documenting it?" Noticing shifts in your approach to capturing knowledge during the course of the [action-learning journey](action-learning journey) will unlock added learning opportunities.
+1. As you document, notice not just what you're capturing but how you're attending to it. What draws your focus? What feels significant enough to preserve? The evolution of your attention itself becomes a valuable source of insight throughout the journey.
     
-2. If you notice discussions around abstract concepts like system potential and place, ask yourself "What is the essence being expressed here?" and "How can I capture this in a way that represents its depth while remaining accessible?"
+2. When you encounter moments of conceptual exploration or abstract discussion, resist the urge to simplify prematurely. Instead, ask: "What deeper currents are flowing beneath these words?" Your ability to honor complexity while making it accessible is a gift to the collective.
     
-3. Once you feel you're drawing out meaningful patterns, ask yourself "What is at the heart of what's being communicated?" and "How can I help give form to this expression in a way that serves the whole?"
+3. As patterns begin to emerge in your documentation, pause to consider: "What story is wanting to be told here?" and "How might this documentation serve not just as record, but as invitation to deeper engagement?" The most powerful documentation doesn't just preserve-it provokes and invites.
     
+
+In the dance between experiencing and documenting, between participation and witness, you help create not just a record of what happened, but a living artifact that continues to generate insight long after the journey itself has concluded.
 
 ---
 
