@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/index.md",
+                "file": "content/collaborators/participants/scribes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "scribes"
             }
           }
         ],
@@ -214,6 +214,9 @@
   },
   "active": "13d43a5ebe890bab",
   "lastOpenFiles": [
+    "content/collaborators/participants/developers.md",
+    "content/collaborators/participants/scribes.md",
+    "content/processes/evaluation/index.md",
     "content/processes/ground-potentialising/playbook/index.md",
     "content/processes/ground-potentialising/playbook/3. Calling in an ALJ.md",
     "content/processes/ground-potentialising/playbook/3. Facilitating via Core Processes.md",
@@ -230,7 +233,6 @@
     "app/api/cohort",
     "content/processes/evaluation/3. Practicals/index.md",
     "content/processes/enrolment/Applicant Interview Guiding Questions.mdx",
-    "content/processes/evaluation/index.md",
     "content/processes/evaluation/3. Practicals/c. Accra ALJ.md",
     "content/processes/evaluation/3. Practicals/b. Templates.md",
     "content/processes/evaluation/3. Practicals/a. Co-Creation Guide.md",
@@ -247,8 +249,6 @@
     "content/processes/evaluation/1. Orientation",
     "content/processes/evaluation/d. Journaling-Based Evaluation Bot.md",
     "content/processes/evaluation/c. Technology.md",
-    "content/patterns/action-learning journeys.md",
-    "content/patterns/action-learning.md",
-    "patterns/action-learning.md"
+    "content/patterns/action-learning journeys.md"
   ]
 }
