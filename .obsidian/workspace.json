@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/1. Orientation/b. Framework.md",
+                "file": "content/processes/evaluation/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b. Framework"
+              "title": "index"
             }
           }
         ],
@@ -214,36 +214,41 @@
   },
   "active": "13d43a5ebe890bab",
   "lastOpenFiles": [
-    "content/processes/evaluation/1. Orientation/a. Foundations.md",
-    "content/processes/evaluation/index.md",
+    "content/processes/ground-potentialising/playbook/index.md",
+    "content/processes/ground-potentialising/playbook/3. Calling in an ALJ.md",
+    "content/processes/ground-potentialising/playbook/3. Facilitating via Core Processes.md",
+    "content/processes/ground-potentialising/playbook/4. Generating data.md",
+    "content/processes/ground-potentialising/playbook/2. Hub vision activation.md",
+    "content/processes/ground-potentialising/playbook/1. as a checklist.md",
+    "content/processes/ground-potentialising/ground-potentialising.md",
+    "content/processes/ground-potentialising/playbook",
+    "content/processes/ground-potentialising",
+    "content/events/accra.mdx",
+    "content/events",
+    "components/CohortCards.tsx",
+    "app/api/cohort/route.ts",
+    "app/api/cohort",
     "content/processes/evaluation/3. Practicals/index.md",
-    "content/processes/evaluation/e. Journaling-Based Evaluation Bot.md",
+    "content/processes/enrolment/Applicant Interview Guiding Questions.mdx",
+    "content/processes/evaluation/index.md",
     "content/processes/evaluation/3. Practicals/c. Accra ALJ.md",
     "content/processes/evaluation/3. Practicals/b. Templates.md",
     "content/processes/evaluation/3. Practicals/a. Co-Creation Guide.md",
-    "content/processes/evaluation/2. Methodology/index.md",
     "content/processes/evaluation/2. Methodology/c. Analysis.md",
     "content/processes/evaluation/2. Methodology/b. Reading.md",
     "content/processes/evaluation/2. Methodology/a. Baselining.md",
-    "content/processes/evaluation/1. Orientation/index.md",
     "content/processes/evaluation/1. Orientation/c. Tech & Tools.md",
+    "content/processes/evaluation/1. Orientation/index.md",
     "content/processes/evaluation/1. Orientation/b. Framework.md",
+    "content/processes/evaluation/1. Orientation/a. Foundations.md",
+    "content/processes/evaluation/e. Journaling-Based Evaluation Bot.md",
+    "content/processes/evaluation/2. Methodology/index.md",
     "content/processes/evaluation/3. Practicals",
     "content/processes/evaluation/1. Orientation",
-    "content/processes/evaluation/2. Methodology",
     "content/processes/evaluation/d. Journaling-Based Evaluation Bot.md",
     "content/processes/evaluation/c. Technology.md",
     "content/patterns/action-learning journeys.md",
     "content/patterns/action-learning.md",
-    "patterns/action-learning.md",
-    "patterns/action-learning journeys.md",
-    "patterns",
-    "content/glossary/Capacity-Building.md",
-    "content/processes/enactment/index.md",
-    "content/glossary/Practice.md",
-    "glossary/Practice.md",
-    "glossary",
-    "enactment.md",
-    "content/processes/index.md"
+    "patterns/action-learning.md"
   ]
 }
