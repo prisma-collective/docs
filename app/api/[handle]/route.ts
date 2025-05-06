@@ -16,7 +16,7 @@ _req: NextRequest, {
     console.log(`Calling timelining api with handle ${handle}...`);
 
     try {
-        const res = await fetch(`https://timelining-74tfl7byr-prisma-collective.vercel.app/api/story/${handle}`);
+        const res = await fetch(`https://timelining-prisma-collective.vercel.app/api/story/${handle}`);
 
         if (!res.ok) {
         return NextResponse.json({ error: `Failed to fetch data: ${res.statusText}` }, { status: res.status });
