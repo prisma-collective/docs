@@ -1,8 +1,10 @@
+"use client";
+
+import { useState } from 'react';
 import teamData from '@/public/team.json';
 import { FaXTwitter, FaTelegram, FaGithub, FaLinkedinIn, FaPhone, FaGlobe } from "react-icons/fa6";
 import { ProfileCard } from './ProfileCard';
 import { MdOutlineEmail } from "react-icons/md";
-
 
 interface TeamLink {
   label: string;
@@ -35,6 +37,34 @@ interface TeamCardsProps {
 export default function TeamCards({ team }: TeamCardsProps) {
   const dataToUse = team ?? (teamData as TeamMember[]);
 
+  // Global cache for Telegram data
+  const [telegramCache, setTelegramCache] = useState<Map<string, any>>(new Map());
+
+  // Function to fetch Telegram data (if not in cache)
+  const fetchTelegramData = async (handle: string): Promise<any> => {
+    if (telegramCache.has(handle)) {
+      return telegramCache.get(handle); // Return cached data
+    }
+
+    try {
+      const res = await fetch(`/api/${handle}`);
+      
+      if (!res.ok) {
+        throw new Error(`Failed to fetch data: ${res.statusText}`);
+      }
+
+      const data = await res.json();
+  
+      // Update the cache
+      setTelegramCache((prevCache) => new Map(prevCache).set(handle, data));
+  
+      return data;  // Returning the data as a Promise resolve.
+    } catch (error) {
+      console.error("Error fetching data:", error);
+      return null;  // Returning null in case of an error
+    }
+  };
+
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-6">
       {dataToUse.map((member, index) => (
@@ -52,6 +82,8 @@ export default function TeamCards({ team }: TeamCardsProps) {
               icon: Icon ? <Icon className="w-3 h-3" /> : null,
             };
           })}
+          fetchTelegramData={fetchTelegramData}
+          telegramCache={telegramCache}
         />
       ))}
     </div>
