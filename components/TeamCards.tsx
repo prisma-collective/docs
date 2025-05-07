@@ -20,7 +20,7 @@ export interface TeamMember {
   links: TeamLink[];
 }
 
-const iconMap = {
+export const iconMap = {
   FaXTwitter: FaXTwitter,
   FaTelegram: FaTelegram,
   FaGithub: FaGithub, 
