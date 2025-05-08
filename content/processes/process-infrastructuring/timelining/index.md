@@ -11,7 +11,13 @@ asIndexPage: true
 
 *status: in-progress, production*
 
-Timelining is the process of building up a timeline of an [action-learning journey](patterns/action-learning%20journeys.md). Timelining uses multiple sources of data, and collecting different kinds of action-led contributions. The basic 
+# What is timelining?
+Timelining is the process of building up a timeline of an [action-learning journey](patterns/action-learning%20journeys.md) (ALJ). Timelining uses multiple sources of data, and collects different kinds of action-led contributions. The basic premise is for it to be highly adaptable, catering to different cohorts' intentions, and different ALJ aims.
+# Why
+Each ALJ is an evolutionary process. Timelining is one way of making visible this 
+
+# How
+We do that by leveraging dedicated timelining topics in telegram groups, and looking to pick up messages with a specific pattern. What makes this so adaptable is that you can identify a new perspective into the ALJ - such as decision-making, for example - and create a new topic relatively 
 
 The timelining system is a voice-first analytics pipeline that captures Telegram voice notes, transcribes them, generates vector embeddings, and presents insights via a timeline UI. It prompts reflection, analyzes participation, and synthesizes insights for participants, facilitators, and evaluators.
 
