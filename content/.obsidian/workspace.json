@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "context & narrative/Stakeholders and Growth Strategy.mdx",
+                "file": "events/accra.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stakeholders and Growth Strategy"
+              "title": "accra"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "65bf62b8c9de3172",
   "lastOpenFiles": [
+    "context & narrative/Stakeholders and Growth Strategy.mdx",
     "events/accra.mdx",
     "collaborators/communities of practice/practice networks.md",
     "processes/enrolment/index.md",
