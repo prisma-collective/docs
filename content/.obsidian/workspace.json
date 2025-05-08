@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/enactment/2. sense of place.mdx",
+                "file": "processes/process-infrastructuring/timelining/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. sense of place"
+              "title": "index"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "65bf62b8c9de3172",
   "lastOpenFiles": [
-    "processes/enactment/1. learning arcs.mdx",
     "processes/enactment/2. sense of place.mdx",
+    "processes/enactment/1. learning arcs.mdx",
     "events/accra.mdx",
     "context & narrative/Stakeholders and Growth Strategy.mdx",
     "collaborators/communities of practice/practice networks.md",

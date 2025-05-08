@@ -9,7 +9,9 @@ asIndexPage: true
 
 ---
 
-*status: in-progress, early-stage*
+*status: in-progress, production*
+
+Timelining is the process of building up a timeline of an [action-learning journey](patterns/action-learning%20journeys.md). Timelining uses multiple sources of data, and collecting different kinds of action-led contributions. The basic 
 
 The timelining system is a voice-first analytics pipeline that captures Telegram voice notes, transcribes them, generates vector embeddings, and presents insights via a timeline UI. It prompts reflection, analyzes participation, and synthesizes insights for participants, facilitators, and evaluators.
 
