@@ -171,6 +171,9 @@
   },
   "active": "013ea9cb3cc1efe8",
   "lastOpenFiles": [
+    "components/ProfilePopupModal.tsx",
+    "app/api/[handle]/route.ts",
+    "app/api/[handle]",
     "content/collaborators/participants/developers.md",
     "content/collaborators/participants/scribes.md",
     "content/patterns/action-learning journeys.md",
@@ -194,8 +197,6 @@
     "content/events/accra.mdx",
     "content/events",
     "components/CohortCards.tsx",
-    "app/api/cohort/route.ts",
-    "app/api/cohort",
     "content/processes/evaluation/3. Practicals/index.md",
     "content/processes/evaluation/3. Practicals/c. Accra ALJ.md",
     "content/processes/evaluation/3. Practicals/b. Templates.md",
@@ -205,7 +206,6 @@
     "content/processes/evaluation/1. Orientation/c. Tech & Tools.md",
     "content/processes/evaluation/1. Orientation/index.md",
     "content/processes/evaluation/1. Orientation/b. Framework.md",
-    "content/processes/evaluation/1. Orientation/a. Foundations.md",
-    "content/processes/evaluation/e. Journaling-Based Evaluation Bot.md"
+    "content/processes/evaluation/1. Orientation/a. Foundations.md"
   ]
 }

@@ -114,15 +114,11 @@ The journey to becoming a scribe unfolds through several key preparatory experie
 
 If the art of witnessing and weaving calls to you, we invite you to approach your scribing practice with these intentions:
 
-1. As you document, notice not just what you're capturing but how you're attending to it. What draws your focus? What feels significant enough to preserve? The evolution of your attention itself becomes a valuable source of insight throughout the journey.
+1. As you document, notice not just what you're capturing but how you're approaching it. What draws your focus? What feels significant enough to preserve? The evolution of your attention itself becomes a valuable source of insight throughout the journey.
     
-2. When you encounter moments of conceptual exploration or abstract discussion, resist the urge to simplify prematurely. Instead, ask: "What deeper currents are flowing beneath these words?" Your ability to honor complexity while making it accessible is a gift to the collective.
+2. When you encounter moments of conceptual exploration or abstract discussion, resist the urge to simplify. Instead, ask: "What deeper currents are flowing beneath these words?" Your ability to honor complexity while making it accessible is a gift to the collective.
     
 3. As patterns begin to emerge in your documentation, pause to consider: "What story is wanting to be told here?" and "How might this documentation serve not just as record, but as invitation to deeper engagement?" The most powerful documentation doesn't just preserve-it provokes and invites.
     
 
 In the dance between experiencing and documenting, between participation and witness, you help create not just a record of what happened, but a living artifact that continues to generate insight long after the journey itself has concluded.
-
----
-
-Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)
