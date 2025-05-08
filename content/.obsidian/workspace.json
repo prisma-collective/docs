@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "events/accra.mdx",
+                "file": "processes/enactment/2. sense of place.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "accra"
+              "title": "2. sense of place"
             }
           }
         ]
@@ -196,11 +196,12 @@
   },
   "active": "65bf62b8c9de3172",
   "lastOpenFiles": [
-    "context & narrative/Stakeholders and Growth Strategy.mdx",
+    "processes/enactment/1. learning arcs.mdx",
+    "processes/enactment/2. sense of place.mdx",
     "events/accra.mdx",
+    "context & narrative/Stakeholders and Growth Strategy.mdx",
     "collaborators/communities of practice/practice networks.md",
     "processes/enrolment/index.md",
-    "processes/enactment/1. learning arcs.mdx",
     "processes/evaluation/index.md",
     "processes/evaluation/b. Design.mdx",
     "processes/evaluation/1. Orientation/a. Foundations.md",
@@ -210,7 +211,6 @@
     "processes/evaluation/index.mdx",
     "processes/evaluation/1. Orientation/index.md",
     "processes/enactment/index.md",
-    "processes/enactment/2. sense of place.mdx",
     "processes/evaluation/3. Practicals/index.md",
     "processes/evaluation/2. Methodology/c. Analysis.md",
     "processes/evaluation/3. Practicals/a. Co-Creation Guide.md",
