@@ -22,7 +22,7 @@ We do that by leveraging dedicated timelining topics in telegram groups, and pic
 
 <Tabs items={['Basic', 'Advanced']}> 
 <Tabs.Tab>
-A cohort decides they want to start keeping track of decisions. They decide they'd like to record the context, decision, and participants. They set up a topic called `deciding`. The following pattern is used:
+A cohort decides they want to start keeping track of decisions. They decide they'd like to record the context, decision, and participants. The following pattern is used:
 
 ```
 	"context": text,
@@ -34,8 +34,8 @@ Below is an example of the pattern in use. This could be a message to a telegram
 
 ```
 {
-	"**context**": "Here's a long chunk of text that describes the context of the decision. It includes at least two levels of nested systems: the project nested within the immediate context, and the immediate context nested within a broader/ larger context.",
-	"**decision**": "Each morning, 2 participants will arrive early to the hub to set up the hybrid conferencing equipment in time for the first agenda item. Who, where, and when will be confirmed the night before.",
+	"context": "Here's a long chunk of text that describes the context of the decision. It includes at least two levels of nested systems: the project nested within the immediate context, and the immediate context nested within a broader/ larger context.",
+	"decision": "Each morning, 2 participants will arrive early to the hub to set up the hybrid conferencing equipment in time for the first agenda item. Who, where, and when will be confirmed the night before.",
 	"participants": [
 		@name,
 		@brothername,
@@ -54,6 +54,6 @@ Coming soon...
 ## The Difference
 
 ## Processing Messages
-This tooling is set up for collective storytelling of [action-learning](patterns/action-learning.md). We want to make it as easy as possible for everyone to contribute to that story. The telegram chat as 
+This tooling is set up for collective storytelling of [action-learning](patterns/action-learning.md). We want to make it as easy as possible for everyone to contribute to that story. At the same time, the simple telegram chat UI is 
 
 # Onboarding
