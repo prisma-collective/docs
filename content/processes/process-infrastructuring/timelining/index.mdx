@@ -13,12 +13,16 @@ import { Tabs } from 'nextra/components'
 
 *status: in-progress, production*
 
+> Journaling - A quick recap
+> 
+> Every morning, Maya took ten quiet minutes to journal whatever was on her mind. At first, it just seemed like a way to vent, but over time, she began to notice patterns—how often she doubted herself before meetings, how she defaulted to guilt when saying no. Seeing these thoughts laid out helped her realize they weren’t facts, just habits of mind shaped by old beliefs she had never questioned. With that awareness, she began to ask herself what beliefs she actually wanted to live by. Slowly, she chose new ones—like valuing her voice and setting boundaries without shame. Her thoughts started to change, not because life got easier, but because she realized she had the power to respond differently.
+
 # What is timelining?
-Timelining is the process of building up a timeline of an [action-learning journey](patterns/action-learning%20journeys.md) (ALJ). Timelining uses multiple sources of data, and collects different kinds of action-led contributions. The basic premise is for it to be highly adaptable, catering to different cohorts' intentions, and different ALJ aims.
+Timelining is the process of building up a timeline of an [action-learning journey](patterns/action-learning%20journeys.md) (ALJ). Timelining uses multiple sources of data, and collects different kinds of action-led contributions. The basic premise is for it to be highly adaptable, catering to different cohorts' values, intentions, and different ALJ aims.
 # Why
-Each ALJ is an evolutionary process. Timelining is one way of making this visible. Making this visible serves learning. As when you journal to notice patterns in your thinking, cohorts can *timeline* (perform timelining) to notice patterns in their actions. In that way, timelining is how we aim to support the [incubation](home) of evolutionary organisations. 
+Each ALJ is an evolutionary process. Timelining is one way of making this process visible. Making this visible serves learning. As when you journal to notice patterns in your thinking, cohorts can *timeline* (perform timelining) to notice patterns in their actions. In that way, timelining is how we aim to support the [incubation](home) of evolutionary organisations. 
 # How
-We do that by leveraging dedicated timelining topics in telegram groups, and picking up messages with a specific pattern. What makes this so adaptable is that you can identify a new perspective into the ALJ and create a new topic relatively easily. A pattern can also be prototyped with almost no additional functionality required. Here are two example, with a subtle but crucial difference.
+We do that by leveraging dedicated timelining topics in telegram groups, and picking up messages with a specific pattern. What makes this so adaptable is that you can identify a new perspective into the ALJ and create a new topic relatively easily. A pattern can also be prototyped with almost no additional functionality required. Here are two examples, with a subtle but crucial difference.
 
 <Tabs items={['Basic', 'Advanced']}> 
 <Tabs.Tab>
@@ -32,7 +36,7 @@ A cohort decides they want to start keeping track of decisions. They decide they
 }
 ```
 
-Below is an example of the pattern in use. This could be a message to a telegram topic named `DecisionAccounting`.
+Below is an example of the pattern in use. This could be a message to a telegram topic named `_botDecisionAccounting`.
 
 ```
 Context: During the hackathon, multiple teams needed the same room for afternoon sessions, leading to confusion and overlap.,
@@ -46,10 +50,5 @@ Coming soon...
 
 </Tabs.Tab> 
 </Tabs> 
-
-## The Difference
-
 ## Processing Messages
-This tooling is set up for collective storytelling of [action-learning](patterns/action-learning.md). We want to make it as easy as possible for everyone to contribute to that story. At the same time, the simple telegram chat UI is backed onto a [serverless](https://vercel.com/) API, and writes to a [neo4j](https://neo4j.com/) graph database. This means we (you) can analyse the structure and patterns within those contributions. In this way, we're trying to 
-
-# Onboarding
+This tooling is set up for collective storytelling of [action-learning](patterns/action-learning.md). We want to make it as easy as possible for everyone to contribute to that story. At the same time, the simple user interface of a telegram chat is backed onto a [serverless](https://vercel.com/) API, and writes to a [neo4j](https://neo4j.com/) graph database, both of which can be extended and combined to address almost any processing capability imaginable. The timestamp of each message is used to generate a representation of how this network of participants and contributions emerged through the course of the ALJ. This tooling aims to be an enabler for cohorts to begin identifying patterns within the contents of those contributions. In this way, we're trying to 
