@@ -24,24 +24,20 @@ We do that by leveraging dedicated timelining topics in telegram groups, and pic
 <Tabs.Tab>
 A cohort decides they want to start keeping track of decisions. They decide they'd like to record the context, decision, and participants. The following pattern is used:
 
-```
-	"context": text,
-	"decision": text,
-	"participants": list
+```json
+{
+	"context": "",
+	"decision": "",
+	"participants": []
+}
 ```
 
 Below is an example of the pattern in use. This could be a message to a telegram topic named `DecisionAccounting`.
 
 ```
-{
-	"context": "Here's a long chunk of text that describes the context of the decision. It includes at least two levels of nested systems: the project nested within the immediate context, and the immediate context nested within a broader/ larger context.",
-	"decision": "Each morning, 2 participants will arrive early to the hub to set up the hybrid conferencing equipment in time for the first agenda item. Who, where, and when will be confirmed the night before.",
-	"participants": [
-		@name,
-		@brothername,
-		@auntiename
-	]
-}
+Context: During the hackathon, multiple teams needed the same room for afternoon sessions, leading to confusion and overlap.,
+Decision: Each morning, 2 participants will arrive early to the hub to set up the hybrid conferencing equipment in time for the first agenda item. Who, where, and when will be confirmed the night before.,
+Participants: @sam, @jamila, @fernando
 ```
 
 </Tabs.Tab> 
@@ -54,6 +50,6 @@ Coming soon...
 ## The Difference
 
 ## Processing Messages
-This tooling is set up for collective storytelling of [action-learning](patterns/action-learning.md). We want to make it as easy as possible for everyone to contribute to that story. At the same time, the simple telegram chat UI is 
+This tooling is set up for collective storytelling of [action-learning](patterns/action-learning.md). We want to make it as easy as possible for everyone to contribute to that story. At the same time, the simple telegram chat UI is backed onto a [serverless](https://vercel.com/) API, and writes to a [neo4j](https://neo4j.com/) graph database. 
 
 # Onboarding
