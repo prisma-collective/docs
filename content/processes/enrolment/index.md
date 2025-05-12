@@ -33,4 +33,4 @@ Enrolment is the process of engaging stakeholders and participants in the co-des
    - Developing processes for participant registration, contribution accounting, and participation timelines using tools like the [DID System](DID System).
    - Ensuring that participants are well-prepared for the intensity and collaborative nature of action-learning journeys.
 
-</Steps>
+<Steps/>
