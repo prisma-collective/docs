@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "processes/evaluation/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "3fa69dddd713c794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "processes/enrolment/index.md",
                 "mode": "source",
                 "source": false,
@@ -31,7 +55,8 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +219,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb2dc8a1c133c776",
+  "active": "3fa69dddd713c794",
   "lastOpenFiles": [
+    "index.mdx",
+    "processes/enrolment/index.md",
+    "events/accra.mdx",
+    "processes/evaluation/index.md",
+    "evaluating.png.md",
+    "processes/enactment/index.md",
+    "processes/index.md",
+    "processes/evaluation/b. Design.mdx",
+    "processes/evaluation/3. Practicals/index.md",
+    "processes/evaluation/1. Orientation/index.md",
+    "processes/evaluation/1. Orientation/a. Foundations.md",
+    "processes/evaluation/1. Orientation/b. Framework.md",
     "processes/enrolment/Applicant Interview Guiding Questions.mdx",
     "processes/process-infrastructuring/timelining/index.mdx",
     "processes/ground-potentialising/ground-potentialising.md",
@@ -203,21 +240,11 @@
     "processes/enactment/1. learning arcs.mdx",
     "processes/enactment/2. sense of place.mdx",
     "processes/process-infrastructuring/timelining/ingest.mdx",
-    "events/accra.mdx",
     "processes/process-infrastructuring/timelining/index.md",
     "context & narrative/Stakeholders and Growth Strategy.mdx",
     "collaborators/communities of practice/practice networks.md",
-    "processes/enrolment/index.md",
-    "processes/evaluation/index.md",
-    "processes/evaluation/b. Design.mdx",
-    "processes/evaluation/1. Orientation/a. Foundations.md",
-    "processes/evaluation/1. Orientation/b. Framework.md",
     "processes/evaluation/1. Orientation/c. Tech & Tools.md",
     "processes/evaluation/1. Orientation/a. Foundations.mdx",
-    "processes/evaluation/index.mdx",
-    "processes/evaluation/1. Orientation/index.md",
-    "processes/enactment/index.md",
-    "processes/evaluation/3. Practicals/index.md",
     "processes/evaluation/2. Methodology/c. Analysis.md",
     "processes/evaluation/3. Practicals/a. Co-Creation Guide.md",
     "processes/evaluation/2. Methodology/index.md",
