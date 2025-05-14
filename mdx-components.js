@@ -6,6 +6,7 @@ import TeamCards from '@/components/TeamCards';
 import ActiveJourneyDisplay from '@/components/ActiveJourneyDisplay';
 import CohortCards from '@/components/CohortCards';
 import { EventCard } from '@/components/EventCard';
+import DynamicChatsTabs from '@/components/DynamicChatsTabs'
 
 // Get the default MDX components
 const themeComponents = getThemeComponents()
@@ -21,6 +22,7 @@ export function useMDXComponents(components) {
     ActiveJourneyDisplay,
     CohortCards,
     EventCard,
+    DynamicChatsTabs,
     ...components
   }
 }
