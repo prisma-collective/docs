@@ -1,4 +1,5 @@
 import { Tabs } from 'nextra/components';
+import ChatEntryList from './ChatEntriesList';
 
 type Chat = {
   id: string;
@@ -22,9 +23,7 @@ export default function TopicTabs({ chats, filterTopics }: TopicTabsProps) {
     <Tabs items={filteredChats.map((chat) => chat.topic)}>
       {filteredChats.map((chat) => (
         <Tabs.Tab key={chat.id}>
-          {/* Replace below with your actual rendering */}
-          {/* <ChatEntryList chatId={chat.id} /> */}
-          <p>Topic ID: {chat.id}</p>
+          <ChatEntryList chatId={chat.id} />
         </Tabs.Tab>
       ))}
     </Tabs>
