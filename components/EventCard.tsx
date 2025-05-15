@@ -56,25 +56,7 @@ export const EventCard: React.FC<EventCardProps> = ({
         </h1>
         )}
 
-        <div className="absolute bottom-2 flex flex-row gap-4 flex-wrap w-full items-start md:justify-end">
-            {links?.map((link, idx) => {
-                const Icon = iconMap[link.icon];
-                return (
-                    <a
-                        key={idx}
-                        href={link.url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="flex items-center gap-1 text-gray-600 hover:text-gray-800 dark:text-gray-300 dark:hover:text-gray-100"
-                    >
-                        {Icon && <Icon className="w-3 h-3"/>}
-                        <span className="text-xs">{link.label}</span>
-                    </a>
-                );
-            })}
-        </div>
-
-        <div className="flex flex-col mb-10 md:mb-0">
+        <div className="flex flex-col mb-10 md:mb-0 z-10">
             {fields.map((field, idx) => (
                 <div key={idx} className="flex py-1">
                     {/* Label column — fixed width, right aligned */}
@@ -97,6 +79,24 @@ export const EventCard: React.FC<EventCardProps> = ({
                     </div>
                 </div>
             ))}
+        </div>
+
+        <div className="absolute bottom-2 flex flex-row gap-4 flex-wrap w-full items-start md:justify-end">
+            {links?.map((link, idx) => {
+                const Icon = iconMap[link.icon];
+                return (
+                    <a
+                        key={idx}
+                        href={link.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center gap-1 text-gray-600 hover:text-gray-800 dark:text-gray-300 dark:hover:text-gray-100"
+                    >
+                        {Icon && <Icon className="w-3 h-3"/>}
+                        <span className="text-xs">{link.label}</span>
+                    </a>
+                );
+            })}
         </div>
     </div>
   );

@@ -22,7 +22,7 @@ const ActiveJourneyDisplay: React.FC = () => {
           value={journeyData?.journeyId || "loading..."}
           disabled
         />
-        <a href="https://www.arcaccra.com/" className="flex">
+        <a href="/events/accra" className="flex">
           <div className="flex min-w-[150px] bg-gray-900 text-gray-400 p-2 items-center truncate cursor-pointer text-sm">
             <RiRadioButtonLine className="w-2.5 h-2.5 text-green-400 mr-1.5 mt-0.5 animate-pulse" />
             {journeyData?.journeyName || "loading..."}
