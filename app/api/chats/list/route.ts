@@ -1,14 +1,23 @@
 // app/api/chats/route.ts
 import { NextRequest, NextResponse } from 'next/server';
 
-export async function GET(_req: NextRequest) {
-  console.log(`Calling external chats API...`);
+export async function GET(req: NextRequest) {
+  const { searchParams } = new URL(req.url);
+  const type = searchParams.get('type');
+
+  console.log(`Calling external chats API${type ? ` with type=${type}` : ''}...`);
+
+  const externalUrl = new URL('https://timelining-bw1rh0uya-prisma-collective.vercel.app/api/story/chat/list');
+
+  // Add ?type=... if specified
+  if (type) {
+    externalUrl.searchParams.set('type', type);
+  }
 
   try {
-    const res = await fetch(
-      'https://timelining-9qbw6dwgf-prisma-collective.vercel.app/api/chat/list',
-      { cache: 'no-store' } // ensure fresh data on every request
-    );
+    const res = await fetch(externalUrl.toString(), {
+      cache: 'no-store', // always get fresh data
+    });
 
     if (!res.ok) {
       console.error(`Chats API returned ${res.status}: ${res.statusText}`);

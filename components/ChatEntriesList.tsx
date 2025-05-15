@@ -12,7 +12,7 @@ export default function ChatEntryList({ chatId }: { chatId: string }) {
   const [entries, setEntries] = useState<Entry[]>([]);
 
   useEffect(() => {
-    fetch(`/api/chat/${chatId}`)
+    fetch(`/api/chats/${chatId}`)
       .then((res) => res.json())
       .then((data) => setEntries(data.entries))
       .catch((err) => console.error(`Failed to fetch entries for chat ${chatId}:`, err));

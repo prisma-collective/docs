@@ -2,7 +2,6 @@ import { FC, JSX } from 'react';
 import {
   FaRegFileAlt,
   FaRegImage,
-  FaMicrophoneAlt,
   FaVideo,
   FaLink,
   FaRegCommentDots,
