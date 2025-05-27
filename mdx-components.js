@@ -8,6 +8,7 @@ import CohortCards from '@/components/CohortCards';
 import { EventCard } from '@/components/EventCard';
 import TeamTabs from '@/components/TeamTabs';
 import TopicTabs from '@/components/TopicTabs'
+import GraphVisualisation from '@/components/GraphVisualisation';
 
 // Get the default MDX components
 const themeComponents = getThemeComponents()
@@ -25,6 +26,7 @@ export function useMDXComponents(components) {
     EventCard,
     TeamTabs,
     TopicTabs,
+    GraphVisualisation,
     ...components
   }
 }
