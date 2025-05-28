@@ -97,6 +97,7 @@ export default function GraphRenderer({ nodes, edges }: GraphRendererProps) {
           style: {
             label: 'data(label)',
             width: 1,
+            'opacity': 0.5,
             'line-color': '#444', // Silver/grey edges
             'target-arrow-color': '#555',
             'target-arrow-shape': 'triangle',
@@ -135,7 +136,7 @@ export default function GraphRenderer({ nodes, edges }: GraphRendererProps) {
     cy.on('pan', () => {
       const pan = cy.pan();
       const zoom = cy.zoom();
-      const basePanLimit = 1000;
+      const basePanLimit = 800;
     
       const scaledLimit = basePanLimit * zoom; // Zoom-aware limit
 
