@@ -12,10 +12,15 @@ a case-study is a living account of the work of evolving systems. subscriptions 
 
 almost all tooling being leveraged to develop a case-study, especially the docs and custom integrations, are ongoing. the idea is for the audience to choose to subscribe to a given hub's ALJ as and when suits them. [action-learning journeys](patterns/action-learning%20journeys.md) are about creating a space of radical experimentation. subscriptions to case-studies are the means for gaining access to real-time action-learning. 
 # Curation
-as a reminder, a case-study is comprised of four interrelated layers: 
+as a reminder, a case-study is comprised of four interrelated layers, with increasingly fine-grained data:
 
 1. Curation - the most polished, and also the most abstracted. see [prisma.events](https://www.prisma.events)
 2. Archive - more complete, and also more raw and rugged. see [docs.prisma.events](https://docs.prisma.events)
 3. Integrations - custom applications serving specific transformations. see [evaluate.prisma.events](https://evaluate.prisma.events) and [timelining](processes/process-infrastructuring/timelining/index.md)
 4. Aspects - [practice-currencies](/processes/process-infrastructuring/practice-currencies). lowest-level detail, leveraging accounts of peer-to-peer interactions
 
+these layers each address different qualities of communicating action-learning. the curation is the most-accessible and most engaging, intended to be a doorway into the whole world of systems created within an ALJ, all aligning around the purpose of working on the essence of place. 
+
+![case-study.png](/case-study.png)
+
+in that sense, the curation is likely to be the last laye
