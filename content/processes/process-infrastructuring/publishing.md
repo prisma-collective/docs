@@ -1,3 +1,7 @@
+---
+sidebarTitle: Publishing
+---
+
 # Intro
 [action-learning journeys](/patterns/action-learning%20journeys.md) (ALJs) are a complex system. a [case-study](patterns/case-study.md) serves the purpose of communicating the particular nature of a given action-learning journey as well as the outcomes and what they mean for the communities involved. there are multiple forms of data being created throughout, at varying levels of detail and abstraction. therefore, a case-study is continually being created throughout and is itself a lived process. similarly, publishing a case-study is therefore also an ongoing process - continually making available more data from the action-learning.
 
@@ -7,8 +11,8 @@ however, there are also certain procedures, such as running an analysis on a dat
 
 a case-study is a living account of the work of evolving systems. subscriptions can... 
 
-1. start before a case-study is considered officially published, seeing more of the potentialising process real-time, and 
-2. can continue after an intensive and after a case-study is considered officially published, whilst teams and [hubs](collaborators/communities%20of%20place/hubs.md) continue deepening the work. 
+1. start before a case-study is considered officially published, seeing more of the organising process real-time, and 
+2. can continue after an intensive ends and after a case-study is considered officially published, whilst teams and [hubs](collaborators/communities%20of%20place/hubs.md) continue deepening the work. 
 
 almost all tooling being leveraged to develop a case-study, especially the docs and custom integrations, are ongoing. the idea is for the audience to choose to subscribe to a given hub's ALJ as and when suits them. [action-learning journeys](patterns/action-learning%20journeys.md) are about creating a space of radical experimentation. subscriptions to case-studies are the means for gaining access to real-time action-learning. 
 # Curation
@@ -29,4 +33,4 @@ in that sense, the curation is likely to be the last layer addressed for an ALJ,
 > 
 > late 14c., _curacioun_, "curing of disease, restoration to health," from Old French _curacion_ "treatment of illness," from Latin _curationem_ (nominative _curatio_), "a taking care, attention, management," especially "medical attention," noun of action from past-participle stem of _curare_ "to cure".
 
-Given the etymology above, to what is care being given in the curation? The audience's attention or the data? Perhaps, both. Curations can be thought of giving the participation and the data generated as a result the storytelling platform it deserves. As well as that, curations 
+Given the etymology above, to what is care being given with the curation? The audience's attention, or the data? Perhaps, both. Curations can be thought of as giving the participation, and the data generated as a result, the storytelling platform it deserves. Curations are about creating examples of system transformation. They are about demonstrating potential alternative futures being lived into, inspiring hope and educating their readers on what is required to bring about the start of whole system transition pathways. 
