@@ -95,7 +95,6 @@ export default function GraphRenderer({ nodes, edges }: GraphRendererProps) {
         {
           selector: 'edge',
           style: {
-            label: 'data(label)',
             width: 1,
             'opacity': 0.5,
             'line-color': '#444', // Silver/grey edges
