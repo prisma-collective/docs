@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/enrolment/index.md",
+                "file": "processes/process-infrastructuring/publishing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "publishing"
             }
           }
         ],
@@ -221,8 +221,10 @@
   },
   "active": "3fa69dddd713c794",
   "lastOpenFiles": [
-    "index.mdx",
+    "processes/process-infrastructuring/resources/Obsidian Setup & Writing Tutorial.md",
+    "processes/process-infrastructuring/publishing.md",
     "processes/enrolment/index.md",
+    "index.mdx",
     "events/accra.mdx",
     "processes/evaluation/index.md",
     "evaluating.png.md",
@@ -244,7 +246,6 @@
     "context & narrative/Stakeholders and Growth Strategy.mdx",
     "collaborators/communities of practice/practice networks.md",
     "processes/evaluation/1. Orientation/c. Tech & Tools.md",
-    "processes/evaluation/1. Orientation/a. Foundations.mdx",
     "processes/evaluation/2. Methodology/c. Analysis.md",
     "processes/evaluation/3. Practicals/a. Co-Creation Guide.md",
     "processes/evaluation/2. Methodology/index.md",

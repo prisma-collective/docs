@@ -11,7 +11,6 @@ sidebarTitle: Enrolment
 ---
 
 import { Steps } from 'nextra/components'
-
 # Context
 Enrolment is the process of engaging stakeholders and participants in the co-design of the [action-learning journeys](/patterns/action-learning%20journeys.md) intensive. This process is crucial for building trust, ensuring alignment with local contexts, and fostering a sense of ownership with the outcome aims. Key components of the enrolment process include...
 
