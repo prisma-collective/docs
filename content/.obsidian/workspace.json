@@ -54,6 +54,30 @@
               "icon": "lucide-file",
               "title": "publishing"
             }
+          },
+          {
+            "id": "492a008937048a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "processes/process-infrastructuring/subscribing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "subscribing"
+            }
           }
         ],
         "currentTab": 1
@@ -221,8 +245,9 @@
   },
   "active": "3fa69dddd713c794",
   "lastOpenFiles": [
-    "processes/process-infrastructuring/resources/Obsidian Setup & Writing Tutorial.md",
+    "processes/process-infrastructuring/subscribing.md",
     "processes/process-infrastructuring/publishing.md",
+    "processes/process-infrastructuring/resources/Obsidian Setup & Writing Tutorial.md",
     "processes/enrolment/index.md",
     "index.mdx",
     "events/accra.mdx",
