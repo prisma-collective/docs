@@ -14,13 +14,19 @@ almost all tooling being leveraged to develop a case-study, especially the docs 
 # Curation
 as a reminder, a case-study is comprised of four interrelated layers, with increasingly fine-grained data:
 
-1. Curation - the most polished, and also the most abstracted. see [prisma.events](https://www.prisma.events)
+1. Curation - the most polished, and also the most abstracted. see [prisma.events](https://www.prisma.events/action)
 2. Archive - more complete, and also more raw and rugged. see [docs.prisma.events](https://docs.prisma.events)
-3. Integrations - custom applications serving specific transformations. see [evaluate.prisma.events](https://evaluate.prisma.events) and [timelining](processes/process-infrastructuring/timelining/index.md)
+3. Integrations - custom applications serving specific transformations.
 4. Aspects - [practice-currencies](/processes/process-infrastructuring/practice-currencies). lowest-level detail, leveraging accounts of peer-to-peer interactions
 
 these layers each address different qualities of communicating action-learning. the curation is the most-accessible and most engaging, intended to be a doorway into the whole world of systems created within an ALJ, all aligning around the purpose of working on the essence of place. 
 
 ![case-study.png](/case-study.png)
 
-in that sense, the curation is likely to be the last laye
+in that sense, the curation is likely to be the last layer addressed for an ALJ, as it draws upon the lower layers' data to create a credible storytelling of an unlikely occurrence. 
+
+> *curation (n.)*
+> 
+> late 14c., _curacioun_, "curing of disease, restoration to health," from Old French _curacion_ "treatment of illness," from Latin _curationem_ (nominative _curatio_), "a taking care, attention, management," especially "medical attention," noun of action from past-participle stem of _curare_ "to cure".
+
+Given the etymology above, to what is care being given in the curation? The audience's attention or the data? Perhaps, both. Curations can be thought of giving the participation and the data generated as a result the storytelling platform it deserves. As well as that, curations 
