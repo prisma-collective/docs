@@ -1,0 +1,8 @@
+{
+    "cron": [
+        {
+            "path": "/api/documents",
+            "schedule": "0 4 * * *"
+        }
+    ]
+}

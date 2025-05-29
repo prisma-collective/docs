@@ -1,26 +1,35 @@
 'use client';
 
-import { useChat } from 'ai/react';
+import { useChat } from '@ai-sdk/react';
+import { Message } from 'ai';
 
-export default function Chat() {
-    const { messages, input, handleInputChange, handleSubmit } = useChat();
-    return (
-        <div className="flex flex-col w-full max-w-md py-24 mx-auto stretch">
-        {messages.map(m => (
-            <div key={m.id} className="whitespace-pre-wrap">
-            {m.role === 'user' ? 'User: ' : 'AI: '}
-            {m.content}
-            </div>
+export default function ChatRAG() {
+  const { messages, input, handleInputChange, handleSubmit } = useChat({
+    api: '/api/rag', 
+  });
+
+  return (
+    <div className="p-4">
+      <div className="space-y-2 mb-4">
+        {messages.map((message: Message) => (
+          <div key={message.id} className="text-sm">
+            <strong>{message.role === 'user' ? 'User' : 'AI'}:</strong> {message.content}
+          </div>
         ))}
+      </div>
 
-        <form onSubmit={handleSubmit}>
-            <input
-            className="fixed bottom-10 w-full max-w-md p-2 mb-8 border border-gray-300 rounded "
-            value={input}
-            placeholder="Say something..."
-            onChange={handleInputChange}
-            />
-        </form>
-        </div>
-    );
+      <form onSubmit={handleSubmit} className="flex gap-2">
+        <input
+          name="prompt"
+          value={input}
+          onChange={handleInputChange}
+          className="flex-1 border border-gray-500 rounded px-3 py-2"
+          placeholder="Type your message..."
+        />
+        <button type="submit" className="bg-white text-black px-4 py-2 rounded-2xl">
+          Submit
+        </button>
+      </form>
+    </div>
+  );
 }

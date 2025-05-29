@@ -1,11 +1,5 @@
-import OpenAI from 'openai';
 import { Dewy } from 'dewy-ts';
-import { ChatCompletionMessageParam } from 'openai/resources/chat/completions';
 
-// Create Dewy and OpenAI clients
-const openai = new OpenAI({
-    apiKey: process.env.OPENAI_API_KEY
-})
 const dewy = new Dewy({
     BASE: process.env.DEWY_ENDPOINT
 })
