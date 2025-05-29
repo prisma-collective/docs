@@ -9,6 +9,7 @@ import { EventCard } from '@/components/EventCard';
 import TeamTabs from '@/components/TeamTabs';
 import TopicTabs from '@/components/TopicTabs'
 import GraphVisualisation from '@/components/GraphVisualisation';
+import ChatRAG from '@/components/ChatRAG';
 
 // Get the default MDX components
 const themeComponents = getThemeComponents()
@@ -27,6 +28,7 @@ export function useMDXComponents(components) {
     TeamTabs,
     TopicTabs,
     GraphVisualisation,
+    ChatRAG,
     ...components
   }
 }

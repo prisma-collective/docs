@@ -245,8 +245,9 @@
   },
   "active": "3fa69dddd713c794",
   "lastOpenFiles": [
-    "patterns/case-study.md",
+    "processes/process-infrastructuring/index.mdx",
     "processes/process-infrastructuring/publishing.md",
+    "patterns/case-study.md",
     "processes/process-infrastructuring/subscribing.md",
     "processes/process-infrastructuring/resources/Obsidian Setup & Writing Tutorial.md",
     "processes/enrolment/index.md",
@@ -279,7 +280,6 @@
     "processes/evaluation/2. Methodology/a. Baselining.md",
     "processes/evaluation/3. Practicals/c. Accra ALJ.md",
     "processes/enactment/3. emergent learning.md",
-    "processes/enrolment/Applicant Interview Guiding Questions.md",
-    "processes/evaluation/3. Practicals/b. Templates.md"
+    "processes/enrolment/Applicant Interview Guiding Questions.md"
   ]
 }
