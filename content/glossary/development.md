@@ -1,0 +1,1 @@
+development is 1, 2, 3. development is also h4ug92480532hrfocxdvmessy and chaotic and emergent. development is a seed becoming a blossoming flower, or a fruit-bearing mango, harvested by neighbours. development is increasing orders of effectiveness in navigating complexity by self-organising the capacities needed to make meaningful actions in a living, evolving world. 

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/process-infrastructuring/publishing.md",
+                "file": "glossary/Process Design Collective.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "publishing"
+              "title": "Process Design Collective"
+            }
+          },
+          {
+            "id": "00e31499e9e81e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "glossary/development.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "development"
             }
           },
           {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,10 +267,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fa69dddd713c794",
+  "active": "00e31499e9e81e8c",
   "lastOpenFiles": [
-    "processes/process-infrastructuring/index.mdx",
+    "glossary/Process Design Collective.md",
+    "glossary/development.md",
+    "context & narrative/Core Value-Systems.mdx",
     "processes/process-infrastructuring/publishing.md",
+    "processes/process-infrastructuring/index.mdx",
     "patterns/case-study.md",
     "processes/process-infrastructuring/subscribing.md",
     "processes/process-infrastructuring/resources/Obsidian Setup & Writing Tutorial.md",
@@ -268,9 +295,7 @@
     "processes/ground-potentialising/ground-potentialising.mdx",
     "processes/enactment/1. learning arcs.mdx",
     "processes/enactment/2. sense of place.mdx",
-    "processes/process-infrastructuring/timelining/ingest.mdx",
     "processes/process-infrastructuring/timelining/index.md",
-    "context & narrative/Stakeholders and Growth Strategy.mdx",
     "collaborators/communities of practice/practice networks.md",
     "processes/evaluation/1. Orientation/c. Tech & Tools.md",
     "processes/evaluation/2. Methodology/c. Analysis.md",
@@ -279,7 +304,6 @@
     "processes/evaluation/2. Methodology/b. Reading.md",
     "processes/evaluation/2. Methodology/a. Baselining.md",
     "processes/evaluation/3. Practicals/c. Accra ALJ.md",
-    "processes/enactment/3. emergent learning.md",
-    "processes/enrolment/Applicant Interview Guiding Questions.md"
+    "processes/enactment/3. emergent learning.md"
   ]
 }
