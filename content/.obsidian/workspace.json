@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/evaluation/index.md",
+                "file": "glossary/systemic intervention.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "3fa69dddd713c794",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "glossary/Process Design Collective.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Process Design Collective"
-            }
-          },
-          {
-            "id": "00e31499e9e81e8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "glossary/development.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "development"
-            }
-          },
-          {
-            "id": "492a008937048a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "processes/process-infrastructuring/subscribing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "subscribing"
+              "title": "systemic intervention"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,11 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00e31499e9e81e8c",
+  "active": "bb2dc8a1c133c776",
   "lastOpenFiles": [
-    "glossary/Process Design Collective.md",
+    "patterns/action-learning.md",
+    "glossary/systemic intervention.md",
     "glossary/development.md",
     "context & narrative/Core Value-Systems.mdx",
+    "glossary/Capacity-Building.md",
+    "processes/evaluation/index.md",
+    "glossary/Process Design Collective.md",
     "processes/process-infrastructuring/publishing.md",
     "processes/process-infrastructuring/index.mdx",
     "patterns/case-study.md",
@@ -280,7 +211,6 @@
     "processes/enrolment/index.md",
     "index.mdx",
     "events/accra.mdx",
-    "processes/evaluation/index.md",
     "evaluating.png.md",
     "processes/enactment/index.md",
     "processes/index.md",
@@ -301,9 +231,6 @@
     "processes/evaluation/2. Methodology/c. Analysis.md",
     "processes/evaluation/3. Practicals/a. Co-Creation Guide.md",
     "processes/evaluation/2. Methodology/index.md",
-    "processes/evaluation/2. Methodology/b. Reading.md",
-    "processes/evaluation/2. Methodology/a. Baselining.md",
-    "processes/evaluation/3. Practicals/c. Accra ALJ.md",
-    "processes/enactment/3. emergent learning.md"
+    "processes/evaluation/2. Methodology/b. Reading.md"
   ]
 }
