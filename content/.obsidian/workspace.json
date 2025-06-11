@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glossary/bioregion.md",
+                "file": "events/accra.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bioregion"
+              "title": "accra"
+            }
+          },
+          {
+            "id": "fb8826330ebc9ffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "events/resilience.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "resilience"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +219,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb2dc8a1c133c776",
+  "active": "fb8826330ebc9ffc",
   "lastOpenFiles": [
+    "events/accra.mdx",
+    "events/resilience.md",
+    "glossary/bioregion.md",
     "glossary/Word.md",
     "context & narrative/Core Value-Systems.mdx",
     "context & narrative/index.md",
@@ -212,7 +240,6 @@
     "processes/process-infrastructuring/resources/Obsidian Setup & Writing Tutorial.md",
     "processes/enrolment/index.md",
     "index.mdx",
-    "events/accra.mdx",
     "evaluating.png.md",
     "processes/enactment/index.md",
     "processes/index.md",
@@ -228,9 +255,6 @@
     "processes/enactment/1. learning arcs.mdx",
     "processes/enactment/2. sense of place.mdx",
     "processes/process-infrastructuring/timelining/index.md",
-    "collaborators/communities of practice/practice networks.md",
-    "processes/evaluation/1. Orientation/c. Tech & Tools.md",
-    "processes/evaluation/2. Methodology/c. Analysis.md",
-    "processes/evaluation/3. Practicals/a. Co-Creation Guide.md"
+    "collaborators/communities of practice/practice networks.md"
   ]
 }
