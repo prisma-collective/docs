@@ -239,8 +239,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false
+      "publish:Publish changes...": false
     }
   },
   "active": "3fa69dddd713c794",
