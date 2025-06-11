@@ -1,7 +1,8 @@
-2050 - 30%
-2030 - 20%
+The greater whole: European states need to transition to higher percentage of protected spaces by 2050, with a milestone at 2030:
+- 2050 - 30%
+- 2030 - 20%
 
-Spain below that. Many countries below that.
+Spain is below that. Many countries below that.
 
 The classification has rules, but no one managing it. Public administration can't manage that because it doesn't have that much surplus. 
 
