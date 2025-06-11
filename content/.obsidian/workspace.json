@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glossary/systemic intervention.md",
+                "file": "glossary/bioregion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "systemic intervention"
+              "title": "bioregion"
             }
           }
         ]
@@ -196,10 +196,11 @@
   },
   "active": "bb2dc8a1c133c776",
   "lastOpenFiles": [
+    "context & narrative/Core Value-Systems.mdx",
+    "context & narrative/index.md",
+    "glossary/development.md",
     "patterns/action-learning.md",
     "glossary/systemic intervention.md",
-    "glossary/development.md",
-    "context & narrative/Core Value-Systems.mdx",
     "glossary/Capacity-Building.md",
     "processes/evaluation/index.md",
     "glossary/Process Design Collective.md",
@@ -229,8 +230,6 @@
     "collaborators/communities of practice/practice networks.md",
     "processes/evaluation/1. Orientation/c. Tech & Tools.md",
     "processes/evaluation/2. Methodology/c. Analysis.md",
-    "processes/evaluation/3. Practicals/a. Co-Creation Guide.md",
-    "processes/evaluation/2. Methodology/index.md",
-    "processes/evaluation/2. Methodology/b. Reading.md"
+    "processes/evaluation/3. Practicals/a. Co-Creation Guide.md"
   ]
 }
