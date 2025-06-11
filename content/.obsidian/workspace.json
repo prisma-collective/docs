@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "events/accra.mdx",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "accra"
-            }
-          },
-          {
-            "id": "fb8826330ebc9ffc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "events/resilience.md",
                 "mode": "source",
                 "source": false,
@@ -54,9 +30,18 @@
               "icon": "lucide-file",
               "title": "resilience"
             }
+          },
+          {
+            "id": "fb8826330ebc9ffc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9234ef027512c560",
@@ -219,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb8826330ebc9ffc",
+  "active": "bb2dc8a1c133c776",
   "lastOpenFiles": [
     "events/accra.mdx",
     "events/resilience.md",
