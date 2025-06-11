@@ -32,7 +32,7 @@ Contribution accounting:
 
 - Hubs are attractors, helps manage complexity. Complexity moves in a certain way around those attractors. 
 - Mobilising and/ or managing the people around 
-- Restraint on sociocratic organising and contribtion accounting because the anarchist culture in catalunya is too unorganisable.
+- Restraint on sociocratic organising and contribtion accounting because the anarchist culture in Catalunya has an inertia against being asked to formalise in any particular way that they might not necessarily want to.
 
 Purpose of accelerator: producing case-studies like the river project that are examples of really democracitally commonizing a natural space. 
 
@@ -43,4 +43,6 @@ Potential:
 - No separation of people and landscapes, interconnected
 - To get there we need to make decisions together
 	- Currently, if you try to talk to people they will shout at you
-	- Or they want to do it horizontally untli you exhaust yourself 
+	- Or they want to do it horizontally until you exhaust yourself and reach consensus
+- These are key capabilities that municipalities don't currently have
+- So we need to 
