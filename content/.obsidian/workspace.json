@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "events/resilience.md",
+                "file": "processes/process-infrastructuring/timelining/index.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "resilience"
-            }
-          },
-          {
-            "id": "fb8826330ebc9ffc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "index"
             }
           }
         ]
@@ -98,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9234ef027512c560",
@@ -209,6 +198,7 @@
   "lastOpenFiles": [
     "events/accra.mdx",
     "events/resilience.md",
+    "collaborators/Contracts.md",
     "glossary/bioregion.md",
     "glossary/Word.md",
     "context & narrative/Core Value-Systems.mdx",
@@ -240,7 +230,6 @@
     "processes/ground-potentialising/ground-potentialising.mdx",
     "processes/enactment/1. learning arcs.mdx",
     "processes/enactment/2. sense of place.mdx",
-    "processes/process-infrastructuring/timelining/index.md",
-    "collaborators/communities of practice/practice networks.md"
+    "processes/process-infrastructuring/timelining/index.md"
   ]
 }

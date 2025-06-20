@@ -1,4 +1,5 @@
 The greater whole: European states need to transition to higher percentage of protected spaces by 2050, with a milestone at 2030:
+
 - 2050 - 30%
 - 2030 - 20%
 
@@ -25,7 +26,7 @@ Indicators:
 
 - Biodiversity: if governance is done well biodiversity should increase
 
-Citizen science vs. citizen sensing.
+Citizen science vs. citizen sensing - people just taking pictures of stuff. 
 
 How in touch with the orgs are you after the accelerator? Not as much as they'd like to.
 
@@ -40,10 +41,18 @@ Purpose of accelerator: producing case-studies like the river project that are e
 Potential:
 
 - Evolving democracy
-- Circular economy: engage with the river: ever link is leading back to making the river healthier
+- Circular economy: engage with the river: every link is leading back to making the river healthier
 - No separation of people and landscapes, interconnected
 - To get there we need to make decisions together
 	- Currently, if you try to talk to people they will shout at you
 	- Or they want to do it horizontally until you exhaust yourself and reach consensus
 - These are key capabilities that municipalities don't currently have
-- So we need to 
+- So we need to ...
+
+---
+
+# Agenda Building
+- Bootcamp 2 dias
+- Sprints
+	- 8 sprints in total
+	- Demo day 13 Dec
