@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collaborators/process-designers/index.mdx",
+                "file": "collaborators/process-designers/enacting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "enacting"
             }
           }
         ]
@@ -197,6 +197,7 @@
   "active": "1737ff67d67897d4",
   "lastOpenFiles": [
     "collaborators/process-designers/index.mdx",
+    "processes/enrolment/index.mdx",
     "collaborators/process-designers/enacting.md",
     "collaborators/process-designers/index.md",
     "collaborators/process-designers/process-infrastructuring.md",
@@ -205,7 +206,6 @@
     "processes/process-infrastructuring/timelining/index.mdx",
     "collaborators/process-designers",
     "processes/enrolment/index.md",
-    "processes/enrolment/index.mdx",
     "processes/enrolment/Negotiating Scope.md",
     "processes/enrolment/Hub Enrollment Form Design.md",
     "events/accra.mdx",
