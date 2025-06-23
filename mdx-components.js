@@ -5,6 +5,7 @@ import StandardButton from '@/components/StandardButton';
 import TeamCards from '@/components/TeamCards';
 import ActiveJourneyDisplay from '@/components/ActiveJourneyDisplay';
 import CohortCards from '@/components/CohortCards';
+import { EventCard } from '@/components/EventCard';
 
 // Get the default MDX components
 const themeComponents = getThemeComponents()
@@ -19,6 +20,7 @@ export function useMDXComponents(components) {
     TeamCards,
     ActiveJourneyDisplay,
     CohortCards,
+    EventCard,
     ...components
   }
 }

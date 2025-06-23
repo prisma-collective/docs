@@ -4,7 +4,7 @@ import { createContext, useState, useContext, ReactNode } from 'react';
 
 const MOCK_JOURNEY_DID = {
   "journeyId": "0xrh3rh803ht38023t8024gh0i2hg2oewvhfghal2r0h",
-  "journeyName": "Accra Resource Center"
+  "journeyName": "Accra Resource Centre"
 }
 
 type JourneyData = {

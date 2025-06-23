@@ -32,45 +32,48 @@ export default function CohortCards({ event_api_id }: CohortCardsProps) {
             links: [
               ...(participant.registration_answers || []).map((answer: any) => {
                 const label = answer.label.toLowerCase();
-                const answerText = answer.answer?.trim();
-                if (!answerText) return null;
+                
+                if (typeof answer.answer === 'string') {
+                  const answerText = answer.answer?.trim();
+                  if (!answerText) return null;
 
-                const isUrl = answerText.startsWith('https://');
+                  const isUrl = answerText.startsWith('https://');
 
-                if (label.includes('telegram handle')) {
-                  const url = isUrl ? answerText : `https://t.me/${answerText.replace(/^@/, '')}`;
-                  return {
-                    label: 'Message',
-                    url,
-                    icon: 'FaTelegram',
-                  };
-                }
+                  if (label.includes('telegram handle')) {
+                    const url = isUrl ? answerText : `https://t.me/${answerText.replace(/^@/, '')}`;
+                    return {
+                      label: 'Message',
+                      url,
+                      icon: 'FaTelegram',
+                    };
+                  }
 
-                if (label.includes('cal.com')) {
-                  const url = isUrl ? answerText : `https://cal.com/${answerText.replace(/^@/, '')}`;
-                  return {
-                    label: 'Meet',
-                    url,
-                    icon: 'FaPhone',
-                  };
-                }
+                  if (label.includes('cal.com')) {
+                    const url = isUrl ? answerText : `https://cal.com/${answerText.replace(/^@/, '')}`;
+                    return {
+                      label: 'Meet',
+                      url,
+                      icon: 'FaPhone',
+                    };
+                  }
 
-                if (label.includes('x (twitter)')) {
-                  const url = isUrl ? answerText : `https://twitter.com/${answerText.replace(/^@/, '')}`;
-                  return {
-                    label: 'X (Twitter)',
-                    url,
-                    icon: 'FaXTwitter',
-                  };
-                }
+                  if (label.includes('x (twitter)')) {
+                    const url = isUrl ? answerText : `https://twitter.com/${answerText.replace(/^@/, '')}`;
+                    return {
+                      label: 'X (Twitter)',
+                      url,
+                      icon: 'FaXTwitter',
+                    };
+                  }
 
-                if (label.includes('github')) {
-                  const url = isUrl ? answerText : `https://github.com/${answerText.replace(/^@/, '')}`;
-                  return {
-                    label: 'GitHub',
-                    url,
-                    icon: 'FaGithub',
-                  };
+                  if (label.includes('github')) {
+                    const url = isUrl ? answerText : `https://github.com/${answerText.replace(/^@/, '')}`;
+                    return {
+                      label: 'GitHub',
+                      url,
+                      icon: 'FaGithub',
+                    };
+                  }
                 }
                 return null;
               }).filter(Boolean),
