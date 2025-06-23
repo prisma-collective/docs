@@ -114,22 +114,6 @@ Describes the agreed exchange of value — monetary or otherwise.
 
 [If applicable: travel, tools, training, etc.]
 
-# Legal and Ethical Grounding
-
-Defines any formal agreements or ethical considerations required by the role.
-
-### Legal Status
-
-[Independent contractor, contributor, steward, etc.]
-
-### Community Agreements
-
-[Any relevant local/community protocols, especially for land-based or relational work]
-
-### Ethical Commitments
-
-[Consent, anti-extraction, cultural responsibility, etc.]
-
 # Cultural Patterning
 
 Outlines the cultural lineages, metaphors, and values that inform this role.
