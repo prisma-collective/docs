@@ -56,7 +56,7 @@ export const EventCard: React.FC<EventCardProps> = ({
         </h1>
         )}
 
-        <div className="flex flex-col mb-10 md:mb-0">
+        <div className="flex flex-col mb-10 md:mb-0 z-10">
             {fields.map((field, idx) => (
                 <div key={idx} className="flex py-1">
                     {/* Label column — fixed width, right aligned */}

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9d4f863b3d36ac8",
+        "id": "42e83be15f874d50",
         "type": "tabs",
         "children": [
           {
-            "id": "65bf62b8c9de3172",
+            "id": "bb2dc8a1c133c776",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "context & narrative/Stakeholders and Growth Strategy.mdx",
+                "file": "processes/process-infrastructuring/timelining/index.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stakeholders and Growth Strategy"
+              "title": "index"
             }
           }
         ]
@@ -194,36 +194,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65bf62b8c9de3172",
+  "active": "bb2dc8a1c133c776",
   "lastOpenFiles": [
     "events/accra.mdx",
-    "collaborators/communities of practice/practice networks.md",
-    "processes/enrolment/index.md",
-    "processes/enactment/1. learning arcs.mdx",
+    "events/resilience.md",
+    "collaborators/Contracts.md",
+    "glossary/bioregion.md",
+    "glossary/Word.md",
+    "context & narrative/Core Value-Systems.mdx",
+    "context & narrative/index.md",
+    "glossary/development.md",
+    "patterns/action-learning.md",
+    "glossary/systemic intervention.md",
+    "glossary/Capacity-Building.md",
     "processes/evaluation/index.md",
+    "glossary/Process Design Collective.md",
+    "processes/process-infrastructuring/publishing.md",
+    "processes/process-infrastructuring/index.mdx",
+    "patterns/case-study.md",
+    "processes/process-infrastructuring/subscribing.md",
+    "processes/process-infrastructuring/resources/Obsidian Setup & Writing Tutorial.md",
+    "processes/enrolment/index.md",
+    "index.mdx",
+    "evaluating.png.md",
+    "processes/enactment/index.md",
+    "processes/index.md",
     "processes/evaluation/b. Design.mdx",
+    "processes/evaluation/3. Practicals/index.md",
+    "processes/evaluation/1. Orientation/index.md",
     "processes/evaluation/1. Orientation/a. Foundations.md",
     "processes/evaluation/1. Orientation/b. Framework.md",
-    "processes/evaluation/1. Orientation/c. Tech & Tools.md",
-    "processes/evaluation/1. Orientation/a. Foundations.mdx",
-    "processes/evaluation/index.mdx",
-    "processes/evaluation/1. Orientation/index.md",
-    "processes/enactment/index.md",
-    "processes/enactment/2. sense of place.mdx",
-    "processes/evaluation/3. Practicals/index.md",
-    "processes/evaluation/2. Methodology/c. Analysis.md",
-    "processes/evaluation/3. Practicals/a. Co-Creation Guide.md",
-    "processes/evaluation/2. Methodology/index.md",
-    "processes/evaluation/2. Methodology/b. Reading.md",
-    "processes/evaluation/2. Methodology/a. Baselining.md",
     "processes/enrolment/Applicant Interview Guiding Questions.mdx",
-    "processes/evaluation/3. Practicals/c. Accra ALJ.md",
-    "processes/enactment/3. emergent learning.md",
-    "processes/process-infrastructuring/practice-currencies.mdx",
-    "processes/enrolment/Applicant Interview Guiding Questions.md",
-    "processes/evaluation/3. Practicals/b. Templates.md",
-    "processes/evaluation/3. Practicals",
-    "processes/evaluation/2. Methodology",
-    "processes/evaluation/a. Introduction.md"
+    "processes/process-infrastructuring/timelining/index.mdx",
+    "processes/ground-potentialising/ground-potentialising.md",
+    "processes/ground-potentialising/ground-potentialising.mdx",
+    "processes/enactment/1. learning arcs.mdx",
+    "processes/enactment/2. sense of place.mdx",
+    "processes/process-infrastructuring/timelining/index.md"
   ]
 }

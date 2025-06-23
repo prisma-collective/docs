@@ -47,7 +47,7 @@ export default function TeamCards({ team }: TeamCardsProps) {
     }
 
     try {
-      const res = await fetch(`/api/${handle}`);
+      const res = await fetch(`/api/participants/${handle}`);
       
       if (!res.ok) {
         throw new Error(`Failed to fetch data: ${res.statusText}`);
