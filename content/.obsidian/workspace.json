@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collaborators/process-designers/enacting.md",
+                "file": "processes/enrolment/index.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "enacting"
+              "title": "index"
             }
           }
         ]
@@ -196,17 +196,21 @@
   },
   "active": "1737ff67d67897d4",
   "lastOpenFiles": [
-    "glossary/resourcing.md",
+    "processes/enactment/2. sense of place.mdx",
+    "processes/enrolment/index.mdx",
+    "processes/enactment/1. learning arcs.mdx",
     "processes/process-infrastructuring/index.mdx",
-    "processes/enactment/index.md",
+    "processes/process-infrastructuring/practice-currencies.mdx",
+    "processes/process-infrastructuring/timelining/ingest.mdx",
+    "processes/process-infrastructuring/timelining/index.mdx",
     "collaborators/process-designers/enacting.md",
+    "glossary/resourcing.md",
+    "processes/enactment/index.md",
     "collaborators/process-designers/index.mdx",
     "collaborators/process-designers/process-infrastructuring.md",
     "collaborators/process-designers/gound-potentialising.md",
     "collaborators/process-designers/evaluating.md",
-    "processes/enrolment/index.mdx",
     "collaborators/process-designers/index.md",
-    "processes/process-infrastructuring/timelining/index.mdx",
     "collaborators/process-designers",
     "processes/enrolment/index.md",
     "processes/enrolment/Negotiating Scope.md",
@@ -227,9 +231,6 @@
     "processes/process-infrastructuring/publishing.md",
     "patterns/case-study.md",
     "processes/process-infrastructuring/subscribing.md",
-    "processes/process-infrastructuring/resources/Obsidian Setup & Writing Tutorial.md",
-    "index.mdx",
-    "processes/evaluation/b. Design.mdx",
-    "processes/enrolment/Applicant Interview Guiding Questions.mdx"
+    "processes/process-infrastructuring/resources/Obsidian Setup & Writing Tutorial.md"
   ]
 }
