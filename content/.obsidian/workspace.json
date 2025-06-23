@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collaborators/process-designers/enacting.md",
+                "file": "collaborators/process-designers/index.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "enacting"
+              "title": "index"
             }
           }
         ]
@@ -196,9 +196,9 @@
   },
   "active": "1737ff67d67897d4",
   "lastOpenFiles": [
+    "collaborators/process-designers/enacting.md",
     "collaborators/process-designers/index.mdx",
     "processes/enrolment/index.mdx",
-    "collaborators/process-designers/enacting.md",
     "collaborators/process-designers/index.md",
     "collaborators/process-designers/process-infrastructuring.md",
     "collaborators/process-designers/gound-potentialising.md",
