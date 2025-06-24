@@ -17,8 +17,8 @@ The purpose of Enacting is to develop the processes by which participants of an 
 - The overall movement that the ALJ facilitation is holding - i.e. the action of a given ALJ as a whole.
 - Key evaluation touchpoints that generate the data necessary to make visible key differences in approach:
 	- Living systems vs. mechanistic
-	- Pedagogical vs. depositing
-	- Place-sourced vs. copy-paste
+	- Pedagogical vs. depositing [^1]
+	- Place-sourced vs. pre-defined
 	- Complexity-aware vs. reductionist
 	- etc...
 - The developmental and pedagogical aspects of the action - how the process will be rich with learnings in a way that is meaningful to the place in which the ALJ is hosted. 
@@ -122,3 +122,5 @@ Per ALJ.
 As a core role, Enacting is entrusted with equity share, decided on a case-by-case basis between the core team. 
 #### Reimbursement
 Travel to and from ALJ intensives will be covered where possible.
+
+[^1]: Pedagogy of the Oppressed, Paulo Freire, [ref](https://app.thestorygraph.com/books/64adab37-10d8-402d-a36c-36550bfcce14)
