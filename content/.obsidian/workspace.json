@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collaborators/process-designers/enacting.md",
+                "file": "collaborators/process-designers/enacting contract.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "enacting"
+              "title": "enacting contract"
             }
           }
         ]
@@ -196,6 +196,8 @@
   },
   "active": "1737ff67d67897d4",
   "lastOpenFiles": [
+    "collaborators/process-designers/evaluating.md",
+    "collaborators/process-designers/enacting contract.md",
     "processes/enactment/2. sense of place.mdx",
     "processes/enrolment/index.mdx",
     "processes/enactment/1. learning arcs.mdx",
@@ -203,13 +205,11 @@
     "processes/process-infrastructuring/practice-currencies.mdx",
     "processes/process-infrastructuring/timelining/ingest.mdx",
     "processes/process-infrastructuring/timelining/index.mdx",
-    "collaborators/process-designers/enacting.md",
     "glossary/resourcing.md",
     "processes/enactment/index.md",
     "collaborators/process-designers/index.mdx",
     "collaborators/process-designers/process-infrastructuring.md",
     "collaborators/process-designers/gound-potentialising.md",
-    "collaborators/process-designers/evaluating.md",
     "collaborators/process-designers/index.md",
     "collaborators/process-designers",
     "processes/enrolment/index.md",
@@ -220,7 +220,6 @@
     "collaborators/Contracts.md",
     "glossary/bioregion.md",
     "glossary/Word.md",
-    "context & narrative/Core Value-Systems.mdx",
     "context & narrative/index.md",
     "glossary/development.md",
     "patterns/action-learning.md",
