@@ -1,8 +1,10 @@
 // app/api/graph/route.ts
 import { NextRequest } from 'next/server';
 
+const NEO4J_CONNECTION_STRING = process.env.NEO4J_CONNECTION_STRING;
+
 export async function GET(_req: NextRequest) {
-  const externalRes = await fetch('https://timelining-kw3j2iaau-prisma-collective.vercel.app/api/visualise/all', {
+  const externalRes = await fetch(`${NEO4J_CONNECTION_STRING}/api/visualise/all`, {
     method: 'GET',
   });
 
