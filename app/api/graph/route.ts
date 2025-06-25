@@ -1,10 +1,10 @@
 // app/api/graph/route.ts
 import { NextRequest } from 'next/server';
 
-const NEO4J_CONNECTION_STRING = process.env.NEO4J_CONNECTION_STRING;
+const TIMELINING_URI = process.env.TIMELINING_URI;
 
 export async function GET(_req: NextRequest) {
-  const externalRes = await fetch(`${NEO4J_CONNECTION_STRING}/api/visualise/all`, {
+  const externalRes = await fetch(`${TIMELINING_URI}/api/visualise/all`, {
     method: 'GET',
   });
 
