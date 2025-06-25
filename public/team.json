@@ -41,6 +41,14 @@
         { "label": "LinkedIn", "url": "https://linkedin.com/in/tobias-fechner", "icon": "FaLinkedinIn" },
         { "label": "GitHub", "url": "https://github.com/tbsfchnr", "icon": "FaGithub" }
       ]
+    },
+    {
+      "name": "Noah",
+      "role": "web3 Fundraising",
+      "photo": "/noah.png",
+      "profile_card_link": "/context%20&%20narrative",
+      "links": [
+      ]
     }
   ]
   
