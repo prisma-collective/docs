@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "events/resilience.md",
+                "file": "patterns/action-learning journeys.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "resilience"
+              "title": "action-learning journeys"
             }
           }
         ],
@@ -221,6 +221,8 @@
   },
   "active": "5bfcffd2645e8feb",
   "lastOpenFiles": [
+    "patterns/case-study.md",
+    "events/resilience.md",
     "collaborators/Facilitators/index.mdx",
     "collaborators/index.mdx",
     "collaborators/index.md",
@@ -242,7 +244,6 @@
     "processes/enrolment/index.md",
     "processes/enrolment/Negotiating Scope.md",
     "processes/enrolment/Hub Enrollment Form Design.md",
-    "events/resilience.md",
     "collaborators/Contracts.md",
     "glossary/bioregion.md",
     "glossary/Word.md",
@@ -254,7 +255,6 @@
     "processes/evaluation/index.md",
     "glossary/Process Design Collective.md",
     "processes/process-infrastructuring/publishing.md",
-    "patterns/case-study.md",
     "processes/process-infrastructuring/subscribing.md"
   ]
 }
