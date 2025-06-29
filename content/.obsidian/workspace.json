@@ -221,6 +221,8 @@
   },
   "active": "5bfcffd2645e8feb",
   "lastOpenFiles": [
+    "processes/index.md",
+    "patterns/action-learning journeys.md",
     "patterns/case-study.md",
     "events/resilience.md",
     "collaborators/Facilitators/index.mdx",
@@ -254,7 +256,6 @@
     "glossary/Capacity-Building.md",
     "processes/evaluation/index.md",
     "glossary/Process Design Collective.md",
-    "processes/process-infrastructuring/publishing.md",
-    "processes/process-infrastructuring/subscribing.md"
+    "processes/process-infrastructuring/publishing.md"
   ]
 }
