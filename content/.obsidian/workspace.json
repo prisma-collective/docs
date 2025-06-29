@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/action-learning journeys.md",
+                "file": "collaborators/index.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "action-learning journeys"
+              "title": "index"
             }
           }
         ],
@@ -245,14 +245,14 @@
   },
   "active": "b643d5dc1c0cdb7d",
   "lastOpenFiles": [
+    "patterns/action-learning journeys.md",
+    "collaborators/index.mdx",
     "collaborators/index.md",
     "Practices/index.mdx",
-    "patterns/action-learning journeys.md",
     "processes/index.md",
     "patterns/case-study.md",
     "events/resilience.md",
     "collaborators/Facilitators/index.mdx",
-    "collaborators/index.mdx",
     "collaborators/Facilitators/enacting contract.md",
     "collaborators/Facilitators/evaluating.md",
     "processes/enactment/2. sense of place.mdx",

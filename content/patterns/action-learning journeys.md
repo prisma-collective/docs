@@ -19,3 +19,4 @@ An action-learning journey is a time-bound process in which a cohort of particip
 The [Replace Academy Case Study](/context%20&%20narrative/Replace%20Academy%20Case%20Study.md) is an example from a previous action-learning journey, which created the [aspect](aspects) of knowledge commoning. This ALJ was entirely crowd-sourced, and purely self-organising, hosted by [Astralship](https://astralship.org/).
 
 [Accra](/events/accra.mdx) is another example, which formed three teams, working on flooding, addictions and transport. This ALJ received [100k ADA](https://www.coinbase.com/en-de/price/cardano) sponsorship from [Cardano Catalyst](https://projectcatalyst.io/), and was hosted by [Accra Resource Centre](https://www.arcaccra.com/).
+
