@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collaborators/process-designers/enacting contract.md",
+                "file": "collaborators/Facilitators/index.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "enacting contract"
+              "title": "index"
+            }
+          },
+          {
+            "id": "5bfcffd2645e8feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "events/resilience.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "resilience"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +219,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1737ff67d67897d4",
+  "active": "5bfcffd2645e8feb",
   "lastOpenFiles": [
-    "collaborators/process-designers/evaluating.md",
-    "collaborators/process-designers/enacting contract.md",
+    "collaborators/Facilitators/index.mdx",
+    "collaborators/index.mdx",
+    "collaborators/index.md",
+    "collaborators/Facilitators/enacting contract.md",
+    "collaborators/Facilitators/evaluating.md",
     "processes/enactment/2. sense of place.mdx",
     "processes/enrolment/index.mdx",
     "processes/enactment/1. learning arcs.mdx",
@@ -207,15 +235,13 @@
     "processes/process-infrastructuring/timelining/index.mdx",
     "glossary/resourcing.md",
     "processes/enactment/index.md",
-    "collaborators/process-designers/index.mdx",
-    "collaborators/process-designers/process-infrastructuring.md",
-    "collaborators/process-designers/gound-potentialising.md",
+    "collaborators/Facilitators/process-infrastructuring.md",
+    "collaborators/Facilitators/gound-potentialising.md",
     "collaborators/process-designers/index.md",
-    "collaborators/process-designers",
+    "collaborators/Facilitators",
     "processes/enrolment/index.md",
     "processes/enrolment/Negotiating Scope.md",
     "processes/enrolment/Hub Enrollment Form Design.md",
-    "events/accra.mdx",
     "events/resilience.md",
     "collaborators/Contracts.md",
     "glossary/bioregion.md",
@@ -229,7 +255,6 @@
     "glossary/Process Design Collective.md",
     "processes/process-infrastructuring/publishing.md",
     "patterns/case-study.md",
-    "processes/process-infrastructuring/subscribing.md",
-    "processes/process-infrastructuring/resources/Obsidian Setup & Writing Tutorial.md"
+    "processes/process-infrastructuring/subscribing.md"
   ]
 }
