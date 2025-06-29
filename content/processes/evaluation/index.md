@@ -27,7 +27,7 @@ Most likely, you thought about one of the below:
 
 What is common across these? What could be the essence of evaluation?
 
-Evaluation is a [practice](https://www.perplexity.ai/content/glossary/Practice.md). That is, it is undertaken regularly, just like [enacting](https://www.perplexity.ai/content/processes/enactment/index) is, [capacity-building](https://www.perplexity.ai/content/glossary/Capacity-Building) is, documentation is, and all other iterative, evolutionary actions that make up any collective endeavor.
+Evaluation is a [Practice](/glossary/Practice.md). That is, it is undertaken regularly, just like [enacting](/processes/enactment/index.md) is, [Capacity-Building](/glossary/Capacity-Building.md) is, documentation is, and all other iterative, evolutionary actions that make up any collective endeavour.
 
 For any collective that is trying to work on something together, or any system that has emerged in response to fulfilling a need, evaluation is **that practice which enables it to _learn_**. For, in finding that which is of value, it is able to better shape its own growth towards the directions that are most suitable for its unique evolutionary trajectory.
 
@@ -45,9 +45,9 @@ We are building evaluation tooling and methodology that shows the truth of what 
 
 ## Why "Living Evaluation" Matters in Regenerative Systems
 
-Evaluation is the _living practice_ of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of social relationality, ecological vitality, cultural wisdom, governance systems and emergent possibility. At Prisma, we see evaluation as the _essence of organisational evolution_—a way for collectives to sense, adapt, and evolve their actions in harmony with the essence of [place](https://www.perplexity.ai/glossary/Place.md) and the [Living Systems Principles](Living Systems Principles) that bind us all.
+Evaluation is the _living practice_ of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of social relationality, ecological vitality, cultural wisdom, governance systems and emergent possibility. At Prisma, we see evaluation as the _essence of organisational evolution_—a way for collectives to sense, adapt, and evolve their actions in harmony with the essence of [Place](/glossary/Place.md) and the living systems Ppinciples that bind us all.
 
-At prisma, our mission is to enable collectives to undertake intentional [action-learning journeys](https://www.perplexity.ai/content/patterns/action-learning%20journeys.md), imbue them with regenerative potential, and make visible the value generated therein for the evolution of multiple levels of stakeholders and orders of systems.
+At prisma, our mission is to enable collectives to undertake intentional [action-learning journeys](/patterns/action-learning%20journeys.md), imbue them with regenerative potential, and make visible the value generated therein for the evolution of multiple levels of stakeholders and orders of systems.
 
 The purpose of evaluation then, is to assist this endeavor in three ways:
 
@@ -68,7 +68,7 @@ To redefine evaluation as a dynamic dialogue with life itself—a socio-technolo
 
 ## Mission
 
-To deploy and grow a technology-enabled general framework that adapts to [place](https://www.perplexity.ai/glossary/Place.md) & [practice](https://www.perplexity.ai/glossary/Practice.md) through honoring energy flow in its [multi-capital](Multi-Capitals Framework) forms and provides insight into evolution across a system's [five spheres](five spheres), empowering communities to steward regenerative futures.
+To deploy and grow a technology-enabled general framework that adapts to [Place](/glossary/Place.md) & [Practice](/glossary/Practice.md) through honoring energy flow in its multi-capital forms and provides insight into evolution across a system's five spheres, empowering communities to steward regenerative futures.
 
 ## Values
 
@@ -85,7 +85,7 @@ Our approach is built on the foundations of the following four pillars:
 
 ## Perspective
 
-We are grounded in an **ethos of co-creation**. We see our work as that of facilitators who work with [Place](https://www.perplexity.ai/glossary/Place.md) and [Practice](https://www.perplexity.ai/glossary/Practice.md) (and the humans stewarding them) to concoct the ideal recipes for long term, systemic catalysis.
+We are grounded in an **ethos of co-creation**. We see our work as that of facilitators who work with [Place](/glossary/Place.md) and [Practice](/glossary/Practice.md) (and the humans stewarding them) to concoct the ideal recipes for long term, systemic catalysis.
 
 As such, we hold the following perspectives towards evaluation:
 

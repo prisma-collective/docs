@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collaborators/index.mdx",
+                "file": "processes/evaluation/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -243,9 +243,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b643d5dc1c0cdb7d",
+  "active": "3ba641f7722323ec",
   "lastOpenFiles": [
+    "collaborators/participants/scribes.md",
     "patterns/action-learning journeys.md",
+    "processes/evaluation/index.md",
     "collaborators/index.mdx",
     "collaborators/index.md",
     "Practices/index.mdx",
@@ -278,7 +280,6 @@
     "patterns/action-learning.md",
     "glossary/systemic intervention.md",
     "glossary/Capacity-Building.md",
-    "processes/evaluation/index.md",
     "glossary/Process Design Collective.md"
   ]
 }
