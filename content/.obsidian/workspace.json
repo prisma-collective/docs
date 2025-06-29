@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "action-learning journeys"
             }
+          },
+          {
+            "id": "b643d5dc1c0cdb7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "patterns/action-learning journeys.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "action-learning journeys"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,15 +243,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bfcffd2645e8feb",
+  "active": "b643d5dc1c0cdb7d",
   "lastOpenFiles": [
-    "processes/index.md",
+    "collaborators/index.md",
+    "Practices/index.mdx",
     "patterns/action-learning journeys.md",
+    "processes/index.md",
     "patterns/case-study.md",
     "events/resilience.md",
     "collaborators/Facilitators/index.mdx",
     "collaborators/index.mdx",
-    "collaborators/index.md",
     "collaborators/Facilitators/enacting contract.md",
     "collaborators/Facilitators/evaluating.md",
     "processes/enactment/2. sense of place.mdx",
@@ -242,7 +267,6 @@
     "collaborators/Facilitators/process-infrastructuring.md",
     "collaborators/Facilitators/gound-potentialising.md",
     "collaborators/process-designers/index.md",
-    "collaborators/Facilitators",
     "processes/enrolment/index.md",
     "processes/enrolment/Negotiating Scope.md",
     "processes/enrolment/Hub Enrollment Form Design.md",
@@ -255,7 +279,6 @@
     "glossary/systemic intervention.md",
     "glossary/Capacity-Building.md",
     "processes/evaluation/index.md",
-    "glossary/Process Design Collective.md",
-    "processes/process-infrastructuring/publishing.md"
+    "glossary/Process Design Collective.md"
   ]
 }
