@@ -2,61 +2,25 @@
 sidebarTitle: 2. Methodology
 asIndexPage: true
 ---
-# Methodology
+# **Our Methodology: How We Catalyze Value**
 
-## The Living Practice of Evaluation
+Welcome to our methodology. This is the operational engine that brings our philosophy to life. Where our **Approach** explains the 'Why', our Methodology details the 'How'—the structured, participatory, and adaptive process we use to make regenerative value flows visible, trackable, and actionable.
 
-Our evaluation methodology represents a fundamental shift from traditional assessment approaches. Rather than focusing solely on outcomes or numerical data, we embrace evaluation as a living practice-a dynamic dialogue with the systems we seek to understand and nurture.
+Our methodology is not a rigid set of rules but a dynamic, living practice designed to work _with_ the complexity of living systems, not against it. It unfolds across three core phases, each designed to build upon the last in a continuous cycle of learning and evolution.
 
-This methodology is designed to capture the essence of regenerative development: the flow of multiple forms of capital through complex systems. By making these often-invisible flows visible, we enable communities to learn, adapt, and evolve in harmony with place and purpose.
+## **The Three Phases of Our Methodology**
 
-## Three-Stage Approach
+This section is organized around the three core phases of our work. Each page provides a detailed look into the purpose, activities, and outcomes of that stage.
 
-Our methodology unfolds through three interconnected stages that form a continuous learning cycle:
-
-1. **Baselining:** Establishing initial understanding of systemic conditions through co-creation
+1. **[Phase 1: Identifying Value](https://www.perplexity.ai/search/a.%20Phase%201%20-%20Identifying%20Value.md)**  
+    We begin by co-creating a shared understanding of what value means in a specific context, establishing the initial conditions and focus for our evaluation.
     
-2. **Reading:** Capturing the dynamic pulse of capital flows during the journey
+2. **[Phase 2: Tracking Catalysts](https://www.perplexity.ai/search/b.%20Phase%202%20-%20Tracking%20Catalysts.md)**  
+    We then use a multi-source, real-time approach to track the flow of value, identifying the key interactions, contributions, and events that catalyze systemic change.
     
-3. **Inferencing:** Synthesizing insights to inform future action and adaptation
-    
-
-This approach ensures that evaluation is not merely an afterthought but an integral part of the regenerative development process-informing action in real-time while building capacity for deeper systemic understanding.
-
-## Methodological Foundations
-
-Our approach draws inspiration from several complementary frameworks and practices:
-
-- **The MultiCapital Scorecard** (Thomas & McElroy): Providing structure for defining capitals and progression metrics relative to context-specific sustainability norms
-    
-- **Developmental Evaluation** (Patton): Offering principles for evaluation in complex, emergent contexts where traditional linear approaches fall short
-    
-- **Most Significant Change** technique (Davies & Dart): Contributing story-based methods that capture qualitative dimensions of transformation
-    
-- **Five Capitals Model** (Forum for the Future): Illustrating how managing and enhancing multiple capitals supports regenerative outcomes
-    
-- **Warm Data Labs** (Bateson): Methodology for contextual inquiry that reveals relationships and interdependencies across systems
+3. **[Phase 3: Enabling Stewardship](https://www.perplexity.ai/search/c.%20Phase%203%20-%20Enabling%20Stewardship.md)**  
+    Finally, we close the loop by transforming insight into action, creating transparent feedback systems that enable more effective resource allocation and empower adaptive governance.
     
 
-These influences are woven together with our own innovations in technology-enabled evaluation, creating a methodology that is both theoretically grounded and practically applicable.
+Together, these phases form a powerful learning cycle that moves beyond passive measurement to actively enhance the regenerative capacity of the communities and systems we serve.
 
-## Distinctive Features
-
-What distinguishes our methodology from conventional evaluation approaches:
-
-- **Co-creation at every stage:** Communities define what matters, how it's measured, and what constitutes progress
-    
-- **Multi-capital lens:** Recognizing and valuing diverse forms of capital beyond the financial
-    
-- **Real-time feedback loops:** Enabling responsive adaptation throughout the journey
-    
-- **Technology-enabled participation:** Lowering barriers to engagement through accessible tools
-    
-- **Systems perspective:** Tracking evolution across five interconnected spheres (cultural, economic, social, political, ecological)
-    
-
-## Implementation Philosophy
-
-This methodology is not a rigid prescription but a living framework that adapts to context. It embodies our core values of playfulness, curiosity, interdependence, and integrity-inviting communities to experiment, discover patterns, honor relationships, and measure what truly matters.
-
-In the following sections, we detail each stage of the methodology, providing practical guidance for implementation while maintaining the flexibility necessary for contextual adaptation.

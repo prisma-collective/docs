@@ -45,7 +45,11 @@
     {
       "name": "Noah",
       "role": "web3 Fundraising",
+<<<<<<< HEAD
       "photo": "/noah.png",
+=======
+      "photo": "/noah.jpg",
+>>>>>>> origin/main
       "profile_card_link": "/context%20&%20narrative",
       "links": [
       ]

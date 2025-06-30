@@ -55,16 +55,254 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/1. Orientation/c. Tech & Tools.md",
+                "file": "content/processes/evaluation/1. Our Approach/a. Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c. Tech & Tools"
+              "title": "a. Foundations"
+            }
+          },
+          {
+            "id": "d0269cf2a2f3354c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/1. Our Approach/b. The Three-Phase Framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "b. The Three-Phase Framework"
+            }
+          },
+          {
+            "id": "953553cdc3db4388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/2. Methodology/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "8c38a6f2c72ad915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/2. Methodology/b. Tracking Catalysts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "b. Tracking Catalysts"
+            }
+          },
+          {
+            "id": "0fce2f59fa3053a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/3. Practicals/c. Accra ALJ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c. Accra ALJ"
+            }
+          },
+          {
+            "id": "9f72f7362e671742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/3. Practicals/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "cec64d28aa537dbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/3. Practicals/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "9dbc96d880739e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/3. Practicals/c. Accra ALJ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c. Accra ALJ"
+            }
+          },
+          {
+            "id": "6785076c8007fbbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/3. Practicals/a. Tooling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a. Tooling"
+            }
+          },
+          {
+            "id": "0b8ac5b13c7a14ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/3. Practicals/b. Templates & Guides.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "b. Templates & Guides"
+            }
+          },
+          {
+            "id": "f6c271312b0a4b51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "ccd20c72ff03871e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "edb4828438b4b2ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "1f3f6080d77273d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "a0a4cef86ca02d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "cc40b797fcede498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "eeb300cb81da83bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "1cc1b899efe4a7b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/processes/evaluation/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -212,12 +450,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53f0a8f86aa714ec",
+  "active": "1cc1b899efe4a7b3",
   "lastOpenFiles": [
-    "content/processes/evaluation/1. Orientation/b. Framework.md",
-    "content/processes/evaluation/1. Orientation/a. Foundations.md",
-    "content/processes/evaluation/1. Orientation/index.md",
+    "content/processes/evaluation/3. Practicals/index.md",
+    "content/processes/evaluation/3. Practicals/c. Accra ALJ.md",
+    "content/processes/evaluation/3. Practicals/b. Templates & Guides.md",
     "content/processes/evaluation/index.md",
+    "content/processes/evaluation/3. Practicals/a. Tooling.md",
+    "content/processes/evaluation/2. Methodology/b. Tracking Catalysts.md",
+    "content/processes/evaluation/2. Methodology/c. Enabling Stewardship.md",
+    "conflict-files-obsidian-git.md",
+    "content/processes/evaluation/1. Our Approach/index.md",
+    "content/processes/evaluation/1. Our Approach/c. Tech & Tools.md",
+    "content/processes/evaluation/1. Our Approach/b. The Three-Phase Framework.md",
+    "content/processes/evaluation/1. Our Approach/a. Foundations.md",
+    "content/processes/evaluation/2. Methodology/a. Identifying Value.md",
+    "content/processes/evaluation/2. Methodology/index.md",
+    "public/noah.jpg",
     "public/noah.png",
     "content/collaborators/index.mdx",
     "content/collaborators/Facilitators/process-infrastructuring.md",
@@ -242,16 +491,6 @@
     "content/processes/enrolment/Hub Enrollment Form Design.md",
     "public/timelining_database.png",
     "public/cohort_profile_cards.png",
-    "content/processes/process-infrastructuring/subscribing.md",
-    "content/processes/enrolment/index.md",
-    "conflict-files-obsidian-git.md",
-    "content/collaborators/participants/scribes.md",
-    "content/collaborators/participants/developers.md",
-    "content/patterns/action-learning journeys.md",
-    "collaborators/communities of place/hubs.md",
-    "content/collaborators/communities of place/hubs.md",
-    "content/processes/evaluation/2. Methodology/b. Reading.md",
-    "patterns/action-learning journeys.md",
-    "content/processes/ground-potentialising/playbook/index.md"
+    "content/processes/process-infrastructuring/subscribing.md"
   ]
 }
