@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/2. Methodology/index.md",
+                "file": "content/processes/evaluation/2. Our Methodology/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/2. Methodology/b. Tracking Catalysts.md",
+                "file": "content/processes/evaluation/2. Our Methodology/b. Tracking Catalysts.md",
                 "mode": "source",
                 "source": false
               },
@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/3. Practicals/c. Accra ALJ.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ.md",
                 "mode": "source",
                 "source": false
               },
@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/3. Practicals/index.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/3. Practicals/index.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/3. Practicals/c. Accra ALJ.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ.md",
                 "mode": "source",
                 "source": false
               },
@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/3. Practicals/a. Tooling.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/a. Tooling.md",
                 "mode": "source",
                 "source": false
               },
@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/3. Practicals/b. Templates & Guides.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/b. Templates & Guides.md",
                 "mode": "source",
                 "source": false
               },
@@ -293,7 +293,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/index.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -452,20 +452,20 @@
   },
   "active": "1cc1b899efe4a7b3",
   "lastOpenFiles": [
-    "content/processes/evaluation/3. Practicals/index.md",
-    "content/processes/evaluation/3. Practicals/c. Accra ALJ.md",
-    "content/processes/evaluation/3. Practicals/b. Templates & Guides.md",
     "content/processes/evaluation/index.md",
-    "content/processes/evaluation/3. Practicals/a. Tooling.md",
-    "content/processes/evaluation/2. Methodology/b. Tracking Catalysts.md",
-    "content/processes/evaluation/2. Methodology/c. Enabling Stewardship.md",
+    "content/processes/evaluation/3. Resources & Evidence/index.md",
+    "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ.md",
+    "content/processes/evaluation/3. Resources & Evidence/b. Templates & Guides.md",
+    "content/processes/evaluation/3. Resources & Evidence/a. Tooling.md",
+    "content/processes/evaluation/2. Our Methodology/b. Tracking Catalysts.md",
+    "content/processes/evaluation/2. Our Methodology/c. Enabling Stewardship.md",
     "conflict-files-obsidian-git.md",
     "content/processes/evaluation/1. Our Approach/index.md",
     "content/processes/evaluation/1. Our Approach/c. Tech & Tools.md",
     "content/processes/evaluation/1. Our Approach/b. The Three-Phase Framework.md",
     "content/processes/evaluation/1. Our Approach/a. Foundations.md",
-    "content/processes/evaluation/2. Methodology/a. Identifying Value.md",
-    "content/processes/evaluation/2. Methodology/index.md",
+    "content/processes/evaluation/2. Our Methodology/a. Identifying Value.md",
+    "content/processes/evaluation/2. Our Methodology/index.md",
     "public/noah.jpg",
     "public/noah.png",
     "content/collaborators/index.mdx",

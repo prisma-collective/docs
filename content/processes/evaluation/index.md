@@ -59,7 +59,7 @@ At prisma, our mission is to enable collectives to undertake intentional [action
 
 The purpose of evaluation then, is to assist this endeavor in three ways:
 
-1. To enable the collectives undertaking these journeys to be clear about **what they are inherently valuing** through their actions, learning and processing.
+- **[1. Our Approach (The 'How')](https://www.perplexity.ai/search/2.%20Our%20Methodology/)** To enable the collectives undertaking these journeys to be clear about **what they are inherently valuing** through their actions, learning and processing.
     
 - **[2. Our Methodology (The 'How')](https://www.perplexity.ai/search/2.%20Our%20Methodology/)**: A detailed look at how we implement each phase of the evaluation process, from identifying value to enabling stewardship.
     
