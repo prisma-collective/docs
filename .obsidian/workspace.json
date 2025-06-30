@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/1. Orientation/index.md",
+                "file": "content/processes/evaluation/1. Orientation/c. Tech & Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "c. Tech & Tools"
             }
           }
         ],
@@ -214,6 +214,18 @@
   },
   "active": "53f0a8f86aa714ec",
   "lastOpenFiles": [
+    "content/processes/evaluation/1. Orientation/b. Framework.md",
+    "content/processes/evaluation/1. Orientation/a. Foundations.md",
+    "content/processes/evaluation/1. Orientation/index.md",
+    "content/processes/evaluation/index.md",
+    "public/noah.png",
+    "content/collaborators/index.mdx",
+    "content/collaborators/Facilitators/process-infrastructuring.md",
+    "content/collaborators/Facilitators/gound-potentialising.md",
+    "content/collaborators/Facilitators/index.mdx",
+    "content/collaborators/Facilitators/evaluating.md",
+    "content/collaborators/Facilitators/enacting contract.md",
+    "content/collaborators/Facilitators",
     "content/processes/enrolment/index.mdx",
     "content/collaborators/process-designers/process-infrastructuring.md",
     "content/collaborators/process-designers/index.mdx",
@@ -221,17 +233,12 @@
     "content/collaborators/process-designers/enacting.md",
     "content/collaborators/process-designers/evaluating.md",
     "content/collaborators/process-designers",
-    "content/processes/evaluation/1. Orientation/a. Foundations.md",
     "content/processes/enrolment/Negotiating Scope.md",
     "content/processes/enactment/3. emergent learning.mdx",
     "content/events/resilience.md",
     "components/ChatEntriesList.tsx",
     "components/EntryPreview.tsx",
     "components/GraphRenderer.tsx",
-    "components/GraphVisualisation.tsx",
-    "components/TeamTabs.tsx",
-    "components/TopicTabs.tsx",
-    "app/api/participants/[handle]/route.ts",
     "content/processes/enrolment/Hub Enrollment Form Design.md",
     "public/timelining_database.png",
     "public/cohort_profile_cards.png",
@@ -239,18 +246,12 @@
     "content/processes/enrolment/index.md",
     "conflict-files-obsidian-git.md",
     "content/collaborators/participants/scribes.md",
-    "content/processes/evaluation/index.md",
     "content/collaborators/participants/developers.md",
     "content/patterns/action-learning journeys.md",
     "collaborators/communities of place/hubs.md",
     "content/collaborators/communities of place/hubs.md",
     "content/processes/evaluation/2. Methodology/b. Reading.md",
     "patterns/action-learning journeys.md",
-    "content/processes/ground-potentialising/playbook/index.md",
-    "content/processes/ground-potentialising/playbook/3. Calling in an ALJ.md",
-    "content/processes/ground-potentialising/playbook/3. Facilitating via Core Processes.md",
-    "content/processes/ground-potentialising/playbook/4. Generating data.md",
-    "content/processes/ground-potentialising/playbook/2. Hub vision activation.md",
-    "content/processes/ground-potentialising/playbook/1. as a checklist.md"
+    "content/processes/ground-potentialising/playbook/index.md"
   ]
 }

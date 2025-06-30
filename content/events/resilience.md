@@ -1,3 +1,8 @@
+---
+sidebarTitle: Resilience
+---
+
+
 The greater whole: European states need to transition to higher percentage of protected spaces by 2050, with a milestone at 2030:
 
 - 2050 - 30%
