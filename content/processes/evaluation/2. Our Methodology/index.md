@@ -12,13 +12,13 @@ Our methodology is not a rigid set of rules but a dynamic, living practice desig
 
 This section is organized around the three core phases of our work. Each page provides a detailed look into the purpose, activities, and outcomes of that stage.
 
-1. **[Phase 1: Identifying Value](https://www.perplexity.ai/search/a.%20Phase%201%20-%20Identifying%20Value.md)**  
+1. **[Phase 1: Identifying Value](obsidian://open?vault=New&file=content%2Fprocesses%2Fevaluation%2F2.%20Our%20Methodology%2Fa.%20Identifying%20Value)**  
     We begin by co-creating a shared understanding of what value means in a specific context, establishing the initial conditions and focus for our evaluation.
     
-2. **[Phase 2: Tracking Catalysts](https://www.perplexity.ai/search/b.%20Phase%202%20-%20Tracking%20Catalysts.md)**  
+2. **[Phase 2: Tracking Catalysts](obsidian://open?vault=New&file=content%2Fprocesses%2Fevaluation%2F2.%20Our%20Methodology%2Fb.%20Tracking%20Catalysts)**  
     We then use a multi-source, real-time approach to track the flow of value, identifying the key interactions, contributions, and events that catalyze systemic change.
     
-3. **[Phase 3: Enabling Stewardship](https://www.perplexity.ai/search/c.%20Phase%203%20-%20Enabling%20Stewardship.md)**  
+3. **[Phase 3: Enabling Stewardship](obsidian://open?vault=New&file=content%2Fprocesses%2Fevaluation%2F2.%20Our%20Methodology%2Fc.%20Enabling%20Stewardship)**  
     Finally, we close the loop by transforming insight into action, creating transparent feedback systems that enable more effective resource allocation and empower adaptive governance.
     
 

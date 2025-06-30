@@ -12,13 +12,13 @@ This is not just a library of assets; it is a toolkit for co-creation and a repo
 
 This section is organized to provide you with a clear pathway from tools to evidence.
 
-1. **[Tooling - Our Tech Stack](https://www.perplexity.ai/search/a.%20Tooling%20-%20Our%20Tech%20Stack.md)**  
+1. **[Tooling - Our Tech Stack](obsidian://open?vault=New&file=content%2Fprocesses%2Fevaluation%2F3.%20Resources%20%26%20Evidence%2Fa.%20Tooling)**  
     A look under the hood at the technological infrastructure that enables our work, from real-time data capture to AI-assisted sense-making.
     
-2. **[Templates & Guides](https://www.perplexity.ai/search/b.%20Templates%20&%20Guides.md)**  
+2. **[Templates & Guides](obsidian://open?vault=New&file=content%2Fprocesses%2Fevaluation%2F3.%20Resources%20%26%20Evidence%2Fb.%20Templates%20%26%20Guides)**  
     A curated collection of our most effective canvases, templates, and workshop agendas for facilitating the three phases of our evaluation methodology.
     
-3. **[Case Study - Accra ALJ](https://www.perplexity.ai/search/c.%20Case%20Study%20-%20Accra%20ALJ.md)**  
+3. **[Case Study - Accra ALJ](obsidian://open?vault=New&file=content%2Fprocesses%2Fevaluation%2F3.%20Resources%20%26%20Evidence%2Fc.%20Accra%20ALJ)**  
     A detailed, transparent walkthrough of our methodology as applied during the Accra Action Learning Journey. This case study serves as powerful proof of the framework's ability to adapt to a specific context and deliver meaningful results.
     
 

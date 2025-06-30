@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ Case.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c. Accra ALJ"
+              "title": "c. Accra ALJ Case"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ Case.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c. Accra ALJ"
+              "title": "c. Accra ALJ Case"
             }
           },
           {
@@ -293,12 +293,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/3. Resources & Evidence/index.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/d. Accra ALJ Sponsorships.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "d. Accra ALJ Sponsorships"
             }
           }
         ],
@@ -452,22 +452,41 @@
   },
   "active": "1cc1b899efe4a7b3",
   "lastOpenFiles": [
-    "content/processes/evaluation/index.md",
-    "content/processes/evaluation/3. Resources & Evidence/index.md",
-    "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ.md",
+    "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ Case.md",
+    "content/processes/evaluation/3. Resources & Evidence/d. Accra ALJ Sponsorships.md",
     "content/processes/evaluation/3. Resources & Evidence/b. Templates & Guides.md",
+    "Pasted image 20250630204615.png",
+    "Pasted image 20250630204254.png",
+    "video_2025-06-30_20-19-20.mp4",
     "content/processes/evaluation/3. Resources & Evidence/a. Tooling.md",
+    "evaluation day2 1.jpg",
+    "evaluation day4 1.jpg",
+    "evaluation day4.jpg",
+    "evaluation day3.jpg",
+    "evaluation day2.jpg",
+    "evaluation day1 1.jpg",
+    "evaluation day1.jpg",
+    "content/processes/evaluation/3. Resources & Evidence/index.md",
+    "content/processes/evaluation/1. Our Approach/index.md",
     "content/processes/evaluation/2. Our Methodology/b. Tracking Catalysts.md",
+    "content/processes/evaluation/2. Our Methodology/index.md",
+    "content/processes/evaluation/Philosophy.md",
+    "content/patterns/action-learning journeys.md",
+    "content/patterns/sociocratic organising.md",
+    "content/patterns/action-learning.md",
+    "content/patterns/aspects.md",
+    "patterns/action-learning journeys.md",
+    "patterns",
+    "index/Our.md",
+    "index",
+    "content/processes/evaluation/index.md",
     "content/processes/evaluation/2. Our Methodology/c. Enabling Stewardship.md",
     "conflict-files-obsidian-git.md",
-    "content/processes/evaluation/1. Our Approach/index.md",
     "content/processes/evaluation/1. Our Approach/c. Tech & Tools.md",
     "content/processes/evaluation/1. Our Approach/b. The Three-Phase Framework.md",
     "content/processes/evaluation/1. Our Approach/a. Foundations.md",
     "content/processes/evaluation/2. Our Methodology/a. Identifying Value.md",
-    "content/processes/evaluation/2. Our Methodology/index.md",
     "public/noah.jpg",
-    "public/noah.png",
     "content/collaborators/index.mdx",
     "content/collaborators/Facilitators/process-infrastructuring.md",
     "content/collaborators/Facilitators/gound-potentialising.md",
@@ -476,21 +495,8 @@
     "content/collaborators/Facilitators/enacting contract.md",
     "content/collaborators/Facilitators",
     "content/processes/enrolment/index.mdx",
-    "content/collaborators/process-designers/process-infrastructuring.md",
     "content/collaborators/process-designers/index.mdx",
-    "content/collaborators/process-designers/gound-potentialising.md",
-    "content/collaborators/process-designers/enacting.md",
-    "content/collaborators/process-designers/evaluating.md",
     "content/collaborators/process-designers",
-    "content/processes/enrolment/Negotiating Scope.md",
-    "content/processes/enactment/3. emergent learning.mdx",
-    "content/events/resilience.md",
-    "components/ChatEntriesList.tsx",
-    "components/EntryPreview.tsx",
-    "components/GraphRenderer.tsx",
-    "content/processes/enrolment/Hub Enrollment Form Design.md",
-    "public/timelining_database.png",
-    "public/cohort_profile_cards.png",
-    "content/processes/process-infrastructuring/subscribing.md"
+    "content/processes/enactment/3. emergent learning.mdx"
   ]
 }
