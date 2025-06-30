@@ -1,6 +1,6 @@
 # **The Ranking Process: A Multi-Perspectival Approach to Valuing Contribution**
 
-This page details the rigorous, transparent, and participatory methodology used to arrive at the final individual and team rankings for the Action Learning Journey (ALJ). Our process is not a simple scoring exercise; it is a synthesis of diverse, multi-perspectival data designed to honor our core principle of **"evaluation as valuing"**34.
+This page details the rigorous, transparent, and participatory methodology used to arrive at the final individual and team rankings for the Action Learning Journey (ALJ). Our process is not a simple scoring exercise; it is a synthesis of diverse, multi-perspectival data designed to honor our core principle of **"evaluation as valuing"**.
 
 The final rankings are a direct reflection of the values and priorities co-created with the cohort, moving beyond static metrics to capture the dynamic flow of contribution, growth, and collaboration.
 
@@ -47,7 +47,7 @@ These three scores were then normalized and combined to produce a final, holisti
 
 ## **Part 2: The Team Ranking Process**
 
-The team rankings were determined through an even more extensive synthesis process, designed to evaluate each team's collective growth and output across the three strategic trajectories co-defined for the ALJ789.
+The team rankings were determined through an even more extensive synthesis process, designed to evaluate each team's collective growth and output across the three strategic trajectories co-defined for the ALJ.
 
 ## **The Core Evaluation Areas & Co-Created Weights**
 
@@ -103,6 +103,6 @@ The final team ranking was the direct output of this rigorous synthesis:
 
 ## **From Rankings to Resource Allocation**
 
-Crucially, this entire process was not just an academic exercise. The final, weighted rankings were used to directly inform the **distribution of the prize money**, ensuring that resources flowed toward the teams that demonstrated the most value according to the very criteria the community itself had established11.
+Crucially, this entire process was not just an academic exercise. The final, weighted rankings were used to directly inform the **distribution of the prize money**, ensuring that resources flowed toward the teams that demonstrated the most value according to the very criteria the community itself had established.
 
 By integrating co-created values, multi-source data, and advanced analytical tools, our ranking process provides a robust and defensible methodology for understanding and rewarding contribution in complex, emergent systems.

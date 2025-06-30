@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ Case.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ Case Study/c. Accra ALJ Evaluation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c. Accra ALJ Case"
+              "title": "c. Accra ALJ Evaluation"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ Case.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ Case Study/c. Accra ALJ Evaluation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c. Accra ALJ Case"
+              "title": "c. Accra ALJ Evaluation"
             }
           },
           {
@@ -293,7 +293,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/3. Resources & Evidence/d. Accra ALJ Sponsorships.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ Case Study/d. Accra ALJ Sponsorships.md",
                 "mode": "source",
                 "source": false
               },
@@ -452,8 +452,10 @@
   },
   "active": "1cc1b899efe4a7b3",
   "lastOpenFiles": [
-    "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ Case.md",
-    "content/processes/evaluation/3. Resources & Evidence/d. Accra ALJ Sponsorships.md",
+    "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ Case Study/index.md",
+    "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ Case Study/d. Accra ALJ Sponsorships.md",
+    "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ Case Study/c. Accra ALJ Evaluation.md",
+    "content/processes/evaluation/3. Resources & Evidence/c. Accra ALJ Case Study",
     "content/processes/evaluation/3. Resources & Evidence/b. Templates & Guides.md",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
@@ -492,11 +494,9 @@
     "content/collaborators/Facilitators/gound-potentialising.md",
     "content/collaborators/Facilitators/index.mdx",
     "content/collaborators/Facilitators/evaluating.md",
-    "content/collaborators/Facilitators/enacting contract.md",
     "content/collaborators/Facilitators",
     "content/processes/enrolment/index.mdx",
     "content/collaborators/process-designers/index.mdx",
-    "content/collaborators/process-designers",
-    "content/processes/enactment/3. emergent learning.mdx"
+    "content/collaborators/process-designers"
   ]
 }
