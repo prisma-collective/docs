@@ -11,8 +11,6 @@ asIndexPage: true
 ### The Essence of Our Evaluation Approach
 Evaluation is the living [practice](/glossary/Practice.md) of listening to the pulse of systems. It is how communities learn to dance with complexity, attuning to the rhythms of social relationality, ecological vitality, cultural wisdom, governance systems and emergent possibility. At Prisma, we see evaluation as the *essence of organisational evolution*—a way for collectives to sense, adapt, and evolve their actions in harmony with the essence of [place](/glossary/Place.md) and the living systems principles that bind us all. 
 
-Welcome to the Evaluation folder. Our approach to evaluation moves beyond traditional measurement and reporting. We see evaluation as a core process for **enabling greater value generation and flow towards the factors that exponentiate regenerative systems catalysis.**
-
 Our framework is not static; it is a dynamic, participatory process designed to help communities, teams, and networks see, understand, and direct value where it matters most.
 
 ## **Our Core Mandate**
