@@ -14,6 +14,8 @@ The [enrolment](/processes/enrolment/index.mdx) period is a time of creating the
 
 An action-learning journey is a time-bound process in which a cohort of participants engages in learning-by-doing. The learnings are highlighted and communicated through [evaluation](/processes/evaluation/index.md). Together, these two movements of action and learning, contextualised by [enrolment](/processes/enrolment/index.mdx) and [ground-potentialising](/processes/ground-potentialising/ground-potentialising.mdx), are organised and held by [facilitators](/collaborators/Facilitators/index.mdx) to create an action-learning journey. 
 
+In short, an action-learning journey is the following provocation: there are plenty critiques of modernity, plenty dreams of the future, and plenty thought-leadership, theories, and frameworks. Let us make the lived reality as plentiful as the swirl of thoughts and words about what it could be like. Even if only momentary, for two weeks, let us bring the future into today.
+
 ![core-processes.png](/process-facilitation.png)
 
 The [Replace Academy Case Study](/context%20&%20narrative/Replace%20Academy%20Case%20Study.md) is an example from a previous action-learning journey, which created the [aspect](aspects) of knowledge commoning. This ALJ was entirely crowd-sourced, and purely self-organising, hosted by [Astralship](https://astralship.org/).
