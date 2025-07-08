@@ -4,7 +4,7 @@ asIndexPage: true
 ---
 # **Resources & Evidence: Our Methodology in Action**
 
-Welcome to the Resources & Evidence section. This is where our evaluation philosophy and methodology become tangible. While the previous sections explained the 'Why' and 'How' of our approach, this folder provides the 'What'—the practical tools, guides, and real-world examples you need to put our framework into practice.
+This is where our evaluation philosophy and methodology become tangible. While the previous sections explained the 'Why' and 'How' of our approach, this folder provides the 'What'—the practical tools, guides, and real-world examples you need to put our framework into practice.
 
 This is not just a library of assets; it is a toolkit for co-creation and a repository of evidence demonstrating how our evaluation process catalyzes value flow in living systems.
 

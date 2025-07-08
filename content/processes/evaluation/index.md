@@ -7,19 +7,23 @@ asIndexPage: true
 ---
 # **Evaluation: A Catalyst for Regenerative Value Flow**
 
-Welcome. Our approach to evaluation moves beyond traditional measurement. We see it as the core process for **enabling greater value generation and flow towards the factors that exponentiate regenerative systems catalysis.**
+Evaluation is not about (just) measurement. 
 
-This is not about assigning static scores; it is a dynamic, participatory practice designed to help communities, teams, and networks see, understand, and direct value where it matters most. We build the narrative infrastructure that makes the messy, human process of systems change visible, learnable, and actionable.
+We see it as the core process for **enabling greater value generation and flow towards the factors that exponentiate systems evolution.**
+
+Rickety marriages between static scores and subjective judgements are a thing of the past; our methodology is a dynamic, participatory practice designed to help communities, teams, and networks see, understand, and direct value where it matters most. 
+
+We build the *narrative infrastructure* that makes the messy, human process of systems change visible, learnable, and actionable.
 
 ## **Our Three-Phase Process for Catalysis**
 
-Our methodology is not a linear checklist but a continuous learning cycle. It unfolds across three core phases designed to make complex systems legible and empower intelligent action.
+Our methodology is a continuous learning cycle. It unfolds across three core phases designed to make complex systems legible and empower super-intelligent decision-making.
 
 1. **Identifying Value**  
     We start by co-creating a shared understanding of what value means in a specific context. We work with partners to define the capitals, spheres, and activities that are most vital to their purpose, establishing a living baseline that is owned by the community.
     
 2. **Tracking Catalysts**  
-    Using a multi-source approach—integrating **qualitative voice notes, structured forms, peer evaluations, and facilitator observations**—we track the flow of value in near real-time. Our relational technology maps not just outcomes, but the _sources, deltas, and catalysts_ of change as they emerge.
+    Using a multi-source approach—integrating **qualitative voice notes, structured forms, verifiable contributions, peer evaluations, and facilitator observations**—we track the flow of value in near real-time. Our relational technology maps not just outcomes, but the _sources, deltas, and catalysts_ of change as they emerge.
     
 3. **Enabling Stewardship**  
     This is where insight becomes action. We close the loop by feeding data back to the system, making contributions transparent and enabling more effective resource allocation. The ultimate goal is to empower adaptive governance and create tight feedback loops for continuous learning and system evolution.

@@ -25,8 +25,8 @@ This is the dynamic heart of our methodology. During an active engagement like a
     - **What** Aspects and Capitals it relates to.
         
     - **How** it connects to other people, activities, and data points.  
-        This allows us to see the web of influence, not just a list of events.
-        
+    This allows us to see the web of influence, not just a list of events.
+    
 3. **Multi-Source Verification**  
     To ensure reliability, insights are continuously cross-referenced. We use a "four-way verification" process that triangulates data from:
     
@@ -37,7 +37,7 @@ This is the dynamic heart of our methodology. During an active engagement like a
     - **Expert** review where applicable.
         
     - Relevant **literature** and best practices.
-        
+	We are also developing the capacity to generated event/community specific schema to enable robustness and verifiability of contributions made - *creating value records*.  
 
 ## **The Rhythm of Tracking**
 
