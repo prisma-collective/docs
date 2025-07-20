@@ -21,9 +21,9 @@ Before we can track value, we must first define it in collaboration with the com
 
 During an active engagement (like an ALJ), we capture data that reveals not just _what_ happened, but _how_ it happened and _who_ catalyzed it. This is the "reading" of the system.
 
-- **Diverse Data Capture:** We use multiple instruments to gather rich data, including structured forms, peer ratings, facilitator observations, and **qualitative voice notes**—capturing both quantitative signals and nuanced narrative.
+- **Diverse Data Capture:** We use multiple instruments to gather rich data, including structured forms, peer ratings, facilitator observations, verifiable contributions and **qualitative voice notes**—capturing both quantitative signals and nuanced narrative.
     
-- **Reliable Relational Indexing:** Our technology doesn't just store data; it creates a relational map. Every entry is indexed by who contributed it, when, in what context, and in relation to which other activities or people, allowing us to see the web of influence.
+- **Reliable Relational Indexing:** Our technology creates a relational map. Every entry is indexed by who contributed it, when, in what context, and in relation to which other activities or people, allowing us to see the web of influence.
     
 - **Composite Map Creation:** We synthesize this multi-source data into dynamic "maps" and dashboards that visualize value flows, identify emerging leaders, and highlight key leverage points.
     
@@ -38,6 +38,8 @@ This is the most critical phase, where evaluation becomes a direct catalyst for 
 
 - **Transparent Contribution Recording:** We make contributions and value flows visible to the community, fostering a culture of recognition and mutual accountability.
     
+- **Live Facilitation Adaptation**: The signals from the live evaluation process are used to make immediate, data-backed adaptations to the methodologies being used to facilitate work, enabling an iteratively better fit.
+     
 - **Catalytic Weighting:** In collaboration with stakeholders, we can assign weights to different forms of value, prioritizing contributions that have the greatest catalytic effect on the system's health.
     
 - **Automated & Deliberate Allocation:** The evaluation system can enable more effective stewardship, from automating the distribution of resources based on contribution to informing deliberate, group-based decisions on where to focus energy next.

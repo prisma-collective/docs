@@ -1,7 +1,7 @@
 
 **Deep Dive: The Accra ALJ Evaluation Case Study**
 
-Welcome to the Accra Action Learning Journey (ALJ) case study. This folder provides a detailed, transparent walkthrough of our evaluation methodology in action, documenting the journey from the live co-creation of values to the final, evidence-based distribution of resources.
+Welcome to the Accra Action Learning Journey (ALJ) evaluation case study. This folder provides a detailed, transparent walkthrough of our evaluation methodology in action, documenting the journey from the live co-creation of values to the final, evidence-based distribution of resources.
 
 The Accra ALJ is a powerful real-world example because it showcases our ability to not only design a robust evaluation framework but also to adapt it in real-time to the complex, emergent dynamics of a live event. It serves as concrete proof of how our process moves beyond simple measurement to become a catalyst for learning, collaboration, and fair stewardship.
 
@@ -18,7 +18,7 @@ This folder contains two core documents that break down our work in Accra.
 
 ## **Why This Case Study Matters**
 
-The Accra ALJ is more than just an example; it is evidence of our core principles at work. It demonstrates:
+The Accra ALJ is evidence of our core principles at work. It demonstrates:
 
 - **Co-Creation in Action:** It shows how our participatory process for defining value and weights leads to legitimate, community-owned outcomes.
     

@@ -4,67 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2973de9d693b503a",
+        "id": "b6ea31c1753f0664",
         "type": "tabs",
         "children": [
           {
-            "id": "013ea9cb3cc1efe8",
+            "id": "17bc609a98eaf1d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/participants/scribes.md",
+                "file": "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/b. Evaluation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scribes"
+              "title": "b. Evaluation"
             }
           },
           {
-            "id": "355705985a30d9f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "ae2efb08630ec7cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/enrolment/Hub Enrollment Form Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hub Enrollment Form Design"
-            }
-          },
-          {
-            "id": "53f0a8f86aa714ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/1. Our Approach/a. Foundations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "a. Foundations"
-            }
-          },
-          {
-            "id": "d0269cf2a2f3354c",
+            "id": "67380a539325c2cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,231 +36,20 @@
             }
           },
           {
-            "id": "953553cdc3db4388",
+            "id": "ef28eafa8cd61b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/processes/evaluation/2. Our Methodology/index.md",
+                "file": "content/processes/evaluation/1. Our Approach/a. Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "8c38a6f2c72ad915",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/2. Our Methodology/b. Tracking Catalysts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "b. Tracking Catalysts"
-            }
-          },
-          {
-            "id": "0fce2f59fa3053a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/a. Evaluation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "a. Evaluation"
-            }
-          },
-          {
-            "id": "9f72f7362e671742",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/3. Resources & Evidence/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "cec64d28aa537dbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/3. Resources & Evidence/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "9dbc96d880739e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/a. Evaluation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "a. Evaluation"
-            }
-          },
-          {
-            "id": "6785076c8007fbbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/3. Resources & Evidence/a. Tooling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "a. Tooling"
-            }
-          },
-          {
-            "id": "0b8ac5b13c7a14ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/3. Resources & Evidence/b. Templates & Guides.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "b. Templates & Guides"
-            }
-          },
-          {
-            "id": "f6c271312b0a4b51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "ccd20c72ff03871e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "edb4828438b4b2ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "1f3f6080d77273d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "a0a4cef86ca02d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "cc40b797fcede498",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "eeb300cb81da83bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "1cc1b899efe4a7b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/b. Rankings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "b. Rankings"
+              "title": "a. Foundations"
             }
           }
-        ],
-        "currentTab": 20
+        ]
       }
     ],
     "direction": "vertical"
@@ -450,14 +197,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bce36f6df86b5df2",
+  "active": "17bc609a98eaf1d1",
   "lastOpenFiles": [
-    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/a. Evaluation.md",
-    "content/processes/evaluation/3. Resources & Evidence/a. Tooling.md",
-    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/index.md",
-    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/b. Rankings.md",
-    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study",
+    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/c. Capital Distribution.md",
+    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/b. Evaluation.md",
+    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/a. Overview.md",
     "content/processes/evaluation/3. Resources & Evidence/b. Templates & Guides.md",
+    "content/processes/evaluation/3. Resources & Evidence/a. Tooling.md",
+    "content/processes/evaluation/3. Resources & Evidence/index.md",
+    "content/processes/evaluation/2. Our Methodology/c. Enabling Stewardship.md",
+    "content/processes/evaluation/2. Our Methodology/b. Tracking Catalysts.md",
+    "content/processes/evaluation/2. Our Methodology/a. Identifying Value.md",
+    "content/processes/evaluation/1. Our Approach/b. The Three-Phase Framework.md",
+    "content/processes/evaluation/index.md",
+    "content/processes/evaluation/1. Our Approach/index.md",
+    "content/processes/evaluation/1. Our Approach/a. Foundations.md",
+    "content/processes/evaluation/Philosophy.md",
+    "content/processes/evaluation/2. Our Methodology/index.md",
+    "content/processes/enrolment/Hub Enrollment Form Design.md",
+    "content/collaborators/participants/scribes.md",
+    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
     "video_2025-06-30_20-19-20.mp4",
@@ -468,11 +227,6 @@
     "evaluation day2.jpg",
     "evaluation day1 1.jpg",
     "evaluation day1.jpg",
-    "content/processes/evaluation/3. Resources & Evidence/index.md",
-    "content/processes/evaluation/1. Our Approach/index.md",
-    "content/processes/evaluation/2. Our Methodology/b. Tracking Catalysts.md",
-    "content/processes/evaluation/2. Our Methodology/index.md",
-    "content/processes/evaluation/Philosophy.md",
     "content/patterns/action-learning journeys.md",
     "content/patterns/sociocratic organising.md",
     "content/patterns/action-learning.md",
@@ -481,19 +235,12 @@
     "patterns",
     "index/Our.md",
     "index",
-    "content/processes/evaluation/index.md",
-    "content/processes/evaluation/2. Our Methodology/c. Enabling Stewardship.md",
     "conflict-files-obsidian-git.md",
     "content/processes/evaluation/1. Our Approach/c. Tech & Tools.md",
-    "content/processes/evaluation/1. Our Approach/b. The Three-Phase Framework.md",
-    "content/processes/evaluation/1. Our Approach/a. Foundations.md",
-    "content/processes/evaluation/2. Our Methodology/a. Identifying Value.md",
     "public/noah.jpg",
     "content/collaborators/index.mdx",
     "content/collaborators/Facilitators/process-infrastructuring.md",
-    "content/collaborators/Facilitators/gound-potentialising.md",
     "content/collaborators/Facilitators/index.mdx",
-    "content/collaborators/Facilitators/evaluating.md",
     "content/collaborators/Facilitators",
     "content/processes/enrolment/index.mdx",
     "content/collaborators/process-designers/index.mdx",
