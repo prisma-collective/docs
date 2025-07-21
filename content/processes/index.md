@@ -25,3 +25,5 @@ at the highest level, each event is the interplay of the following four processe
 	- reflecting on the approach, harvesting learnings, integrating into practice evolution
 
 we will aim to automate the registering and configuring of sub-domains, minimum viable service/ api deployments and testing, and porting back into a global visibility mapping interface. these endpoints are the means for communicating activity on-the-ground and the stem for each event-specific code repository.
+
+head to [process-infrastructure](/processes/process-infrastructuring/) for the technical equivalent.
