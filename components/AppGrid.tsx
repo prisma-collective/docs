@@ -34,7 +34,7 @@ const availableApps = [
     name: 'Docs',
     description: 'Publish event documentation and background info.',
     image: '/app-docs.svg',
-    docsLocation: '/Glossary',
+    docsLocation: '/glossary',
     externalLoc: 'https://docs.prisma.events'
   },
 ];
