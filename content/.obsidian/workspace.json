@@ -59,24 +59,10 @@
             "id": "b643d5dc1c0cdb7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "collaborators/index.mdx",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -245,10 +231,10 @@
   },
   "active": "b643d5dc1c0cdb7d",
   "lastOpenFiles": [
+    "collaborators/index.mdx",
     "processes/evaluation/index.md",
     "collaborators/participants/scribes.md",
     "patterns/action-learning journeys.md",
-    "collaborators/index.mdx",
     "collaborators/index.md",
     "Practices/index.mdx",
     "processes/index.md",
@@ -279,7 +265,6 @@
     "glossary/development.md",
     "patterns/action-learning.md",
     "glossary/systemic intervention.md",
-    "glossary/Capacity-Building.md",
-    "glossary/Process Design Collective.md"
+    "glossary/Capacity-Building.md"
   ]
 }
