@@ -4,16 +4,22 @@ import chalk from 'chalk';
 import { execa } from 'execa';
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
+import sharp from 'sharp';
 
-// --- Check public directory
+// --- Paths
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const scriptDir = __dirname;
 const outDir = path.resolve('./public');
+
 if (!fs.existsSync(outDir)) {
     console.error(chalk.red(`❌ Folder 'public' does not exist.`));
     process.exit(1);
 }
 
-// --- Get list of video/audio devices
-console.log(chalk.blue('Detecting devices...'));
+// --- Detect devices
+console.log(chalk.blue('🔍 Detecting devices...'));
 
 let ffmpegOutput = '';
 try {
@@ -28,7 +34,6 @@ try {
     process.exit(1);
 }
 
-// --- Extract devices
 const videoDevices = [...ffmpegOutput.matchAll(/"([^"]+)" \(video\)/g)].map(m => m[1]);
 const audioDevices = [...ffmpegOutput.matchAll(/"([^"]+)" \(audio\)/g)].map(m => m[1]);
 
@@ -37,12 +42,12 @@ if (!videoDevices.length || !audioDevices.length) {
     process.exit(1);
 }
 
-// --- Prompt user
+// --- User selects devices
 const answers = await inquirer.prompt([
     {
         type: 'list',
         name: 'video',
-        message: chalk.cyan('Select your webcam:'),
+        message: chalk.cyan('Select your camera:'),
         choices: videoDevices,
     },
     {
@@ -53,16 +58,39 @@ const answers = await inquirer.prompt([
     },
 ]);
 
-// --- Prepare output filename
+// --- Filenames
 const timestamp = new Date().toISOString().replace(/[-:]/g, '').replace(/\..+/, '').replace('T', '_');
-const filename = path.join(outDir, `recording_${timestamp}.mp4`);
+const rawRecording = path.join(outDir, `recording_raw_${timestamp}.mp4`);
+const finalRecording = path.join(outDir, `recording_${timestamp}.mp4`);
 
-console.log(chalk.green('\nStarting recording...'));
-console.log(chalk.gray(`Webcam: ${answers.video}`));
-console.log(chalk.gray(`Microphone: ${answers.audio}`));
-console.log(chalk.cyan(`Saving to: ${filename}\n`));
+const openingSvg = path.join(scriptDir, 'opening_frame.svg');
+const closingSvg = path.join(scriptDir, 'closing_frame.svg');
+const openingPng = path.join(scriptDir, 'opening_frame.png');
+const closingPng = path.join(scriptDir, 'closing_frame.png');
 
-// --- Run ffmpeg
+// --- Convert SVGs to PNGs
+console.log(chalk.gray('🖼️ Rendering intro/outro frames...'));
+try {
+    await sharp(openingSvg)
+        .resize(1280, 720)
+        .png()
+        .toFile(openingPng);
+
+    await sharp(closingSvg)
+        .resize(1280, 720)
+        .png()
+        .toFile(closingPng);
+} catch (err) {
+    console.error(chalk.red('❌ Failed to render SVGs with sharp:'), err);
+    process.exit(1);
+}
+
+// --- Start recording
+console.log(chalk.green('\n📹 Starting recording...'));
+console.log(chalk.cyan(`Webcam: ${answers.video}`));
+console.log(chalk.cyan(`Microphone: ${answers.audio}`));
+console.log(chalk.cyan(`Saving to: ${rawRecording}\n`));
+
 const ffmpegArgs = [
     '-loglevel', 'warning',
     '-f', 'gdigrab',
@@ -85,7 +113,7 @@ const ffmpegArgs = [
     '-b:a', '128k',
     '-pix_fmt', 'yuv420p',
     '-movflags', '+faststart',
-    filename,
+    rawRecording,
 ];
 
 const ffmpeg = execa('ffmpeg', ffmpegArgs, { stdio: 'inherit' });
@@ -97,14 +125,48 @@ process.on('SIGINT', async () => {
 });
 
 await ffmpeg;
-console.log(chalk.green(`\n√ Done! Video saved to: ${filename}`));
+console.log(chalk.green(`\nRecording complete!`));
 
-// --- Prompt for final filename and copy to ./public with markdown output
+// --- Combine intro, recording, outro
+console.log(chalk.gray('Merging intro + recording + outro...'));
+
+const concatListPath = path.join(scriptDir, 'concat_list.txt');
+fs.writeFileSync(concatListPath, [
+    `file '${openingPng}'`,
+    `file '${rawRecording}'`,
+    `file '${closingPng}'`
+].join('\n'));
+
+const openingMp4 = path.join(scriptDir, 'opening_frame.mp4');
+const closingMp4 = path.join(scriptDir, 'closing_frame.mp4');
+const mainRecording = path.join(outDir, `recording_${timestamp}.mp4`);
+
+await execa('ffmpeg', [
+    '-y',
+    '-i', openingMp4,
+    '-i', mainRecording,
+    '-i', closingMp4,
+    '-filter_complex', '[0:v:0][0:a:0][1:v:0][1:a:0][2:v:0][2:a:0]concat=n=3:v=1:a=1[outv][outa]',
+    '-map', '[outv]',
+    '-map', '[outa]',
+    '-c:v', 'libx264',
+    '-pix_fmt', 'yuv420p',
+    '-c:a', 'aac',
+    '-b:a', '128k',
+    finalRecording,
+]);
+
+fs.unlinkSync(rawRecording);
+fs.unlinkSync(openingPng);
+fs.unlinkSync(closingPng);
+fs.unlinkSync(concatListPath);
+
+// --- Ask user for final file name
 const { finalFilename } = await inquirer.prompt([
     {
         type: 'input',
         name: 'finalFilename',
-        message: chalk.cyan('Enter a filename to save the video as (e.g. myvideo.mp4):'),
+        message: chalk.cyan('Enter a filename to save the video as (e.g. `mymodule.mp4`):'),
         validate(input) {
             if (!input) return 'Filename cannot be empty';
             if (!input.toLowerCase().endsWith('.mp4')) return 'Filename must end with .mp4';
@@ -117,15 +179,8 @@ const { finalFilename } = await inquirer.prompt([
 ]);
 
 const destPath = path.join(outDir, finalFilename);
+fs.copyFileSync(finalRecording, destPath);
 
-// Copy file from recorded filename to the new destPath
-fs.copyFile(filename, destPath, (err) => {
-    if (err) {
-        console.error(chalk.red('❌ Error copying video file:'), err);
-        process.exit(1);
-    }
-
-    console.log(chalk.green('\n√ Video saved successfully!'));
-    console.log(chalk.cyan('\nYou can embed the video in your markdown like this:\n'));
-    console.log(chalk.cyan(`![${finalFilename}](/${finalFilename})\n`)); // teal color
-});
+console.log(chalk.green('\nFinal video saved!'));
+console.log(chalk.cyan('\nCopy-paste this into your markdown:\n'));
+console.log(chalk.cyan(`![${finalFilename}](/${finalFilename})\n`));
