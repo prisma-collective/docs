@@ -9,4 +9,13 @@ const withNextra = nextra({
 
 export default withNextra({
   reactStrictMode: true,
+  async redirects() {
+    return [
+      {
+        source: '/processes/ground-potentialising/deploy',
+        destination: '/events/nairobi',
+        permanent: false, // Set to false for temporary redirect (302)
+      },
+    ]
+  },
 })
