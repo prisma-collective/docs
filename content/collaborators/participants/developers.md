@@ -66,4 +66,11 @@ If this sounds like you, we'd like to enthusiastically invite you to an upcoming
 2. If you notice yourself feeling frustrated that too much time is spent discussing abstract things, like system potential and place, ask yourself "What is the contribution I am being called for?" and "What value is contained within this difference of approach that I'm not currently seeing?"
 3. Once you feel close to discovering something that you see will help evolve the system you're working on to higher levels of capabilities, ask yourself "What is at the essence of this system?" and "What is needed to bring forward its expression?"
 
+# Benefits of an ALJ
+
+- Purpose
+- Implementing co-tech in meaningful, real-world use cases.
+- Platform to present their work engagingly.
+- Part of a hands-on startup incubation process.
+
 [^1]: Instrumenting is developing tooling and teams as means to reaching a given systems-evolution end. 

@@ -221,8 +221,10 @@
   },
   "active": "5bfcffd2645e8feb",
   "lastOpenFiles": [
-    "collaborators/communities of place/hub/hub team.md",
+    "collaborators/communities of practice/practice networks.md",
     "collaborators/communities of place/hub/hubs.md",
+    "collaborators/participants/developers.md",
+    "collaborators/communities of place/hub/hub team.md",
     "collaborators/communities of place/hub",
     "patterns/action-learning journeys.md",
     "collaborators/index.mdx",
@@ -254,8 +256,6 @@
     "glossary/bioregion.md",
     "glossary/Word.md",
     "context & narrative/index.md",
-    "glossary/development.md",
-    "patterns/action-learning.md",
-    "glossary/systemic intervention.md"
+    "glossary/development.md"
   ]
 }

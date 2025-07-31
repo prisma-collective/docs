@@ -41,3 +41,9 @@ the [process-infrastructuring](/processes/process-infrastructuring) developed to
 [^1]: Regenesis Institute for Regenerative Practice, [ref](https://regenerat.es/). See [Regenesis](/collaborators/communities%20of%20practice/Regenesis.md).
 [^2]: [index](processes/enrolment/index.md)
 [^3]: The creative tension of glocal: visibility and verification of local network effect at global-scale levels of capital distribution. mediating multiple forms of evaluation and communicating success cases of application of practice. global systemic crises (are [complex systems](complex systems) and) require vast amounts of thinking processing in order to respond collectively and regeneratively. evolving systems at those scales whilst at the same time in alignment with the continuity of life on earth requires place-specific practices. [practice](/glossary/Practice.md) has the role of developing ecological literacy (seeing patterns in nature).
+
+# Benefits of an ALJ
+Here's a brief overview of some of the main benefits accessible to Communities of Practice and related stakeholders by participating in the organising of an [action-learning journey](action-learning journey).
+
+- Making visible the work happening on the ground
+- Promoting collaboration
