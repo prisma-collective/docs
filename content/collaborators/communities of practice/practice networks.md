@@ -5,13 +5,13 @@ aliases:
 ---
 
 # practice networks
-prisma is a distributed incubator for communities of [practice](/glossary/Practice.md) and on-the-ground [hubs](/collaborators/communities%20of%20place/hubs.md) to self-organise [action-learning journeys](/patterns/action-learning%20journeys.md).
+prisma is a distributed incubator for communities of [practice](/glossary/Practice.md) and on-the-ground [hubs](collaborators/communities%20of%20place/hub/hubs.md) to self-organise [action-learning journeys](/patterns/action-learning%20journeys.md).
 
 we're working closely with [Regenesis](/collaborators/communities%20of%20practice/Regenesis.md) [^1], who are evolving a practice of regenerative development and design. 
 
 at the core of our [action-learning](/patterns/action-learning.md) is the dynamic interplay between the forward movement of [enacting](/processes/enactment) (action) and the ongoing, reflective and integrative movement of [evaluating](/processes/evaluation) (learning). our work is to develop these methodologies and the infrastructures supporting organising such events. 
 
-[action-learning journeys](/patterns/action-learning%20journeys.md) are a period of rapid innovation, guided by a facilitator team that has been co-designing with the [hubs](/collaborators/communities%20of%20place/hubs.md) for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] 
+[action-learning journeys](/patterns/action-learning%20journeys.md) are a period of rapid innovation, guided by a facilitator team that has been co-designing with the [hubs](collaborators/communities%20of%20place/hub/hubs.md) for a number of months - each event requiring several months of intention development, co-design, alignment and systems onboarding.[^2] 
 
 > [!NOTE] Regenesis Collaboration... 
 > The collaboration with [Regenesis](/collaborators/communities%20of%20practice/Regenesis.md)... 
@@ -30,13 +30,13 @@ See also [core processes](/processes).
 event capacities are sourced from at least the following four stakeholder groups:
 
 1. participants
-2. [hubs](/collaborators/communities%20of%20place/hubs.md)
+2. [hubs](collaborators/communities%20of%20place/hub/hubs.md)
 3. [practice networks](/collaborators/communities%20of%20practice/practice%20networks.md)
 4. partners
 
 these [stakeholder development pathways](https://register.prisma.events) are being designed to form a 3-5 month onboarding process. 
 
-the [process-infrastructuring](/processes/process-infrastructuring) developed to support the organisation of each event instance is also designed to be configurable and self-contained, able to be deployed to a server/ device network local to the [hubs](/collaborators/communities%20of%20place/hubs.md) hosting the event. the purpose of this is to align with the aim of building capacity in-place for ongoing development of the products incubated during the intensive. 
+the [process-infrastructuring](/processes/process-infrastructuring) developed to support the organisation of each event instance is also designed to be configurable and self-contained, able to be deployed to a server/ device network local to the [hubs](collaborators/communities%20of%20place/hub/hubs.md) hosting the event. the purpose of this is to align with the aim of building capacity in-place for ongoing development of the products incubated during the intensive. 
 
 [^1]: Regenesis Institute for Regenerative Practice, [ref](https://regenerat.es/). See [Regenesis](/collaborators/communities%20of%20practice/Regenesis.md).
 [^2]: [index](processes/enrolment/index.md)

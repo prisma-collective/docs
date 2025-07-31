@@ -12,7 +12,7 @@ however, there are also certain procedures, such as running an analysis on a dat
 a case-study is a living account of the work of evolving systems. subscriptions can... 
 
 1. start before a case-study is considered officially published, seeing more of the organising process real-time, and 
-2. can continue after an intensive ends and after a case-study is considered officially published, whilst teams and [hubs](collaborators/communities%20of%20place/hubs.md) continue deepening the work. 
+2. can continue after an intensive ends and after a case-study is considered officially published, whilst teams and [hubs](collaborators/communities%20of%20place/hub/hubs.md) continue deepening the work. 
 
 almost all tooling being leveraged to develop a case-study, especially the docs and custom integrations, are ongoing. the idea is for the audience to choose to subscribe to a given hub's ALJ as and when suits them. [action-learning journeys](patterns/action-learning%20journeys.md) are about creating a space of radical experimentation. subscriptions to case-studies are the means for gaining access to real-time action-learning. 
 # Curation

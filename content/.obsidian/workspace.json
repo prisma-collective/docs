@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patterns/action-learning journeys.md",
+                "file": "collaborators/communities of place/hub/hubs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,21 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "action-learning journeys"
-            }
-          },
-          {
-            "id": "b643d5dc1c0cdb7d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "hubs"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,12 +219,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b643d5dc1c0cdb7d",
+  "active": "5bfcffd2645e8feb",
   "lastOpenFiles": [
+    "collaborators/communities of place/hub/hub team.md",
+    "collaborators/communities of place/hub/hubs.md",
+    "collaborators/communities of place/hub",
+    "patterns/action-learning journeys.md",
     "collaborators/index.mdx",
     "processes/evaluation/index.md",
     "collaborators/participants/scribes.md",
-    "patterns/action-learning journeys.md",
     "collaborators/index.md",
     "Practices/index.mdx",
     "processes/index.md",
@@ -249,7 +242,6 @@
     "processes/process-infrastructuring/index.mdx",
     "processes/process-infrastructuring/practice-currencies.mdx",
     "processes/process-infrastructuring/timelining/ingest.mdx",
-    "processes/process-infrastructuring/timelining/index.mdx",
     "glossary/resourcing.md",
     "processes/enactment/index.md",
     "collaborators/Facilitators/process-infrastructuring.md",
@@ -264,7 +256,6 @@
     "context & narrative/index.md",
     "glossary/development.md",
     "patterns/action-learning.md",
-    "glossary/systemic intervention.md",
-    "glossary/Capacity-Building.md"
+    "glossary/systemic intervention.md"
   ]
 }

@@ -40,7 +40,7 @@ case-studies serve the purpose of show-casing the work on-the-ground to a broade
 1. other practitioners who want to see practice being applied, to learn and integrate into how they apply practice in their own places
 2. external evaluators who are looking to resource meaningful work
 
-case-studies are an interface into [action-learning](/patterns/action-learning.md) - real-time, with multiple perspectives. in this way, the case-study is in fact an ongoing storying of expression of essence of [place](/glossary/Place.md). the potential we're aiming for is for [hubs](/collaborators/communities%20of%20place/hubs.md) to grow their self-[publishing](/processes/process-infrastructuring/publishing.md) capabilities. prisma's role as [a distributed incubator](/home) is to on-board more hubs into a distributed system of self-organising action-learning journeys, each hub growing their capability over time to address higher orders of outcome aims. 
+case-studies are an interface into [action-learning](/patterns/action-learning.md) - real-time, with multiple perspectives. in this way, the case-study is in fact an ongoing storying of expression of essence of [place](/glossary/Place.md). the potential we're aiming for is for [hubs](collaborators/communities%20of%20place/hub/hubs.md) to grow their self-[publishing](/processes/process-infrastructuring/publishing.md) capabilities. prisma's role as [a distributed incubator](/home) is to on-board more hubs into a distributed system of self-organising action-learning journeys, each hub growing their capability over time to address higher orders of outcome aims. 
 
 ![communicating-al](/communicating-al.png)
 
