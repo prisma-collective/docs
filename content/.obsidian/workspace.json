@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collaborators/communities of place/hub/hubs.md",
+                "file": "collaborators/communities of place/hub/hubs.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -222,8 +222,9 @@
   "active": "5bfcffd2645e8feb",
   "lastOpenFiles": [
     "collaborators/communities of place/hub/hub team.md",
-    "index.mdx",
     "collaborators/communities of place/hub/hubs.md",
+    "collaborators/communities of place/hub/hubs.mdx",
+    "index.mdx",
     "collaborators/communities of practice/practice networks.md",
     "collaborators/participants/developers.md",
     "collaborators/communities of place/hub",
@@ -243,7 +244,6 @@
     "processes/enrolment/index.mdx",
     "processes/enactment/1. learning arcs.mdx",
     "processes/process-infrastructuring/index.mdx",
-    "processes/process-infrastructuring/practice-currencies.mdx",
     "glossary/resourcing.md",
     "processes/enactment/index.md",
     "collaborators/Facilitators/process-infrastructuring.md",
