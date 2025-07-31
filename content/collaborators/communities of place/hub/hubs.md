@@ -15,6 +15,8 @@ hubs are on-the-ground, physical spaces, which will be identified by a local cha
 - cooperatives/ hosts of cooperative collectives
 - co-living and co-working spaces that actively play a stewarding role in their region
 - living labs
+
+![hub-customer-profile.mp4](/hub-customer-profile.mp4)
 # Hub onboarding
 hub onboarding covers all the steps necessary to become capable of self-organising an ALJ and self-publishing an ALJ [case-study](/patterns/case-study.md). we are currently aiming for reaching that level of capability with a single ALJ. that means that by the end of the first ALJ, hub teams are capable of... 
 
