@@ -1,6 +1,6 @@
-prisma designs and facilitates multi-stakeholder [action-learning journeys](/patterns/action-learning%20journeys.md), grounded in partner [hubs](collaborators/communities%20of%20place/hub/hubs.md) in different [bioregions](/glossary/bioregion). Through our [index](processes/enrolment/index.md) process, we onboard the following stakeholders into an alignment process lasting multiple weeks, culminating in an intensive:
+prisma designs and facilitates multi-stakeholder [action-learning journeys](/patterns/action-learning%20journeys.md), grounded in partner [hubs](/collaborators/communities%20of%20place/hub/hubs.md) in different [bioregions](/glossary/bioregion). Through our [index](processes/enrolment/index.md) process, we onboard the following stakeholders into an alignment process lasting multiple weeks, culminating in an intensive:
 
-1. [hubs](collaborators/communities%20of%20place/hub/hubs.md)
+1. [hubs](/collaborators/communities%20of%20place/hub/hubs.md)
 2. [practice networks](/collaborators/communities%20of%20practice/practice%20networks.md)
 3. participants
 4. partners

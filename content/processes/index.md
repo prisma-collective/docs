@@ -6,7 +6,7 @@ asIndexPage: true
 ![process-facilitation.png](/process-facilitation.png)
 
 # Core Processes
-at the highest level, each event is the interplay of the following four processes. these processes each receive a sub-domain dedicated to engaging a wider audience with the inner workings of the event. these sub-domains become the endpoints by which [hubs](collaborators/communities%20of%20place/hub/hubs.md) can integrate their [place](/glossary/Place.md)-unique interfaces into working with the essence of place in a global-scale, self-evolving platform.
+at the highest level, each event is the interplay of the following four processes. these processes each receive a sub-domain dedicated to engaging a wider audience with the inner workings of the event. these sub-domains become the endpoints by which [hubs](/collaborators/communities%20of%20place/hub/hubs.md) can integrate their [place](/glossary/Place.md)-unique interfaces into working with the essence of place in a global-scale, self-evolving platform.
 
 1. [index](processes/enrolment/index.md) 
 	- stakeholder engagement
