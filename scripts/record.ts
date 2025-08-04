@@ -6,6 +6,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import sharp from 'sharp';
+import si from 'systeminformation';
 
 // --- Paths
 const __filename = fileURLToPath(import.meta.url);
@@ -20,6 +21,32 @@ if (!fs.existsSync(outDir)) {
 
 // --- Detect devices
 console.log(chalk.blue('🔍 Detecting devices...'));
+
+const graphics = await si.graphics();
+const displays = graphics.displays;
+
+// Prepare list for selection
+const displayChoices = displays.map((d, i) => ({
+    name: `Display ${i + 1} - ${d.currentResX}x${d.currentResY} at (${d.positionX}, ${d.positionY})${d.main ? ' [Primary]' : ''}`,
+    value: i,
+}));
+
+const { selectedDisplayIndex } = await inquirer.prompt<{ selectedDisplayIndex: number }>([
+    {
+        type: 'list',
+        name: 'selectedDisplayIndex',
+        message: 'Select the screen to record:',
+        choices: displayChoices,
+    }
+]);
+
+const selected = displays[selectedDisplayIndex];
+const screenWidth = selected.currentResX;
+const screenHeight = selected.currentResY;
+const offsetX = selected.positionX;
+const offsetY = selected.positionY;
+
+console.log(chalk.green(`Recording display ${selectedDisplayIndex + 1}: ${screenWidth}x${screenHeight} at (${offsetX}, ${offsetY})`));
 
 let ffmpegOutput = '';
 try {
@@ -57,10 +84,22 @@ const answers = await inquirer.prompt<{ video: string; audio: string }>([
     },
 ]);
 
+const { saveWebcamSeparate } = await inquirer.prompt<{ saveWebcamSeparate: boolean }>([
+    {
+        type: 'confirm',
+        name: 'saveWebcamSeparate',
+        message: 'Save camera footage as separate file?',
+        default: false,
+    }
+]);
+
 // --- Filenames
 const timestamp = new Date().toISOString().replace(/[-:]/g, '').replace(/\..+/, '').replace('T', '_');
 const rawRecording = path.join(outDir, `recording_raw_${timestamp}.mp4`);
 const finalRecording = path.join(outDir, `recording_${timestamp}.mp4`);
+const webcamOnlyRecording = saveWebcamSeparate
+    ? path.join(outDir, `webcam_only_${timestamp}.mp4`)
+    : null;
 
 const openingSvg = path.join(scriptDir, 'opening_frame.svg');
 const closingSvg = path.join(scriptDir, 'closing_frame.svg');
@@ -115,12 +154,19 @@ console.log(chalk.cyan(`Saving to: ${rawRecording}\n`));
 const ffmpegArgs = [
     '-y',
     '-loglevel', 'info',
+
+    // Screen capture
     '-f', 'gdigrab',
     '-framerate', '30',
     '-thread_queue_size', '512',
     '-probesize', '50M',
     '-analyzeduration', '10000000',
+    '-offset_x', offsetX.toString(),
+    '-offset_y', offsetY.toString(),
+    '-video_size', `${screenWidth}x${screenHeight}`,
     '-i', 'desktop',
+
+    // Webcam and audio
     '-f', 'dshow',
     '-rtbufsize', '100M',
     '-thread_queue_size', '512',
@@ -128,11 +174,18 @@ const ffmpegArgs = [
     '-framerate', '30',
     '-channel_layout', 'stereo',
     '-i', `video=${answers.video}:audio=${answers.audio}`,
+
+    // Filter complex: create two streams
     '-filter_complex',
-    '[0:v]format=yuv420p,scale=1920:1080[desktop];' +
-    '[1:v]format=yuv420p,scale=320:240[webcam];' +
-    '[desktop][webcam]overlay=W-w-20:H-h-20[output]',
-    '-map', '[output]',
+    [
+        '[0:v]format=yuv420p,scale=1920:1080[desktop];',
+        '[1:v]format=yuv420p,scale=320:240[webcam_small];',
+        '[1:v]format=yuv420p,scale=1920:1080[webcam_full];',
+        '[desktop][webcam_small]overlay=W-w-20:H-h-20[combined]'
+    ].join(''),
+
+    // Output 1: Combined screen + webcam
+    '-map', '[combined]',
     '-map', '1:a',
     '-c:v', 'libx264',
     '-preset', 'veryfast',
@@ -141,8 +194,21 @@ const ffmpegArgs = [
     '-b:a', '128k',
     '-pix_fmt', 'yuv420p',
     '-movflags', '+faststart',
-    rawRecording,
+    rawRecording
 ];
+
+if (saveWebcamSeparate && webcamOnlyRecording) {
+    ffmpegArgs.push(
+        '-map', '[webcam_full]',
+        '-an',
+        '-c:v', 'libx264',
+        '-preset', 'veryfast',
+        '-crf', '23',
+        '-pix_fmt', 'yuv420p',
+        '-movflags', '+faststart',
+        webcamOnlyRecording
+    );
+};
 
 console.log(chalk.gray('FFmpeg command:'));
 console.log(chalk.gray(`ffmpeg ${ffmpegArgs.join(' ')}`));
@@ -288,8 +354,43 @@ const { finalFilename } = await inquirer.prompt<{ finalFilename: string }>([
     },
 ]);
 
+if (saveWebcamSeparate && webcamOnlyRecording && fs.existsSync(webcamOnlyRecording)) {
+
+    const { webcamRecordingFilename } = await inquirer.prompt<{ webcamRecordingFilename: string }>([
+        {
+            type: 'input',
+            name: 'webcamRecordingFilename',
+            message: chalk.cyan('Enter a filename to save the webcam footage as (e.g. `mymodule_webcam.mp4`):'),
+            validate(input: string) {
+                if (!input) return 'Filename cannot be empty';
+                if (!input.toLowerCase().endsWith('.mp4')) return 'Filename must end with .mp4';
+                return true;
+            },
+            filter(input: string) {
+                return input.trim();
+            },
+        },
+    ]);
+
+    const destPathWebcam = path.join(outDir, webcamRecordingFilename);
+    fs.copyFileSync(webcamOnlyRecording, destPathWebcam);
+    console.log(chalk.green('Webcam video saved.'));
+
+    try {
+        await safeUnlink(webcamOnlyRecording);
+    } catch (error: any) {
+        console.log(chalk.yellow(`Cleanup warning: ${error.message}`));
+    }
+}
+
 const destPath = path.join(outDir, finalFilename);
 fs.copyFileSync(finalRecording, destPath);
+
+try {
+    await safeUnlink(finalRecording);
+} catch (error: any) {
+    console.log(chalk.yellow(`Cleanup warning: ${error.message}`));
+}
 
 console.log(chalk.green('\nFinal video saved!'));
 console.log(chalk.cyan('\nCopy-paste this into your markdown:\n'));
