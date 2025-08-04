@@ -117,8 +117,6 @@ try {
     process.exit(1);
 }
 
-// Replace the ffmpegArgs section with this improved version
-
 console.log(chalk.green('\n📹 Starting recording...'));
 console.log(chalk.cyan(`Webcam: ${answers.video}`));
 console.log(chalk.cyan(`Microphone: ${answers.audio}`));
