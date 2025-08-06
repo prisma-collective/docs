@@ -2,7 +2,10 @@ import { RecordingContext } from './types';
 
 export function getWebcamOnlyArgs(ctx: RecordingContext): string[] {
     return [
-        '-y', '-loglevel', 'info',
+        '-y',
+        '-loglevel', 'info',
+
+        // Webcam + audio
         '-f', 'dshow',
         '-use_wallclock_as_timestamps', '1',
         '-rtbufsize', '300M',
@@ -11,15 +14,29 @@ export function getWebcamOnlyArgs(ctx: RecordingContext): string[] {
         '-framerate', '30',
         '-channel_layout', 'stereo',
         '-i', `video=${ctx.video}:audio=${ctx.audio}`,
+
+        // Sync
         '-vsync', 'cfr',
         '-r', '30',
+
+        // Match exact filter used for separate webcam recording
+        '-filter_complex', '[0:v]format=yuv420p,scale=1920:1080[webcam_full]',
+
+        // Use the filtered webcam video and the audio stream
+        '-map', '[webcam_full]',
+        '-map', '0:a',
+
+        // Match encoder settings
         '-c:v', 'libx264',
-        '-preset', 'medium',
+        '-preset', 'veryfast', // match your separate recording preset
         '-crf', '23',
+
         '-c:a', 'aac',
         '-b:a', '128k',
+
         '-pix_fmt', 'yuv420p',
         '-movflags', '+faststart',
+
         ctx.rawRecording,
     ];
 }
