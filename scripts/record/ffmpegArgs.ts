@@ -1,0 +1,97 @@
+import { RecordingContext } from './types';
+
+export function getWebcamOnlyArgs(ctx: RecordingContext): string[] {
+    return [
+        '-y', '-loglevel', 'info',
+        '-f', 'dshow',
+        '-rtbufsize', '100M',
+        '-thread_queue_size', '512',
+        '-video_size', '640x480',
+        '-framerate', '30',
+        '-channel_layout', 'stereo',
+        '-i', `video=${ctx.video}:audio=${ctx.audio}`,
+        '-c:v', 'libx264',
+        '-preset', 'veryfast',
+        '-crf', '23',
+        '-c:a', 'aac',
+        '-b:a', '128k',
+        '-pix_fmt', 'yuv420p',
+        '-movflags', '+faststart',
+        ctx.rawRecording,
+    ];
+}
+
+export function getCombinedArgs(ctx: RecordingContext, saveWebcamSeparate: boolean): string[] {
+    const ffmpegArgs = [
+        '-y',
+        '-loglevel', 'info',
+
+        // Screen capture
+        '-f', 'gdigrab',
+        '-framerate', '30',
+        '-thread_queue_size', '1024', // Sets the number of packets that FFmpeg can store in its internal thread queue before processing.
+        '-probesize', '50M',
+        '-analyzeduration', '10000000',
+        '-offset_x', ctx.offsetX.toString(),
+        '-offset_y', ctx.offsetY.toString(),
+        '-video_size', `${ctx.screenWidth}x${ctx.screenHeight}`,
+        '-i', 'desktop',
+
+        // Webcam + audio
+        '-f', 'dshow',
+        '-rtbufsize', '300M',
+        '-thread_queue_size', '1024',
+        '-video_size', '640x480',
+        '-framerate', '30',
+        '-channel_layout', 'stereo',
+        '-i', `video=${ctx.video}:audio=${ctx.audio}`,
+    ];
+
+    const filterParts = [
+        '[0:v]format=yuv420p,scale=1920:1080[desktop]',
+        saveWebcamSeparate
+            ? '[1:v]split=2[webcam1][webcam2]'
+            : '[1:v]split=1[webcam1]',
+        '[webcam1]format=yuv420p,scale=320:240[webcam_small]',
+    ];
+
+    if (saveWebcamSeparate) {
+        filterParts.push('[webcam2]format=yuv420p,scale=1920:1080[webcam_full]');
+    }
+
+    filterParts.push('[desktop][webcam_small]overlay=W-w-20:H-h-20[combined]');
+
+    const filterComplex = filterParts.join(';');
+
+    ffmpegArgs.push('-filter_complex', filterComplex);
+
+    // Main output (combined desktop + webcam overlay)
+    ffmpegArgs.push(
+        '-map', '[combined]',
+        '-map', '1:a',
+	'-c:v', 'libx264',
+	'-preset', 'fast',         // or "medium" for better quality, slower speed
+	'-crf', '23',     
+        '-c:a', 'aac',
+        '-b:a', '128k',
+        '-pix_fmt', 'yuv420p',
+        '-movflags', '+faststart',
+        ctx.rawRecording
+    );
+
+    // Optional webcam-only output
+    if (saveWebcamSeparate && ctx.webcamOnlyRecording) {
+        ffmpegArgs.push(
+            '-map', '[webcam_full]',
+            '-an',
+            '-c:v', 'libx264',
+            '-preset', 'veryfast',
+            '-crf', '23',
+            '-pix_fmt', 'yuv420p',
+            '-movflags', '+faststart',
+            ctx.webcamOnlyRecording
+        );
+    }
+
+    return ffmpegArgs;
+}

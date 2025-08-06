@@ -6,7 +6,9 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { generateIntroOutroVideos } from './lib/paddingSlides/generate';
-import { safeUnlink, getFfmpegArgs, selectDisplays, selectDevices } from './utils';
+import { safeUnlink, selectDisplays, selectDevices } from './utils';
+import { getModeHandler } from './mode';
+import { ModeHandler } from './types';
 
 // --- Paths
 const __filename = fileURLToPath(import.meta.url);
@@ -26,7 +28,6 @@ console.log(chalk.blue('🔍 Detecting devices...'));
 const { screenWidth, screenHeight, offsetX, offsetY } = await selectDisplays();
 const { video, audio } = await selectDevices();
 
-
 // Prompt user for recording mode
 const { mode } = await inquirer.prompt([
     {
@@ -40,45 +41,32 @@ const { mode } = await inquirer.prompt([
     },
 ]);
 
-let saveWebcamSeparate = false;
-if (mode === 'combined') {
-    const { saveWebcamSeparate: userChoice } = await inquirer.prompt<{ saveWebcamSeparate: boolean }>([
-        {
-            type: 'confirm',
-            name: 'saveWebcamSeparate',
-            message: 'Save camera footage as separate file?',
-            default: false,
-        }
-    ]);
-    saveWebcamSeparate = userChoice;
-}
-
 // --- Filenames
 const timestamp = new Date().toISOString().replace(/[-:]/g, '').replace(/\..+/, '').replace('T', '_');
 const rawRecording = path.join(outDir, `recording_raw_${timestamp}.mp4`);
 const finalRecording = path.join(outDir, `recording_${timestamp}.mp4`);
-const webcamOnlyRecording = saveWebcamSeparate
-    ? path.join(outDir, `webcam_only_${timestamp}.mp4`)
-    : undefined;
+
+const handler: ModeHandler = getModeHandler(mode, {
+    video,
+    audio,
+    rawRecording,
+    finalRecording,
+    screenWidth,
+    screenHeight,
+    offsetX,
+    offsetY,
+    timestamp,
+})
+
+await handler.prompt();
+
+// --- FFmpeg args
+const ffmpegArgs = handler.getFfmpegArgs();
 
 // --- Intro / Outro
 const { introMp4: openingMp4, outroMp4: closingMp4 } = await generateIntroOutroVideos({
     templateDir,
     outDir
-});
-
-// --- FFmpeg args
-const ffmpegArgs = getFfmpegArgs({
-    mode,
-    offsetX,
-    offsetY,
-    screenWidth,
-    screenHeight,
-    video, 
-    audio,
-    saveWebcamSeparate,
-    rawRecording,
-    webcamOnlyRecording,
 });
 
 // --- Start recording
@@ -190,79 +178,4 @@ try {
     console.log(chalk.yellow(`Cleanup warning: ${error.message}`));
 }
 
-let finalRecordingPath = rawRecording;
-
-// Ask for final filename to save the main recording
-const { finalFilename } = await inquirer.prompt<{ finalFilename: string }>([
-    {
-        type: 'input',
-        name: 'finalFilename',
-        message: chalk.cyan('Enter a filename to save the video as (e.g. `mymodule.mp4`):'),
-        validate(input: string) {
-            if (!input) return 'Filename cannot be empty';
-            if (!input.toLowerCase().endsWith('.mp4')) return 'Filename must end with .mp4';
-            return true;
-        },
-        filter(input: string) {
-            return input.trim();
-        },
-    },
-]);
-
-// Save webcam-only stream separately (only in combined mode)
-if (
-    mode === 'combined' &&
-    saveWebcamSeparate &&
-    webcamOnlyRecording &&
-    fs.existsSync(webcamOnlyRecording)
-) {
-    const { webcamRecordingFilename } = await inquirer.prompt<{ webcamRecordingFilename: string }>([
-        {
-            type: 'input',
-            name: 'webcamRecordingFilename',
-            message: chalk.cyan('Enter a filename to save the webcam footage as (e.g. `mymodule_webcam.mp4`):'),
-            validate(input: string) {
-                if (!input) return 'Filename cannot be empty';
-                if (!input.toLowerCase().endsWith('.mp4')) return 'Filename must end with .mp4';
-                return true;
-            },
-            filter(input: string) {
-                return input.trim();
-            },
-        },
-    ]);
-
-    const destPathWebcam = path.join(outDir, webcamRecordingFilename);
-    fs.copyFileSync(webcamOnlyRecording, destPathWebcam);
-    console.log(chalk.green('✅ Webcam video saved.'));
-
-    try {
-        await safeUnlink(webcamOnlyRecording);
-    } catch (error: any) {
-        console.log(chalk.yellow(`⚠️ Cleanup warning: ${error.message}`));
-    }
-}
-
-// If mode is webcam-only, use that file as final recording
-if (mode === 'webcam-only' && finalRecording) {
-    finalRecordingPath = finalRecording;
-}
-
-const destPath = path.join(outDir, finalFilename);
-fs.copyFileSync(finalRecordingPath, destPath);
-console.log(chalk.green('✅ Final recording saved.'));
-
-try {
-    await safeUnlink(finalRecordingPath);
-} catch (error: any) {
-    console.log(chalk.yellow(`⚠️ Cleanup warning: ${error.message}`));
-}
-
-console.log(chalk.green('\nFinal video saved!'));
-console.log(chalk.cyan('\nCopy-paste this into your markdown:\n'));
-console.log(chalk.cyan(`
-    <video width="100%" controls>
-        <source src="/${finalFilename}" type="video/mp4" />
-        Your browser does not support the video tag.
-    </video>
-`));
+await handler.handlePostProcessing(outDir);

@@ -4,130 +4,7 @@ import path from 'path';
 import si from 'systeminformation';
 import inquirer from 'inquirer';
 import { execa } from 'execa';
-
-type RecordingMode = 'combined' | 'webcam-only';
-
-type GetFfmpegArgsParams = {
-    mode: RecordingMode;
-    offsetX: number;
-    offsetY: number;
-    screenWidth: number;
-    screenHeight: number;
-    video: string; 
-    audio: string;
-    saveWebcamSeparate: boolean;
-    rawRecording: string;
-    webcamOnlyRecording?: string;
-};
-
-export function getFfmpegArgs({
-    mode,
-    offsetX,
-    offsetY,
-    screenWidth,
-    screenHeight,
-    video,
-    audio,
-    saveWebcamSeparate,
-    rawRecording,
-    webcamOnlyRecording,
-}: GetFfmpegArgsParams): string[] {
-
-    if (mode === 'webcam-only') {
-        return [
-            '-y',
-            '-loglevel', 'info',
-            '-f', 'dshow',
-            '-rtbufsize', '100M',
-            '-thread_queue_size', '512',
-            '-video_size', '640x480',
-            '-framerate', '30',
-            '-channel_layout', 'stereo',
-            '-i', `video=${video}:audio=${audio}`,
-            '-c:v', 'libx264',
-            '-preset', 'veryfast',
-            '-crf', '23',
-            '-c:a', 'aac',
-            '-b:a', '128k',
-            '-pix_fmt', 'yuv420p',
-            '-movflags', '+faststart',
-            rawRecording,
-        ];
-    }
-
-    const ffmpegArgs = [
-        '-y',
-        '-loglevel', 'info',
-
-        // Screen capture
-        '-f', 'gdigrab',
-        '-framerate', '30',
-        '-thread_queue_size', '1024', // Sets the number of packets that FFmpeg can store in its internal thread queue before processing.
-        '-probesize', '50M',
-        '-analyzeduration', '10000000',
-        '-offset_x', offsetX.toString(),
-        '-offset_y', offsetY.toString(),
-        '-video_size', `${screenWidth}x${screenHeight}`,
-        '-i', 'desktop',
-
-        // Webcam + audio
-        '-f', 'dshow',
-        '-rtbufsize', '300M',
-        '-thread_queue_size', '1024',
-        '-video_size', '640x480',
-        '-framerate', '30',
-        '-channel_layout', 'stereo',
-        '-i', `video=${video}:audio=${audio}`,
-    ];
-
-    const filterParts = [
-        '[0:v]format=yuv420p,scale=1920:1080[desktop]',
-        saveWebcamSeparate
-            ? '[1:v]split=2[webcam1][webcam2]'
-            : '[1:v]split=1[webcam1]',
-        '[webcam1]format=yuv420p,scale=320:240[webcam_small]',
-    ];
-
-    if (saveWebcamSeparate) {
-        filterParts.push('[webcam2]format=yuv420p,scale=1920:1080[webcam_full]');
-    }
-
-    filterParts.push('[desktop][webcam_small]overlay=W-w-20:H-h-20[combined]');
-
-    const filterComplex = filterParts.join(';');
-
-    ffmpegArgs.push('-filter_complex', filterComplex);
-
-    // Main output (combined desktop + webcam overlay)
-    ffmpegArgs.push(
-        '-map', '[combined]',
-        '-map', '1:a',
-	'-c:v', 'libx264',
-	'-preset', 'fast',         // or "medium" for better quality, slower speed
-	'-crf', '23',     
-        '-c:a', 'aac',
-        '-b:a', '128k',
-        '-pix_fmt', 'yuv420p',
-        '-movflags', '+faststart',
-        rawRecording
-    );
-
-    // Optional webcam-only output
-    if (saveWebcamSeparate && webcamOnlyRecording) {
-        ffmpegArgs.push(
-            '-map', '[webcam_full]',
-            '-an',
-            '-c:v', 'libx264',
-            '-preset', 'veryfast',
-            '-crf', '23',
-            '-pix_fmt', 'yuv420p',
-            '-movflags', '+faststart',
-            webcamOnlyRecording
-        );
-    }
-
-    return ffmpegArgs;
-};
+import fsp from 'fs/promises';
 
 export async function safeUnlink(filePath: string, maxRetries = 5, delayMs = 1000): Promise<void> {
     for (let i = 0; i < maxRetries; i++) {
@@ -229,3 +106,59 @@ export async function selectDevices(): Promise <{
 
     return answers;
 }
+
+/**
+ * Prompts user for a final output filename and moves the file there.
+ * Then deletes the original source and logs a <video> embed snippet.
+ */
+export async function finalizeRecording({
+    sourcePath,
+    message,
+    outDir,
+    suggestedName,
+}: {
+    sourcePath: string;
+    message: string;
+    outDir: string;
+    suggestedName?: string;
+}): Promise<void> {
+    const { finalFilename } = await inquirer.prompt<{ finalFilename: string }>([
+        {
+            type: 'input',
+            name: 'finalFilename',
+            message: chalk.cyan(message),
+            default: suggestedName,
+            validate(input: string) {
+                if (!input) return 'Filename cannot be empty';
+                if (!input.toLowerCase().endsWith('.mp4')) return 'Filename must end with .mp4';
+                return true;
+            },
+            filter(input: string) {
+                return input.trim();
+            },
+        },
+    ]);
+
+    const destPath = path.join(outDir, finalFilename);
+    fs.copyFileSync(sourcePath, destPath);
+    console.log(chalk.green(`✅ File saved to: ${destPath}`));
+
+    try {
+        await fsp.unlink(sourcePath);
+    } catch (err: any) {
+        if (err.code !== 'ENOENT') {
+            console.log(chalk.yellow(`⚠️ Cleanup warning: ${err.message}`));
+        }
+    }
+
+    console.log(chalk.green('\nFinal video saved!'));
+    console.log(chalk.cyan('\nCopy-paste this into your markdown:\n'));
+    console.log(chalk.cyan(`
+    <video width="100%" controls>
+        <source src="/${finalFilename}" type="video/mp4" />
+        Your browser does not support the video tag.
+    </video>
+    `));
+}
+
+
