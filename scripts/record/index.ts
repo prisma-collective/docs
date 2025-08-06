@@ -1,4 +1,3 @@
-//!/usr/bin/env node
 import inquirer from 'inquirer';
 import chalk from 'chalk';
 import { execa } from 'execa';
@@ -6,7 +5,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { generateIntroOutroVideos } from './lib/paddingSlides/generate';
-import { safeUnlink, selectDisplays, selectDevices } from './utils';
+import { safeUnlink } from './utils';
 import { getModeHandler } from './mode';
 import { ModeHandler } from './types';
 
@@ -21,12 +20,6 @@ if (!fs.existsSync(outDir)) {
     console.error(chalk.red(`❌ Folder 'public' does not exist.`));
     process.exit(1);
 }
-
-// --- Detect devices
-console.log(chalk.blue('🔍 Detecting devices...'));
-
-const { screenWidth, screenHeight, offsetX, offsetY } = await selectDisplays();
-const { video, audio } = await selectDevices();
 
 // Prompt user for recording mode
 const { mode } = await inquirer.prompt([
@@ -47,14 +40,8 @@ const rawRecording = path.join(outDir, `recording_raw_${timestamp}.mp4`);
 const finalRecording = path.join(outDir, `recording_${timestamp}.mp4`);
 
 const handler: ModeHandler = getModeHandler(mode, {
-    video,
-    audio,
     rawRecording,
     finalRecording,
-    screenWidth,
-    screenHeight,
-    offsetX,
-    offsetY,
     timestamp,
 })
 
@@ -71,8 +58,8 @@ const { introMp4: openingMp4, outroMp4: closingMp4 } = await generateIntroOutroV
 
 // --- Start recording
 console.log(chalk.green('\n📹 Starting recording...'));
-console.log(chalk.cyan(`Webcam: ${video}`));
-console.log(chalk.cyan(`Microphone: ${audio}`));
+console.log(chalk.cyan(`Webcam: ${handler.ctx.video}`));
+console.log(chalk.cyan(`Microphone: ${handler.ctx.audio}`));
 console.log(chalk.cyan(`Saving to: ${rawRecording}\n`));
 
 console.log(chalk.gray('FFmpeg command:'));

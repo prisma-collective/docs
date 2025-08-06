@@ -1,12 +1,21 @@
 import { ModeHandler, RecordingContext } from '../types';
 import { getWebcamOnlyArgs } from '../ffmpegArgs';
-import { finalizeRecording } from '../utils';
+import { finalizeRecording, selectDevices } from '../utils';
+import chalk from 'chalk';
 
 export class WebcamOnlyHandler implements ModeHandler {
-    constructor(private ctx: RecordingContext) {}
+    ctx: RecordingContext;
+
+    constructor(ctx: RecordingContext) {
+        this.ctx = ctx;
+    }
 
     async prompt(): Promise<void> {
-        // Nothing else needed for webcam-only mode
+        console.log(chalk.blue('🔍 Detecting devices...'));
+    
+        const devices = await selectDevices();
+        this.ctx.video = devices.video;
+        this.ctx.audio = devices.audio;
     }
 
     getFfmpegArgs(): string[] {
