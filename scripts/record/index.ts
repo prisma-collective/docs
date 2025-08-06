@@ -5,9 +5,8 @@ import { execa } from 'execa';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import si from 'systeminformation';
 import { generateIntroOutroVideos } from './lib/paddingSlides/generate';
-import { safeUnlink, getFfmpegArgs } from './utils';
+import { safeUnlink, getFfmpegArgs, selectDisplays, selectDevices } from './utils';
 
 // --- Paths
 const __filename = fileURLToPath(import.meta.url);
@@ -24,76 +23,35 @@ if (!fs.existsSync(outDir)) {
 // --- Detect devices
 console.log(chalk.blue('🔍 Detecting devices...'));
 
-const graphics = await si.graphics();
-const displays = graphics.displays;
+const { screenWidth, screenHeight, offsetX, offsetY } = await selectDisplays();
+const { video, audio } = await selectDevices();
 
-// Prepare list for selection
-const displayChoices = displays.map((d, i) => ({
-    name: `Display ${i + 1} - ${d.currentResX}x${d.currentResY} at (${d.positionX}, ${d.positionY})${d.main ? ' [Primary]' : ''}`,
-    value: i,
-}));
 
-const { selectedDisplayIndex } = await inquirer.prompt<{ selectedDisplayIndex: number }>([
+// Prompt user for recording mode
+const { mode } = await inquirer.prompt([
     {
         type: 'list',
-        name: 'selectedDisplayIndex',
-        message: 'Select the screen to record:',
-        choices: displayChoices,
-    }
-]);
-
-const selected = displays[selectedDisplayIndex];
-const screenWidth = selected.currentResX || 1920;
-const screenHeight = selected.currentResY || 1080;
-const offsetX = selected.positionX || 0;
-const offsetY = selected.positionY || 0;
-
-console.log(chalk.green(`Recording display ${selectedDisplayIndex + 1}: ${screenWidth}x${screenHeight} at (${offsetX}, ${offsetY})`));
-
-let ffmpegOutput = '';
-try {
-    await execa('ffmpeg', ['-list_devices', 'true', '-f', 'dshow', '-i', 'dummy'], {
-        stderr: 'pipe',
-        stdout: 'ignore',
-    }).catch(err => {
-        ffmpegOutput = err.stderr;
-    });
-} catch (e) {
-    console.error(chalk.red('❌ Failed to run ffmpeg.'));
-    process.exit(1);
-}
-
-const videoDevices = [...ffmpegOutput.matchAll(/"([^"]+)" \(video\)/g)].map(m => m[1]);
-const audioDevices = [...ffmpegOutput.matchAll(/"([^"]+)" \(audio\)/g)].map(m => m[1]);
-
-if (!videoDevices.length || !audioDevices.length) {
-    console.error(chalk.red('❌ No video or audio devices found.'));
-    process.exit(1);
-}
-
-const answers = await inquirer.prompt<{ video: string; audio: string }>([
-    {
-        type: 'list',
-        name: 'video',
-        message: chalk.cyan('Select your camera:'),
-        choices: videoDevices,
-    },
-    {
-        type: 'list',
-        name: 'audio',
-        message: chalk.cyan('Select your microphone:'),
-        choices: audioDevices,
+        name: 'mode',
+        message: 'Select recording mode:',
+        choices: [
+            { name: 'Screen + Webcam (combined)', value: 'combined' },
+            { name: 'Webcam only', value: 'webcam-only' },
+        ],
     },
 ]);
 
-const { saveWebcamSeparate } = await inquirer.prompt<{ saveWebcamSeparate: boolean }>([
-    {
-        type: 'confirm',
-        name: 'saveWebcamSeparate',
-        message: 'Save camera footage as separate file?',
-        default: false,
-    }
-]);
+let saveWebcamSeparate = false;
+if (mode === 'combined') {
+    const { saveWebcamSeparate: userChoice } = await inquirer.prompt<{ saveWebcamSeparate: boolean }>([
+        {
+            type: 'confirm',
+            name: 'saveWebcamSeparate',
+            message: 'Save camera footage as separate file?',
+            default: false,
+        }
+    ]);
+    saveWebcamSeparate = userChoice;
+}
 
 // --- Filenames
 const timestamp = new Date().toISOString().replace(/[-:]/g, '').replace(/\..+/, '').replace('T', '_');
@@ -111,11 +69,13 @@ const { introMp4: openingMp4, outroMp4: closingMp4 } = await generateIntroOutroV
 
 // --- FFmpeg args
 const ffmpegArgs = getFfmpegArgs({
+    mode,
     offsetX,
     offsetY,
     screenWidth,
     screenHeight,
-    answers,
+    video, 
+    audio,
     saveWebcamSeparate,
     rawRecording,
     webcamOnlyRecording,
@@ -123,8 +83,8 @@ const ffmpegArgs = getFfmpegArgs({
 
 // --- Start recording
 console.log(chalk.green('\n📹 Starting recording...'));
-console.log(chalk.cyan(`Webcam: ${answers.video}`));
-console.log(chalk.cyan(`Microphone: ${answers.audio}`));
+console.log(chalk.cyan(`Webcam: ${video}`));
+console.log(chalk.cyan(`Microphone: ${audio}`));
 console.log(chalk.cyan(`Saving to: ${rawRecording}\n`));
 
 console.log(chalk.gray('FFmpeg command:'));
@@ -230,6 +190,9 @@ try {
     console.log(chalk.yellow(`Cleanup warning: ${error.message}`));
 }
 
+let finalRecordingPath = rawRecording;
+
+// Ask for final filename to save the main recording
 const { finalFilename } = await inquirer.prompt<{ finalFilename: string }>([
     {
         type: 'input',
@@ -246,8 +209,13 @@ const { finalFilename } = await inquirer.prompt<{ finalFilename: string }>([
     },
 ]);
 
-if (saveWebcamSeparate && webcamOnlyRecording && fs.existsSync(webcamOnlyRecording)) {
-
+// Save webcam-only stream separately (only in combined mode)
+if (
+    mode === 'combined' &&
+    saveWebcamSeparate &&
+    webcamOnlyRecording &&
+    fs.existsSync(webcamOnlyRecording)
+) {
     const { webcamRecordingFilename } = await inquirer.prompt<{ webcamRecordingFilename: string }>([
         {
             type: 'input',
@@ -266,22 +234,28 @@ if (saveWebcamSeparate && webcamOnlyRecording && fs.existsSync(webcamOnlyRecordi
 
     const destPathWebcam = path.join(outDir, webcamRecordingFilename);
     fs.copyFileSync(webcamOnlyRecording, destPathWebcam);
-    console.log(chalk.green('Webcam video saved.'));
+    console.log(chalk.green('✅ Webcam video saved.'));
 
     try {
         await safeUnlink(webcamOnlyRecording);
     } catch (error: any) {
-        console.log(chalk.yellow(`Cleanup warning: ${error.message}`));
+        console.log(chalk.yellow(`⚠️ Cleanup warning: ${error.message}`));
     }
 }
 
+// If mode is webcam-only, use that file as final recording
+if (mode === 'webcam-only' && finalRecording) {
+    finalRecordingPath = finalRecording;
+}
+
 const destPath = path.join(outDir, finalFilename);
-fs.copyFileSync(finalRecording, destPath);
+fs.copyFileSync(finalRecordingPath, destPath);
+console.log(chalk.green('✅ Final recording saved.'));
 
 try {
-    await safeUnlink(finalRecording);
+    await safeUnlink(finalRecordingPath);
 } catch (error: any) {
-    console.log(chalk.yellow(`Cleanup warning: ${error.message}`));
+    console.log(chalk.yellow(`⚠️ Cleanup warning: ${error.message}`));
 }
 
 console.log(chalk.green('\nFinal video saved!'));
