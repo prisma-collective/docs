@@ -13,7 +13,7 @@ developers are (sometimes) inspired by a context that aligns with their purpose,
 
 this alignment and care is the prerequisite for effective communication across the various different capacities present in a [cohort](cohort) - artists, engineers, community leaders, farmers, cooks, and guests, to name just a few. each capacity has an essential role to play in making visible the ways in which a system is trying to evolve, and how the cohort can effectively organise itself in support of that. communication is like water: no hydration, and the creative potential of the collective will quickly dry out.
 
-it is crucial that developers appreciate their relationship with the character and potential of the context in which the ALJ is being hosted. the [hubs](/collaborators/communities%20of%20place/hubs.md) play an important role in helping develop those relationships, creating spaces in which local stakeholders can illuminate the locality's systems and particularities. 
+it is crucial that developers appreciate their relationship with the character and potential of the context in which the ALJ is being hosted. the [hubs](/collaborators/communities%20of%20place/hub/hubs.md) play an important role in helping develop those relationships, creating spaces in which local stakeholders can illuminate the locality's systems and particularities. 
 
 at the same time, developers are required to think functionally in order to implement a given ALJ's product requirements with technical rigour. functional thinking can sometimes seem at odds with the uncertainties inherent in group collaboration. growing a social bandwidth is an experience in itself. 
 
@@ -65,5 +65,12 @@ If this sounds like you, we'd like to enthusiastically invite you to an upcoming
 1. As you begin this process, ask yourself not just "What is it that I am thinking?" but also "How am I thinking?" Noticing shifts in your thinking during the course of the [action-learning journey](action-learning journey) will unlock added learning opportunities.
 2. If you notice yourself feeling frustrated that too much time is spent discussing abstract things, like system potential and place, ask yourself "What is the contribution I am being called for?" and "What value is contained within this difference of approach that I'm not currently seeing?"
 3. Once you feel close to discovering something that you see will help evolve the system you're working on to higher levels of capabilities, ask yourself "What is at the essence of this system?" and "What is needed to bring forward its expression?"
+
+# Benefits of an ALJ
+
+- Purpose
+- Implementing co-tech in meaningful, real-world use cases.
+- Platform to present their work engagingly.
+- Part of a hands-on startup incubation process.
 
 [^1]: Instrumenting is developing tooling and teams as means to reaching a given systems-evolution end. 
