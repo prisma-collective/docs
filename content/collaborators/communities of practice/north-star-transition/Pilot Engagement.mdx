@@ -8,13 +8,15 @@ import { PageGate } from '@/components/PageGate' // Import the PageGate componen
 
 	## What is ChatALJ?
 
+	### Overview
+
 	ChatALJ is the name given to the app currently living on our [evaluate](https://evaluate.prisma.events) subdomain. It's an interface to make visible and query the voice-based [timelining](/processes/process-infrastructuring/timelining) contributions made during an [action-learning journey](/patterns/action-learning journeys). 
 
 	It's built to be deployed to a partner on their own evaluate subdomain - evaluate.northstartransition.org, for example. 
 
 	Given the relatively boundless nature of using your voice to send a voice-note, in which you can convey all sorts of information, the particular use-case to which timelining is applied is decided by the kind of data you'd like to record. 
 	
-	In the case provided as an example at [evaluate](https://evaluate.prisma.events), the data is modelled as follows: 
+	In the case provided as an example at [evaluate](https://evaluate.prisma.events), the data is modelled relatively minimal: 
 
 	```
 	// NODES
@@ -31,6 +33,10 @@ import { PageGate } from '@/components/PageGate' // Import the PageGate componen
 	Entry -[FROM_CHAT]-> TelegramChat
 	Entry -[HAS_TEXT]-> TextContent
 	```
+
+	As you can see, other media in addition to voice are also handled - photos, videos, and entities (mentions, links and tags) - however, it is predominantly the voice notes that are of interest, due to the dual nature of reliably extractable information (via transcriptions) as well as qualitative context (audio). 
+
+
 
 	## Pilot Objectives
 	
