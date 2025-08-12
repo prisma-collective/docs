@@ -4,7 +4,33 @@ import { PageGate } from '@/components/PageGate' // Import the PageGate componen
 
 <PageGate requiredPassword="norstapri123">
 
-	We propose co-creating a pilot that integrates the ChatALJ (Chat + Action Learning Journey) toolkit into an upcoming Transition Lab. This pilot will focus on enhancing North Star Transition’s capacity to capture, connect, and act on the wealth of insight generated in these multi-stakeholder settings.
+	We propose co-creating a pilot that sets up ChatALJ for an upcoming Transition Lab. This pilot will focus on enhancing North Star Transition’s capacity to capture, connect, and act on the wealth of insight generated in these multi-stakeholder settings.
+
+	## What is ChatALJ?
+
+	ChatALJ is the name given to the app currently living on our [evaluate](https://evaluate.prisma.events) subdomain. It's an interface to make visible and query the voice-based [timelining](/processes/process-infrastructuring/timelining) contributions made during an [action-learning journey](/patterns/action-learning journeys). 
+
+	It's built to be deployed to a partner on their own evaluate subdomain - evaluate.northstartransition.org, for example. 
+
+	Given the relatively boundless nature of using your voice to send a voice-note, in which you can convey all sorts of information, the particular use-case to which timelining is applied is decided by the kind of data you'd like to record. 
+	
+	In the case provided as an example at [evaluate](https://evaluate.prisma.events), the data is modelled as follows: 
+
+	```
+	// NODES
+	Node Labels: ['Entity', 'Entry', 'Participant', 'CaptionContent', 'Video', 'Photo', 'TelegramChat', 'TextContent', 'Voice', 'VideoNote']
+
+	// EDGES
+	Entry -[HAS_ENTITY]-> Entity
+	Entry -[HAS_VOICE]-> Voice
+	Entry -[HAS_VIDEO_NOTE]-> VideoNote
+	Entry -[HAS_CAPTION]-> CaptionContent
+	Entry -[SENT_BY]-> Participant
+	Entry -[HAS_PHOTO]-> Photo
+	Entry -[HAS_VIDEO]-> Video
+	Entry -[FROM_CHAT]-> TelegramChat
+	Entry -[HAS_TEXT]-> TextContent
+	```
 
 	## Pilot Objectives
 	
