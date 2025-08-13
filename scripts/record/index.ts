@@ -4,7 +4,7 @@ import { execa } from 'execa';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { generateIntroOutroVideos } from './lib/paddingSlides/generate';
+import { generateIntroOutroVideos } from './lib/introOutro/generateIntroOutro';
 import { safeUnlink } from './utils';
 import { getModeHandler } from './mode';
 import { ModeHandler } from './types';
@@ -13,7 +13,7 @@ import { ModeHandler } from './types';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const scriptDir = __dirname;
-const templateDir = path.join(scriptDir, 'lib/paddingSlides/templates');
+const templateDir = path.join(scriptDir, 'lib/introOutro/');
 const outDir = path.resolve('./public');
 
 if (!fs.existsSync(outDir)) {
@@ -50,14 +50,8 @@ await handler.prompt();
 // --- FFmpeg args
 const ffmpegArgs = handler.getFfmpegArgs();
 
-// --- Intro / Outro
-const { introMp4: openingMp4, outroMp4: closingMp4 } = await generateIntroOutroVideos({
-    templateDir,
-    outDir
-});
-
 // --- Start recording
-console.log(chalk.green('\n📹 Starting recording...'));
+console.log(chalk.green('\nStarting recording...'));
 console.log(chalk.cyan(`Webcam: ${handler.ctx.video}`));
 console.log(chalk.cyan(`Microphone: ${handler.ctx.audio}`));
 console.log(chalk.cyan(`Saving to: ${rawRecording}\n`));
@@ -69,7 +63,7 @@ console.log(chalk.yellow('\nPress Ctrl+C to stop recording\n'));
 const ffmpeg = execa('ffmpeg', ffmpegArgs, { stdio: 'inherit' });
 
 process.on('SIGINT', async () => {
-    console.log(chalk.red('\n🛑 Stopping recording...'));
+    console.log(chalk.red('\nStopping recording...'));
     ffmpeg.kill('SIGTERM');
 
     setTimeout(() => {
@@ -82,7 +76,7 @@ process.on('SIGINT', async () => {
 
 try {
     await ffmpeg;
-    console.log(chalk.green('\n✅ Recording complete!'));
+    console.log(chalk.green('\nRecording complete!'));
 } catch (error: any) {
     if (error.signal === 'SIGTERM' || error.signal === 'SIGINT') {
         console.log(chalk.yellow('Recording stopped by user.'));
@@ -94,7 +88,7 @@ try {
 
 if (fs.existsSync(rawRecording)) {
     const stats = fs.statSync(rawRecording);
-    console.log(chalk.gray(`📊 Raw recording size: ${(stats.size / 1024 / 1024).toFixed(2)} MB`));
+    console.log(chalk.gray(`Raw recording size: ${(stats.size / 1024 / 1024).toFixed(2)} MB`));
 
     try {
         const { stdout } = await execa('ffprobe', [
@@ -106,15 +100,27 @@ if (fs.existsSync(rawRecording)) {
         const info = JSON.parse(stdout);
         const videoStream = info.streams.find((s: any) => s.codec_type === 'video');
         if (videoStream) {
-            console.log(chalk.gray(`📀 Video resolution: ${videoStream.width}x${videoStream.height}`));
+            console.log(chalk.gray(`Video resolution: ${videoStream.width}x${videoStream.height}`));
         }
     } catch (e) {
         // Ignore
     }
 } else {
-    console.error(chalk.red('❌ Raw recording file was not created!'));
+    console.error(chalk.red('Raw recording file was not created!'));
     process.exit(1);
 }
+
+const durationStr = ((await execa('ffprobe', ['-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', rawRecording])).stdout).trim();
+const [m, s] = [Math.floor(+durationStr / 60), Math.round(+durationStr % 60)];
+const durationFormatted = `${m.toString().padStart(2,'0')}:${s.toString().padStart(2,'0')}`; // "00:05"
+
+// --- Intro / Outro
+console.log(chalk.gray('Rendering intro/outro frames...'));
+const { introMp4: openingMp4, outroMp4: closingMp4 } = await generateIntroOutroVideos({
+    templateDir,
+    outDir,
+    durationFormatted
+});
 
 console.log(chalk.gray('Merging intro + recording + outro...'));
 
