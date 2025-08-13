@@ -8,7 +8,7 @@ import inquirer from 'inquirer';
 
 // Point to public/fonts and public/logo.png relative to project root
 const FONTS_DIR = path.resolve(process.cwd(), 'public/fonts');
-const LOGO_PATH = path.resolve(process.cwd(), 'public/prisma-name-text-dark.svg.png');
+const LOGO_PATH = path.resolve(process.cwd(), 'public/prisma-name-text-dark.svg');
 
 // --- Helpers ---
 async function fontToBase64(fontPath: string): Promise<string> {

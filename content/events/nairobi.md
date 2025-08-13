@@ -4,6 +4,13 @@
 **Clients:** Wada and Singularity Net  
 **Scope:** Minimal event organising support (scoped based on available resources)
 
+<video width="100%" controls>
+    <source src="/metta_analytics.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+</video>
+
+> *Apologies for the video lag. That's because some frames are being dropped, whereas audio is reliable. That will be addressed promptly.*
+
 ## Service Overview
 
 Prisma provides targeted technical and operational support for event coordination, focusing on essential digital infrastructure and documentation systems to enable successful event delivery.

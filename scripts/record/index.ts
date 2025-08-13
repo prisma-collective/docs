@@ -160,7 +160,7 @@ try {
     });
 }
 
-console.log(chalk.gray('🪩 Cleaning up temporary files...'));
+console.log(chalk.gray('Cleaning up temporary files...'));
 
 try {
     await safeUnlink(rawRecording);
