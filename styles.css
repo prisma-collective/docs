@@ -9,6 +9,22 @@
   --font-custom-bold: "Bebas Neue", sans-serif;
 }
 
+/* Load the actual font */
+@font-face {
+  font-family: "CustomBold";
+  src: url("/fonts/BebasNeue-Regular.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Load the actual font */
+@font-face {
+    font-family: "Custom";
+    src: url("/fonts/SpaceGrotesk-VariableFont_wght.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}
+
 /* Set the background color for the whole page */
 .dark body {
     background-color:rgb(0, 0, 0); /* Change this to your desired background color */

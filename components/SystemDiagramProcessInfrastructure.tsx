@@ -97,9 +97,9 @@ const SystemDiagramPI: React.FC = () => {
                 y2="93.82141"
                 gradientUnits="userSpaceOnUse"
             >
-                <stop offset="0%" stop-color="#7faec2" />
-                <stop offset="50%" stop-color="#02b4ff" />
-                <stop offset="100%" stop-color="#7faec2" />
+                <stop offset="0%" stopColor="#7faec2" />
+                <stop offset="50%" stopColor="#02b4ff" />
+                <stop offset="100%" stopColor="#7faec2" />
                 <animateTransform
                     attributeName="gradientTransform"
                     type="translate"
@@ -117,10 +117,10 @@ const SystemDiagramPI: React.FC = () => {
                 y2="175"
                 gradientUnits="userSpaceOnUse"
             >
-                <stop offset="20%" stop-color="#7faec2" />
-                <stop offset="48%" stop-color="#02b4ff" />
-                <stop offset="52%" stop-color="#02b4ff" />
-                <stop offset="80%" stop-color="#7faec2" />
+                <stop offset="20%" stopColor="#7faec2" />
+                <stop offset="48%" stopColor="#02b4ff" />
+                <stop offset="52%" stopColor="#02b4ff" />
+                <stop offset="80%" stopColor="#7faec2" />
                 <animateTransform
                     attributeName="gradientTransform"
                     type="translate"
@@ -138,10 +138,10 @@ const SystemDiagramPI: React.FC = () => {
                 y2="120"
                 gradientUnits="userSpaceOnUse"
             >
-                <stop offset="20%" stop-color="#7faec2" />
-                <stop offset="48%" stop-color="#02b4ff" />
-                <stop offset="52%" stop-color="#02b4ff" />
-                <stop offset="80%" stop-color="#7faec2" />
+                <stop offset="20%" stopColor="#7faec2" />
+                <stop offset="48%" stopColor="#02b4ff" />
+                <stop offset="52%" stopColor="#02b4ff" />
+                <stop offset="80%" stopColor="#7faec2" />
                 <animateTransform
                     attributeName="gradientTransform"
                     type="translate"
@@ -159,10 +159,10 @@ const SystemDiagramPI: React.FC = () => {
                 y2="155"
                 gradientUnits="userSpaceOnUse"
             >
-                <stop offset="20%" stop-color="#8067ff" />
-                <stop offset="48%" stop-color="#2a00ff" />
-                <stop offset="52%" stop-color="#2a00ff" />
-                <stop offset="80%" stop-color="#8067ff" />
+                <stop offset="20%" stopColor="#8067ff" />
+                <stop offset="48%" stopColor="#2a00ff" />
+                <stop offset="52%" stopColor="#2a00ff" />
+                <stop offset="80%" stopColor="#8067ff" />
                 <animateTransform
                     attributeName="gradientTransform"
                     type="translate"
@@ -180,10 +180,10 @@ const SystemDiagramPI: React.FC = () => {
                 y2="176"
                 gradientUnits="userSpaceOnUse"
             >
-                <stop offset="20%" stop-color="#8067ff" />
-                <stop offset="48%" stop-color="#2a00ff" />
-                <stop offset="52%" stop-color="#2a00ff" />
-                <stop offset="80%" stop-color="#8067ff" />
+                <stop offset="20%" stopColor="#8067ff" />
+                <stop offset="48%" stopColor="#2a00ff" />
+                <stop offset="52%" stopColor="#2a00ff" />
+                <stop offset="80%" stopColor="#8067ff" />
                 <animateTransform
                     attributeName="gradientTransform"
                     type="translate"
@@ -201,10 +201,10 @@ const SystemDiagramPI: React.FC = () => {
                 y2="230"
                 gradientUnits="userSpaceOnUse"
             >
-                <stop offset="20%" stop-color="#7faec2" />
-                <stop offset="48%" stop-color="#02b4ff" />
-                <stop offset="52%" stop-color="#02b4ff" />
-                <stop offset="80%" stop-color="#7faec2" />
+                <stop offset="20%" stopColor="#7faec2" />
+                <stop offset="48%" stopColor="#02b4ff" />
+                <stop offset="52%" stopColor="#02b4ff" />
+                <stop offset="80%" stopColor="#7faec2" />
                 <animateTransform
                     attributeName="gradientTransform"
                     type="translate"
@@ -222,10 +222,10 @@ const SystemDiagramPI: React.FC = () => {
                 y2="198"
                 gradientUnits="userSpaceOnUse"
             >
-                <stop offset="20%" stop-color="#7faec2" />
-                <stop offset="48%" stop-color="#02b4ff" />
-                <stop offset="52%" stop-color="#02b4ff" />
-                <stop offset="80%" stop-color="#7faec2" />
+                <stop offset="20%" stopColor="#7faec2" />
+                <stop offset="48%" stopColor="#02b4ff" />
+                <stop offset="52%" stopColor="#02b4ff" />
+                <stop offset="80%" stopColor="#7faec2" />
                 <animateTransform
                     attributeName="gradientTransform"
                     type="translate"
@@ -400,7 +400,7 @@ const SystemDiagramPI: React.FC = () => {
                     id="image1-28"
                     x="78.760864"
                     y="100.00225"
-                    clip-path="url(#clipPathRegistering)" 
+                    clipPath="url(#clipPathRegistering)" 
                     style={{
                         imageRendering: 'crisp-edges',
                     }}
@@ -427,9 +427,12 @@ const SystemDiagramPI: React.FC = () => {
                 {/* Text element */}
                 <text
                     className="fill-transparent group-hover:fill-white font-custom-bold transition duration-500 ease-in-out"
-                    x="85"  // Adjust based on where you want the text positioned
-                    y="124"    // Adjust vertical position as needed
-                    style={{ pointerEvents: 'none' }}  // Ensures text doesn't block hover events
+                    x="85"
+                    y="124"
+                    style={{ 
+                        pointerEvents: 'none',
+                        fontFamily: "CustomBold"
+                    }} 
                 >
                     Reg
                 </text>
@@ -472,9 +475,12 @@ const SystemDiagramPI: React.FC = () => {
                 {/* Text element */}
                 <text
                     className="fill-transparent group-hover:fill-white font-custom-bold transition duration-500 ease-in-out"
-                    x="137.5"  // Adjust based on where you want the text positioned
-                    y="181.5"    // Adjust vertical position as needed
-                    style={{ pointerEvents: 'none' }}  // Ensures text doesn't block hover events
+                    x="137.5"
+                    y="181.5"
+                    style={{ 
+                        pointerEvents: 'none',
+                        fontFamily: "CustomBold"
+                    }} 
                 >
                     ORG
                 </text>
@@ -517,9 +523,12 @@ const SystemDiagramPI: React.FC = () => {
                 {/* Text element */}
                 <text
                     className="fill-transparent group-hover:fill-white font-custom-bold transition duration-500 ease-in-out"
-                    x="191"  // Adjust based on where you want the text positioned
-                    y="181.5"    // Adjust vertical position as needed
-                    style={{ pointerEvents: 'none' }}  // Ensures text doesn't block hover events
+                    x="191"
+                    y="181.5"
+                    style={{ 
+                        pointerEvents: 'none',
+                        fontFamily: "CustomBold"
+                    }} 
                 >
                     PUB
                 </text>
@@ -535,7 +544,7 @@ const SystemDiagramPI: React.FC = () => {
                     id="image1-05"
                     x="237.96664"
                     y="100.90225"
-                    clip-path="url(#clipPathSubscribing)"
+                    clipPath="url(#clipPathSubscribing)"
                     style={{
                         imageRendering: 'crisp-edges',
                     }}
@@ -562,9 +571,12 @@ const SystemDiagramPI: React.FC = () => {
                 {/* Text element */}
                 <text
                     className="fill-transparent group-hover:fill-white font-custom-bold transition duration-500 ease-in-out"
-                    x="244"  // Adjust based on where you want the text positioned
-                    y="124"    // Adjust vertical position as needed
-                    style={{ pointerEvents: 'none' }}  // Ensures text doesn't block hover events
+                    x="244"
+                    y="124"
+                    style={{ 
+                        pointerEvents: 'none',
+                        fontFamily: "CustomBold"
+                     }}
                 >
                     SUB
                 </text>
@@ -574,7 +586,7 @@ const SystemDiagramPI: React.FC = () => {
         <text x="30.615" y="49.998" style={{
             fontSize: '10.5833px',
             lineHeight: '0.85',
-            fontFamily: "Bebas Neue",
+            fontFamily: "CustomBold",
             textAnchor: 'middle',
             fill: '#ffffff',
             strokeWidth: 0.264583
@@ -585,7 +597,7 @@ const SystemDiagramPI: React.FC = () => {
         <text x="30.615" y="117.700" style={{
             fontSize: '10.5833px',
             lineHeight: '0.85',
-            fontFamily: "Bebas Neue",
+            fontFamily: "CustomBold",
             textAnchor: 'middle',
             fill: '#ffffff',
             strokeWidth: 0.264583
@@ -596,7 +608,7 @@ const SystemDiagramPI: React.FC = () => {
         <text x="30.615" y="174.871" style={{
             fontSize: '10.5833px',
             lineHeight: '0.85',
-            fontFamily: "Bebas Neue",
+            fontFamily: "CustomBold",
             textAnchor: 'middle',
             fill: '#ffffff',
             strokeWidth: 0.264583
@@ -607,7 +619,7 @@ const SystemDiagramPI: React.FC = () => {
         <text x="30.615" y="269.437" style={{
             fontSize: '10.5833px',
             lineHeight: '0.85',
-            fontFamily: "Bebas Neue",
+            fontFamily: "CustomBold",
             textAnchor: 'middle',
             fill: '#ffffff',
             strokeWidth: 0.264583
@@ -619,41 +631,55 @@ const SystemDiagramPI: React.FC = () => {
         <text
             x={95.757233}
             y={54.9}
-            className="text-[10.5833px] fill-white font-custom text-center"
+            className="text-center"
             style={{
+                fontSize: '10.5833px',
                 lineHeight: '0.85',
+                fontFamily: "Custom",
                 textAnchor: 'middle',
+                fill: '#ffffff',
                 strokeWidth: 0.264583
             }}
         >
-            <tspan x={95.757233} y={54.9}>Stakeholder</tspan>
+            <tspan>Stakeholder</tspan>
         </text>
-        <text x="137.5" y="54.9" style={{
-            fontSize: '10.5833px',
-            lineHeight: '0.85',
-            fontFamily: "Space Grotesk",
-            fill: '#ffffff',
-            strokeWidth: 0.264583
-        }}>
-            <tspan x="137.5" y="54.9">ALJ</tspan>
+        <text 
+            x={137.5} y={54.9}
+            style={{
+                fontSize: '10.5833px',
+                lineHeight: '0.85',
+                fontFamily: "Custom",
+                fill: '#ffffff',
+                strokeWidth: 0.264583
+            }}
+        >
+            <tspan>ALJ</tspan>
         </text>
-        <text x="188" y="54.9" style={{
-            fontSize: '10.5833px',
-            lineHeight: '0.85',
-            fontFamily: "Space Grotesk",
-            fill: '#ffffff',
-            strokeWidth: 0.264583
-        }}>
-            <tspan x="188" y="54.9">Case</tspan>
+        <text 
+            x={188} 
+            y={54.9} 
+            style={{
+                fontSize: '10.5833px',
+                lineHeight: '0.85',
+                fontFamily: "Custom",
+                fill: '#ffffff',
+                strokeWidth: 0.264583
+            }}
+        >
+            <tspan>Case</tspan>
         </text>
-        <text x="242" y="54.9" style={{
-            fontSize: '10.5833px',
-            lineHeight: '0.85',
-            fontFamily: "Space Grotesk",
-            fill: '#ffffff',
-            strokeWidth: 0.264583
-        }}>
-            <tspan x="242" y="54.9">Sub</tspan>
+        <text
+            x={243}
+            y={54.9}
+            style={{
+                fontSize: '10.5833px',
+                lineHeight: '0.85',
+                fontFamily: "Custom",
+                fill: '#ffffff',
+                strokeWidth: 0.264583
+            }}
+        >
+            <tspan>Sub</tspan>
         </text>
 
 
