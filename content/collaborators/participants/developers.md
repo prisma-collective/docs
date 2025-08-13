@@ -13,11 +13,11 @@ developers are (sometimes) inspired by a context that aligns with their purpose,
 
 this alignment and care is the prerequisite for effective communication across the various different capacities present in a [cohort](cohort) - artists, engineers, community leaders, farmers, cooks, and guests, to name just a few. each capacity has an essential role to play in making visible the ways in which a system is trying to evolve, and how the cohort can effectively organise itself in support of that. communication is like water: no hydration, and the creative potential of the collective will quickly dry out.
 
-it is crucial that developers appreciate their relationship with the character and potential of the context in which the ALJ is being hosted. the [hubs](/collaborators/communities%20of%20place/hub/hubs.md) play an important role in helping develop those relationships, creating spaces in which local stakeholders can illuminate the locality's systems and particularities. 
+it is crucial that developers appreciate their relationship with the character and potential of the context in which the ALJ is being hosted. the [hubs](/collaborators/communities-of-place/hub/hubs.md) play an important role in helping develop those relationships, creating spaces in which local stakeholders can illuminate the locality's systems and particularities. 
 
 at the same time, developers are required to think functionally in order to implement a given ALJ's product requirements with technical rigour. functional thinking can sometimes seem at odds with the uncertainties inherent in group collaboration. growing a social bandwidth is an experience in itself. 
 
-the purpose of participating in an action-learning journey as a developer is to instrument[^1] the development of systems-evolution [practices](practices) that are uniquely informed by the context of the [place](/glossary/Place.md) in which the action-learning journey is hosted. 
+the purpose of participating in an action-learning journey as a developer is to instrument[^1] the development of systems-evolution [practices](/practices) that are uniquely informed by the context of the [place](/glossary/Place.md) in which the action-learning journey is hosted. 
 # Outcomes
 developers are encouraged to reflect frequently on their experience of the process, noting insights into how their perspective on personal and collective dynamics is changing and why, what patterns are apprehensible and what meaning can be made of them. [action-learning journeys](/patterns/action-learning%20journeys.md) are a collaboration intensive, generating many opportunities for experimentation, growth, play and learning. the list of examples below is non-exhaustive.
 
@@ -49,7 +49,7 @@ the extensive onboarding process leading up to an ALJ is the window of time in w
 3. Calendar and call scheduling setup ([cal.com](https://cal.com/))
 4. Access to ALJ repos: code and docs ([github.com](https://github.com/))
 2. Introductory call with local hub and relevant stakeholders
-5. [index](processes/enrolment/index.md) into the onboarding call series and associated learning exercises
+5. [index](/processes/enrolment/index.md) into the onboarding call series and associated learning exercises
 6. Developer self-assessment of context understanding, potential, and their relevant developer capacities 
 	1. Requires engagement with hub and/ or potential users 
 	2. Requires self-awareness of their context-informed role

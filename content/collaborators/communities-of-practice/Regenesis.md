@@ -1,6 +1,6 @@
-it's important to remember when reading the page for [practice networks](/collaborators/communities%20of%20practice/practice%20networks.md) that a high proportion of the thinking behind how this project has originated comes from co-designing with Regenesis. 
+it's important to remember when reading the page for [practice networks](/collaborators/communities-of-practice/practice-networks.md) that a high proportion of the thinking behind how this project has originated comes from co-designing with Regenesis. 
 
-implicit within much of the designing described in [practice networks](/collaborators/communities%20of%20practice/practice%20networks.md) is that this is tailored to and in service of the regenesis story of place program, set to launch in fall 2025. the [action-learning journeys](/patterns/action-learning%20journeys.md) referred to in [practice networks](/collaborators/communities%20of%20practice/practice%20networks.md) as general events are in fact, in the Regenesis context, a carefully considered meeting of two worlds at a precisely timed moment within a larger evolutionary trajectory. 
+implicit within much of the designing described in [practice networks](/collaborators/communities-of-practice/practice-networks.md) is that this is tailored to and in service of the regenesis story of place program, set to launch in fall 2025. the [action-learning journeys](/patterns/action-learning%20journeys.md) referred to in [practice networks](/collaborators/communities-of-practice/practice-networks.md) as general events are in fact, in the Regenesis context, a carefully considered meeting of two worlds at a precisely timed moment within a larger evolutionary trajectory. 
 
 ![communicating-al.png](/communicating-al.png)
 

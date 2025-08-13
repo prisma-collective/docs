@@ -9,7 +9,7 @@ sidebarTitle: Enacting
 ---
 
 # Purpose of the Role
-The purpose of Enacting is to develop the processes by which participants of an [action-learning journey](patterns/action-learning%20journeys.md) (ALJ) are able to embody and act-out a systemic intervention in place, balancing the delivery of functional requirements with whole-system actualisation. 
+The purpose of Enacting is to develop the processes by which participants of an [action-learning journey](/patterns/action-learning%20journeys.md) (ALJ) are able to embody and act-out a systemic intervention in place, balancing the delivery of functional requirements with whole-system actualisation. 
 
 # Domains of Practice
 #### Design

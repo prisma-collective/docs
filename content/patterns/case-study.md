@@ -20,18 +20,18 @@ capacity-building can happen in many different dimensions. we call these dimensi
 
 each aspect makes visible one view into the application of practice on-the-ground. we make this visible with currencies. [^2]
 
-each case-study therefore aims to utilise one or multiple [practice-currencies](processes/process-infrastructuring/practice-currencies.mdx). this dynamic interplay between action (practice) and learning (evaluation, aided by currency), is the essence of our work at prisma.
+each case-study therefore aims to utilise one or multiple [practice-currencies](/processes/process-infrastructuring/practice-currencies.mdx). this dynamic interplay between action (practice) and learning (evaluation, aided by currency), is the essence of our work at prisma.
 
 these currencies are the verified measurements that form the foundation for data-backed storytelling. all the additional media - meeting recordings, photos, audio notes, design documents - are (qualitative) layers of additional context that give wholeness to this underlying (quantitative, yet non-transactional) heartbeat. 
 
 1. Curation - the most polished, and also the most abstracted. see [prisma.events](https://www.prisma.events)
 2. Archive - more complete, and also more raw and rugged. see [docs.prisma.events](https://docs.prisma.events)
-3. Integrations - custom applications serving specific transformations. see [evaluate.prisma.events](https://evaluate.prisma.events) and [timelining](processes/process-infrastructuring/timelining/index.md)
+3. Integrations - custom applications serving specific transformations. see [evaluate.prisma.events](https://evaluate.prisma.events) and [timelining](/processes/process-infrastructuring/timelining/index.md)
 4. Aspects - [practice-currencies](/processes/process-infrastructuring/practice-currencies). lowest-level detail, leveraging accounts of peer-to-peer interactions
 
 ![case-study.png](/case-study.png)
 
-the purpose of [index](processes/enrolment/index.md) and [ground-potentialising](/processes/ground-potentialising.md), in the lead up to [action-learning journey](patterns/action-learning%20journeys.md) intensives, is for the whole system of [place](/glossary/Place.md) to become more visible, and for a place-sourced [practice](/glossary/Practice.md) to be identified. these place-sourced practices are what animate the multi-stakeholder, multi-level [enactment](/processes/enactment), gesturing toward potential-led, place-sourced economy. 
+the purpose of [index](/processes/enrolment/index.md) and [ground-potentialising](/processes/ground-potentialising.md), in the lead up to [action-learning journey](/patterns/action-learning%20journeys.md) intensives, is for the whole system of [place](/glossary/Place.md) to become more visible, and for a place-sourced [practice](/glossary/Practice.md) to be identified. these place-sourced practices are what animate the multi-stakeholder, multi-level [enactment](/processes/enactment), gesturing toward potential-led, place-sourced economy. 
 
 ### Purpose
 
@@ -40,7 +40,7 @@ case-studies serve the purpose of show-casing the work on-the-ground to a broade
 1. other practitioners who want to see practice being applied, to learn and integrate into how they apply practice in their own places
 2. external evaluators who are looking to resource meaningful work
 
-case-studies are an interface into [action-learning](/patterns/action-learning.md) - real-time, with multiple perspectives. in this way, the case-study is in fact an ongoing storying of expression of essence of [place](/glossary/Place.md). the potential we're aiming for is for [hubs](/collaborators/communities%20of%20place/hub/hubs.md) to grow their self-[publishing](/processes/process-infrastructuring/publishing.md) capabilities. prisma's role as [a distributed incubator](/home) is to on-board more hubs into a distributed system of self-organising action-learning journeys, each hub growing their capability over time to address higher orders of outcome aims. 
+case-studies are an interface into [action-learning](/patterns/action-learning.md) - real-time, with multiple perspectives. in this way, the case-study is in fact an ongoing storying of expression of essence of [place](/glossary/Place.md). the potential we're aiming for is for [hubs](/collaborators/communities-of-place/hub/hubs.md) to grow their self-[publishing](/processes/process-infrastructuring/publishing.md) capabilities. prisma's role as [a distributed incubator](/home) is to on-board more hubs into a distributed system of self-organising action-learning journeys, each hub growing their capability over time to address higher orders of outcome aims. 
 
 ![communicating-al](/communicating-al.png)
 

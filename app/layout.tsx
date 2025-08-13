@@ -1,5 +1,5 @@
 import { Footer, Layout, Navbar } from 'nextra-theme-docs'
-import { Banner, Head } from 'nextra/components';
+import { Head } from 'nextra/components';
 import { getPageMap } from 'nextra/page-map';
 import 'nextra-theme-docs/style.css';
 import '@/styles.css';
@@ -12,7 +12,6 @@ import { FaTelegramPlane, FaGithub } from "react-icons/fa";
 import { BsCalendarWeek } from "react-icons/bs";
 import { ActiveJourneyProvider } from '@/contexts/ActiveJourneyContext'
 
-const banner = <Banner storageKey="some-key">Upcoming action-learning journey: Accra, Ghana @ May 18, 2025</Banner>
 const iconClasses = "w-5 h-5 text-gray-600 dark:text-gray-400 transition-all duration-300 hover:scale-110"
 const hoverColorClasses = [
   'hover:text-prisma-a',
@@ -119,7 +118,6 @@ export default async function RootLayout({
       </Head>
       <body>
         <Layout
-          banner={banner}
           navbar={navbar}
           pageMap={await getPageMap()}
           docsRepositoryBase="https://github.com/prisma-collective/docs"

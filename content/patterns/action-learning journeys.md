@@ -6,7 +6,7 @@ aliases:
 ---
 
 # Action-Learning Journeys
-An action-learning journey is an event. It's an accumulation of energy oriented toward system transformation. The most critical moments of action-learning journeys are the intensives. The best action-learning journeys are those where the intensive feels like a singularity: a moment of exceptional circumstances that came together in such a way as to create a chance to demonstrate what to many seemed out of reach. Intensives are hosted by community [hubs](/collaborators/communities%20of%20place/hub/hubs.md) on-the-ground. The intensive in [Accra](/events/accra.mdx), for example, lasted two weeks. 
+An action-learning journey is an event. It's an accumulation of energy oriented toward system transformation. The most critical moments of action-learning journeys are the intensives. The best action-learning journeys are those where the intensive feels like a singularity: a moment of exceptional circumstances that came together in such a way as to create a chance to demonstrate what to many seemed out of reach. Intensives are hosted by community [hubs](/collaborators/communities-of-place/hub/hubs.md) on-the-ground. The intensive in [Accra](/events/accra.mdx), for example, lasted two weeks. 
 
 Action-learning journeys as a whole are incubators of governance evolution, future economy, social innovation and [more](/glossary/Practice.md), all originating from participatory co-design to align action with local [system potential](/glossary/place-sourced%20potential.md). The intensives are the time to embody those visions, to materialise those expressions of what could be - as an intervention into the systems of focus: health, food, and water systems, systems of storytelling and narratives, of eldership and care, of financing and justice. 
 
@@ -18,7 +18,7 @@ In short, an action-learning journey is the following provocation: there are ple
 
 ![core-processes.png](/process-facilitation.png)
 
-The [Replace Academy Case Study](/context%20&%20narrative/Replace%20Academy%20Case%20Study.md) is an example from a previous action-learning journey, which created the [aspect](aspects) of knowledge commoning. This ALJ was entirely crowd-sourced, and purely self-organising, hosted by [Astralship](https://astralship.org/).
+The [Replace Academy Case Study](/context-narrative/Replace%20Academy%20Case%20Study.md) is an example from a previous action-learning journey, which created the [aspect](aspects) of knowledge commoning. This ALJ was entirely crowd-sourced, and purely self-organising, hosted by [Astralship](https://astralship.org/).
 
 [Accra](/events/accra.mdx) is another example, which formed three teams, working on flooding, addictions and transport. This ALJ received [100k ADA](https://www.coinbase.com/en-de/price/cardano) sponsorship from [Cardano Catalyst](https://projectcatalyst.io/), and was hosted by [Accra Resource Centre](https://www.arcaccra.com/).
 
