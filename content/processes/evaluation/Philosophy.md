@@ -4,7 +4,7 @@ Evaluation is the living [practice](/glossary/Practice.md) of listening to the p
 
 Our framework is not static; it is a dynamic, participatory process designed to help communities, teams, and networks see, understand, and direct value where it matters most.
 
-Evaluation is a [Practice](/glossary/Practice.md). That is, it is undertaken regularly, just like [enacting](/processes/enactment/index.md) is, [Capacity-Building](/glossary/Capacity-Building.md) is, documentation is, and all other iterative, evolutionary actions that make up any collective endeavour.
+Evaluation is a [Practice](/glossary/Practice.md). That is, it is undertaken regularly, just like [enacting](/processes/enactment) is, [Capacity-Building](/glossary/Capacity-Building.md) is, documentation is, and all other iterative, evolutionary actions that make up any collective endeavour.
 
 For any collective that is trying to work on something together, or any system that has emerged in response to fulfilling a need, evaluation is **that practice which enables it to _learn_**. For, in finding that which is of value, it is able to better shape its own growth towards the directions that are most suitable for its unique evolutionary trajectory.
 

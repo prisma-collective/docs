@@ -26,12 +26,12 @@ these currencies are the verified measurements that form the foundation for data
 
 1. Curation - the most polished, and also the most abstracted. see [prisma.events](https://www.prisma.events)
 2. Archive - more complete, and also more raw and rugged. see [docs.prisma.events](https://docs.prisma.events)
-3. Integrations - custom applications serving specific transformations. see [evaluate.prisma.events](https://evaluate.prisma.events) and [timelining](/processes/process-infrastructuring/timelining/index.md)
+3. Integrations - custom applications serving specific transformations. see [evaluate.prisma.events](https://evaluate.prisma.events) and [timelining](/processes/process-infrastructuring/timelining)
 4. Aspects - [practice-currencies](/processes/process-infrastructuring/practice-currencies). lowest-level detail, leveraging accounts of peer-to-peer interactions
 
 ![case-study.png](/case-study.png)
 
-the purpose of [index](/processes/enrolment/index.md) and [ground-potentialising](/processes/ground-potentialising.md), in the lead up to [action-learning journey](/patterns/action-learning%20journeys.md) intensives, is for the whole system of [place](/glossary/Place.md) to become more visible, and for a place-sourced [practice](/glossary/Practice.md) to be identified. these place-sourced practices are what animate the multi-stakeholder, multi-level [enactment](/processes/enactment), gesturing toward potential-led, place-sourced economy. 
+the purpose of [enrolment](/processes/enrolment) and [ground-potentialising](/processes/ground-potentialising.md), in the lead up to [action-learning journey](/patterns/action-learning%20journeys.md) intensives, is for the whole system of [place](/glossary/Place.md) to become more visible, and for a place-sourced [practice](/glossary/Practice.md) to be identified. these place-sourced practices are what animate the multi-stakeholder, multi-level [enactment](/processes/enactment), gesturing toward potential-led, place-sourced economy. 
 
 ### Purpose
 

@@ -39,7 +39,7 @@ these [stakeholder development pathways](https://register.prisma.events) are bei
 the [process-infrastructuring](/processes/process-infrastructuring) developed to support the organisation of each event instance is also designed to be configurable and self-contained, able to be deployed to a server/ device network local to the [hubs](/collaborators/communities-of-place/hub/hubs.md) hosting the event. the purpose of this is to align with the aim of building capacity in-place for ongoing development of the products incubated during the intensive. 
 
 [^1]: Regenesis Institute for Regenerative Practice, [ref](https://regenerat.es/). See [Regenesis](/collaborators/communities-of-practice/Regenesis.md).
-[^2]: [index](/processes/enrolment/index.md)
+[^2]: [enrolment](/processes/enrolment)
 [^3]: The creative tension of glocal: visibility and verification of local network effect at global-scale levels of capital distribution. mediating multiple forms of evaluation and communicating success cases of application of practice. global systemic crises (are [complex systems](complex systems) and) require vast amounts of thinking processing in order to respond collectively and regeneratively. evolving systems at those scales whilst at the same time in alignment with the continuity of life on earth requires place-specific practices. [practice](/glossary/Practice.md) has the role of developing ecological literacy (seeing patterns in nature).
 
 # Benefits of an ALJ
