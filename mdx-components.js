@@ -1,4 +1,4 @@
-import { useMDXComponents as getThemeComponents } from 'nextra-theme-docs' // nextra-theme-blog or your custom theme
+import { useMDXComponents as getThemeComponents } from 'nextra-theme-docs'
 import ContributorChart from '@/components/ContributorChart'; 
 import AspectsWithPrisma from '@/components/AspectsWithPrisma';
 import StandardButton from '@/components/StandardButton';
