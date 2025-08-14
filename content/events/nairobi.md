@@ -1,3 +1,7 @@
+---
+sidebarTitle: Nairobi
+---
+
 # Event Support Package - Service Specification
 
 **Service Provider:** Prisma  
