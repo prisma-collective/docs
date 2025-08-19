@@ -10,6 +10,16 @@ sidebarTitle: Decentralised Organising
 
 ---
 
+# The Essence of Prisma
+
+To create learning spaces where diverse roles integrate regenerative design and innovation to produce new forms of organisation and technologies aligned with the health of their ecosystems.
+
+# Our Premises
+- All the products and services we develop must respond to the essence of Prisma.
+- All learning designs must respond to local potential and carry regenerative virtues.
+- All our products respond to technological innovations and must have a social impact.
+- Prisma evaluates its positive and negative impacts in the short, medium and long term through collective projection. (Collective reflection process for continuous transformation.)
+
 # Sociocratic Organising 
 
 An organising impulse that social groups form around, begins with a seed of potential. To work on this potential is this group's purpose that calls them in to the organising activity. By answering this call, they together form a collective body that springs to life in response. This purpose is the first mandate item.
@@ -27,3 +37,4 @@ The following list outlines a mandate by which the social group self-identifies:
 5. Principles & Values (plus ways of working)
 
 The most effective organising happens when coordination is shared. 
+
