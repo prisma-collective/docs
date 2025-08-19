@@ -31,7 +31,7 @@ Having lost several friends to addiction, the Bars on Bars team are working on c
 
 The approach. ALJs are bringing a deep understanding of what working with living systems regeneratively truly means - from the regenerative design space into web3, not the other way around. 
 
-![accra_discussion](/accra_discussion.png)
+![accra_discussion](/accra_discussion.jpg)
 
 Place-sourcing projects is a delicate art, requiring subtle and sensitive awareness to what is truly alive in a given place. We have designed all of our processes to be taking shape in, by and through [Place](/glossary/Place) as much as possible, limiting how much of this work can be scaled across places, in a copy-and-paste manner, producing many projects that are all essentially the same: top-down, mechanistic, and often tainted with a basic ignorance to unquestioned assumptions originating from a colonial paradigm, even if that’s not the intention.
 
