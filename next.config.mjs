@@ -4,7 +4,7 @@ const withNextra = nextra({
   latex: true,
   search: {
     codeblocks: false,
-  },
+  }
 })
 
 export default withNextra({

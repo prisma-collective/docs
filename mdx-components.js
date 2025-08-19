@@ -11,6 +11,8 @@ import TopicTabs from '@/components/TopicTabs'
 import GraphVisualisation from '@/components/GraphVisualisation';
 import AppGrid from '@/components/AppGrid';
 import SystemDiagramPI from '@/components/SystemDiagramProcessInfrastructure';
+import PageGate from '@/components/PageGate';
+import GraphRenderer from './components/GraphRenderer';
 
 // Get the default MDX components
 const themeComponents = getThemeComponents()
@@ -29,8 +31,10 @@ export function useMDXComponents(components) {
     TeamTabs,
     TopicTabs,
     GraphVisualisation,
+    GraphRenderer,
     AppGrid,
     SystemDiagramPI,
+    PageGate,
     ...components
   }
 }
