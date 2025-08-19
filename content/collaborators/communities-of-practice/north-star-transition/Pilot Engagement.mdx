@@ -1,25 +1,63 @@
+import { PageGate } from '@/components/PageGate' // Import the PageGate component
+
 # Pilot Engagement
 
-We propose co-creating a pilot that integrates the ChatALJ (Chat + Action Learning Journey) toolkit into an upcoming Transition Lab. This pilot will focus on enhancing North Star Transition’s capacity to capture, connect, and act on the wealth of insight generated in these multi-stakeholder settings.
+<PageGate requiredPassword="norstapri123">
 
-## Pilot Objectives
+	We propose co-creating a pilot that sets up ChatALJ for an upcoming Transition Lab. This pilot will focus on enhancing North Star Transition’s capacity to capture, connect, and act on the wealth of insight generated in these multi-stakeholder settings.
 
-1. ### Strengthen the hub relationship
-	- 	Develop trust and alignment with the selected regional hub hosting the Transition Lab.
-2. ### Integrate hub & methodology into ChatALJ
-	- Configure the technology to reflect both the hub’s priorities and North Star’s methodological approach.
-3. ### Deploy infrastructure & onboard participants
-	- Provide the technical and operational setup for ChatALJ, including participant onboarding to timelining practices.
-4. ### Enable data capture & deep analysis
-	- Support structured, high-quality data collection (voice notes, transcriptions, mapped connections) and apply advanced analysis to reveal systemic patterns, leverage points, and opportunities for coordinated action.
+	## What is ChatALJ?
 
-## Case-studies as Developmental Accounts
+	### Overview
 
-## Pilot Offer
+	ChatALJ is the name given to the app currently living on our [evaluate](https://evaluate.prisma.events) subdomain. It's an interface to make visible and query the voice-based [timelining](/processes/process-infrastructuring/timelining) contributions made during an [action-learning journey](/patterns/action-learning journeys). 
 
-### Investment: To be decided together
-### Scope: ChatALJ deployment for one selected Transition Lab event
-### Outcomes:
-- Tested, ready-to-scale integration of ChatALJ into North Star’s Transition Lab process.
-- Enhanced capacity for systemic insight mapping and strategic follow-through across regions.
-- A documented case study for replication across other labs and regions.
+	It's built to be deployed to a partner on their own evaluate subdomain - evaluate.northstartransition.org, for example. 
+
+	Given the relatively boundless nature of using your voice to send a voice-note, in which you can convey all sorts of information, the particular use-case to which timelining is applied is decided by the kind of data you'd like to record. 
+	
+	In the case provided as an example at [evaluate](https://evaluate.prisma.events), the data is modelled relatively minimal: 
+
+	```
+	// NODES
+	Node Labels: ['Entity', 'Entry', 'Participant', 'CaptionContent', 'Video', 'Photo', 'TelegramChat', 'TextContent', 'Voice', 'VideoNote']
+
+	// EDGES
+	Entry -[HAS_ENTITY]-> Entity
+	Entry -[HAS_VOICE]-> Voice
+	Entry -[HAS_VIDEO_NOTE]-> VideoNote
+	Entry -[HAS_CAPTION]-> CaptionContent
+	Entry -[SENT_BY]-> Participant
+	Entry -[HAS_PHOTO]-> Photo
+	Entry -[HAS_VIDEO]-> Video
+	Entry -[FROM_CHAT]-> TelegramChat
+	Entry -[HAS_TEXT]-> TextContent
+	```
+
+	As you can see, other media in addition to voice are also handled - photos, videos, and entities (mentions, links and tags) - however, it is predominantly the voice notes that are of interest, due to the dual nature of reliably extractable information (via transcriptions) as well as qualitative context (audio). 
+
+
+
+	## Pilot Objectives
+	
+	1. ### Strengthen the hub relationship
+		- 	Develop trust and alignment with the selected regional hub hosting the Transition Lab.
+	2. ### Integrate hub & methodology into ChatALJ
+		- Configure the technology to reflect both the hub’s priorities and North Star’s methodological approach.
+	3. ### Deploy infrastructure & onboard participants
+		- Provide the technical and operational setup for ChatALJ, including participant onboarding to timelining practices.
+	4. ### Enable data capture & deep analysis
+		- Support structured, high-quality data collection (voice notes, transcriptions, mapped connections) and apply advanced analysis to reveal systemic patterns, leverage points, and opportunities for coordinated action.
+
+	## Case-studies as Developmental Accounts
+
+	## Pilot Offer
+
+	### Investment: To be decided together
+	### Scope: ChatALJ deployment for one selected Transition Lab event
+	### Outcomes:
+	- Tested, ready-to-scale integration of ChatALJ into North Star’s Transition Lab process.
+	- Enhanced capacity for systemic insight mapping and strategic follow-through across regions.
+	- A documented case study for replication across other labs and regions.
+
+</PageGate>

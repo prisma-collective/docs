@@ -12,12 +12,12 @@ sidebarTitle: Decentralised Organising
 
 # The Essence of Prisma
 
-To create learning spaces where diverse roles integrate regenerative design and innovation to produce new forms of organisation and technologies aligned with the health of their ecosystems.
+To create safe _and_ radical learning spaces where diverse roles integrate regenerative design and innovation to produce new forms of organisation and technologies aligned with the health of their ecosystems.
 
 # Our Premises
 - All the products and services we develop must respond to the essence of Prisma.
 - All learning designs must respond to local potential and carry regenerative virtues.
-- All our products respond to technological innovations and must have a social impact.
+- All our products must harmonize social and technological innovation.
 - Prisma evaluates its positive and negative impacts in the short, medium and long term through collective projection. (Collective reflection process for continuous transformation.)
 
 # Sociocratic Organising 
