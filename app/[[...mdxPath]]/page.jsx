@@ -12,7 +12,7 @@ export default async function Page(props) {
   return (
     <Wrapper toc={toc} metadata={metadata}>
       <div className="w-full">
-        <div className="max-w-[800px] w-full mx-auto">
+        <div className="max-w-[850px] w-full mx-auto">
           <MDXContent {...props} params={params} />
         </div>
       </div>

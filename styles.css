@@ -14,7 +14,7 @@
 }
 
 .nextra-breadcrumb {
-  @apply max-w-[960px] w-full mx-auto;
+  @apply max-w-[850px] w-full mx-auto;
 }
 
 /* Load the actual font */
