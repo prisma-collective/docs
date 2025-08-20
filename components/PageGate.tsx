@@ -8,7 +8,7 @@ interface PageGateProps {
   requiredPassword: string;
 }
 
-export function PageGate({ children, requiredPassword }: PageGateProps) {
+export default function PageGate({ children, requiredPassword }: PageGateProps) {
   const [inputPassword, setInputPassword] = useState('');
   const [isAuthenticated, setIsAuthenticated] = useState(false);
 
