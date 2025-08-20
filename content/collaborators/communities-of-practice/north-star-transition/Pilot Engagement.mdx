@@ -31,12 +31,23 @@ import GraphRenderer from '@/components/GraphRenderer'
 	Given the relatively boundless nature of voice as a medium of expression, in which you can convey all sorts of information, the particular use-case to which timelining is applied is decided by the kind of data you'd like to record. 
 	
 	In the case provided as an example at [evaluate](https://evaluate.prisma.events), the data modelling is relatively minimal: 
+
 	<Tabs items={['Schema', 'Visualisation']}> 
 	<Tabs.Tab>
-	```
+	```cypher
 	// NODES
-	Node Labels: ['Entry', 'Participant', 'TelegramChat', 'Voice', 'TextContent', 'Video', 'Photo', 'Entity', 'CaptionContent', 'VideoNote']
-
+	Labels: [
+		'Entry', 
+		'Participant', 
+		'TelegramChat', 
+		'Voice', 
+		'TextContent', 
+		'Video', 
+		'Photo', 
+		'Entity', 
+		'CaptionContent', 
+		'VideoNote'
+	]
 
 	// EDGES
 	Entry -[SENT_BY]-> Participant
@@ -112,39 +123,56 @@ import GraphRenderer from '@/components/GraphRenderer'
 					color: '#333',
 					'text-opacity': 1,
 				}
-			}
+			},
+			{
+				selector: 'node[label="Entry"]',
+				style: {
+				'background-color': '#7faec2',
+				'border-color': '#7faec2',
+				},
+			},
 		]}
 	/>
-	</Tabs.Tab>
-	<Tabs.Tab>
-	
 	</Tabs.Tab>
 	</Tabs>
 
 	As you can see, other media in addition to voice are also handled - photos, videos, and entities (mentions, links and tags) - however, it is predominantly the voice notes that are of interest, due to the dual nature of reliably extractable information (via transcriptions) as well as qualitative context (audio). 
 
+	With a relatively uncomplicated schema, we have been able to query with natural language the collective experience as a whole, because of the accessibility of sending voice notes and the practice of _timelining_ reflections. 
 
+	This is our offer for a first pilot, as an interim step toward co-designing custom data modelling (a less general schema) to collect more meaningfully structured data as a foundation for more specific insight generation.
+
+	- Dynamic networking connections
+	- Discrete handling of entities of interest
+	- Interrelating with programme phases/ agendas
+	- Custom UI features (audio playback, GIS)
 
 	## Pilot Objectives
-	
-	1. ### Strengthen the hub relationship
-		- 	Develop trust and alignment with the selected regional hub hosting the Transition Lab.
-	2. ### Integrate hub & methodology into ChatALJ
-		- Configure the technology to reflect both the hub’s priorities and North Star’s methodological approach.
-	3. ### Deploy infrastructure & onboard participants
+
+	1. Set up Timelining and ChatALJ systems on dedicated partner infrastructure
+		- Manage infrastructure provisioning and deploy app instances
+	2. Onboard partner and one partner hub into the practice of timelining
 		- Provide the technical and operational setup for ChatALJ, including participant onboarding to timelining practices.
-	4. ### Enable data capture & deep analysis
-		- Support structured, high-quality data collection (voice notes, transcriptions, mapped connections) and apply advanced analysis to reveal systemic patterns, leverage points, and opportunities for coordinated action.
+	3. Provide programme design support to assist with introducing timelining practice into the Transition Lab effectively
+		- Provide the design guidance needed for the programme to best leverage the data collection capabilities offered by Timelining + ChatALJ
+	4. Create 3-5 custom queries to create an analytical perspective tailored to North Star Transition's interests, accessible on a dedicated North Star evaluation sub-domain
+		- Co-design queries to extract meaningful information from the timelining entries
+		- Provide these queries as custom analytical perspectives in dedicated North Star ChatALJ instance
 
-	## Case-studies as Developmental Accounts
+	## Offer
 
-	## Pilot Offer
+	Scope: Timelining and ChatALJ instance deployed on dedicated infrastructure for one selected Transition Lab event
 
-	### Investment: To be decided together
-	### Scope: ChatALJ deployment for one selected Transition Lab event
-	### Outcomes:
-	- Tested, ready-to-scale integration of ChatALJ into North Star’s Transition Lab process.
-	- Enhanced capacity for systemic insight mapping and strategic follow-through across regions.
-	- A documented case study for replication across other labs and regions.
+	Timeframe: 3 months
+	- 2 months build
+	- 1 month part-time process design support (overlapping with build)
+	- 1 month technical support around the event, including immediate response to any reliability issues
+
+	Outcomes:
+	- Successful adoption of general schema, ready to address more advanced data modelling
+	- Validated integration of Timelining into North Star’s Transition Lab process
+	- Convincingly useful insight generation from ChatALJ interface, generating strategic clarity for the chosen hub
+
+	Cost: £20,000
 
 </PageGate>
