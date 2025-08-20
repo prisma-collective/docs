@@ -6,6 +6,6 @@ Our work is characterised by the integration of facilitation, [place](/glossary/
 
 ![concept_ordering.png](/concept_ordering.png)
 
-Each event is organised with the same underlying framework of weaving four [core processes](/patterns/core%20processes.md) together: 
+Each event is organised with the same underlying framework of weaving four [core processes](/processes.md) together: 
 
-![process-facilitation.png](/process-facilitation.png)
+![process-facilitation.png](/deck_organising.png)
