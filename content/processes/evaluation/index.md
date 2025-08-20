@@ -38,15 +38,3 @@ Our methodology is a continuous learning cycle. It unfolds across three core pha
 - **Dynamic & Adaptive:** Our evaluation isn't a final report; it's a real-time feedback system. As demonstrated in the Accra ALJ, we adapt our tools and facilitation live to capture value more effectively as the system evolves.
     
 - **Catalytic & Empowering:** The purpose of our evaluation is not to judge, but to enable. By making value flows visible, we empower communities to steward their own resources and direct energy towards their most potent leverage points.
-    
-
-## **Navigating This Documentation**
-
-This folder is organized to walk you through our philosophy, process, and practical tools.
-
-- **[1. Our Approach](https://www.perplexity.ai/search/1.%20Our%20Approach/)**: Start here to understand the foundational principles and the three-phase framework that guides our work.
-    
-- **[2. Our Methodology](https://www.perplexity.ai/search/2.%20Our%20Methodology/)**: A detailed look at how we implement each phase of the evaluation process, from identifying value to enabling stewardship.
-    
-- **[3. Resources & Evidence](https://www.perplexity.ai/search/3.%20Resources%20&%20Evidence/)**: Access our practical tools, templates, and case studies, including our tech stack and a deep dive into the Accra ALJ evaluation.
-    
