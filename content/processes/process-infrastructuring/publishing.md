@@ -2,6 +2,11 @@
 sidebarTitle: Publishing
 ---
 
+<video width="100%" controls>
+    <source src="/video_tutorial.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+</video>
+
 # Intro
 [action-learning journeys](/patterns/action-learning%20journeys.md) (ALJs) are a complex system. a [case-study](/patterns/case-study.md) serves the purpose of communicating the particular nature of a given action-learning journey as well as the outcomes and what they mean for the communities involved. there are multiple forms of data being created throughout, at varying levels of detail and abstraction. therefore, a case-study is continually being created throughout and is itself a lived process. similarly, publishing a case-study is therefore also an ongoing process - continually making available more data from the action-learning.
 
