@@ -16,8 +16,11 @@ export function getWebcamOnlyArgs(ctx: RecordingContext): string[] {
         '-i', `video=${ctx.video}:audio=${ctx.audio}`,
 
         // Sync
-        '-vsync', 'cfr',
+        '-vsync', '2',
         '-r', '30',
+
+        // Audio resample
+        '-af', "aresample=async=1:first_pts=0",
 
         // Match exact filter used for separate webcam recording
         '-filter_complex', '[0:v]format=yuv420p,scale=1920:1080[webcam_full]',
@@ -65,6 +68,13 @@ export function getCombinedArgs(ctx: RecordingContext, saveWebcamSeparate: boole
         '-framerate', '30',
         '-channel_layout', 'stereo',
         '-i', `video=${ctx.video}:audio=${ctx.audio}`,
+
+        // Sync
+        '-vsync', '2',
+        '-r', '30',
+
+        // Audio resample
+        '-af', "aresample=async=1:first_pts=0",
     ];
 
     const filterParts = [
