@@ -8,6 +8,7 @@ import { generateIntroOutroVideos } from './lib/introOutro/generateIntroOutro';
 import { safeUnlink } from './utils';
 import { getModeHandler } from './mode';
 import { ModeHandler } from './types';
+import { postProcessAudio } from './lib/postProcess/audioFilter';
 
 // --- Paths
 const __filename = fileURLToPath(import.meta.url);
@@ -37,10 +38,12 @@ const { mode } = await inquirer.prompt([
 // --- Filenames
 const timestamp = new Date().toISOString().replace(/[-:]/g, '').replace(/\..+/, '').replace('T', '_');
 const rawRecording = path.join(outDir, `recording_raw_${timestamp}.mp4`);
+const processedRecording = path.join(outDir, `recording_processed_${timestamp}.mp4`);
 const finalRecording = path.join(outDir, `recording_${timestamp}.mp4`);
 
 const handler: ModeHandler = getModeHandler(mode, {
     rawRecording,
+    processedRecording,
     finalRecording,
     timestamp,
 })
@@ -86,6 +89,7 @@ try {
     }
 }
 
+// Check for file
 if (fs.existsSync(rawRecording)) {
     const stats = fs.statSync(rawRecording);
     console.log(chalk.gray(`Raw recording size: ${(stats.size / 1024 / 1024).toFixed(2)} MB`));
@@ -114,6 +118,8 @@ const durationStr = ((await execa('ffprobe', ['-v', 'error', '-show_entries', 'f
 const [m, s] = [Math.floor(+durationStr / 60), Math.round(+durationStr % 60)];
 const durationFormatted = `${m.toString().padStart(2,'0')}:${s.toString().padStart(2,'0')}`; // "00:05"
 
+await postProcessAudio(rawRecording, processedRecording);
+
 // --- Intro / Outro
 console.log(chalk.gray('Rendering intro/outro frames...'));
 const { introMp4: openingMp4, outroMp4: closingMp4 } = await generateIntroOutroVideos({
@@ -125,7 +131,7 @@ const { introMp4: openingMp4, outroMp4: closingMp4 } = await generateIntroOutroV
 console.log(chalk.gray('Merging intro + recording + outro...'));
 
 const concatListPath = path.join(__dirname, 'concat_list.txt');
-const concatList = `file '${openingMp4.replace(/\\/g, '/')}'\nfile '${rawRecording.replace(/\\/g, '/')}'\nfile '${closingMp4.replace(/\\/g, '/')}'`;
+const concatList = `file '${openingMp4.replace(/\\/g, '/')}'\nfile '${processedRecording.replace(/\\/g, '/')}'\nfile '${closingMp4.replace(/\\/g, '/')}'`;
 fs.writeFileSync(concatListPath, concatList);
 
 try {
@@ -153,6 +159,8 @@ try {
         '-c:a', 'aac',
         '-b:a', '128k',
         '-movflags', '+faststart',
+        '-vsync', 'cfr',
+        '-r', '30',
         finalRecording,
     ], {
         stdio: 'inherit',

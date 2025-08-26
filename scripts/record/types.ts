@@ -9,6 +9,7 @@ export interface RecordingContext {
     offsetY?: number;
 
     rawRecording: string;
+    processedRecording: string;
     finalRecording: string;
     webcamOnlyRecording?: string;
     timestamp: string;

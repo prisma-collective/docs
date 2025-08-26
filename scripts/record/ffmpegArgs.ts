@@ -17,7 +17,6 @@ export function getWebcamOnlyArgs(ctx: RecordingContext): string[] {
 
         // Sync
         '-vsync', '2',
-        '-r', '30',
 
         // Audio resample
         '-af', "aresample=async=1:first_pts=0",
@@ -71,7 +70,6 @@ export function getCombinedArgs(ctx: RecordingContext, saveWebcamSeparate: boole
 
         // Sync
         '-vsync', '2',
-        '-r', '30',
 
         // Audio resample
         '-af', "aresample=async=1:first_pts=0",
