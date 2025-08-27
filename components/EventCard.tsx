@@ -42,6 +42,11 @@ export const EventCard: React.FC<EventCardProps> = ({
     <div
       className={`relative flex flex-col text-left rounded-xl 
         transition
+        bg-prisma-b/10
+        border-1
+        border-prisma-b
+        p-4
+        mt-4
         ${className}`}
     >
         {intensiveDates && (
@@ -51,37 +56,12 @@ export const EventCard: React.FC<EventCardProps> = ({
         )}
 
         {title && (
-        <h1 className="text-4xl font-semibold text-gray-800 dark:text-white mb-4">
+        <h1 className="text-4xl font-semibold text-gray-800 dark:text-white mb-2">
             {title}
         </h1>
         )}
 
-        <div className="flex flex-col mb-10 md:mb-0 z-10">
-            {fields.map((field, idx) => (
-                <div key={idx} className="flex py-1">
-                    {/* Label column — fixed width, right aligned */}
-                    <div className="w-1/3 md:w-1/6 pr-4 text-lg text-gray-600 dark:text-gray-300 text-left font-custom-bold ">
-                        {field.href ? (
-                        <Link
-                            href={field.href}
-                            className="text-purple-600 hover:underline dark:text-purple-400"
-                        >
-                            {field.label}
-                        </Link>
-                        ) : (
-                        field.label
-                        )}
-                    </div>
-
-                    {/* Value column — fills remaining space */}
-                    <div className="flex-1 text-sm text-gray-800 dark:text-white">
-                        {field.value}
-                    </div>
-                </div>
-            ))}
-        </div>
-
-        <div className="absolute bottom-2 flex flex-row gap-4 flex-wrap w-full items-start md:justify-end">
+        <div className="flex flex-row gap-4 mb-4">
             {links?.map((link, idx) => {
                 const Icon = iconMap[link.icon];
                 return (
@@ -97,6 +77,31 @@ export const EventCard: React.FC<EventCardProps> = ({
                     </a>
                 );
             })}
+        </div>
+
+        <div className="flex flex-col mb-10 md:mb-0 z-10">
+            {fields.map((field, idx) => (
+                <div key={idx} className="flex py-1">
+                    {/* Label column — fixed width */}
+                    <div className="w-1/3 md:w-1/6 pr-4 text-lg text-gray-600 dark:text-gray-300 text-left">
+                        {field.href ? (
+                        <Link
+                            href={field.href}
+                            className="text-purple-600 hover:underline dark:text-purple-400 font-custom-bold"
+                        >
+                            {field.label}
+                        </Link>
+                        ) : (
+                        field.label
+                        )}
+                    </div>
+
+                    {/* Value column — fills remaining space */}
+                    <div className="flex-1 text-sm text-gray-800 dark:text-white">
+                        {field.value}
+                    </div>
+                </div>
+            ))}
         </div>
     </div>
   );

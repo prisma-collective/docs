@@ -5,8 +5,8 @@
   --color-prisma-b: #8067ff;
   --color-prisma-c: #ef64ff;
   --color-prisma-d: #ff4b85;
-  --font-custom: "Space Grotesk", sans-serif;
-  --font-custom-bold: "Bebas Neue", sans-serif;
+  --font-custom: "Custom", sans-serif;
+  --font-custom-bold: "CustomBold", sans-serif;
 }
 
 :root {
@@ -50,15 +50,6 @@ html:not(.dark) body {
     font-family: 'Space Grotesk', sans-serif; 
     color:rgb(249, 249, 249); 
 }
-
-/* html:not(.dark) h1, 
-html:not(.dark) h2, 
-html:not(.dark) h3, 
-html:not(.dark) h4, 
-html:not(.dark) h5, 
-html:not(.dark) h6 {
-    color: #000000; 
-} */
 
 /* Set font style for links */
 a {

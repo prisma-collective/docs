@@ -11,7 +11,7 @@ developers are sovereign, their agency and ability to discern being absolutely e
 
 developers are (sometimes) inspired by a context that aligns with their purpose, meaning, for a system they care about to be able to evolve to a higher order of capability. 
 
-this alignment and care is the prerequisite for effective communication across the various different capacities present in a [cohort](cohort) - artists, engineers, community leaders, farmers, cooks, and guests, to name just a few. each capacity has an essential role to play in making visible the ways in which a system is trying to evolve, and how the cohort can effectively organise itself in support of that. communication is like water: no hydration, and the creative potential of the collective will quickly dry out.
+this alignment and care is the prerequisite for effective communication across the various different capacities present in a cohort - artists, engineers, community leaders, farmers, cooks, and guests, to name just a few. each capacity has an essential role to play in making visible the ways in which a system is trying to evolve, and how the cohort can effectively organise itself in support of that. communication is like water: no hydration, and the creative potential of the collective will quickly dry out.
 
 it is crucial that developers appreciate their relationship with the character and potential of the context in which the ALJ is being hosted. the [hubs](/collaborators/communities-of-place/hub/hubs.md) play an important role in helping develop those relationships, creating spaces in which local stakeholders can illuminate the locality's systems and particularities. 
 
