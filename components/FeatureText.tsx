@@ -3,13 +3,22 @@
 import React, { useEffect } from "react";
 import Link from "next/link";
 
+const colors = [
+    'var(--color-prisma-a)',
+    'var(--color-prisma-b)',
+    'var(--color-prisma-c)',
+    'var(--color-prisma-d)',
+    'var(--color-prisma-e)',
+];
+
 interface FeatureTextProps {
     text: string;
+    colorSelections?: [number, number];
     className?: string;
     href?: string; // Optional internal route
-}
+};
 
-const FeatureText: React.FC<FeatureTextProps> = ({ text, className, href }) => {
+const FeatureText: React.FC<FeatureTextProps> = ({ text, className, href, colorSelections }) => {
     useEffect(() => {
         const root = document.documentElement;
 
@@ -24,14 +33,22 @@ const FeatureText: React.FC<FeatureTextProps> = ({ text, className, href }) => {
         return () => window.removeEventListener("mousemove", handleMouseMove);
     }, []);
 
+    const indices = (Array.isArray(colorSelections) && colorSelections.length === 2)
+        ? colorSelections
+        : [0, 1];
+
+    const selectedColors = indices.map((i) => colors[i]);
+
     const content = (
         <span
             className={`
                 font-squid transition-all duration-75 
                 text-transparent bg-clip-text
-                bg-[linear-gradient(var(--angle),var(--color-prisma-a),var(--color-prisma-b))]
                 ${className ?? ""}
             `}
+            style={{
+                backgroundImage: `linear-gradient(var(--angle), ${selectedColors.join(",")})`,
+            }}
         >
             {text}
         </span>
