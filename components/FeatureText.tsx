@@ -9,6 +9,7 @@ const colors = [
     'var(--color-prisma-c)',
     'var(--color-prisma-d)',
     'var(--color-prisma-e)',
+    'var(--color-prisma-f)',
 ];
 
 interface FeatureTextProps {
