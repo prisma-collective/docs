@@ -22,6 +22,7 @@ interface FeatureTextProps {
 const FeatureText: React.FC<FeatureTextProps> = ({ text, className, href, colorSelections }) => {
     useEffect(() => {
         const root = document.documentElement;
+        root.style.setProperty("--angle", "45deg");
 
         const handleMouseMove = (e: MouseEvent) => {
             const x = e.clientX / window.innerWidth - 0.5;
