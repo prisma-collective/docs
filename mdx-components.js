@@ -13,6 +13,7 @@ import AppGrid from '@/components/AppGrid';
 import SystemDiagramPI from '@/components/SystemDiagramProcessInfrastructure';
 import PageGate from '@/components/PageGate';
 import GraphRenderer from './components/GraphRenderer';
+import FeatureText from '@/components/FeatureText';
 
 // Get the default MDX components
 const themeComponents = getThemeComponents()
@@ -35,6 +36,7 @@ export function useMDXComponents(components) {
     AppGrid,
     SystemDiagramPI,
     PageGate,
+    FeatureText,
     ...components
   }
 }
