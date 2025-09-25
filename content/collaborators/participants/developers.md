@@ -9,7 +9,7 @@ developers are agents of transformation, transforming creative potential into co
 
 developers are sovereign, their agency and ability to discern being absolutely essential for the [action-learning journeys](/patterns/action-learning%20journeys.md) to be able to reach a functional end. 
 
-developers are (sometimes) inspired by a context that aligns with their purpose, meaning, for a system they care about to be able to evolve to a higher order of capability. 
+developers are (always!) inspired by a context that aligns with their purpose, meaning, for a system they care about to be able to evolve to a higher order of capability. 
 
 this alignment and care is the prerequisite for effective communication across the various different capacities present in a cohort - artists, engineers, community leaders, farmers, cooks, and guests, to name just a few. each capacity has an essential role to play in making visible the ways in which a system is trying to evolve, and how the cohort can effectively organise itself in support of that. communication is like water: no hydration, and the creative potential of the collective will quickly dry out.
 

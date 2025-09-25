@@ -14,31 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "collaborators/Facilitators/index.mdx",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "5bfcffd2645e8feb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.mdx",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -55,8 +31,50 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "87d85a46a2f14f59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc6aae735f85d200",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "collaborators/Facilitators/index.mdx",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of index"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9234ef027512c560",
@@ -220,16 +239,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bfcffd2645e8feb",
+  "active": "1737ff67d67897d4",
   "lastOpenFiles": [
+    "docs-demo.md",
+    "collaborators/participants/developers.md",
+    "patterns/action-learning journeys.md",
+    "collaborators/Facilitators/index.mdx",
+    "index.mdx",
     "collaborators/communities of place/hub/hub team.md",
     "collaborators/communities of place/hub/hubs.md",
     "collaborators/communities of place/hub/hubs.mdx",
-    "index.mdx",
     "collaborators/communities of practice/practice networks.md",
-    "collaborators/participants/developers.md",
     "collaborators/communities of place/hub",
-    "patterns/action-learning journeys.md",
     "collaborators/index.mdx",
     "processes/evaluation/index.md",
     "collaborators/participants/scribes.md",
@@ -238,7 +259,6 @@
     "processes/index.md",
     "patterns/case-study.md",
     "events/resilience.md",
-    "collaborators/Facilitators/index.mdx",
     "collaborators/Facilitators/enacting contract.md",
     "collaborators/Facilitators/evaluating.md",
     "processes/enactment/2. sense of place.mdx",
@@ -255,7 +275,6 @@
     "processes/enrolment/Hub Enrollment Form Design.md",
     "collaborators/Contracts.md",
     "glossary/bioregion.md",
-    "glossary/Word.md",
-    "context & narrative/index.md"
+    "glossary/Word.md"
   ]
 }
