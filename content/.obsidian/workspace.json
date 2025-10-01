@@ -11,10 +11,24 @@
             "id": "1737ff67d67897d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.mdx",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           },
           {
@@ -39,48 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Delfi"
-            }
-          }
-        ]
-      },
-      {
-        "id": "87d85a46a2f14f59",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fc6aae735f85d200",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -249,6 +221,7 @@
   },
   "active": "1737ff67d67897d4",
   "lastOpenFiles": [
+    "processes/index.md",
     "Delfi.md",
     "docs-demo.md",
     "collaborators/Facilitators/index.mdx",
@@ -265,7 +238,6 @@
     "collaborators/participants/scribes.md",
     "collaborators/index.md",
     "Practices/index.mdx",
-    "processes/index.md",
     "patterns/case-study.md",
     "events/resilience.md",
     "collaborators/Facilitators/enacting contract.md",
