@@ -49,6 +49,16 @@
       "profile_card_link": "/context-narrative",
       "links": [
       ]
+    },
+    {
+      "name": "Carlos",
+      "role": "Publishing",
+      "photo": "/carlos.png",
+      "profile_card_link": "/processes/ground-potentialising/deploy",
+      "links": [
+        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
+        { "label": "GitHub", "url": "https://github.com/CarlosQ96", "icon": "FaGithub" }
+      ]
     }
   ]
   
