@@ -2,6 +2,21 @@ import { NextRequest, NextResponse } from 'next/server';
 import { readFile } from 'fs/promises';
 import { join } from 'path';
 
+// Helper function to strip frontmatter from markdown
+function stripFrontmatter(content: string): string {
+  // Check if content starts with --- (frontmatter marker)
+  if (content.startsWith('---')) {
+    const frontmatterEnd = content.indexOf('\n---', 3); // Look for the closing ---
+    if (frontmatterEnd !== -1) {
+      // Remove the frontmatter block (including both markers and content)
+      content = content.substring(frontmatterEnd + 5); // +5 to skip the \n---
+      // Remove leading whitespace/newlines
+      content = content.trimStart();
+    }
+  }
+  return content;
+}
+
 export async function GET(
   request: NextRequest,
   { params }: { params: Promise<{ path: string[] }> }
@@ -15,21 +30,22 @@ export async function GET(
   // Join path segments with /
   const contentPath = path.join('/');
   
-  // Try to read .md first, then .mdx if .md doesn't exist
+  // Base directory for content files
   const baseDir = join(process.cwd(), 'content');
 
   try {
-    // Try different file variations in order of preference
+    // Try different file variations in order of preference (only .md files)
     const possiblePaths = [
       join(baseDir, `${contentPath}.md`),
-      join(baseDir, `${contentPath}.mdx`),
       join(baseDir, contentPath, 'index.md'),
-      join(baseDir, contentPath, 'index.mdx'),
     ];
 
     for (const filePath of possiblePaths) {
       try {
-        const content = await readFile(filePath, 'utf-8');
+        let content = await readFile(filePath, 'utf-8');
+        
+        // Strip frontmatter (header info between --- markers)
+        content = stripFrontmatter(content);
         
         return new NextResponse(content, {
           headers: {
