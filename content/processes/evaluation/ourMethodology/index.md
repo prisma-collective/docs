@@ -1,5 +1,5 @@
 ---
-sidebarTitle: 2. Methodology
+sidebarTitle: 2. Our Methodology
 asIndexPage: true
 ---
 # **Our Methodology: How We Catalyze Value**

@@ -1,3 +1,7 @@
+---
+sidebarTitle: b. Templates & Guides
+---
+
 # **Templates & Guides: A Toolkit for Participatory Practice**
 
 This is our library of practical, field-tested resources for implementing our evaluation methodology. These templates and guides provide the structure needed for a rigorous process while maintaining the flexibility required for contextual adaptation. They are designed to be used in participatory settings, empowering communities to become co-creators of their own evaluation framework.

@@ -1,5 +1,5 @@
 ---
-sidebarTitle: 3. Practicals
+sidebarTitle: 3. Resources & Evidence
 asIndexPage: true
 ---
 # **Resources & Evidence: Our Methodology in Action**
@@ -27,3 +27,4 @@ This section is organized to provide you with a clear pathway from tools to evid
 These resources are designed to be adapted, not just applied. They are the living embodiment of our commitment to an evaluation practice that evolves through implementation. As you use, adapt, and innovate with these tools, you contribute to the ongoing development of our collective capacity to see and steward value.
 
 ---
+

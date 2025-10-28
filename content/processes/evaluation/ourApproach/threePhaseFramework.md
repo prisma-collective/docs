@@ -1,3 +1,7 @@
+---
+sidebarTitle: b. The Three-Phase Framework
+---
+
 # **The Three-Phase Framework: A Dynamic Process for Catalysis**
 
 Our philosophy is put into action through a structured yet adaptable three-phase framework. This is the operational model that allows us to move from understanding a system to actively enabling its regenerative potential. This is not a linear sequence but a continuous, iterative cycle.
@@ -14,7 +18,6 @@ Before we can track value, we must first define it in collaboration with the com
     
 - **Iterative Baselining:** We establish a qualitative and quantitative baseline—not as a fixed starting point, but as the first snapshot in a living story of a system's evolution.
     
-
 ## **Phase 2: Tracking Catalysts**
 
 **Goal: To make emergent dynamics and value flows visible in near real-time.**
@@ -29,7 +32,6 @@ During an active engagement (like an ALJ), we capture data that reveals not just
     
 - **Multi-Source Verification:** Insights are continuously cross-referenced and verified through a combination of facilitator feedback, peer attributions, expert review, and relevant literature to ensure reliability.
     
-
 ## **Phase 3: Enabling Stewardship**
 
 **Goal: To turn insight into actionable resource flow, empowering adaptive learning and governance.**
@@ -45,3 +47,4 @@ This is the most critical phase, where evaluation becomes a direct catalyst for 
 - **Automated & Deliberate Allocation:** The evaluation system can enable more effective stewardship, from automating the distribution of resources based on contribution to informing deliberate, group-based decisions on where to focus energy next.
     
 - **Iterative Feedback Loops:** The outcomes of these allocation decisions are fed back into the tracking phase, creating a tight learning loop that allows the system to adapt and evolve with increasing intelligence and coherence.
+

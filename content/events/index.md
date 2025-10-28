@@ -1,9 +1,9 @@
 ---
-
 asIndexPage: true
 sidebarTitle: Events
+---
 
-----
+We're aiming to support hub-networks in creating an economy of apps used to participate and 
 
 # **Software License and Deployment Agreement**
 

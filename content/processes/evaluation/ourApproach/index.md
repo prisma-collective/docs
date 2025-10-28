@@ -1,5 +1,5 @@
 ---
-sidebarTitle: 1. Orientation
+sidebarTitle: 1. Our Approach
 asIndexPage: true
 ---
 # **Our Approach: Evaluation as a Catalyst**

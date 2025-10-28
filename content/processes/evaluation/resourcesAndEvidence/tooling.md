@@ -1,3 +1,7 @@
+---
+sidebarTitle: a. Tooling
+---
+
 # **Tooling: Our Tech Stack for Seeing Value**
 
 Our evaluation methodology is powered by a carefully selected stack of technologies designed to make the complex process of tracking value flows accessible, efficient, and insightful. These are not just tools for data collection; they are instruments for seeing, sensing, and making meaning within living systems.
@@ -40,3 +44,4 @@ Our evaluation methodology is powered by a carefully selected stack of technolog
 This tech stack is designed to augment, not replace, human sense-making. It handles the heavy lifting of data processing so that communities can focus on the uniquely human work of interpretation, dialogue, and wise decision-making.
 
 ---
+

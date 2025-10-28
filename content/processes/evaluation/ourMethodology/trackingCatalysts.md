@@ -1,3 +1,7 @@
+---
+sidebarTitle: b. Tracking Catalysts
+---
+
 # **Phase 2: Tracking Catalysts**
 
 ## **Goal: To make emergent dynamics and the flow of value visible in near real-time, identifying the catalysts of change as they happen.**

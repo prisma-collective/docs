@@ -1,3 +1,7 @@
+---
+sidebarTitle: a. Identifying Value
+---
+
 # **Phase 1: Identifying Value**
 
 ## **Goal: From an abstract model to a co-created, contextual understanding of what value means _here_.**
@@ -24,7 +28,6 @@ This phase typically unfolds through a series of facilitated, participatory work
         
     - **Benchmark Tables:** A clear starting point for each Aspect and its indicators, often using a simple progression scale (e.g., -3 to +3) that the community defines.
         
-
 ## **Example: Aspect Benchmark Table**
 
 |Aspect|Capital Types|Current State (-3 to +3)|Sustainability Norm (The Goal)|Key Indicators|
@@ -34,3 +37,4 @@ This phase typically unfolds through a series of facilitated, participatory work
 |**Ecological Integration**|Natural, Cultural|-2|+3 (Fully regenerative)|1. Biodiversity impact  <br>2. Resource cycling  <br>3. Use of local knowledge|
 
 By the end of this phase, we have a co-owned evaluation framework that is deeply relevant to the local context and ready to track the flows of value that truly matter.
+

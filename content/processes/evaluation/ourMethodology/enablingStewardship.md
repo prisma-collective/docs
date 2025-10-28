@@ -1,3 +1,7 @@
+---
+sidebarTitle: c. Enabling Stewardship
+---
+
 # **Phase 3: Enabling Stewardship**
 
 ## **Goal: To close the loop by transforming data-driven insight into actionable resource flow, empowering adaptive learning, governance, and system evolution.**
@@ -27,3 +31,4 @@ This is the most critical phase, where our evaluation process becomes a direct c
     
 
 By moving through these three phases, our methodology transforms evaluation from a final judgment into a continuous, life-affirming process that builds the capacity of a system to sense and respond to its own needs and potential.
+
