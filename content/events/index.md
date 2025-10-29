@@ -20,26 +20,27 @@ Whereas, to enable this open, collaborative, and transparent model while preserv
 
 Now, therefore, the parties agree as follows:
 
----
-
 ## 1. Purpose and Grant
 
-Licensor provides access to the Prisma Publishing Stack (and related modules, tools, and infrastructure) for the sole purpose of administering, managing, and executing activities within the CATS Program.
+Licensor provides access to the Prisma Publishing Stack (and related modules, tools, and infrastructure) for the purpose of enabling participation, publication, and coordination within the specific event, initiative, or workflow context defined in the deployment metadata recorded at the time of acceptance.
 
-Licensor grants Licensee a limited, non-exclusive, non-transferable, non-sublicensable license to deploy and operate the software solely within this purpose.
+Licensor grants Licensee a limited, non-exclusive, non-transferable, non-sublicensable license to deploy and operate the software solely within this dynamically defined context.
 All other uses are prohibited.
 
 ## 2. Deployment Conditions
 
-1. Deployment is permitted only through Licensor’s authorized deployment process, requiring authentication with a verified Cardano wallet and signature of a nonce issued by the system.
-2. The act of deploying the software after authentication constitutes electronic acceptance of these terms.
-3. Licensee must:
+1. At the time of each deployment, the system collects immutable metadata including (without limitation):
 
-   * Maintain the integrity of deployment credentials and prevent unauthorized access;
-   * Use only verified and signed artifacts provided by Licensor;
-   * Accept and apply updates, security patches, or configuration changes issued by Licensor;
-   * Preserve all embedded attribution, digital signatures, or blockchain records of authorship.
-4. Any modification, redeployment, or operation outside the authorized process constitutes material breach and immediate termination of all rights.
+* Wallet address and verified identity of Licensee;
+* Event or project name, date range, and identifiers;
+* Domain/subdomain configuration;
+* Software modules and repositories deployed;
+* Platform identifiers (e.g., GitHub, Vercel, or equivalent);
+* Timestamp and deployment status.
+
+2. Such metadata shall be automatically incorporated by reference into this Agreement as Schedule A for that specific deployment, and forms part of the legally binding contract between Licensor and Licensee.
+3. Each deployment record constitutes a distinct contract instance, binding solely for the defined workflow, project, or event.
+4. Any reuse, modification, or redeployment outside the recorded context requires a new acceptance and corresponding metadata capture.
 
 ## 3. Intellectual Property
 
@@ -51,6 +52,7 @@ Licensee may not reverse-engineer, copy, adapt, or redistribute the software, or
 
 1. Licensee acknowledges that Licensor may record deployment metadata (including wallet address, timestamp, event name, and T&Cs hash) and may anchor authorship or deployment records to a public blockchain for verification purposes.
 2. Licensee shall comply with all applicable data protection laws and implement reasonable safeguards to prevent unauthorized disclosure or alteration of the software or related data.
+3. Licensor may store deployment metadata, including this Agreement’s cryptographic hash, within an immutable database, ledger, or blockchain-based registry. This record shall constitute the definitive version of the Agreement for evidentiary purposes.
 
 ## 5. Attribution
 
@@ -62,7 +64,7 @@ Licensor may revoke or suspend Licensee’s deployment rights immediately if Lic
 
 * Misuses the software, breaches these terms, or fails to maintain security controls;
 * Attempts to deploy or modify the software outside authorized channels; or
-* Ceases participation in the CATS Program.
+* Ceases participation in the associated event.
 
 Upon termination, Licensee must cease all use of the software and delete all copies.
 
@@ -82,15 +84,21 @@ By selecting “Deploy,” connecting a verified Cardano wallet, and signing the
 * Agrees that such digital signature constitutes a legally binding acceptance under applicable electronic-signature laws; and
 * Accepts all terms of this Agreement as of the deployment timestamp.
 
-
-
-### Execution Record (logged automatically)
+### Schedule A — Deployment Metadata (automatically generated)
 
 | Field                 | Value           |
 | --------------------- | --------------- |
+| Workflow ID           | [auto-recorded] |
 | Wallet Address        | [auto-recorded] |
+| Client Name           | [auto-recorded] |
+| Event Name            | [auto-recorded] |
+| Event Start           | [auto-recorded] |
+| Event End             | [auto-recorded] |
+| GitHub Target Org     | [auto-recorded] |
+| Vercel Team ID        | [auto-recorded] |
+| Event End             | [auto-recorded] |
+| Deployed Apps         | [auto-recorded] |
 | Signature / Nonce     | [auto-recorded] |
 | Timestamp (UTC)       | [auto-recorded] |
 | Event / Deployment ID | [auto-recorded] |
 | T&Cs Hash (SHA256)    | [auto-recorded] |
-| IP Address            | [auto-recorded] |
