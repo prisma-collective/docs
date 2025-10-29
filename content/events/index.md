@@ -3,12 +3,22 @@ asIndexPage: true
 sidebarTitle: Events
 ---
 
-We're aiming to support hub-networks in creating an economy of apps used to participate and 
-
 # Software License and Deployment Agreement
 
 Effective upon digital acceptance (“Deploy” action)
 Between Prisma (“Licensor”) and each verified deployment participant or organization (“Licensee”).
+
+# Recitals and Context
+
+Whereas, Prisma supports a network of partner hubs in developing an economy of applications that enable participation in and communication of evolving local systems;
+
+Whereas, these hubs operate autonomously within their own contexts, values, and partnerships, and Prisma’s goal is to provide a “narrative infrastructure”—a publishing framework empowering hubs to express themselves freely and coordinate resources without compromising integrity;
+
+Whereas, as part of these capabilities, Prisma provides a Publishing Stack—a modular suite of applications supporting participatory processes, deployed to partner hubs’ own cloud instances in alignment with the principles of decentralisation and digital sovereignty;
+
+Whereas, to enable this open, collaborative, and transparent model while preserving the security and integrity of Prisma’s systems and intellectual property, the following license governs access and deployment of the software;
+
+Now, therefore, the parties agree as follows:
 
 ---
 
