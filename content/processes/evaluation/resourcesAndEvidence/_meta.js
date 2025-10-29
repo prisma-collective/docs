@@ -1,6 +1,6 @@
 export default {
-    tooling: 'a. Tooling',
-    templatesAndGuides: 'b. Templates & Guides',
-    accraALJCaseStudy: 'c. Accra ALJ Case Study'
+    tooling: 'Tooling',
+    templatesAndGuides: 'Templates & Guides',
+    accraCaseStudy: 'Accra ALJ Case Study'
 }
 
