@@ -5,7 +5,7 @@ prisma designs and facilitates multi-stakeholder [action-learning journeys](/pat
 3. participants
 4. partners
 
-the core purpose of organising all these capacity-generating roles around an intensive is to create the conditions for a systemic intervention in which *[practice](/glossary/Practice.md)* is *applied* on-the-ground. applying practice means embodying the principles by which the practice comes to life, generating experiential learning value. 
+The core purpose of organising all these capacity-generating roles around an intensive is to create the conditions for a systemic intervention in which *[practice](/glossary/Practice.md)* is *applied* on-the-ground. applying practice means embodying the principles by which the practice comes to life, generating experiential learning value. 
 
 The product of each action-learning journey is a [case-study](/patterns/case-study.md). These case-studies are a multi-media, multi-perspective account of the experience, that serve the purpose of offering the learnings to a broader audience: action-learning, action-learning. The content of these case-studies is produced throughout the process through a kind of *participation-as-content-creation* practice:
 
