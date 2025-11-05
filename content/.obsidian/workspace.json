@@ -35,19 +35,9 @@
             "id": "a478374d0926040e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "7b9f272838a8766a",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Delfi.md",
+                "file": "processes/process-infrastructuring/publishing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Delfi"
+              "title": "publishing"
             }
           }
         ],
