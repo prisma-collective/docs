@@ -6,18 +6,21 @@ sidebarTitle: Publishing
 
 a [case-study](/patterns/case-study.md) serves the purpose of communicating the particular nature of a given action-learning journey as well as the outcomes and what they mean for the communities involved. 
 
-throughout the entire process of organising and [enacting](/processes/enactment) one of these events, there are multiple forms of data being created, at varying levels of detail and abstraction. therefore, a case-study is continually being created throughout and is itself a living-process. 
+throughout the entire process of organising and [enacting](/processes/enactment) one of these events, there are multiple forms of data being created, at varying levels of detail and abstraction. 
 
-- Before t intensive, whilst organising: publishing
-- During intensive, whilst enacting: publishing
-- After intensive, whilst harvesting: publishing
+![publishing.png](/publishing-1.png)
+
+therefore, a case-study is continually being created throughout and is itself a living-process. 
+
+- Before the intensive, whilst organising: publishing
+- During the intensive, whilst enacting: publishing
+- After the intensive, whilst harvesting: publishing
 
 publishing a case-study is an ongoing process - continually making available more data from the [action-learning](/patterns/action-learning).
 
+![publishing.png](/publishing-2.png)
 
 however, there are also certain procedures, such as running an analysis on a dataset, editing filming footage, conducting closure interviews, and collecting final contributions from teams, that are discrete and need to be done before the case-study can be considered complete. in that sense, the case-study can be considered officially "published" once these main items have all been added, and the end result is shared far and wide: social media, personal networks, and targeting institutions with a clear purpose such as attracting funding for a future ALJ or engaging communities of potential [subscribers](/processes/process-infrastructuring/subscribing.md) who'd like to learn about what's involved in working on those systems. 
-
-![event-model.png](/event-model.png)
 
 a case-study is a living account of the work of evolving systems. subscriptions can... 
 
