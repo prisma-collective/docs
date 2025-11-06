@@ -1,6 +1,6 @@
 ## **Purpose & Philosophy** 
 
-**Why this form?**  
+**Why use this form?**  
 
 - **Alignment First:** The biggest risk in past journeys was misalignment on vision, ownership, and accountability. This form is designed to surface those issues early, before any partnership is formalized.
 
