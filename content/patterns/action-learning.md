@@ -11,7 +11,7 @@ The product of each action-learning journey is a [case-study](/patterns/case-stu
 
 1. meeting recordings
 2. audio recordings
-3. videos
+3. 
 4. learning exercises
 5. documentation
 6. various participation signals (more to come)
