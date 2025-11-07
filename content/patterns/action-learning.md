@@ -1,9 +1,9 @@
 prisma designs and facilitates multi-stakeholder [action-learning journeys](/patterns/action-learning%20journeys.md), grounded in partner [hubs](/collaborators/communities-of-place/hub/hubs.md) in different [bioregions](/glossary/bioregion). Through our [enrolment](/processes/enrolment) process, we onboard the following stakeholders into an alignment process lasting multiple weeks, culminating in an intensive:
 
-1. [hubs](/collaborators/communities-of-place/hub/hubs.md)
-2. [practice networks](/collaborators/communities-of-practice/practice-networks.md)
-3. participants
-4. partners
+1. [Hubs](/collaborators/communities-of-place/hub/hubs.md)
+2. [Practice networks](/collaborators/communities-of-practice/practice-networks.md)
+3. Participants
+4. Partners
 
 The core purpose of organising all these capacity-generating roles around an intensive is to create the conditions for a systemic intervention in which *[practice](/glossary/Practice.md)* is *applied* on-the-ground. applying practice means embodying the principles by which the practice comes to life, generating experiential learning value. 
 
