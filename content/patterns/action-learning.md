@@ -9,12 +9,12 @@ The core purpose of organising all these capacity-generating roles around an int
 
 The product of each action-learning journey is a [case-study](/patterns/case-study.md). These case-studies are a multi-media, multi-perspective account of the experience, that serve the purpose of offering the learnings to a broader audience: action-learning, action-learning. The content of these case-studies is produced throughout the process through a kind of *participation-as-content-creation* practice:
 
-1. meeting recordings
-2. audio recordings
-3. 
-4. learning exercises
-5. documentation
-6. various participation signals (more to come)
+1. Meeting recordings
+2. Audio recordings
+3. Videos
+4. Learning exercises
+5. Documentation
+6. Various participation signals (more to come)
 
 Whereas a case-study focusses on a single action-learning journey, this page speaks to action-learning as an underlying pattern repeating throughout all that we're working on. Prisma as a distributed participation platform requires the capability to organise action-learning intensives and communicate this from many perspectives. 
 
