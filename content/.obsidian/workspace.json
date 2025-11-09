@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "events/index.md",
+                "file": "processes/process-infrastructuring/propagate/workflow.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "workflow"
             }
           }
         ],
@@ -109,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,14 +220,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a478374d0926040e",
+  "active": "3ba641f7722323ec",
   "lastOpenFiles": [
+    "processes/process-infrastructuring/publishing/docs-writing.mdx",
+    "processes/process-infrastructuring/publishing/docs-writing.md",
+    "events/index.md",
     "collaborators/Facilitators/enacting contract.md",
     "collaborators/participants/developers.md",
     "patterns/case-study.md",
     "processes/process-infrastructuring/publishing/index.md",
     "processes/process-infrastructuring/publishing",
-    "processes/process-infrastructuring/propagate/index.mdx",
     "processes/process-infrastructuring/propagate",
     "processes/index.md",
     "Delfi.md",
@@ -255,8 +256,6 @@
     "collaborators/Facilitators/gound-potentialising.md",
     "collaborators/process-designers/index.md",
     "processes/enrolment/index.md",
-    "processes/enrolment/Negotiating Scope.md",
-    "processes/enrolment/Hub Enrollment Form Design.md",
-    "collaborators/Contracts.md"
+    "processes/enrolment/Negotiating Scope.md"
   ]
 }
