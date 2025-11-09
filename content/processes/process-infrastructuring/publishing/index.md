@@ -4,7 +4,7 @@ sidebarTitle: Publishing
 ---
 # Intro
 [action-learning journeys](/patterns/action-learning%20journeys.md) (ALJs) are a complex system. they can span from [a single event](/events/accra) in a single hub to [a whole network](/events/summit) of inter-connected events across multiple countries. common across all events, they are a process of continuous learning, oriented toward action. 
-|
+
 a [case-study](/patterns/case-study.md) serves the purpose of communicating the particular nature of a given action-learning journey as well as the outcomes and what they mean for the communities involved. 
 
 throughout the entire process of organising and [enacting](/processes/enactment) one of these events, there are multiple forms of data being created, at varying levels of detail and abstraction. 
