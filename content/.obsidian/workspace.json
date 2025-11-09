@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "publishing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,7 +204,7 @@
     "processes/process-infrastructuring/publishing/timelining/setup-onboarding.md",
     "processes/process-infrastructuring/publishing/timelining/cardano.mdx",
     "processes/process-infrastructuring/publishing/index.md",
-    "processes/process-infrastructuring/publishing/docs-writing.mdx",
+    "processes/process-infrastructuring/publishing/docs-setup.mdx",
     "processes/process-infrastructuring/propagate/index.mdx",
     "index.mdx",
     "processes/process-infrastructuring/propagate/workflow.md",
