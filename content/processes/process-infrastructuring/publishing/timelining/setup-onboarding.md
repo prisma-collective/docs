@@ -10,7 +10,7 @@ Before that, however, let's quickly recap why any of this might be of interest.
 
 For the whole-organising and learning process to be seen fully, it must be visible from multiple perspectives. Timelining is one way to make contributing to the overall story as accessible as sending a voice note in a group chat. In this case, the group chat represents the organisational context - one group for each organisation (hub leads, participant teams, facilitators circle etc.). 
 
-The [docs](/processes/process-infrastructuring/publishing/docs-setup) allows for multiple authors to collectively write the story of their groups' journey. Timelining does the same, but with the voice and 10X greater frequency of contributions. With LLMs and RAG, vectorising the voice note transcripts means you (and your [collaborators](/collaborators)) can chat to the process as a whole, inquiring into the [collective learning](/processes/process-infrastructuring/timelining) of a self-organising cohort. 
+The [docs](/processes/process-infrastructuring/publishing/docs-setup) allows for multiple authors to collectively write the story of their groups' journey. Timelining does the same, but with the voice and 10X greater frequency of contributions. With LLMs and RAG, vectorising the voice note transcripts means you (and your [collaborators](/collaborators)) can chat to the process as a whole, inquiring into the [collective learning](/processes/process-infrastructuring/publishing/timelining) of a self-organising cohort. 
 # Full Stack
 To go from the user interface of a telegram group, to the backend, where you can model the data however you like, back to some kind of representation interface (a UI), the following systems are used, in the following order:
 
@@ -28,7 +28,7 @@ To go from the user interface of a telegram group, to the backend, where you can
 5. Neo4j/ graph database
 6. Vectorisation script
 
-So far, the only "front-end" is the Telegram group chat. Additional apps can be created to enable various [evaluation](/processes/evaluation/resourcesAndEvidence/accraCaseStudy/evaluation.md) perspectives, inquiring into the data to surface insights, learnings and outcomes.
+So far, the only "front-end" is the Telegram group chat. Additional apps can be created to enable various [evaluation](/processes/evaluation) perspectives, inquiring into the data to surface insights, learnings and outcomes.
 # Step-by-step Setup
 Let's go through each step to get a minimum viable timelining system up and running.
 

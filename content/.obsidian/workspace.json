@@ -84,13 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9234ef027512c560",
@@ -197,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1737ff67d67897d4",
+  "active": "3ba641f7722323ec",
   "lastOpenFiles": [
     "processes/process-infrastructuring/publishing/timelining/ingest.mdx",
     "processes/process-infrastructuring/publishing/timelining/index.mdx",
