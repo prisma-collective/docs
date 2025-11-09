@@ -59,6 +59,28 @@
         { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
         { "label": "GitHub", "url": "https://github.com/CarlosQ96", "icon": "FaGithub" }
       ]
+    },
+    {
+      "name": "Harding",
+      "role": "Mentor",
+      "photo": "/ekow.jpg",
+      "profile_card_link": "http://linkedin.com/in/ekowharding",
+      "links": [
+        { "label": "Meet", "url": "https://cal.com/ekow-harding-nsshpl/30min", "icon": "FaPhone" },
+        { "label": "LinkedIn", "url": "http://linkedin.com/in/ekowharding", "icon": "FaLinkedinIn" },
+        { "label": "X (Twitter)", "url": "https://x.com/mrharding3", "icon": "FaXTwitter" }
+      ]
+    },
+    {
+      "name": "Abdul",
+      "role": "Mentor",
+      "photo": "/ekow.jpg",
+      "profile_card_link": "https://www.arcaccra.com/ALJ%20Intensive/Teams/Bin%20to%20Cash/Home/",
+      "links": [
+        { "label": "Meet", "url": "https://cal.com/abdulrahman-umar-nqtqwa/15min", "icon": "FaPhone" },
+        { "label": "LinkedIn", "url": "http://www.linkedin.com/in/abdulrahman-umar", "icon": "FaLinkedinIn" },
+        { "label": "GitHub", "url": "https://github.com/AbdulRahman733", "icon": "FaGithub" }
+      ]
     }
   ]
   
