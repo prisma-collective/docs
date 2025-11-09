@@ -35,10 +35,24 @@
             "id": "a478374d0926040e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "events/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -74,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "publishing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,15 +223,17 @@
   },
   "active": "a478374d0926040e",
   "lastOpenFiles": [
+    "collaborators/Facilitators/enacting contract.md",
+    "collaborators/participants/developers.md",
+    "patterns/case-study.md",
+    "processes/process-infrastructuring/publishing/index.md",
+    "processes/process-infrastructuring/publishing",
     "processes/process-infrastructuring/propagate/index.mdx",
     "processes/process-infrastructuring/propagate",
-    "patterns/case-study.md",
-    "processes/process-infrastructuring/publishing.md",
     "processes/index.md",
     "Delfi.md",
     "docs-demo.md",
     "collaborators/Facilitators/index.mdx",
-    "collaborators/participants/developers.md",
     "patterns/action-learning journeys.md",
     "index.mdx",
     "collaborators/communities of place/hub/hub team.md",
@@ -230,11 +247,8 @@
     "collaborators/index.md",
     "Practices/index.mdx",
     "events/resilience.md",
-    "collaborators/Facilitators/enacting contract.md",
     "collaborators/Facilitators/evaluating.md",
     "processes/enactment/2. sense of place.mdx",
-    "processes/enrolment/index.mdx",
-    "processes/enactment/1. learning arcs.mdx",
     "glossary/resourcing.md",
     "processes/enactment/index.md",
     "collaborators/Facilitators/process-infrastructuring.md",

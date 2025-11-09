@@ -11,7 +11,7 @@ Resourcing in the context of Prisma involves the strategic allocation and mobili
    - **Core Facilitator Capacity**: Developing facilitator teams with competencies in [enactment](/processes/enactment), [evaluating](/processes/evaluation) and [process-infrastructuring](/processes/process-infrastructuringx) is essential for guiding action-learning journeys effectively.
 
 3. **Technological Resourcing**  
-   - **Digital Tools**: Utilizing platforms like [Holochain](Holochain) for decentralized governance and [publishing](/processes/process-infrastructuring/publishing.md) engine for knowledge sharing. These tools support the creation of [place](/glossary/Place.md)-sourced digital expressions and facilitate community engagement.
+   - **Digital Tools**: Utilizing platforms like [Holochain](Holochain) for decentralized governance and [index](processes/process-infrastructuring/publishing/index.md) engine for knowledge sharing. These tools support the creation of [place](/glossary/Place.md)-sourced digital expressions and facilitate community engagement.
    - **Bot Arrays**: Implementing bot arrays for event management and real-time feedback loops enhances the efficiency and adaptability of resourcing processes.
 
 4. **Social Resourcing**  

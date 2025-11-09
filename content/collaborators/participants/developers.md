@@ -56,7 +56,7 @@ the extensive onboarding process leading up to an ALJ is the window of time in w
 	2. Requires self-awareness of their context-informed role
 	3. Requires communication and cultivation of mutual interest among the cohort
 7. Confirm attendance, duration, participation requirements and health preferences
-8. Initiation into [participation-as-content-creation practice](/processes/process-infrastructuring/publishing.md)
+8. Initiation into [participation-as-content-creation practice](processes/process-infrastructuring/publishing)
 9. Equipment: laptops/ personal computers/ hub facilities that can be leverages
 10. Identifying trainers and skill capacities
 
