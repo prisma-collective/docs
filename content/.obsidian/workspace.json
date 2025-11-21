@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/process-infrastructuring/publishing/timelining/setup-onboarding.md",
+                "file": "processes/process-infrastructuring/publishing/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "setup-onboarding"
+              "title": "index"
             }
           }
         ]
@@ -195,15 +195,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ba641f7722323ec",
+  "active": "1737ff67d67897d4",
   "lastOpenFiles": [
+    "collaborators/partners/external-evaluators.md",
+    "collaborators/partners/external-evaluators.mdx",
+    "glossary/place-sourced potential.md",
+    "processes/process-infrastructuring/publishing/index.md",
+    "processes/process-infrastructuring/propagate/index.mdx",
+    "processes/process-infrastructuring/publishing/timelining/setup-onboarding.md",
     "processes/process-infrastructuring/publishing/timelining/ingest.mdx",
     "processes/process-infrastructuring/publishing/timelining/index.mdx",
-    "processes/process-infrastructuring/publishing/timelining/setup-onboarding.md",
     "processes/process-infrastructuring/publishing/timelining/cardano.mdx",
-    "processes/process-infrastructuring/publishing/index.md",
     "processes/process-infrastructuring/publishing/docs-setup.mdx",
-    "processes/process-infrastructuring/propagate/index.mdx",
     "index.mdx",
     "processes/process-infrastructuring/propagate/workflow.md",
     "processes/process-infrastructuring/publishing/docs-writing.md",
@@ -220,7 +223,6 @@
     "patterns/action-learning journeys.md",
     "collaborators/communities of place/hub/hub team.md",
     "collaborators/communities of place/hub/hubs.md",
-    "collaborators/communities of place/hub/hubs.mdx",
     "collaborators/communities of practice/practice networks.md",
     "processes/evaluation/index.md",
     "collaborators/participants/scribes.md",
@@ -229,8 +231,6 @@
     "collaborators/Facilitators/evaluating.md",
     "glossary/resourcing.md",
     "processes/enactment/index.md",
-    "collaborators/Facilitators/process-infrastructuring.md",
-    "collaborators/Facilitators/gound-potentialising.md",
-    "collaborators/process-designers/index.md"
+    "collaborators/Facilitators/process-infrastructuring.md"
   ]
 }
