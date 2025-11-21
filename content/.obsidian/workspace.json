@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "071390e1bb43f9e3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1737ff67d67897d4",
+  "active": "071390e1bb43f9e3",
   "lastOpenFiles": [
     "collaborators/partners/external-evaluators.md",
     "collaborators/partners/external-evaluators.mdx",
