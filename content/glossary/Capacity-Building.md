@@ -4,7 +4,7 @@
 
 # Capacity-Building as Enactment in Systems Change
 
-In the [bioregional](bioregional) systems evolution and **Web3 civic infrastructure** work Prisma is committed to, capacity-building is not just about skill acquisition. It ties into the concept of [enactment](enactment), where participants engage in the ongoing process of **co-creating and evolving systems**. This is a [practice-based](practice-based) approach where participants aren't merely learning pre-defined methods but are developing the capacity to [self-organize](self-organize), adapt, and innovate in complex, living systems.
+In the [bioregional](/glossary/bioregion) work Prisma is committing to, capacity-building is not just about skill acquisition. It ties into the concept of [enactment](/processes/enactment), where participants engage in the ongoing process of **co-creating and evolving systems**. This is a [practice-based](/glossary/Practice) approach where participants aren't merely learning pre-defined methods but are developing the capacity to self-organise, adapt, and innovate in complex, living systems.
 
 # Building Collective Intelligence
 
