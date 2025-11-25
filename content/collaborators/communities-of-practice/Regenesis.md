@@ -1,13 +1,15 @@
-it's important to remember when reading the page for [practice networks](/collaborators/communities-of-practice/practice-networks.md) that a high proportion of the thinking behind how this project has originated comes from co-designing with Regenesis. 
+# Background to our Collaboration
+Prisma originated during a process of co-designing with the Regenesis Institute. They required (and still do) a platform to make visible their network activity, through case-studies of regenerative design and development being applied in the real world.
 
-implicit within much of the designing described in [practice networks](/collaborators/communities-of-practice/practice-networks.md) is that this is tailored to and in service of the regenesis story of place program, set to launch in fall 2025. the [action-learning journeys](/patterns/action-learning%20journeys.md) referred to in [practice networks](/collaborators/communities-of-practice/practice-networks.md) as general events are in fact, in the Regenesis context, a carefully considered meeting of two worlds at a precisely timed moment within a larger evolutionary trajectory. 
+Two key design constraints were...
 
-![communicating-al.png](/communicating-al.png)
+1. that the platform as a whole must have the capability to self-evolve, and
+2. that the platform must be able to serve place-unique development pathways.
 
-this meeting of two worlds - on the one hand, regenerative [practice](/glossary/Practice.md), and, on the other, software development - begins with the premise that in order for the quality of each practitioner-group's work to be justly reflected in a case study, on a digital platform, the software development cannot take place as a process entirely dissociated from the context of the work itself. 
+In order to address these design constraints, the choice was made to make the build process of the platform itself distributed. Prisma evolved from a platform concept to a startup, where the team that formed began dedicating themselves to designing processes for organising participatory events called Action-Learning Journeys. These action-learning journeys, organised and facilitated by Prisma, create the conditions for teams on the ground to identify and start working on regionally-grounded whole-system transition pathways. A key characteristic of these events are the synthesis of practice and technology to create instruments of change. 
 
-more broadly, that it's unlikely to be able to reflect "the difference that makes the difference" of the approach of regenerative development and design, by utilising existing, often purely functional, software tooling. there is a need for a community publishing platform built from living systems principles.
+Now, Prisma has applied these incubation methodologies in a variety of contexts and scales, in close partnership with Wada, who have been there from the beginning. 
 
-![developmental-case-studies.png](/developmental-case-studies.png)
+The nature of work of Wada and Regenesis have many parallels, because both are a non-local network of local, on-the-ground activity. This interrelationship between two distinct levels of systems creates a dynamic that is exactly what Prisma is built for: enabling a more-than-local network to express itself. However, a key difference is that Wada is at home in web3, whereas Regenesis and its network is generally not onboarded to web3, and instead work as regenerative practitioners in many different fields in different roles. 
 
-thus, the creative tension was introduced: how to reconcile the need to serve a globally distributed community of practice in communicating their work, where each practitioner is working to realise [place](/glossary/Place.md)-sourced potential in their own context, in their own way, without flattening, reducing, or homogenising the communication process, results, and effects? thus, a [process design collective](/glossary/Process%20Design%20Collective.md) is forming in response to this inquiry.
+One way to describe the commonality of this network's activity is that its members are working on (or intend to) ecological transition initiatives, hence the language above of "whole-system transition pathways." Therefore, although Regenesis itself is a small organisation, its globally-distributed network spans a vast surface area of sectors with its members working on deep systemic shifts, often taking shape as multi-million dollar projects. 
