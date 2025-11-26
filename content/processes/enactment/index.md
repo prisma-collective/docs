@@ -12,9 +12,9 @@ asIndexPage: true
 
 ![enacting](/enacting.png)
 
-what is the potential of unfolding the [potential](potential) of a place through its community of [practice](/glossary/Practice.md)?
+what is the potential of unfolding the [potential](/glossary/place-sourced%20potential) of a place through its community of [practice](/glossary/Practice.md)?
 
-each community has to ask itself some questions, such as (borrowed from the [Regenesis and Wada](collaborators/communities-of-practice/Regenesis%20and%20Wada.md) frameworks):
+each community has to ask itself some questions, such as (borrowed from the [Regenesis](/collaborators/communities-of-practice/Regenesis%20and%20Wada.md) frameworks):
 
 1. What is the inherent potential of this [place](/glossary/Place.md)?
 2. How can we be of service to it?

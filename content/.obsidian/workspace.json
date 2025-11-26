@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/process-infrastructuring/publishing/index.md",
+                "file": "processes/enactment/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "071390e1bb43f9e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "collaborators/communities-of-practice/Regenesis and Wada.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Regenesis and Wada"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,12 +196,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "071390e1bb43f9e3",
+  "active": "1737ff67d67897d4",
   "lastOpenFiles": [
+    "processes/process-infrastructuring/publishing/index.md",
+    "collaborators/communities-of-practice/Regenesis and Wada.md",
     "collaborators/partners/external-evaluators.md",
     "collaborators/partners/external-evaluators.mdx",
     "glossary/place-sourced potential.md",
-    "processes/process-infrastructuring/publishing/index.md",
     "processes/process-infrastructuring/propagate/index.mdx",
     "processes/process-infrastructuring/publishing/timelining/setup-onboarding.md",
     "processes/process-infrastructuring/publishing/timelining/ingest.mdx",
