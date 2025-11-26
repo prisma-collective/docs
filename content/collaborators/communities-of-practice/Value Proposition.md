@@ -5,5 +5,7 @@
 
 ---
 
-These kinds of networks face the challenge of high levels of complexity. Almost all digital tooling has been built from a mechanistic design paradigm, for volume of users. Instead, we are taking an approach that stands in stark contrast: we recognise that each place is a unique and complex living system, made with an innumerable web of interrelated processes in constant evolution. 
+Cardano's framing as the blockchain for enterprise makes the case that the time has come to move beyond technical intricacies to broad-scale adoption, oftentimes with the underlying technology itself stepping more into the background to make space for more familiar value-proposition narratives. 
+
+This applies to a variety of sectors, as is evidenced by the variety of panel talks at the last summits. Cardano is proving out its utility across a diversity of use-cases. However, many growth initiatives still come from within the ecosystem, trying to break into traditional markets, create entirely new ones, or migrate legacy systems. All of these approaches come from a perspective of seeing Cardano as something separate. In this proposal, we put forwards the case for starting from purpose, from which Cardano is one key enabling capability within a larger mutually beneficial partnership effort. 
 
