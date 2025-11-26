@@ -1,3 +1,7 @@
+---
+sidebarTitle: Regenesis and Wada
+---
+
 Prisma originated during a process of co-designing with the Regenesis Institute, an education institution that has been working on growing the field of Regenerative Design and Development for over 25 years. They required a platform to make visible their network activity, through case-studies of regenerative design and development being applied in the real world.
 
 Two key design constraints were...
