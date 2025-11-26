@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collaborators/communities-of-practice/Value Proposition.md",
+                "file": "collaborators/communities-of-practice/copr-value-prop.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Value Proposition"
+              "title": "copr-value-prop"
             }
           }
         ]
@@ -195,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1737ff67d67897d4",
+  "active": "3ba641f7722323ec",
   "lastOpenFiles": [
     "collaborators/communities-of-practice/Regenesis and Wada.md",
-    "collaborators/communities-of-practice/Value Proposition.md",
+    "collaborators/communities-of-practice/copr-value-prop.md",
     "Untitled",
     "processes/enactment/index.md",
     "processes/process-infrastructuring/publishing/index.md",
