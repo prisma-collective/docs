@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/enactment/index.md",
+                "file": "collaborators/communities-of-practice/Value Proposition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Value Proposition"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9234ef027512c560",
@@ -198,8 +197,11 @@
   },
   "active": "1737ff67d67897d4",
   "lastOpenFiles": [
-    "processes/process-infrastructuring/publishing/index.md",
     "collaborators/communities-of-practice/Regenesis and Wada.md",
+    "collaborators/communities-of-practice/Value Proposition.md",
+    "Untitled",
+    "processes/enactment/index.md",
+    "processes/process-infrastructuring/publishing/index.md",
     "collaborators/partners/external-evaluators.md",
     "collaborators/partners/external-evaluators.mdx",
     "glossary/place-sourced potential.md",
@@ -221,7 +223,6 @@
     "processes/index.md",
     "Delfi.md",
     "docs-demo.md",
-    "collaborators/Facilitators/index.mdx",
     "patterns/action-learning journeys.md",
     "collaborators/communities of place/hub/hub team.md",
     "collaborators/communities of place/hub/hubs.md",
@@ -231,8 +232,6 @@
     "collaborators/index.md",
     "events/resilience.md",
     "collaborators/Facilitators/evaluating.md",
-    "glossary/resourcing.md",
-    "processes/enactment/index.md",
-    "collaborators/Facilitators/process-infrastructuring.md"
+    "glossary/resourcing.md"
   ]
 }
