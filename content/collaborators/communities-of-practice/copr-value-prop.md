@@ -38,4 +38,4 @@ These two results show two sides of the same equation: on one side, the very imm
 # Launching a Full-stack Distributed Incubator
 This proposal is being made to resource the work of connecting the different pieces of the puzzle and organising a series of resourced events, with one network, dedicated to this aim. The conditions that make this a very strong and timely opportunity are the preparatory work with Wada, the close partnership with Regenesis, and how the two can work together, which will be detailed now. 
 
-As mentioned in the category 
+As mentioned in the category questions, Regenesis is web2 and Wada is web3. We would frame this programme as the formalisation of partnership and an opportunity to weave these two networks together, first setting up the incubator infrastructure in Wada, whilst onboarding Regenesis to web3, and setting the foundation to then carry out the same work with Regenesis immediately after. 
