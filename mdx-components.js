@@ -3,6 +3,7 @@ import ContributorChart from '@/components/ContributorChart';
 import AspectsWithPrisma from '@/components/AspectsWithPrisma';
 import StandardButton from '@/components/StandardButton';
 import TeamCards from '@/components/TeamCards';
+import CustomTeamCards from '@/components/CustomTeamCards';
 import ActiveJourneyDisplay from '@/components/ActiveJourneyDisplay';
 import CohortCards from '@/components/CohortCards';
 import { EventCard } from '@/components/EventCard';
@@ -26,6 +27,7 @@ export function useMDXComponents(components) {
     AspectsWithPrisma,
     StandardButton,
     TeamCards,
+    CustomTeamCards,
     ActiveJourneyDisplay,
     CohortCards,
     EventCard,

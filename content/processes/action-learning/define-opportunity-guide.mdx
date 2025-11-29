@@ -1,0 +1,204 @@
+---
+title: Define Opportunity Guide
+sidebarTitle: Define Opportunity
+description: How to explore solution options and select the best approach
+---
+
+# Define Opportunity: Solution Selection Guide
+
+**Define Opportunity** is **Quadrant 4** of the action-learning methodology. This is where you explore multiple solution options, evaluate feasibility, and justify your chosen approach.
+
+## What is "Defining the Opportunity"?
+
+**Opportunity = The best solution approach given your constraints and context**
+
+- Not just picking the first idea
+- Exploring multiple options systematically
+- Evaluating trade-offs
+- Justifying your choice with evidence
+
+## The Process
+
+### Step 1: Brainstorm Multiple Solutions
+
+**Rule: Generate 3-5 different solution options**
+
+Don't stop at your first idea. Consider:
+- Low-tech vs. high-tech approaches
+- Digital vs. physical solutions
+- Individual vs. collective action
+- Incremental vs. transformative change
+
+**Example Problem:** Market traders can't save money
+
+**Solution Options:**
+1. Mobile savings app with daily micro-deposits
+2. Physical savings boxes with community accountability
+3. Partnership with existing SACCOs (savings groups)
+4. Blockchain-based transparent savings registry
+5. SMS-based savings tracking with manual verification
+
+### Step 2: Define Evaluation Criteria
+
+**What matters for choosing a solution?**
+
+Common criteria:
+- **Feasibility** - Can we build this in 1-2 weeks?
+- **Impact** - How many people does it help? How much?
+- **Sustainability** - Will it work after the hackathon?
+- **Cost** - Can target users afford it?
+- **Adoption** - Will people actually use it?
+- **Technical Complexity** - Do we have the skills?
+
+**Choose 4-6 criteria relevant to your problem.**
+
+### Step 3: Score Each Option
+
+Create a scoring matrix:
+
+| Solution Option | Feasibility (1-10) | Impact (1-10) | Sustainability (1-10) | Adoption (1-10) | **Total** |
+|-----------------|-------------------|---------------|----------------------|----------------|-----------|
+| Mobile app | 7 | 9 | 6 | 5 | 27 |
+| Physical boxes | 9 | 6 | 8 | 9 | 32 |
+| SACCO partnership | 5 | 8 | 9 | 7 | 29 |
+| Blockchain registry | 3 | 7 | 8 | 4 | 22 |
+| SMS tracking | 8 | 7 | 7 | 8 | 30 |
+
+**Note:** Scores are subjective but force you to think through trade-offs.
+
+### Step 4: Consider Hybrid Approaches
+
+**Can you combine the best elements of multiple options?**
+
+**Example Hybrid:**
+- SMS-based tracking (high adoption, low-tech)
+- + Physical savings boxes (trust, community accountability)
+- + Blockchain registry (transparency, verifiable records)
+- = **SMS + Physical + Blockchain hybrid**
+
+### Step 5: Prototype Feasibility Check
+
+**Reality Check Questions:**
+- Can we build this in 1-2 weeks?
+- Do we have required technical skills?
+- Can we test it with real users?
+- What's the MVP (minimum viable version)?
+
+**If answer is "No" to any:** Simplify or pivot to different option.
+
+## Documentation Format
+
+On your team page (`/team/[your-team]/define-opportunity`), include:
+
+### 1. Solution Options Explored
+List 3-5 options with brief descriptions
+
+### 2. Evaluation Criteria
+Define 4-6 criteria with rationale
+
+### 3. Scoring Matrix
+Table showing how each option scores
+
+### 4. Selected Solution
+Which option you chose and **why**
+
+### 5. Trade-offs Acknowledged
+What you're sacrificing and why it's worth it
+
+### 6. MVP Scope
+What you'll build for the hackathon
+
+## Quality Checklist
+
+✅ 3-5 distinct solution options explored  
+✅ Evaluation criteria defined  
+✅ Scoring matrix completed  
+✅ Selection justified with evidence  
+✅ Trade-offs explicitly acknowledged  
+✅ MVP scope realistic for 1-2 weeks  
+✅ Validation plan included  
+
+## Common Mistakes
+
+❌ **Only One Option** - "We only considered an app"  
+❌ **Solution Lock-in** - Deciding before exploring alternatives  
+❌ **Ignoring Feasibility** - "We'll build a full blockchain platform in 2 weeks"  
+❌ **Copying Existing Products** - "We'll build another Uber/Airbnb"  
+❌ **No Justification** - "We picked this because we like it"  
+
+## Example: Good vs. Bad Opportunity Definition
+
+### ❌ Bad Example
+*"We're building a mobile app because apps are modern and everyone has phones. It will use AI and blockchain."*
+
+**Problems:** No alternative exploration, buzzword-driven, no feasibility check
+
+### ✅ Good Example
+*"We explored 5 options: (1) full mobile app, (2) SMS-based, (3) USSD, (4) physical kiosks, (5) WhatsApp bot. Evaluation criteria: feasibility (score 1-10), adoption likelihood (1-10), sustainability (1-10). WhatsApp bot scored highest (8, 9, 7 = 24) because: already familiar interface, no app download required, works on feature phones. Trade-off: less control over UX. MVP: Bot that tracks daily deposits via text commands, sends weekly summaries, stores data in Google Sheets."*
+
+**Strengths:** Multiple options, clear criteria, justified choice, realistic MVP
+
+## Advanced: Cardano Integration Decision
+
+**Should you use blockchain?**
+
+Use this framework:
+
+**Good Fit (Consider Cardano):**
+- ✅ Need transparency (donations, supply chain)
+- ✅ Need trust without central authority
+- ✅ Handling value transfer (payments, tokens)
+- ✅ Immutable records required (certifications, proofs)
+
+**Poor Fit (Don't Use Cardano):**
+- ❌ Simple CRUD app (use regular database)
+- ❌ Need fast iteration (blockchain adds complexity)
+- ❌ Data should be deletable (GDPR, privacy)
+- ❌ Only 1-2 weeks to build
+
+[Full Cardano Integration Guide →](/processes/cats-hackathon/cardano-integration)
+
+## Decision Framework
+
+```
+┌─────────────────────────────────┐
+│  Is this technically feasible   │
+│  in 1-2 weeks with our skills?  │
+└────────────┬────────────────────┘
+             │ YES
+             ▼
+┌─────────────────────────────────┐
+│  Will target users actually     │
+│  adopt this solution?            │
+└────────────┬────────────────────┘
+             │ YES
+             ▼
+┌─────────────────────────────────┐
+│  Does it address the validated  │
+│  problem from Quadrants 1-3?    │
+└────────────┬────────────────────┘
+             │ YES
+             ▼
+┌─────────────────────────────────┐
+│  Is it better than alternative  │
+│  options we considered?          │
+└────────────┬────────────────────┘
+             │ YES
+             ▼
+        BUILD IT! 🚀
+```
+
+## Moving Forward
+
+Once you've defined your opportunity:
+
+1. **Document thoroughly** on your team page
+2. **Get mentor feedback** (Dec 6 workshop)
+3. **Finalize MVP scope**
+4. **Begin building** (Phase 6: Build Sprint)
+
+[Phase 6: Build Sprint →](/processes/cats-hackathon/phase-6-build-sprint)
+
+---
+
+**Remember:** The best solution isn't always the fanciest. It's the one that actually works for your target users within your constraints.

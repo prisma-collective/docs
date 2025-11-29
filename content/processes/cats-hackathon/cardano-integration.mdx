@@ -1,0 +1,351 @@
+---
+title: Cardano Integration Guide
+sidebarTitle: Cardano Integration
+description: Technical guidance for integrating Cardano blockchain into CATS Hackathon projects
+---
+
+# Cardano Integration Guide
+
+The CATS Hackathon is supported by the Cardano ecosystem, and teams are **encouraged** (but not required) to explore blockchain integration where it adds genuine value to their solutions.
+
+## Important Principle
+
+> **Build What Matters First, Then Consider Cardano**
+
+Don't force blockchain into your solution. If your validated community problem can be better solved without blockchain, that's perfectly acceptable.
+
+## When Cardano Makes Sense
+
+### Good Use Cases ✅
+
+Cardano blockchain is well-suited for:
+- **Transparency needs** - Making processes auditable and verifiable
+- **Trust issues** - Where intermediaries are problematic
+- **Digital identity** - Verifiable credentials and decentralized IDs
+- **Financial inclusion** - Micropayments, remittances, lending
+- **Supply chain tracking** - Provenance and authenticity
+- **Voting and governance** - Transparent decision-making
+- **Tokenized incentives** - Reward systems and community currencies
+
+### Poor Use Cases ❌
+
+Avoid forcing Cardano for:
+- **Simple databases** - If you just need to store/retrieve data
+- **Speed-critical apps** - Where blockchain latency is problematic
+- **Free services** - If users can't/won't pay transaction fees
+- **Centralized control** - If a central authority is acceptable
+- **Marketing hype** - "Blockchain" for the sake of buzzwords
+
+## Cardano Basics
+
+### What is Cardano?
+
+- **Proof-of-Stake blockchain** - Energy-efficient consensus
+- **Smart contract platform** - Programmable blockchain logic
+- **ADA cryptocurrency** - Native digital currency
+- **Multi-asset support** - Create custom tokens
+- **Research-driven** - Peer-reviewed academic foundation
+
+### Key Capabilities
+
+1. **Smart Contracts (Plutus)**
+   - Write contracts in Haskell or PlutusTx
+   - Formal verification possible
+   - UTXO-based model (different from Ethereum)
+
+2. **Native Tokens**
+   - Create tokens without smart contracts
+   - No gas fees for holding tokens
+   - Simpler than ERC-20
+
+3. **Metadata**
+   - Attach arbitrary data to transactions
+   - Useful for certificates, records, attestations
+
+4. **Decentralized Identity (DID)**
+   - Verifiable credentials
+   - Self-sovereign identity solutions
+
+## Getting Started
+
+### Phase 1-4: Research Phase
+
+**Don't code yet.** Instead:
+- Validate your problem through community research
+- Identify if trust/transparency is part of the problem
+- Research how other projects use blockchain for similar problems
+- Sketch high-level architecture
+
+### Phase 5: Prototyping Workshop (Dec 6)
+
+**This is when you'll get Cardano guidance:**
+- Mentors will be available to discuss integration feasibility
+- Bring your problem statement and proposed solution
+- Get feedback: "Should we use Cardano? How?"
+- Make informed decision based on mentor input
+
+### Phase 6-7: Build Sprint
+
+**If integrating Cardano:**
+- Start with testnet (not mainnet)
+- Use existing tools and libraries
+- Focus on core features first
+- Blockchain integration can be simulated if time-limited
+
+## Technical Resources
+
+### Development Tools
+
+**Wallets:**
+- **Nami** - Browser extension wallet
+- **Eternl** - Full-featured wallet
+- **Typhon** - Developer-friendly wallet
+
+**Development Frameworks:**
+- **Plutus** - Native smart contract language (Haskell-based)
+- **Aiken** - Modern smart contract language
+- **Marlowe** - Financial contract DSL
+- **Lucid** - JavaScript/TypeScript library for Cardano
+
+**APIs & Services:**
+- **Blockfrost** - REST API for Cardano data
+- **Koios** - Decentralized API layer
+- **Cardano GraphQL** - Query blockchain data
+
+**Testnets:**
+- **Preprod** - Primary testnet for development
+- **Preview** - Testnet for protocol upgrades
+- **Free test ADA** - Get from faucets
+
+### Learning Resources
+
+**Official Documentation:**
+- [Cardano Developer Portal](https://developers.cardano.org/)
+- [Plutus Pioneer Program](https://plutus-pioneer-program.readthedocs.io/)
+- [Aiken Documentation](https://aiken-lang.org/)
+
+**Tutorials:**
+- [Build on Cardano](https://docs.cardano.org/developer-resources/)
+- [Cardano Stack Exchange](https://cardano.stackexchange.com/)
+- [Gimbalabs](https://gimbalabs.com/) - Community learning platform
+
+**Community:**
+- Cardano Discord
+- Cardano Stack Exchange
+- r/CardanoDevelopers
+- IOG Technical Community
+
+## Common Integration Patterns
+
+### Pattern 1: Simple Transaction Metadata
+
+**Use case:** Store proof of an event on-chain
+
+**Example:** Certificate issuance, document timestamps
+
+**Complexity:** ⭐ Low  
+**Cost:** ~ 0.17 ADA per transaction  
+**Time to implement:** 1-2 days
+
+```javascript
+// Pseudo-code example
+const metadata = {
+  certificate: {
+    recipient: "John Doe",
+    course: "Blockchain Basics",
+    date: "2024-12-13",
+    hash: "abc123..."
+  }
+};
+
+await sendTransaction({
+  recipient: userAddress,
+  amount: "1 ADA",
+  metadata: metadata
+});
+```
+
+### Pattern 2: Native Tokens
+
+**Use case:** Community currency, loyalty points, access tokens
+
+**Example:** Reward system for community participation
+
+**Complexity:** ⭐⭐ Medium  
+**Cost:** ~ 2 ADA to mint + fees  
+**Time to implement:** 2-4 days
+
+### Pattern 3: Simple Smart Contract
+
+**Use case:** Escrow, conditional payments, basic logic
+
+**Example:** Micropayment escrow for freelance work
+
+**Complexity:** ⭐⭐⭐ High  
+**Cost:** Variable (testing on testnet is free)  
+**Time to implement:** 5-10 days
+
+**Recommended:** Use Aiken for faster development than Plutus
+
+### Pattern 4: Off-Chain + On-Chain Hybrid
+
+**Use case:** Most app logic off-chain, blockchain for key checkpoints
+
+**Example:** App tracks activities, blockchain records final achievements
+
+**Complexity:** ⭐⭐ Medium  
+**Cost:** Minimal (only critical transactions on-chain)  
+**Time to implement:** 3-7 days
+
+**This is often the best approach for hackathons!**
+
+## Hackathon-Friendly Approach
+
+### Recommended Strategy
+
+**Week 1-5:** Focus entirely on problem validation (no Cardano coding)
+
+**Week 6 (Dec 6):** Get mentor feedback on integration feasibility
+
+**Week 7 (Dec 7-12):** 
+- **Option A (Ambitious):** Build real Cardano integration
+- **Option B (Pragmatic):** Build app with "Cardano-ready" architecture
+- **Option C (Simulated):** Mock blockchain calls, demonstrate concept
+
+**Week 8 (Dec 13):** Demo showing either working integration or clear integration plan
+
+### Evaluation Expectations
+
+Judges understand hackathon time constraints. They'll look for:
+- ✅ **Clear use case** - Why Cardano makes sense for your solution
+- ✅ **Technical understanding** - You know how it would work
+- ✅ **Architecture design** - Integration plan even if not fully implemented
+- ✅ **Feasibility** - Realistic about complexity and timeline
+
+You won't be penalized for not having full blockchain integration if you demonstrate understanding and plan.
+
+## Getting Help
+
+### During Prototyping Workshop (Dec 6)
+
+- **Cardano mentors** will be available
+- Bring your solution design
+- Ask: "Does Cardano fit? How?"
+- Get technical direction
+
+### During Build Sprint (Dec 7-12)
+
+- **Technical support** via Telegram
+- **Office hours** with mentors (schedule TBA)
+- **Community resources** - Cardano Discord
+- **Next Trend Hub** can connect you with Cardano developers
+
+### Common Questions
+
+**Q: Do we have to use Cardano?**  
+A: No. Use it if it genuinely improves your solution. Don't force it.
+
+**Q: Can we use other blockchains?**  
+A: Cardano is preferred (hackathon sponsored by Cardano ecosystem), but not strictly required.
+
+**Q: What if we don't have blockchain experience?**  
+A: Start simple. Use metadata or native tokens. Mentors will guide you.
+
+**Q: Do we deploy to mainnet?**  
+A: No. Use testnet for hackathon. Mainnet only if you continue post-event.
+
+**Q: Where do we get test ADA?**  
+A: Testnet faucets:
+- [Testnets Faucet](https://docs.cardano.org/cardano-testnet/tools/faucet/)
+- [Preprod Faucet](https://faucet.preprod.world.dev.cardano.org/)
+
+## Code Examples
+
+### Example 1: Simple Metadata Transaction (Lucid)
+
+```javascript
+import { Lucid, Blockfrost } from "lucid-cardano";
+
+const lucid = await Lucid.new(
+  new Blockfrost("https://cardano-preprod.blockfrost.io/api/v0", "YOUR_API_KEY"),
+  "Preprod"
+);
+
+lucid.selectWallet(/* your wallet */);
+
+const tx = await lucid
+  .newTx()
+  .payToAddress("addr_test1...", { lovelace: 2000000n })
+  .attachMetadata(674, { 
+    msg: ["Certificate issued to John Doe"]
+  })
+  .complete();
+
+const signedTx = await tx.sign().complete();
+const txHash = await signedTx.submit();
+
+console.log(`Transaction submitted: ${txHash}`);
+```
+
+### Example 2: Minting a Native Token (Lucid)
+
+```javascript
+const { paymentCredential } = lucid.utils.getAddressDetails(
+  await lucid.wallet.address()
+);
+
+const mintingPolicy = lucid.utils.nativeScriptFromJson({
+  type: "all",
+  scripts: [
+    { type: "sig", keyHash: paymentCredential.hash },
+    {
+      type: "before",
+      slot: lucid.utils.unixTimeToSlot(Date.now() + 1000000),
+    },
+  ],
+});
+
+const policyId = lucid.utils.mintingPolicyToId(mintingPolicy);
+
+const tx = await lucid
+  .newTx()
+  .mintAssets({ [policyId + "CommunityToken"]: 1000n })
+  .attachMintingPolicy(mintingPolicy)
+  .complete();
+
+const signedTx = await tx.sign().complete();
+const txHash = await signedTx.submit();
+```
+
+##  Best Practices
+
+1. **Start Simple** - Metadata before smart contracts
+2. **Test Extensively** - Use testnet liberally
+3. **Handle Errors** - Blockchain calls can fail
+4. **User Experience** - Wallet connection should be smooth
+5. **Documentation** - Explain your blockchain integration clearly
+
+## Post-Hackathon
+
+If you win and want to deploy to mainnet:
+- **Security audit** - Have contracts reviewed
+- **Mainnet testing** - Start with small amounts
+- **User education** - Teach users about wallets and fees
+- **Gradual rollout** - Don't launch to thousands immediately
+
+---
+
+## Need Cardano Support?
+
+- Tag @cardano-mentors in Telegram
+- Ask in weekly check-in calls
+- Request 1-on-1 mentor session
+- Check Cardano Developer Portal
+
+**Remember:** Cardano is a tool. Focus on solving real problems first, then apply the right tool for the job.
+
+[Back to Hackathon Overview](/processes/cats-hackathon) | [View Technical Resources](https://developers.cardano.org/)
+
+---
+
+*Next Trend Hub | CATS Hackathon | Cardano Integration Support*
