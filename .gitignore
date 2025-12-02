@@ -5,3 +5,5 @@ content/.obsidian
 _pagefind/
 .env*
 scripts/*.json
+.claude
+.vscode
