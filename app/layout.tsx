@@ -11,6 +11,7 @@ import { FaXTwitter } from "react-icons/fa6";
 import { FaTelegramPlane, FaGithub } from "react-icons/fa";
 import { BsCalendarWeek } from "react-icons/bs";
 import { ActiveJourneyProvider } from '@/contexts/ActiveJourneyContext'
+import { isValidLocale, DEFAULT_LOCALE, getLangAttribute } from '@/app/utils/i18n'
 
 const iconClasses = "w-5 h-5 text-gray-600 dark:text-gray-400 transition-all duration-300 hover:scale-110"
 const hoverColorClasses = [
@@ -23,6 +24,23 @@ const hoverColorClasses = [
 type IconProps = React.SVGProps<SVGSVGElement>;
 
 const getRandomHoverColor = () => hoverColorClasses[Math.floor(Math.random() * hoverColorClasses.length)];
+
+/**
+ * Filter page map to only show content from the current locale
+ * This removes the locale folder structure from navigation, showing only the locale's content
+ */
+function filterPageMapByLocale(pageMap, currentLocale) {
+  // Find the locale folder item in the page map
+  const localeItem = pageMap.find(item => item.name === currentLocale)
+
+  // If locale item exists and has children, use those as the root navigation
+  if (localeItem && localeItem.children) {
+    return localeItem.children
+  }
+
+  // Fallback to original page map if locale not found
+  return pageMap
+}
 
 const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
   <svg
@@ -89,6 +107,22 @@ const navbar = (
 
 const footer = <Footer>Prisma © {new Date().getFullYear()}</Footer>
 
+/**
+ * Extract locale from URL path
+ */
+function extractLocale(mdxPath?: string[]) {
+  if (!mdxPath || mdxPath.length === 0) {
+    return DEFAULT_LOCALE
+  }
+
+  const firstSegment = mdxPath[0]?.toLowerCase()
+  if (isValidLocale(firstSegment)) {
+    return firstSegment
+  }
+
+  return DEFAULT_LOCALE
+}
+
 export default async function RootLayout({
   children,
   params,
@@ -96,10 +130,12 @@ export default async function RootLayout({
   children: ReactNode;
   params: { mdxPath?: string[] };
 }) {
+  const locale = extractLocale(params.mdxPath)
+  const langAttribute = getLangAttribute(locale)
   const metadata = await generateMetadata({ params }); // Generate dynamic metadata
 
   return (
-    <html lang="en" dir="ltr" suppressHydrationWarning>
+    <html lang={langAttribute} dir="ltr" suppressHydrationWarning>
       <Head>
         <title>{metadata.title}</title>
         <meta name="description" content={metadata.description} />
@@ -119,7 +155,7 @@ export default async function RootLayout({
       <body>
         <Layout
           navbar={navbar}
-          pageMap={await getPageMap()}
+          pageMap={filterPageMapByLocale(await getPageMap(), locale)}
           docsRepositoryBase="https://github.com/prisma-collective/docs"
           footer={footer}
           sidebar={{ autoCollapse: true, defaultMenuCollapseLevel: 1 }}

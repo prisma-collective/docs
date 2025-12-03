@@ -1,0 +1,107 @@
+---
+
+sidebarTitle: Wizard
+
+---
+
+<AppGrid />
+
+# DeployStack Orchestration UI — Technical Specification
+
+## Context
+
+Prisma onboards people into [process-domains](/processes) (literal subdomains.prisma.events) for the organising and facilitation of [transformation-oriented events](/patterns/action-learning%20journeys.md) in the [systems-change](/glossary/Place.md) space. 
+
+The image below shows the forecasted dynamics of on-boarding regional [hubs](/collaborators/communities-of-place/hub.md) into publishing [case-studies](/patterns/case-study.md) of systems-change in real-world contexts. 
+
+![deck_subscription_forecasting](/deck_subscription_forecasting.png)
+
+Below are listed the apps to be deployed by 
+
+1. ENROLMENT — Event registration is facilitated by bespoke forms, co-designed with communities of place to enrol different stakeholder types into a multi-month alignment process. Forms are made in a [no-code form-builder](https://www.tally.so) for accessibility, but deployed on [event-specific infrastructure](https://register.prisma.events), with a [hub](/collaborators/communities-of-place/hub/hubs.md) subscription, starting at [$20/mo](https://pitch.prisma.events/25).
+
+2. CASE — Docs needs 
+
+   a. your favourite markdown editor client like obsidian, and \[list second brain apps\], for non-coders to write wiki, and 
+   b. a friendly reminder to "add custom JSX components to show live data in your [MDX](https://mdxjs.com/) files" for developers
+
+3. [EVALUATION](/processes/evaluation) — [Timelining](/processes/process-infrastructuring/timelining) is p [cool](https://evaluate.prisma.events). We came last in a an ideathon organised by [singularitynet.io](https://www.singularitynet.io)'s [DeepFunding](https://blog.singularitynet.io/results-of-deep-funding-round-1-5aa37df06749) and then built it anyway because we needed it in [Accra](https://drive.google.com/file/d/1fzUZRogiaHPHm-Bb0AyyFrYakpCu8j43/view?usp=sharing). This is an example of a custom integration instance, for layer 3 of a [case-study](/patterns/case-study).
+
+4. [ENACTION](/processes/enactment) — Enact has a basic form -> to message queue -> to [list](https://enact.prisma.events) stack, which can be used to engage non-technical people in "contracts" (once we make it on-chain) - used for real-time governance (like what we try to incubate in an [ALJ](/patterns/action-learning%20journeys.md)). Think emergent learning, action-oriented... after several months of aligning multiple stakeholders at multiple levels of systems. 
+
+5. [POTENTIALISING](https://potentialise.prisma.events) — Propagating that whole stack to a hub as a case-study publishing template/ scaffold, while being self-enclosed, relatively open-source, and driven by emergent learning, coming from on-the-ground action. As we're doing for [Nairobi](https://potentialise.prisma.events).
+
+
+## Purpose
+
+To build a minimal, elegant front-end interface for deploying a preconfigured suite of event-related applications (`register`, `docs`, `evaluation`, `enact`) using the Vercel and GitHub APIs. This app acts as a guide for configuring, provisioning, and deploying the full event stack on a client-specific domain.
+
+## Tech Stack
+
+- **Framework:** Next.js 14+ with App Router
+- **Styling:** TailwindCSS (black background, white content area)
+- **State Management:** Zustand (ephemeral, in-session state)
+- **Forms:** React Hook Form + Zod (validation schema)
+- **Deployment Targets:** Vercel (client-owned or partner-owned accounts)
+- **Git Operations:** GitHub API (fork workflow only - no clone)
+- **UI Patterns:** Multi-step progress with a top progress bar and full-screen staged layouts
+
+## Workflow: 5 Stages, 5 Routes
+
+Note: `ground_code` has been used to indicate [Hub](/collaborators/communities-of-place/hub/hubs.md) unique identifier. 
+
+1. **Metadata Collection**
+   - Form to gather: client name, event name/date, and domain
+   - Data stored client-side in Zustand store
+   - Route: `/[ground_code]/1`
+
+2. **GitHub Integration**
+   - Form to connect GitHub account, to install Prisma Deploy GitHub App in their org, and enable permissions for Prisma (offering) to deploy one of our repos by a fork on their (receiving) behalf
+   - Radio to select method: `fork` or `clone` (clone not implemented yet)
+   - Token stored only in memory (no cookies), passed directly to backend on successful authentication
+   - Route: `/[ground_code]/2`
+
+3. **Vercel Integration**
+   - Stage for deploying on Vercel by using Vercel API to connect their GitHub (additional permissions needed on bot) - not implemented yet
+   - Token handled like GitHub’s — ephemeral in memory
+   - Route: `/[ground_code]/3`
+
+4. **App Marketplace**
+   - Select from available prisma (example) apps (`register`, `docs`, `evaluation`, `enact`)
+   - UI: Responsive cards with graphic, name, and "Selected" toggle state
+   - Selected apps persisted in Zustand store
+   - Route: `/[ground_code]/4`
+
+5. **Deploy Stack**
+   - Final confirmation screen
+   - Displays summary of config + selected apps
+   - User provides tokens again here (for single-use security)
+   - Route: `/[ground_code]/5`
+   - On "Deploy" click:
+     - Backend runs orchestrated deploy routine: fork/clone, create repos, configure env vars, deploy to Vercel, return DNS config
+
+## Zustand Store Schema
+
+```ts
+type DeployState = {
+  metadata: Metadata;
+  github: GithubInfo;
+  vercel: VercelInfo;
+  apps: string[];
+  setMetadata: (data: Partial<Metadata>) => void;
+  setGithub: (data: Partial<GithubInfo>) => void;
+  setGithubInstallId: (id: number) => void;
+  setVercel: (data: Partial<VercelInfo>) => void;
+  setApps: (apps: string[]) => void;
+  getFullConfig: () => Config;
+  clearAll: () => void;
+};
+```
+
+Note: All data is client-side only. No refresh persistence for now.
+
+# Read more
+
+1. [Workflow](/processes/ground-potentialising/deploy/workflow.md)
+2. [Fork Logic](/processes/ground-potentialising/deploy/forking.md)
+3. [Client Coordinator](/processes/ground-potentialising/deploy/coordinator.md)

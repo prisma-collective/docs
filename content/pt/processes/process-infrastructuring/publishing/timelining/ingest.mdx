@@ -1,0 +1,82 @@
+# **Ingest**
+
+### **Top-level Directories**
+- **`src`**: Contains the core application logic.
+  - **`api`**: Contains API endpoint logic for the webhook and worker.
+  - **`lib`**: Holds libraries for Telegram interaction (`telegram.ts`), Redis management (`redis.ts`), and database (`neo4j.ts`, `entries.ts`, `participants.ts`).
+  - **`scripts`**: Contains helper scripts for tasks like health checks, managing test environments, and other one-off processes.
+  
+- **`test`**: Contains test logic for the application.
+  - **`test-env`**: Contains Docker configuration files and environment setups for running tests.
+  - **`tests`**: Contains test files for the API and database.
+  - **`scripts`**: Helper scripts used for testing, such as health checks and setup/teardown of Docker containers.
+
+import { FileTree } from 'nextra/components'
+
+<FileTree>
+  <FileTree.Folder name="src" defaultOpen>
+    <FileTree.Folder name="api">
+      <FileTree.File name="webhook.ts" />
+      <FileTree.File name="worker.ts" />
+    </FileTree.Folder>
+    <FileTree.Folder name="lib">
+      <FileTree.File name="telegram.ts" />
+      <FileTree.File name="redis.ts" />
+      <FileTree.File name="neo4j.ts" />
+      <FileTree.File name="entries.ts" />
+      <FileTree.File name="participants.ts" />
+    </FileTree.Folder>
+    <FileTree.Folder name="scripts">
+      <FileTree.File name="health-check.cjs" />
+      <FileTree.File name="docker-setup.js" />
+    </FileTree.Folder>
+  </FileTree.Folder>
+  <FileTree.Folder name="test" defaultOpen>
+    <FileTree.Folder name="test-env">
+      <FileTree.File name="docker-compose.yml" />
+    </FileTree.Folder>
+    <FileTree.Folder name="tests">
+      <FileTree.File name="webhook.test.ts" />
+      <FileTree.File name="worker.test.ts" />
+      <FileTree.File name="neo4j.test.ts" />
+    </FileTree.Folder>
+    <FileTree.Folder name="scripts">
+      <FileTree.File name="db-setup.js" />
+    </FileTree.Folder>
+  </FileTree.Folder>
+</FileTree>
+
+### **API Deployment**
+- **Vercel Functions**: The API is deployed as serverless functions on Vercel.
+  - **API Endpoints**:
+    1. **`webhook.ts`**: Triggered when the Telegram bot receives a new message. It:
+       - Receives the message data, validates it, and writes it to an Upstash serverless Redis queue.
+       - Sends a confirmation back to the chat via the Telegram Bot API.
+       - Telegram and Redis logic are abstracted into `lib/telegram.ts` and `lib/redis.ts`, respectively.
+    
+    2. **`worker.ts`**: Triggered by a cron job managed by Vercel. It:
+       - Processes the Redis queue, retrieving entries, and processing them.
+       - Writes metadata to a Neo4j database (via `lib/neo4j.ts`, `lib/entries.ts`, `lib/participants.ts`).
+       - Attaches media to BLOB storage (not implemented yet).
+       - This script helps process data that the bot picks up on a scheduled basis.
+
+### **Database**
+- **Neo4j**: Used to store and manage the application’s graph-based data (entries and participants).
+  - The database logic is located in `src/lib/neo4j.ts`, with separate modules for managing entries (`entries.ts`) and participants (`participants.ts`).
+  - **Entries**: Represent messages processed by the worker.
+  - **Participants**: Represent users who send messages to the Telegram bot.
+
+### **Testing**
+- **Jest**: Used for testing the application’s core logic, both for the API endpoints and the database interactions.
+  - **API Tests**: Mocks third-party APIs like Telegram and Redis, testing the interaction between the endpoints and the system.
+  - **Database Tests**: Use Docker to stand up a test instance of the Neo4j database. Tests include the creation of entries and participants.
+  - Several helper scripts (`db:up`, `db:down`, `health-check.cjs`) were created to make the test environment setup and teardown more straightforward:
+    - **`docker-compose.yml`**: Used to spin up the Neo4j test container.
+    - **Health check script**: Ensures the database is ready before running tests.
+  - **Test Data**: Data is currently deleted at the end of tests but the Docker volume can persist for inspection if desired.
+
+### **Production**
+- **Environment Variables**: Set in the Vercel dashboard for production configurations like the `BOT_TOKEN` and Neo4j connection credentials.
+- **CI/CD**: Deployment happens on Vercel via GitHub integration. The `main` branch triggers deployment when code is pushed.
+
+
