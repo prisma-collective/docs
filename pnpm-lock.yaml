@@ -12,8 +12,8 @@ importers:
         specifier: ^2.2.2
         version: 2.2.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@next/mdx':
-        specifier: ^15.2.4
-        version: 15.2.4(@mdx-js/react@3.1.0(@types/react@19.0.10)(react@18.3.1))
+        specifier: ^15.2.6
+        version: 15.5.7(@mdx-js/react@3.1.0(@types/react@19.0.10)(react@18.3.1))
       '@tailwindcss/postcss':
         specifier: ^4.0.17
         version: 4.0.17
@@ -685,8 +685,8 @@ packages:
   '@next/env@15.5.7':
     resolution: {integrity: sha512-4h6Y2NyEkIEN7Z8YxkA27pq6zTkS09bUSYC0xjd0NpwFxjnIKeZEeH591o5WECSmjpUhLn3H2QLJcDye3Uzcvg==}
 
-  '@next/mdx@15.2.4':
-    resolution: {integrity: sha512-/T4iJYAbryNW9v5+8UHecSH524wUMgxl5ZHHklt9oXdtbb+tIW6LsRYtiderr4mK9GUDSNFrxN+UNlGJysNhxg==}
+  '@next/mdx@15.5.7':
+    resolution: {integrity: sha512-ao/NELNlLQkQMkACV0LMimE32DB5z0sqtKL6VbaruVI3LrMw6YMGhNxpSBifxKcgmMBSsIR985mh4CJiqCGcNw==}
     peerDependencies:
       '@mdx-js/loader': '>=0.15.0'
       '@mdx-js/react': '>=0.15.0'
@@ -3434,7 +3434,7 @@ snapshots:
 
   '@next/env@15.5.7': {}
 
-  '@next/mdx@15.2.4(@mdx-js/react@3.1.0(@types/react@19.0.10)(react@18.3.1))':
+  '@next/mdx@15.5.7(@mdx-js/react@3.1.0(@types/react@19.0.10)(react@18.3.1))':
     dependencies:
       source-map: 0.7.4
     optionalDependencies:
