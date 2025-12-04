@@ -95,9 +95,10 @@ export default async function RootLayout({
   params,
 }: {
   children: ReactNode;
-  params: { mdxPath?: string[] };
+  params: Promise<{ mdxPath?: string[] }>;
 }) {
-  const metadata = await generateMetadata({ params }); // Generate dynamic metadata
+  const resolvedParams = await params;
+  const metadata = await generateMetadata({ params: resolvedParams }); // Generate dynamic metadata
 
   return (
     <html lang="en" dir="ltr" suppressHydrationWarning>
