@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teams/Team 1.md",
+                "file": "content/Teams/Team 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "Team 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89738f780a0c6cab",
+  "active": "bce36f6df86b5df2",
   "lastOpenFiles": [
-    "Teams/Team 1.md",
-    "Teams",
+    "content/Teams/Team 1.md",
+    "content/Teams",
     "content/patterns/action-learning.md",
     "collaborators/communities-of-place/hub/hubs.md",
     "collaborators/communities-of-place/hub",
