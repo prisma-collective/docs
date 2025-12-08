@@ -19,7 +19,8 @@ const flattenPages = (pages: any[]): PageMapItem[] =>
 export async function generateMetadata({ params }: { params: { mdxPath?: string[] } }) {
   const title = params?.mdxPath?.join(" ") || "Inkuba Hub";
   const url = `https://docs.prisma.events/${params?.mdxPath?.join("/") || ""}`;
-  const image = `https://docs.prisma.events/api/og?title=${encodeURIComponent(title)}`;
+  // const image = `https://docs.prisma.events/api/og?title=${encodeURIComponent(title)}`;
+  const image = `/inkuba.png`
 
   const pageMap = await getPageMap();
   const flatPages = flattenPages(pageMap);
