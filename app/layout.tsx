@@ -46,17 +46,17 @@ const navbar = (
   <Navbar
     logo={
       <div>
-        <Image src="/prisma-name-text-dark.svg" width={140} height={60} alt="Prisma Logo" />
+        <Image src="/inkuba.png" width={140} height={60} alt="Inkuba Hub Logo" />
       </div>
     }
-    logoLink={"https://www.prisma.events/"}
+    logoLink={"https://www.inkubahub.org/"}
     chatIcon={<FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />}
     chatLink={"https://t.me/+9-UF8k9H8dBjNWFk"}
     children={
       <div className="inline-flex items-center gap-4">
         {/* X (Twitter) */}
         <a
-          href="https://twitter.com/__prismaevents"
+          href="https://x.com/InkubaA"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -82,12 +82,12 @@ const navbar = (
         </a>
       </div>
     }
-    projectLink={"https://github.com/prisma-collective/"}
+    projectLink={"https://github.com/InkubaHub1"}
     projectIcon={<FaGithub className={`${iconClasses} ${getRandomHoverColor()}`} />}
   />
 );
 
-const footer = <Footer>Prisma © {new Date().getFullYear()}</Footer>
+const footer = <Footer>Inkuba Hub © {new Date().getFullYear()}</Footer>
 
 export default async function RootLayout({
   children,
