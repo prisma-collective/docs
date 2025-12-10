@@ -57,7 +57,7 @@
       {
         "label": "Gitlab",
         "url": "https://gitlab.com/YAMJK_1er",
-        "icon": "FaGitlabIn"
+        "icon": "fa-gitlab"
       }
     ]
   },
@@ -73,5 +73,12 @@
         "icon": "FaLinkedinIn"
       }
     ]
+  },
+  {
+    "name": "Matthias Kouevi",
+    "role": "Ouagadougou Coordinator",
+    "photo": "/mat.png",
+    "profile_card_link": "/processes/process-infrastructuring",
+    "links": []
   }
 ]
