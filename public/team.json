@@ -3,7 +3,7 @@
     "name": "Laurentine Djatsa",
     "role": "Hub lead",
     "photo": "/laurentine.jpg",
-    "profile_card_link": "/processes/enactment",
+    "profile_card_link": "https://www.linkedin.com/in/inkuba-academy-9903a5273/",
     "links": [
       {
         "label": "LinkedIn",
@@ -21,7 +21,7 @@
     "name": "Betsaleel Dakuyo",
     "role": "Technical lead",
     "photo": "/Betsa.png",
-    "profile_card_link": "/processes/evaluation",
+    "profile_card_link": "https://www.linkedin.com/in/betsaleel-dakuyo-7a7220313",
     "links": [
       {
         "label": "LinkedIn",
@@ -39,7 +39,7 @@
     "name": "Barthelemy Kabore",
     "role": "Technical support",
     "photo": "/bart.png",
-    "profile_card_link": "/processes/enactment",
+    "profile_card_link": "https://www.linkedin.com/in/barth%C3%A9l%C3%A9my-w-a-kayaba-kabore-8a3a14226/",
     "links": [
       {
         "label": "LinkedIn",
@@ -57,7 +57,7 @@
     "name": "Aime Nico Kam",
     "role": "Operations and communication lead",
     "photo": "/nico.jpg",
-    "profile_card_link": "/processes/ground-potentialising",
+    "profile_card_link": "https://www.linkedin.com/in/aim%C3%A9-si%C3%A9-humpa-nico-kam-6b76941b9/",
     "links": [
       {
         "label": "LinkedIn",
@@ -70,7 +70,7 @@
     "name": "Angelo Yameogo",
     "role": "Technical support",
     "photo": "/Angelo.jpeg",
-    "profile_card_link": "/processes/process-infrastructuring",
+    "profile_card_link": "https://gitlab.com/YAMJK_1er",
     "links": [
       {
         "label": "Gitlab",
@@ -83,10 +83,10 @@
     "name": "Mohammed Konate",
     "role": "Advisor",
     "photo": "/mohamed.jpeg",
-    "profile_card_link": "/processes/process-infrastructuring",
+    "profile_card_link": "https://www.linkedin.com/in/mohamed-konat%C3%A9-0734301b8/",
     "links": [
       {
-        "label": "GitHub",
+        "label": "LinkedIn",
         "url": "https://www.linkedin.com/in/mohamed-konat%C3%A9-0734301b8/",
         "icon": "FaLinkedinIn"
       }
@@ -96,7 +96,7 @@
     "name": "Matthias Kouevi",
     "role": "Ouagadougou Coordinator",
     "photo": "/mat.png",
-    "profile_card_link": "/processes/process-infrastructuring",
+    "profile_card_link": "#",
     "links": []
   }
 ]
