@@ -36,6 +36,24 @@
     ]
   },
   {
+    "name": "Barthelemy Kabore",
+    "role": "Technical support",
+    "photo": "/bart.png",
+    "profile_card_link": "/processes/enactment",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/barth%C3%A9l%C3%A9my-w-a-kayaba-kabore-8a3a14226/",
+        "icon": "FaLinkedinIn"
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/barthelemyGit1/",
+        "icon": "FaGithub"
+      }
+    ]
+  },
+  {
     "name": "Aime Nico Kam",
     "role": "Operations and communication lead",
     "photo": "/nico.jpg",
