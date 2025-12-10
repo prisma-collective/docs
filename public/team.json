@@ -1,6 +1,24 @@
 [
   {
-    "name": "Betsaleel",
+    "name": "Laurentine Djatsa",
+    "role": "Hub lead",
+    "photo": "/laurentine.jpg",
+    "profile_card_link": "/processes/enactment",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/inkuba-academy-9903a5273/",
+        "icon": "FaLinkedinIn"
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/InkubaHub1",
+        "icon": "FaGithub"
+      }
+    ]
+  },
+  {
+    "name": "Betsaleel Dakuyo",
     "role": "Technical lead",
     "photo": "/Betsa.png",
     "profile_card_link": "/processes/evaluation",
@@ -18,137 +36,41 @@
     ]
   },
   {
-    "name": "Delfi",
-    "role": "Enaction",
-    "photo": "/delfi.svg",
-    "profile_card_link": "/processes/enactment",
-    "links": [
-      {
-        "label": "Meet",
-        "url": "https://cal.com/delfina-terrado",
-        "icon": "FaPhone"
-      },
-      {
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/delfina-terrado/",
-        "icon": "FaLinkedinIn"
-      },
-      {
-        "label": "Website",
-        "url": "https://iniciativamurmullo.com/",
-        "icon": "FaGlobe"
-      }
-    ]
-  },
-  {
-    "name": "Mercy",
-    "role": "Ground-Potential",
-    "photo": "/mercy.svg",
+    "name": "Aime Nico Kam",
+    "role": "Operations and communication lead",
+    "photo": "/nico.jpg",
     "profile_card_link": "/processes/ground-potentialising",
     "links": [
       {
-        "label": "Meet",
-        "url": "https://cal.com/mercy-wada",
-        "icon": "FaPhone"
-      },
-      {
-        "label": "Website",
-        "url": "https://www.wada.org",
-        "icon": "FaGlobe"
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/aim%C3%A9-si%C3%A9-humpa-nico-kam-6b76941b9/",
+        "icon": "FaLinkedinIn"
       }
     ]
   },
   {
-    "name": "Tabs",
-    "role": "Infrastructure",
-    "photo": "/tabs.svg",
+    "name": "Angelo Yameogo",
+    "role": "Technical support",
+    "photo": "/Angelo.jpeg",
     "profile_card_link": "/processes/process-infrastructuring",
     "links": [
       {
-        "label": "Meet",
-        "url": "https://cal.com/tbsfchnr",
-        "icon": "FaPhone"
-      },
-      {
-        "label": "LinkedIn",
-        "url": "https://linkedin.com/in/tobias-fechner",
-        "icon": "FaLinkedinIn"
-      },
-      {
-        "label": "GitHub",
-        "url": "https://github.com/tbsfchnr",
-        "icon": "FaGithub"
+        "label": "Gitlab",
+        "url": "https://gitlab.com/YAMJK_1er",
+        "icon": "FaGitlabIn"
       }
     ]
   },
   {
-    "name": "Noah",
-    "role": "web3 Fundraising",
-    "photo": "/noah.jpg",
-    "profile_card_link": "/context-narrative",
-    "links": []
-  },
-  {
-    "name": "Carlos",
-    "role": "Publishing",
-    "photo": "/carlos.png",
-    "profile_card_link": "/processes/ground-potentialising/deploy",
+    "name": "Mohammed Konate",
+    "role": "Advisor",
+    "photo": "/mohamed.jpeg",
+    "profile_card_link": "/processes/process-infrastructuring",
     "links": [
-      {
-        "label": "Meet",
-        "url": "https://cal.com/tbsfchnr",
-        "icon": "FaPhone"
-      },
       {
         "label": "GitHub",
-        "url": "https://github.com/CarlosQ96",
-        "icon": "FaGithub"
-      }
-    ]
-  },
-  {
-    "name": "Harding",
-    "role": "Mentor",
-    "photo": "/ekow.jpg",
-    "profile_card_link": "http://linkedin.com/in/ekowharding",
-    "links": [
-      {
-        "label": "Meet",
-        "url": "https://cal.com/ekow-harding-nsshpl/30min",
-        "icon": "FaPhone"
-      },
-      {
-        "label": "LinkedIn",
-        "url": "http://linkedin.com/in/ekowharding",
+        "url": "https://www.linkedin.com/in/mohamed-konat%C3%A9-0734301b8/",
         "icon": "FaLinkedinIn"
-      },
-      {
-        "label": "X (Twitter)",
-        "url": "https://x.com/mrharding3",
-        "icon": "FaXTwitter"
-      }
-    ]
-  },
-  {
-    "name": "Abdul",
-    "role": "Mentor",
-    "photo": "/abdul.jpg",
-    "profile_card_link": "https://www.arcaccra.com/ALJ%20Intensive/Teams/Bin%20to%20Cash/Home/",
-    "links": [
-      {
-        "label": "Meet",
-        "url": "https://cal.com/abdulrahman-umar-nqtqwa/15min",
-        "icon": "FaPhone"
-      },
-      {
-        "label": "LinkedIn",
-        "url": "http://www.linkedin.com/in/abdulrahman-umar",
-        "icon": "FaLinkedinIn"
-      },
-      {
-        "label": "GitHub",
-        "url": "https://github.com/AbdulRahman733",
-        "icon": "FaGithub"
       }
     ]
   }
