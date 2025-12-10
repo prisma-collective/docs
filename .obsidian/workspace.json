@@ -34,19 +34,9 @@
               "icon": "lucide-file",
               "title": "Team 1"
             }
-          },
-          {
-            "id": "cd96fae615fc5ce3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,8 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd96fae615fc5ce3",
+  "active": "89738f780a0c6cab",
   "lastOpenFiles": [
+    "content/collaborators/communities-of-place/DirectED Abuja Hub/Teams/Roadmechs.md",
+    "content/collaborators/communities-of-place/DirectED Abuja Hub/Teams/Medisure.md",
     "content/collaborators/communities-of-place/DirectED Abuja Hub/Hub Team.md",
     "content/collaborators/communities-of-place/DirectED Abuja Hub/Teams/YoTouch.md",
     "content/collaborators/communities-of-place/DirectED Abuja Hub/Teams/Stem trust.md",
@@ -234,8 +226,6 @@
     "content/collaborators/communities-of-place/DirectED Abuja Hub/Hubs/Stem trust.md",
     "content/collaborators/communities-of-place/DirectED Abuja Hub/Hubs/Teams",
     "content/collaborators/communities-of-place/DirectED Abuja Hub/Hubs",
-    "content/patterns/action-learning.md",
-    "content/collaborators/communities-of-place/DirectED Abuja Hub/Hubs/Untitled.md",
     "content/collaborators/communities-of-place/DirectED Abuja Hub/hubs.mdx",
     "content/collaborators/communities-of-place/DirectED Abuja Hub",
     "content/Teams",
