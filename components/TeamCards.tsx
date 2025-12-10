@@ -2,14 +2,14 @@
 
 import { useState } from 'react';
 import teamData from '@/public/team.json';
-import { FaXTwitter, FaTelegram, FaGithub, FaLinkedinIn, FaPhone, FaGlobe } from "react-icons/fa6";
+import { FaXTwitter, FaTelegram, FaGithub, FaLinkedinIn, FaPhone, FaGlobe, FaGitlab } from "react-icons/fa6";
 import { ProfileCard } from './ProfileCard';
 import { MdOutlineEmail } from "react-icons/md";
 
 interface TeamLink {
   label: string;
   url: string;
-  icon: 'FaXTwitter' | 'FaTelegram' | 'FaGithub' | 'FaLinkedinIn' | 'FaPhone' | 'FaGlobe';
+  icon: 'FaXTwitter' | 'FaTelegram' | 'FaGithub' | 'FaLinkedinIn' | 'FaPhone' | 'FaGlobe' | 'FaGitlab';
 }
 
 export interface TeamMember {
@@ -23,10 +23,11 @@ export interface TeamMember {
 export const iconMap = {
   FaXTwitter: FaXTwitter,
   FaTelegram: FaTelegram,
-  FaGithub: FaGithub, 
+  FaGithub: FaGithub,
   FaLinkedinIn: FaLinkedinIn,
   FaPhone: FaPhone,
   FaGlobe: FaGlobe,
+  FaGitlab: FaGitlab,
   Email: MdOutlineEmail,
 };
 
@@ -48,16 +49,16 @@ export default function TeamCards({ team }: TeamCardsProps) {
 
     try {
       const res = await fetch(`/api/participants/${handle}`);
-      
+
       if (!res.ok) {
         throw new Error(`Failed to fetch data: ${res.statusText}`);
       }
 
       const data = await res.json();
-  
+
       // Update the cache
       setTelegramCache((prevCache) => new Map(prevCache).set(handle, data));
-  
+
       return data;  // Returning the data as a Promise resolve.
     } catch (error) {
       console.error("Error fetching data:", error);
