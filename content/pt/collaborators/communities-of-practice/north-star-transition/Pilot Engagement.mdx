@@ -1,0 +1,178 @@
+import PageGate from '@/components/PageGate'
+import { Tabs } from 'nextra/components'
+import GraphRenderer from '@/components/GraphRenderer'
+
+# Pilot Engagement
+
+<PageGate requiredPassword="transition-labs-2025">
+
+	> This page is a response to the following questions:
+	> 
+	> What's our offer?
+	>
+	> How easy is it to set up/ how does it work?
+	>
+	> What's our business model/ our ask?
+
+	We propose a pilot project to set up Timelining and ChatALJ for an upcoming Transition Lab. This pilot will focus on enhancing North Star Transition’s capacity to capture, connect, and act on the wealth of insight generated in these multi-stakeholder settings.
+
+	## What is ChatALJ?
+
+	### Overview
+
+	ChatALJ is the name given to the app currently living on our [evaluate.prisma.events](https://evaluate.prisma.events) subdomain. It's an interface to make visible and query the voice-based [timelining](/processes/process-infrastructuring/timelining) contributions made during an [action-learning journey](/patterns/action-learning%20journeys) (read "Transition Lab"). 
+
+	### Setup
+	It's built to be deployed to a partner on their own evaluate subdomain - <span className="text-[#7faec2]">evaluate.</span><span className="text-prisma-a">northstartransition.org</span>, for example. Depending on if the partner organisation has/ plans to have in-house software development capacity, these apps can be deployed on their own infrastructure, or we can temporarily manage partner-specific instances for them (Prisma is designed to be deployed to partner-managed infrastructure).
+
+	One example of this is our long-term partner, Wada, who are using our apps to organise a hackathon in [Nairobi](/events/nairobi) with [register.wada.org](https://register.wada.org) and [docs.wada.org](https://docs.wada.org). These app deployments took less than a week, as it was mostly just branding and copy. Timelining and ChatALJ are more involved. 
+
+	### Timelining Contributions
+	Given the relatively boundless nature of voice as a medium of expression, in which you can convey all sorts of information, the particular use-case to which timelining is applied is decided by the kind of data you'd like to record. 
+	
+	In the case provided as an example at [evaluate](https://evaluate.prisma.events), the data modelling is relatively minimal: 
+
+	<Tabs items={['Schema', 'Visualisation']}> 
+	<Tabs.Tab>
+	```cypher
+	// NODES
+	Labels: [
+		'Entry', 
+		'Participant', 
+		'TelegramChat', 
+		'Voice', 
+		'TextContent', 
+		'Video', 
+		'Photo', 
+		'Entity', 
+		'CaptionContent', 
+		'VideoNote'
+	]
+
+	// EDGES
+	Entry -[SENT_BY]-> Participant
+	Entry -[FROM_CHAT]-> TelegramChat
+	Entry -[HAS_VOICE]-> Voice
+	Entry -[HAS_TEXT]-> TextContent
+	Entry -[HAS_VIDEO]-> Video
+	Entry -[HAS_PHOTO]-> Photo
+	Entry -[HAS_ENTITY]-> Entity
+	Entry -[HAS_CAPTION]-> CaptionContent
+	Entry -[HAS_VIDEO_NOTE]-> VideoNote
+	```
+	</Tabs.Tab>
+	<Tabs.Tab>
+	<GraphRenderer 
+		nodes={[
+			{ data: { id: 'TelegramChat', label: 'TelegramChat' } },
+			{ data: { id: 'Entry1', label: 'Entry' } },
+			{ data: { id: 'Entry2', label: 'Entry' } },
+			{ data: { id: 'Entry3', label: 'Entry' } },
+			{ data: { id: 'Participant1', label: 'Participant' } },
+			{ data: { id: 'Participant2', label: 'Participant' } },
+			{ data: { id: 'Participant3', label: 'Participant' } },
+			{ data: { id: 'Voice1', label: 'Voice' } },
+			{ data: { id: 'Voice2', label: 'Voice' } },
+			{ data: { id: 'TextContent1', label: 'TextContent' } },
+			{ data: { id: 'TextContent2', label: 'TextContent' } },
+			{ data: { id: 'Video1', label: 'Video' } },
+			{ data: { id: 'Photo1', label: 'Photo' } },
+			{ data: { id: 'Entity1', label: 'Entity' } },
+			{ data: { id: 'CaptionContent1', label: 'CaptionContent' } },
+			{ data: { id: 'VideoNote1', label: 'VideoNote' } }
+		]}
+		edges={[
+			{ data: { id: 'chat-entry1', source: 'TelegramChat', target: 'Entry1', label: 'FROM_CHAT' } },
+			{ data: { id: 'chat-entry2', source: 'TelegramChat', target: 'Entry2', label: 'FROM_CHAT' } },
+			{ data: { id: 'chat-entry3', source: 'TelegramChat', target: 'Entry3', label: 'FROM_CHAT' } },
+			{ data: { id: 'entry1-participant1', source: 'Entry1', target: 'Participant1', label: 'SENT_BY' } },
+			{ data: { id: 'entry2-participant2', source: 'Entry2', target: 'Participant2', label: 'SENT_BY' } },
+			{ data: { id: 'entry3-participant3', source: 'Entry3', target: 'Participant3', label: 'SENT_BY' } },
+			{ data: { id: 'entry1-voice1', source: 'Entry1', target: 'Voice1', label: 'HAS_VOICE' } },
+			{ data: { id: 'entry2-text1', source: 'Entry2', target: 'TextContent1', label: 'HAS_TEXT' } },
+			{ data: { id: 'entry3-voice2', source: 'Entry3', target: 'Voice2', label: 'HAS_VOICE' } },
+			{ data: { id: 'entry1-video1', source: 'Entry1', target: 'Video1', label: 'HAS_VIDEO' } },
+			{ data: { id: 'entry2-photo1', source: 'Entry2', target: 'Photo1', label: 'HAS_PHOTO' } },
+			{ data: { id: 'entry3-text2', source: 'Entry3', target: 'TextContent2', label: 'HAS_TEXT' } },
+			{ data: { id: 'entry1-entity1', source: 'Entry1', target: 'Entity1', label: 'HAS_ENTITY' } },
+			{ data: { id: 'entry2-caption1', source: 'Entry2', target: 'CaptionContent1', label: 'HAS_CAPTION' } },
+			{ data: { id: 'entry3-videonote1', source: 'Entry3', target: 'VideoNote1', label: 'HAS_VIDEO_NOTE' } }
+		]}
+		styleOverrides={[
+			{
+				selector: 'node',
+				style: {
+					'width': 30,
+					'height': 30,
+					'font-size': '16px',
+					'font-weight': 'bold',
+					'text-opacity': 1,
+				}
+			},
+			{
+				selector: 'edge',
+				style: {
+					width: 3,
+					'opacity': 0.9,
+					'line-color': '#333',
+					'target-arrow-color': '#333',
+					'target-arrow-shape': 'triangle',
+					'arrow-scale': 1.2,
+					'font-size': '12px',
+					'font-weight': 'bold',
+					color: '#333',
+					'text-opacity': 1,
+				}
+			},
+			{
+				selector: 'node[label="Entry"]',
+				style: {
+				'background-color': '#7faec2',
+				'border-color': '#7faec2',
+				},
+			},
+		]}
+	/>
+	</Tabs.Tab>
+	</Tabs>
+
+	As you can see, other media in addition to voice are also handled - photos, videos, and entities (mentions, links and tags) - however, it is predominantly the voice notes that are of interest, due to the dual nature of reliably extractable information (via transcriptions) as well as qualitative context (audio). 
+
+	With a relatively uncomplicated schema, we have been able to query with natural language the collective experience as a whole, because of the accessibility of sending voice notes and the practice of _timelining_ reflections. 
+
+	This is our offer for a first pilot, as an interim step toward co-designing <span className="text-prisma-a">custom data modelling</span> (a less general schema) to collect _more meaningfully structured data_ as a foundation for more specific insight generation:
+
+	- Dynamic networking connections
+	- Discrete handling of entities of interest
+	- Interrelating with programme phases/ agendas
+	- Custom UI features (audio playback, GIS)
+
+	## Pilot Objectives
+
+	1. Set up Timelining and ChatALJ systems on dedicated partner infrastructure
+		- Manage infrastructure provisioning and deploy app instances (assuming Prisma manages infrastructure provisioning)
+	2. Onboard North Star Transition and one partner hub into the practice of timelining
+		- Provide the technical and operational setup for ChatALJ, including participant onboarding to timelining practices.
+	3. Provide programme design support to assist with introducing timelining practice into the Transition Lab effectively
+		- Provide the design guidance needed for the programme to best leverage the data collection capabilities offered by Timelining + ChatALJ
+	4. Create 3-5 custom queries to create an analytical perspective tailored to North Star Transition's interests, accessible on a dedicated North Star evaluation sub-domain
+		- Co-design queries to extract meaningful information from the timelining entries
+		- Provide these queries as custom analytical perspectives in dedicated North Star ChatALJ instance
+
+	## Our Offer
+
+	Scope: Timelining and ChatALJ instance deployed on dedicated infrastructure for one selected Transition Lab event
+
+	Timeframe: 3 months
+	- 2 months build
+	- 1 month part-time process design support (overlapping with build)
+	- 1 month technical support around the event, including immediate response to any reliability issues
+
+	Outcomes:
+	- Successful adoption of general schema, ready to address more advanced data modelling
+	- Validated integration of Timelining into North Star’s Transition Lab process
+	- Convincingly useful insight generation from ChatALJ interface, generating strategic clarity for both North Star Transition and the chosen hub
+
+	Our ask: £22,000
+
+</PageGate>

@@ -1,0 +1,3 @@
+**Ecosystem Mapping**  is a visual representation of the relationships, flows, and dependencies within an ecosystem. It helps identify key actors, resources, and leverage points for intervention.
+
+**Example Use Case**: A group maps the local entrepreneurial ecosystem, identifying resources like funding sources, mentorship programs, and co-working spaces. This map helps them understand the gaps and opportunities for supporting local businesses.

@@ -1,0 +1,27 @@
+{
+  "index": {
+    "title": "Inicio",
+    "type": "page"
+  },
+  "Practices": {
+    "title": "Prácticas"
+  },
+  "collaborators": {
+    "title": "Colaboradores"
+  },
+  "context-narrative": {
+    "title": "Contexto y Narrativa"
+  },
+  "events": {
+    "title": "Eventos"
+  },
+  "glossary": {
+    "title": "Glosario"
+  },
+  "patterns": {
+    "title": "Patrones"
+  },
+  "processes": {
+    "title": "Procesos"
+  }
+}

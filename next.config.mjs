@@ -4,7 +4,8 @@ const withNextra = nextra({
   latex: true,
   search: {
     codeblocks: false,
-  }
+  },
+  defaultShowCopyCode: true
 })
 
 export default withNextra({
@@ -12,14 +13,19 @@ export default withNextra({
   async redirects() {
     return [
       {
+        source: '/',
+        destination: '/en',
+        permanent: false,
+      },
+      {
         source: '/processes/process-infrastructuring/timeli',
-        destination: '/processes/process-infrastructuring/timelining',
-        permanent: false, // Set to false for temporary redirect (302)
+        destination: '/en/processes/process-infrastructuring/timelining',
+        permanent: false,
       },
       {
         source: '/processes/ground-potentialising/deplo',
-        destination: '/processes/ground-potentialising/deploy',
-        permanent: false, // Set to false for temporary redirect (302)
+        destination: '/en/processes/ground-potentialising/deploy',
+        permanent: false,
       }
     ]
   },

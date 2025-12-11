@@ -1,4 +1,4 @@
-import { Footer, Layout, Navbar } from 'nextra-theme-docs'
+import { Footer, Navbar } from 'nextra-theme-docs'
 import { Head } from 'nextra/components';
 import { getPageMap } from 'nextra/page-map';
 import 'nextra-theme-docs/style.css';
@@ -11,6 +11,8 @@ import { FaXTwitter } from "react-icons/fa6";
 import { FaTelegramPlane, FaGithub } from "react-icons/fa";
 import { BsCalendarWeek } from "react-icons/bs";
 import { ActiveJourneyProvider } from '@/contexts/ActiveJourneyContext'
+import { LocaleAwareLayout } from './components/LocaleAwareLayout'
+import { LanguageSelector } from './components/LanguageSelector'
 
 const iconClasses = "w-5 h-5 text-gray-600 dark:text-gray-400 transition-all duration-300 hover:scale-110"
 const hoverColorClasses = [
@@ -80,6 +82,9 @@ const navbar = (
         >
           <BsCalendarWeek className={`${iconClasses} ${getRandomHoverColor()}`} />
         </a>
+
+        {/* Language Selector */}
+        <LanguageSelector />
       </div>
     }
     projectLink={"https://github.com/prisma-collective/"}
@@ -94,12 +99,19 @@ export default async function RootLayout({
   params,
 }: {
   children: ReactNode;
-  params: { mdxPath?: string[] };
+  params: Promise<{ mdxPath?: string[] }>;
 }) {
-  const metadata = await generateMetadata({ params }); // Generate dynamic metadata
+  const resolvedParams = await params;
+  const metadata = await generateMetadata({ params: resolvedParams }); // Generate dynamic metadata
+
+  // Extract locale from route (first segment of mdxPath)
+  const locale = resolvedParams.mdxPath?.[0] || 'en';
+
+  // Get full page map - will be filtered on client side
+  const fullPageMap = await getPageMap();
 
   return (
-    <html lang="en" dir="ltr" suppressHydrationWarning>
+    <html lang={locale} dir="ltr" suppressHydrationWarning>
       <Head>
         <title>{metadata.title}</title>
         <meta name="description" content={metadata.description} />
@@ -117,20 +129,17 @@ export default async function RootLayout({
         <meta name="twitter:image" content={metadata.twitter.images[0]} />
       </Head>
       <body>
-        <Layout
+        <LocaleAwareLayout
           navbar={navbar}
-          pageMap={await getPageMap()}
-          docsRepositoryBase="https://github.com/prisma-collective/docs"
           footer={footer}
-          sidebar={{ autoCollapse: true, defaultMenuCollapseLevel: 1 }}
-          editLink={null}
-          nextThemes={{ defaultTheme: "dark" }}
+          fullPageMap={fullPageMap}
+          docsRepositoryBase="https://github.com/prisma-collective/docs"
         >
           <ActiveJourneyProvider>
             {children}
           </ActiveJourneyProvider>
           <Analytics />
-        </Layout>
+        </LocaleAwareLayout>
       </body>
     </html>
   );

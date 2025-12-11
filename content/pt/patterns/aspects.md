@@ -1,0 +1,5 @@
+aspects are an account of verified interactions that indicate the realisation of [potential](/glossary/place-sourced%20potential.md) made possible by the [application](/processes/enactment) of [practice](/glossary/Practice.md) on-the-ground. 
+
+an [action-learning journey](/patterns/action-learning%20journeys.md) serves the purpose of onboarding and aligning the necessary stakeholders, at multiple levels of [place](/glossary/Place.md), into a process of co-designing a peer-to-peer protocol that encodes a given place-sourced practice. 
+
+practice-currencies, co-designed between [communities of place](/collaborators/communities-of-place/hub/hubs.md) and [communities of practice](/collaborators/communities-of-practice/practice-networks.md), give voice to those stewarding the essence of their region, and a means to make their work visible to trusted external evaluators.

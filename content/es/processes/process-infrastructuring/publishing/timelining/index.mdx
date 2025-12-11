@@ -1,0 +1,113 @@
+---
+aliases:
+- timelining
+- timelining system
+- timeline
+
+sidebarTitle: Timelining
+asIndexPage: true
+
+---
+
+import { Table, Tabs } from 'nextra/components'
+
+*status: in-progress, production*
+
+> Journaling - A quick recap
+> 
+> Every morning, Maya takes ten quiet minutes to journal whatever is on her mind. At first, it just seemed like a way to vent, but over time, she began to notice patterns—how often she doubted herself before meetings, how she defaulted to guilt when saying no. Seeing these thoughts laid out helped her realize they weren’t facts, just habits of mind shaped by old beliefs she had never questioned. With that awareness, she began to ask herself what beliefs she actually wanted to live by. Slowly, she chose new ones—like valuing her voice and setting boundaries without shame. Her thoughts started to change, not because life got easier, but because she realized she had the power to respond differently.
+
+<br/>
+
+# What is timelining?
+Timelining is the process of building up a timeline of an [action-learning journey](/patterns/action-learning%20journeys.md) (ALJ). Timelining uses multiple sources of data, and collects different kinds of action-led contributions. The basic premise is for it to be highly adaptable, catering to different groups' values and intentions.
+# Why
+Each ALJ is an evolutionary process. Timelining is one way of making this process visible. Making this visible serves learning. As when you journal to notice patterns in your thinking, cohorts can *timeline* (perform timelining) to notice patterns in their actions. In that way, timelining is how we aim to support the [incubation](/home) of evolutionary organisations. 
+# How
+We do that by leveraging dedicated timelining topics in telegram groups, and picking up messages with a specific pattern. What makes this so adaptable is that you can identify a new perspective into the ALJ and create a new topic relatively easily. A pattern can also be prototyped with almost no additional functionality required. Here are two examples, with a subtle but crucial difference.
+
+<Tabs items={['Basic', 'Advanced']}> 
+<Tabs.Tab>
+A cohort decides they want to start keeping track of decisions. They decide they'd like to record the context, decision, and participants. The following pattern is used:
+
+```json
+{
+	"context": "",
+	"decision": "",
+	"participants": []
+}
+```
+
+Below is an example of the pattern in use. This could be a message to a text-centric telegram topic named `_botDecisionLog`.
+
+```
+Context: During the hackathon, multiple teams needed the same room for afternoon sessions, leading to confusion and overlap.
+Decision: We decided that each morning, 2 participants will arrive early to the hub to allocate meetings across the available spaces, in time for the first agenda item. Who, where, and when will be confirmed the night before.
+Participants: @sam, @jamila, @fernando
+```
+</Tabs.Tab> 
+<Tabs.Tab>
+A cohort decides they want to start keeping track of deciding. They decide they'd like to generate a signal that indicates the impulse of deciding. The following pattern is used: 
+
+```json
+{
+	"facilitating": "",
+	"participating": [],
+	"deciding": ""
+}
+```
+
+Below is an example of the pattern in use. This could be a message to a voice-centric telegram topic named `_botDeciding`.
+
+```json
+{
+	"voice": {
+	  "duration": 382,
+	  "mime_type": "audio/ogg",
+	  "file_id": "AwACAgQAAyFAAScYYe-AAM0aB4q1lJyrq4tEDElBaobGdxu2vwAAmUZAALqjfFQJxSJf2ATDWM2BA",
+	}
+}
+```
+</Tabs.Tab> 
+</Tabs> 
+## Processing Messages
+This tooling is set up for collective storytelling of [action-learning](/patterns/action-learning.md). We want to make it as easy as possible for everyone to contribute to that story. At the same time, the simple user interface of a telegram chat is backed onto a [serverless](https://vercel.com/) API, and writes to a [neo4j](https://neo4j.com/) graph database, both of which can be extended and combined to address almost any processing capability imaginable. The timestamp of each message is used to generate a representation of how this network of participants and contributions emerged through the course of the ALJ. This tooling aims to be an enabler for cohorts to begin identifying patterns within the contents of those contributions. In this way, we're aiming to equip cohorts with the means to intentionally co-author their self-organising [enactment](/processes/enactment).
+
+![timelining_database.png](/timelining_database.png)
+
+<br/>
+# The Difference
+Did you notice the key difference in the two examples? Here are some of the differences that are perhaps easier to spot:
+
+<br/>
+
+<Table>
+  <thead>
+    <Table.Tr>
+      <Table.Th>Basic</Table.Th>
+      <Table.Th>Advanced</Table.Th>
+      <Table.Th>Implications</Table.Th>
+    </Table.Tr>
+  </thead>
+  <tbody>
+    <Table.Tr>
+      <Table.Td>Text</Table.Td>
+      <Table.Td>Voice notes</Table.Td>
+      <Table.Td>Text is static and silent - an encoding in bytes of 1s and 0s of something alive elsewhere. Voice is frequency, sound, energy, expression, character, tone, atmosphere - voice is aliveness. In that way, the voice note already contains within it much context than could possibly be conveyed in a short text.</Table.Td>
+    </Table.Tr>
+    <Table.Tr>
+      <Table.Td>Record</Table.Td>
+      <Table.Td>Signal</Table.Td>
+      <Table.Td>Rather than the user-experience of recording an account of a contribution that happened in the past, in the advanced example, the user-experience and the contribution are unified: the act of deciding, in the moment, is the signal that is carried forward into the collective storytelling that the timelining system is a part of (see [case](/patterns/case-study) for more).</Table.Td>
+    </Table.Tr>
+    <Table.Tr>
+      <Table.Td>Sender and participants</Table.Td>
+      <Table.Td>Sender, participants and facilitator</Table.Td>
+      <Table.Td>Again honouring the creative impulse of the present moment, a facilitator is recognised as a distinct and valued role that holds and guides the process of collectively deciding.</Table.Td>
+    </Table.Tr>
+  </tbody>
+</Table>
+
+The key difference, however, is ***the shift in approach from noun-based (object) to verb-based (process) thinking***. 
+
+When the [act](/processes/enactment/index) of making a decision, in the moment, is the same as making the timelining contribution, it becomes a way for groups to participate in, record, and evolve how they organise, all in the same flow. By engaging with timelining, they are choosing to actively participate in the emergence that arises from their self-organising efforts, each participant's experience the signal that indicates aliveness of a living system in-becoming. 

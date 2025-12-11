@@ -1,0 +1,577 @@
+---
+aliases:
+  - documentation setup
+  - docs onboarding
+sidebarTitle: Docs Setup
+asIndexPage: true
+---
+
+import { Tabs } from 'nextra/components'
+
+# Docs: Setup Guide
+
+*status: in-progress*
+
+> Setting up the Docs system allows you to be a contributor to your digital commons: edit content collaboratively, and maintain up-to-date documentation for your community.
+
+## Why Use This Setup?
+
+- **Version Control**: Track all changes to documentation with Git
+- **Collaborative Editing**: Work with others using GitHub
+- **Rich Editing**: Use Obsidian's powerful markdown editor
+- **Auto-Sync**: Automatically commit and push changes
+- **Local Preview**: See your changes before publishing
+
+## Prerequisites
+
+Before you begin, ensure you have:
+- A computer running macOS or Windows
+- Admin access to install software
+- GitHub account with access to the docs repository
+- Internet connection
+## Installation Guide
+
+### Step 1: Install Git
+
+Git is the version control system that tracks changes to your documentation.
+
+<Tabs items={['macOS', 'Windows']}>
+<Tabs.Tab>
+**Option A: Using Homebrew (Recommended)**
+
+1. Install Homebrew if you don't have it:
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+2. Install Git:
+```bash
+brew install git
+```
+
+3. Verify installation:
+```bash
+git --version
+```
+
+</Tabs.Tab>
+<Tabs.Tab>
+**Using Git Bash (Recommended)**
+
+1. Visit [https://gitforwindows.org/](https://gitforwindows.org/)
+2. Download Git for Windows installer
+3. Run the installer with these settings:
+   - Select "Git Bash Here" context menu option
+   - Use "Vim" as default editor (or choose your preference)
+   - Let Git decide the default branch name
+   - Use bundled OpenSSH
+   - Use OpenSSL library
+   - Checkout Windows-style, commit Unix-style line endings
+   - Use MinTTY terminal
+   - Default pull behavior: fast-forward or merge
+   - Enable file system caching and credential manager
+
+4. After installation, open Git Bash from Start menu
+5. Verify installation:
+```bash
+git --version
+```
+
+</Tabs.Tab>
+</Tabs>
+
+---
+
+### Step 2: Configure Git
+
+Configure your Git identity and authentication for the private repository.
+
+#### Set Your Username and Email
+
+Open Terminal (macOS) or Git Bash (Windows) and run:
+
+```bash
+# Set your name (use your real name for commit attribution)
+git config --global user.name "Your Full Name"
+
+# Set your email (use the email associated with your GitHub account)
+git config --global user.email "your.email@example.com"
+
+# Verify your configuration
+git config --global --list
+```
+
+#### Set Up GitHub Authentication
+
+Since the docs repository is private, you need to authenticate with GitHub.
+
+**Using Personal Access Token (PAT) - Recommended**
+
+1. **Create a Personal Access Token:**
+   - Visit [github.com/settings/tokens](https://github.com/settings/tokens)
+   - Click "Generate new token" then "Generate new token (classic)"
+   - Give it a descriptive name: "Prisma Docs Access"
+   - Set expiration (recommend: 90 days or No expiration)
+   - Select scopes:
+     - Check `repo` (Full control of private repositories)
+     - Check `workflow` (if you need to run GitHub Actions)
+   - Click "Generate token"
+   - **Copy the token immediately** (you won't see it again!)
+
+2. **Configure Git to use the token:**
+
+<Tabs items={['macOS', 'Windows']}>
+<Tabs.Tab>
+**Using Git Credential Manager**
+
+```bash
+# Install Git Credential Manager (via Homebrew)
+brew install --cask git-credential-manager
+
+# It will automatically store credentials securely in Keychain
+```
+
+When you clone the repository (next step), you'll be prompted to enter:
+- Username: Your GitHub username
+- Password: **Paste your Personal Access Token** (not your GitHub password)
+
+The credentials will be saved automatically.
+</Tabs.Tab>
+<Tabs.Tab>
+**Using Git Credential Manager**
+
+Git Credential Manager is included with Git for Windows.
+
+When you clone the repository (next step), a window will pop up asking you to authenticate:
+- Select "Token" authentication
+- Paste your Personal Access Token
+- Credentials will be saved in Windows Credential Manager
+</Tabs.Tab>
+</Tabs>
+
+---
+
+### Step 3: Clone the Documentation Repository
+
+Navigate to where you want to store the docs and clone the repository:
+
+```bash
+# Navigate to your desired location
+cd ~/Documents  # macOS
+# or
+cd /c/Users/YourUsername/Documents  # Windows Git Bash
+
+# Clone the repository (using HTTPS with PAT)
+git clone https://github.com/[Your Organization Name]/docs.git
+
+# Navigate into the repository
+cd docs
+
+# Verify you're in the right place
+git status
+```
+
+You should see:
+```
+On branch main
+Your branch is up to date with 'origin/main'.
+nothing to commit, working tree clean
+```
+
+---
+
+### Step 4: Install Obsidian
+
+Obsidian is a powerful markdown editor that we use for editing documentation.
+
+<Tabs items={['macOS', 'Windows']}>
+<Tabs.Tab>
+**Option A: Download from Website**
+1. Visit [obsidian.md](https://obsidian.md)
+2. Click "Download for macOS"
+3. Open the downloaded .dmg file
+4. Drag Obsidian to Applications folder
+5. Open Obsidian from Applications
+
+</Tabs.Tab>
+<Tabs.Tab>
+1. Visit [obsidian.md](https://obsidian.md)
+2. Click "Download for Windows"
+3. Run the installer (.exe file)
+4. Follow installation prompts
+5. Launch Obsidian from Start menu
+</Tabs.Tab>
+</Tabs>
+
+---
+
+### Step 5: Open Docs Repository as Obsidian Vault
+
+Connect Obsidian to your cloned documentation repository.
+
+1. **Launch Obsidian**
+
+2. **Open folder as vault:**
+   - Click "Open folder as vault" (or "Open" if you've used Obsidian before)
+   - Navigate to your cloned docs repository
+   - Select the **root folder** of the repository (the `docs` folder you cloned)
+   - Click "Open"
+
+   Example path: ~/Documents/docs or C:\Users\YourName\Documents\docs
+
+3. **Trust the vault:**
+   - Obsidian may show a security prompt
+   - Click "Trust author and enable plugins" (since you're working with official Prisma docs)
+
+---
+
+### Step 6: Install Obsidian Git Plugin
+
+Set up automatic Git commits and syncing.
+
+1. **Open Settings:**
+   - Click the gear icon in the bottom-left corner
+   - Or use keyboard shortcut: `Cmd + ,` (macOS) or `Ctrl + ,` (Windows)
+
+2. **Enable Community Plugins:**
+   - Go to "Community plugins" in the left sidebar
+   - Click "Turn on community plugins"
+   - Click "Browse" to open the plugin marketplace
+
+3. **Install Obsidian Git:**
+   - Search for "Obsidian Git"
+   - Click on "Obsidian Git" by Vinzent (Denis Olehov)
+   - Click "Install"
+   - After installation, click "Enable"
+
+4. **Configure Obsidian Git:**
+   - Go back to Settings then Community plugins
+   - Find "Obsidian Git" in the installed plugins list
+   - Click the gear icon next to it to configure
+
+   **Recommended Settings:**
+   ```
+   Vault backup interval (minutes): 1
+   Auto pull interval (minutes): 1
+   Commit message: vault backup: {{date}}
+   Pull updates on startup: ON
+   Push on backup: ON
+   ```
+
+   **Detailed Configuration:**
+   - **Vault backup interval**: `1` (auto-commit every 1 minute)
+   - **Auto pull interval**: `1` (check for updates every 1 minute)
+   - **Commit message**: `vault backup: {{date}}` (or customize)
+   - **Date placeholder format**: `YYYY-MM-DD HH:mm:ss`
+   - **Pull updates on startup**: Enabled
+   - **Push on backup**: Enabled
+   - **Disable notifications**: Your preference
+   - **Show status bar**: Enabled (helpful to see sync status)
+
+5. **Save settings** and close the settings panel
+
+---
+
+### Step 7: Make Your First Commit
+
+Test your setup by making your first commit.
+
+<Tabs items={['Using Obsidian', 'Using Terminal']}>
+<Tabs.Tab>
+**Using Obsidian Git Plugin**
+
+1. **Make a test edit:**
+   - Open any markdown file (or create a test file)
+   - Make a small change (add a space, edit a word)
+   - Save the file (`Cmd + S` or `Ctrl + S`)
+
+2. **Commit using Command Palette:**
+   - Open Command Palette: `Cmd + P` (macOS) or `Ctrl + P` (Windows)
+   - Type "Obsidian Git: Commit all changes"
+   - Press Enter
+   - Enter your commit message in the prompt:
+     ```
+     docs: test commit from Obsidian
+     ```
+   - Press Enter to confirm
+
+3. **Push to GitHub:**
+   - Open Command Palette again: `Cmd + P` or `Ctrl + P`
+   - Type "Obsidian Git: Push"
+   - Press Enter
+   - Check the status bar (bottom-right) for confirmation
+
+4. **Verify on GitHub:**
+   - Visit your repository on GitHub
+   - You should see your commit in the commit history
+
+**Alternative: Wait for Auto-Commit**
+- With your settings, Obsidian will auto-commit and push every minute
+- Make an edit, save it, and wait 1 minute
+- Check the status bar for sync confirmation
+</Tabs.Tab>
+<Tabs.Tab>
+**Using Terminal/Git Bash**
+
+1. **Check status:**
+```bash
+cd ~/Documents/docs  # or your docs path
+git status
+```
+
+2. **Add changes:**
+```bash
+# Add all changes
+git add .
+
+# Or add specific files
+git add content/processes/process-infrastructuring/propagate/index.mdx
+```
+
+3. **Commit with message:**
+```bash
+git commit -m "docs: test commit from terminal"
+```
+
+4. **Push to GitHub:**
+```bash
+git push origin main
+```
+
+5. **Verify:**
+```bash
+git log --oneline -5  # See last 5 commits
+```
+
+</Tabs.Tab>
+</Tabs>
+
+---
+
+## Workflow: Editing Documentation
+
+Now that everything is set up, here's your typical workflow:
+
+### Daily Editing Process
+
+1. **Open Obsidian** (it will auto-pull latest changes on startup)
+2. **Navigate to content** using file explorer or search (`Cmd/Ctrl + O`)
+3. **Edit markdown files** as needed
+4. **Save your changes** (`Cmd/Ctrl + S`)
+5. **Wait for auto-commit** (every 60 seconds) or manually commit:
+   - `Cmd/Ctrl + P` then "Obsidian Git: Commit all changes"
+6. **Auto-push** happens automatically with commits
+7. **Close Obsidian** when done
+
+### Best Practices
+
+**Do:**
+- Pull updates before starting work (auto-handled if configured)
+- Write clear, descriptive commit messages
+- Commit frequently (or let auto-commit handle it)
+- Check the status bar to confirm syncs
+- Review your changes before committing
+
+**Don't:**
+- Force push (`git push --force`) - it can overwrite others' work
+- Commit sensitive information (API keys, passwords)
+- Edit files directly on GitHub (conflicts with local changes)
+- Ignore merge conflicts (resolve them promptly)
+
+### Commit Message Conventions
+
+Use semantic commit messages, the description of your git commits should be direct and short.
+
+Examples:
+```bash
+docs: add propagate installation guide
+docs: update enrolment process
+fix: correct typo in case study
+feat: add new tutorial section
+```
+
+**Format Examples:** `type: description`
+
+**Types:**
+- `docs`: Documentation changes
+- `feat`: New feature/section
+- `fix`: Bug fixes, typos
+- `refactor`: Restructuring content
+
+---
+
+## Troubleshooting
+
+### Authentication Problems
+
+**Issue:** "Authentication failed" when pushing
+
+**Solutions:**
+1. **Verify your token hasn't expired:**
+   - Go to [github.com/settings/tokens](https://github.com/settings/tokens)
+   - Check token expiration
+   - Generate new token if needed
+
+2. **Update stored credentials:**
+   ```bash
+   # macOS - Remove and re-add
+   git credential-osxkeychain erase
+   # Type: host=github.com
+   # Press Enter twice
+
+   # Windows - Open Credential Manager
+   # Control Panel then Credential Manager then Windows Credentials
+   # Remove GitHub entries
+   # Next push will prompt for new credentials
+   ```
+
+3. **Test authentication:**
+   ```bash
+   git pull origin main
+   # Should not ask for credentials if configured correctly
+   ```
+
+### Sync Errors
+
+**Issue:** "Merge conflict" detected
+
+**Solutions:**
+1. **Using Obsidian Git:**
+   - `Cmd/Ctrl + P` then "Obsidian Git: Pull"
+   - If conflicts occur, open Terminal
+
+2. **Resolve in Terminal:**
+   ```bash
+   cd ~/Documents/docs
+
+   # See conflicted files
+   git status
+
+   # Open conflicted file in editor
+   # Look for conflict markers:
+   # <<<<<<< HEAD
+   # Your changes
+   # =======
+   # Their changes
+   # >>>>>>> branch
+
+   # Edit to resolve, remove markers
+   # Then:
+   git add .
+   git commit -m "docs: resolve merge conflict"
+   git push origin main
+   ```
+
+3. **Prevent conflicts:**
+   - Always pull before editing
+   - Use auto-pull in Obsidian Git settings
+   - Communicate with team about major edits
+
+**Issue:** "Your branch is behind 'origin/main'"
+
+**Solution:**
+```bash
+git pull origin main
+# Or in Obsidian: Cmd/Ctrl + P then "Obsidian Git: Pull"
+```
+
+**Issue:** Changes not pushing automatically
+
+**Solutions:**
+1. Check Obsidian Git settings:
+   - "Push on backup" should be enabled
+   - Check status bar for error messages
+
+2. Manually push:
+   - `Cmd/Ctrl + P` then "Obsidian Git: Push"
+
+3. Check network connection
+
+4. Verify authentication (see Authentication section above)
+
+### Obsidian Issues
+
+**Issue:** Obsidian Git plugin not working
+
+**Solutions:**
+1. Verify plugin is enabled:
+   - Settings then Community plugins
+   - Find "Obsidian Git" and ensure it's enabled
+
+2. Check Git is installed and in PATH:
+   ```bash
+   git --version
+   # Should show version number
+   ```
+
+3. Restart Obsidian
+
+4. Reinstall plugin:
+   - Settings then Community plugins
+   - Uninstall Obsidian Git
+   - Reinstall and enable
+
+**Issue:** Files not showing in Obsidian
+
+**Solutions:**
+1. Check if files are in correct location (under `content/`)
+2. Refresh file explorer (right-click then Refresh)
+3. Check file extensions (.md) (Some files have javascript code (.mdx), these Base example docs can ignored)
+
+---
+
+## Next Steps
+
+Now that your documentation environment is set up:
+
+1. **Explore the documentation structure:**
+   - Browse content
+
+2. **Start contributing:**
+   - Fix typos you find
+   - Add missing documentation
+   - Update outdated information
+   - Create new tutorials
+
+3. **Join the community:**
+   - Share your setup experience
+   - Help others with installation
+
+4. **Learn Markdown/MDX:**
+   - [Markdown Guide](https://www.markdownguide.org/)
+   - [MDX Documentation](https://mdxjs.com/) (For coders)
+   - Review existing content for examples
+
+
+## Resources
+
+### Official Documentation
+- [Git Documentation](https://git-scm.com/doc)
+- [GitHub Docs](https://docs.github.com)
+- [Obsidian Help](https://help.obsidian.md)
+- [Obsidian Git Plugin](https://github.com/denolehov/obsidian-git)
+
+### Video Tutorials
+- [Git Tutorial for Beginners](https://www.youtube.com/watch?v=8JJ101D3knE)
+- [Obsidian for Beginners](https://www.youtube.com/watch?v=QgbLb6QCK88)
+
+---
+
+## Summary
+
+You now have a complete documentation workflow:
+
+- Git installed and configured
+- GitHub authentication set up
+- Repository cloned locally
+- Obsidian installed and connected
+- Auto-commit and sync enabled
+- First commit completed
+
+**Your workflow is now:**
+1. Open Obsidian (auto-pulls latest changes)
+2. Edit documentation
+3. Save (auto-commits and pushes every 60 seconds)
+4. Continue editing with confidence
+
+Happy documenting!
