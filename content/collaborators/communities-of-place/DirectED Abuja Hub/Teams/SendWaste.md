@@ -9,7 +9,7 @@ Welcome to SendWaste Cardano’s documentation hub for the CATS Hackathon – Ab
 - Bethel Clement, MSc. – Product Manager & Founder  
     Founder of SendWaste with 7+ years in waste-tech. Leads partnerships, community research, product strategy, and operations. Built and scaled the Web2 platform (sendwaste.com), now migrating to Cardano.  
       
-    
+     
 - Oluokun Adesina – Full Stack & Blockchain Developer  
     Leads Aiken smart contract development and technical implementation across Cardano, IPFS, Node.js/Express, and Blockfrost API.  
       

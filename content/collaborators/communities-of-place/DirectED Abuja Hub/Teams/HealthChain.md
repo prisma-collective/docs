@@ -11,7 +11,7 @@ Leads overall execution, sprint management, and cross-team coordination. Builds 
 
 Contribution:  
 Ensures efficient navigation, responsive layouts, and seamless user experience across devices. Aligns feature delivery with health-system needs.
-
+  
 ### 1.2 Azu Chukwuemeka — Backend Developer & Tech Lead
 
 Role Summary:  

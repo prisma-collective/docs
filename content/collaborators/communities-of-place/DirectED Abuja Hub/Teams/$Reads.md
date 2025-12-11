@@ -9,7 +9,7 @@ Welcome to READS’ documentation hub for the CATS Hackathon.
 - Aakor-Okara Greatname – Project Manager  
     Leads overall project coordination, delivery timelines, and product execution.  
       
-    
+     
 - Benedict Amadi – Chief Information Security Officer (CISO)  
     Oversees platform security, data protection, and system integrity.  
       

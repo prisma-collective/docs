@@ -11,7 +11,7 @@ Welcome to StemTrust’s documentation hub for the CATS Hackathon.
 - Salaudeen Muhammad Mustapha – Developer & Project Tester  
     Handles quality assurance, workflow testing, and supports frontend implementation.  
       
-    
+     
 - Benshak Tom – Project Manager  
     Oversees coordination, stakeholder engagement, documentation, and led the Stage 1 community exploration.  
       
