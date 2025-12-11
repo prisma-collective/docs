@@ -1,4 +1,4 @@
-**
+ **
 
 Welcome to StemTrust’s documentation hub for the CATS Hackathon.
 

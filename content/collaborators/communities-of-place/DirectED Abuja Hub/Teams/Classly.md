@@ -5,7 +5,7 @@ Welcome to Classly’s documentation hub for the CATS Hackathon.
 ---
 
 ## Team Members
-
+ 
 - Matthew Okadinya – Team Lead & CEO, Full-Stack Developer  
     Leads the technical vision and full-stack execution of the platform. Responsible for delivering Classly’s core promise of accelerated cash flow for education creators.  
       
