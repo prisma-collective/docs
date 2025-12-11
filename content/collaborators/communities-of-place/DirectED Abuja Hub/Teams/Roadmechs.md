@@ -9,7 +9,7 @@ Welcome to Roadmechs’ documentation hub for the CATS Hackathon.
 - Garba Awwal – Team Lead & Product Manager  
     Leads product vision, user research, coordination, and overall delivery of the Roadmechs platform.  
         
-    
+     
 - Chinwoekwu Emmanuel – Full Stack Developer  
     Handles both frontend and backend development, ensuring seamless system integration.  
       
@@ -25,7 +25,7 @@ Welcome to Roadmechs’ documentation hub for the CATS Hackathon.
 - Agbahara Victor – Frontend Developer & Product Designer  
     Supports interface development while co-designing product usability and layout.  
       
-    
+     
 - Ewaoche Joshua – Mobile Developer  
     Develops the mobile application experience for roadside users and mechanics.  
       

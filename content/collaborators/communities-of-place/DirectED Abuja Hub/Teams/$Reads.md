@@ -16,7 +16,7 @@ Welcome to READS’ documentation hub for the CATS Hackathon.
     
 - Eden – AI Engineer  
     Designs the intelligent learning and assessment logic that supports quiz validation and learner progression.  
-      
+       
     
 - Borngreat Ikwutah – Smart Contracts Developer  
     Builds and deploys blockchain logic powering token rewards and on-chain certificates.  

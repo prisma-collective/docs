@@ -12,7 +12,7 @@ Welcome to Classly’s documentation hub for the CATS Hackathon.
      
 - Daniel Igbokwe – Product Manager  
     Drives market strategy, user experience design, and the positioning of the 30/40/30 model as a compelling alternative to legacy platforms.  
-      
+       
     
 - David Akanang – Blockchain Developer  
     Architects and deploys the Plutus smart contracts powering the escrow system and NFT certificate minting — the core intellectual property of Classly.  
@@ -25,7 +25,7 @@ Welcome to Classly’s documentation hub for the CATS Hackathon.
 - Rejoice Ukange – UI/UX Designer  
     Designs trust-first user journeys and visual communication for security, payment flow transparency, and platform credibility.  
       
-    
+     
 
   
 

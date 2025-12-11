@@ -16,7 +16,7 @@ Welcome to StemTrust’s documentation hub for the CATS Hackathon.
     Oversees coordination, stakeholder engagement, documentation, and led the Stage 1 community exploration.  
       
      
-
+ 
 ## Project Overview
 
 ### Problem Statement

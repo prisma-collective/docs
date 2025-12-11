@@ -10,7 +10,7 @@ Welcome to MediSure’s documentation hub for the CATS Hackathon – Abuja Hub.
     
 - Antimony (Tobi) – Frontend Developer (React)  
     Builds the client-facing web interface for users, pharmacists, and doctors.  
-       
+        
     
 - Nife – Backend Developer (Django)  
     Designs and manages the server-side logic, APIs, and database infrastructure.  
@@ -24,7 +24,7 @@ Welcome to MediSure’s documentation hub for the CATS Hackathon – Abuja Hub.
     Designs intuitive user journeys for patients, pharmacists, and healthcare providers.  
       
     
-
+ 
 ## Project Overview
 
 ### Problem Statement

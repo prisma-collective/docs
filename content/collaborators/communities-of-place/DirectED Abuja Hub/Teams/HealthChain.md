@@ -6,7 +6,7 @@ Welcome to HealthChain’s documentation hub for the CATS Hackathon.
  
 ### 1.1 Maryjane Chukelu — Frontend Developer & Project Manager
 
-Role Summary:  
+Role Summary:   
 Leads overall execution, sprint management, and cross-team coordination. Builds the Progressive Web App (PWA) interface for residents, clinics, and doctors.
 
 Contribution:  
@@ -20,7 +20,7 @@ Architects the backend, designs authentication, permissions, medical record work
 Contribution:  
 Ensures secure, scalable, and high-performance medical record storage and system integrity for all health actors.
 
-### 1.3 Joshua Aladeloye — UI/UX Designer & Content Strategist
+### 1.3 Joshua  Aladeloye — UI/UX Designer & Content Strategist
 
 Role Summary:  
 Designs user flows, dashboards, and platform interface. Creates clear, accessible content aligned with digital health standards.
