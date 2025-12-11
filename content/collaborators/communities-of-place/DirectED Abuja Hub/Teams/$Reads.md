@@ -2,7 +2,7 @@
 
 Welcome to READS’ documentation hub for the CATS Hackathon.
 
-  
+   
 
 ## Team Members
 

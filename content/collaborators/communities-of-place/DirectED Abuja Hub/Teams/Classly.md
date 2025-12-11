@@ -34,7 +34,7 @@ Welcome to Classly’s documentation hub for the CATS Hackathon.
 ### Problem Statement
 
 The global e-learning market is massive, yet it is structurally broken at its financial core.
-
+ 
 Independent educators — the backbone of the creator economy — are forced into a damaging trade-off:
 
 - Legacy platforms provide trust, but lock creator earnings behind 30–60 day payment delays, crushing cash flow and treating teachers as low-priority vendors.  

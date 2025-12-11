@@ -6,7 +6,7 @@ Welcome to MediSure’s documentation hub for the CATS Hackathon – Abuja Hub.
 
 - John Okojere – Product Manager (Team Lead)  
     Leads product strategy, coordination, user research, and stakeholder engagement.  
-      
+       
     
 - Antimony (Tobi) – Frontend Developer (React)  
     Builds the client-facing web interface for users, pharmacists, and doctors.  

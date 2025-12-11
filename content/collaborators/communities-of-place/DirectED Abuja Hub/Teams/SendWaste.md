@@ -12,7 +12,7 @@ Welcome to SendWaste Cardano’s documentation hub for the CATS Hackathon – Ab
      
 - Oluokun Adesina – Full Stack & Blockchain Developer  
     Leads Aiken smart contract development and technical implementation across Cardano, IPFS, Node.js/Express, and Blockfrost API.  
-      
+       
     
 - Bridget – UI/UX Designer  
     Designs product interfaces and user journeys. Frontend development using HTML, CSS, and JavaScript.  

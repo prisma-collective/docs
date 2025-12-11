@@ -15,7 +15,7 @@ Welcome to StemTrust’s documentation hub for the CATS Hackathon.
 - Benshak Tom – Project Manager  
     Oversees coordination, stakeholder engagement, documentation, and led the Stage 1 community exploration.  
       
-    
+     
 
 ## Project Overview
 
