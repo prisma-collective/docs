@@ -22,7 +22,7 @@ Welcome to MediSure’s documentation hub for the CATS Hackathon – Abuja Hub.
     
 - Precious – UI/UX Designer  
     Designs intuitive user journeys for patients, pharmacists, and healthcare providers.  
-      
+       
     
  
 ## Project Overview

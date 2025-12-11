@@ -25,7 +25,7 @@ Welcome to Roadmechs’ documentation hub for the CATS Hackathon.
 - Agbahara Victor – Frontend Developer & Product Designer  
     Supports interface development while co-designing product usability and layout.  
       
-     
+      
 - Ewaoche Joshua – Mobile Developer  
     Develops the mobile application experience for roadside users and mechanics.  
       

@@ -21,7 +21,7 @@ Welcome to SendWaste Cardano’s documentation hub for the CATS Hackathon – Ab
 - Timothy Jehwo – Backend Developer  
     Handles backend validation, system security, and UTXO transparency.  
       
-    
+     
 - Daniel Adewole Adediran – Data Scientist  
     Manages real-time dashboards, live leaderboard, ESG impact analytics, and reporting.  
       

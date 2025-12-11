@@ -19,7 +19,7 @@ Architects the backend, designs authentication, permissions, medical record work
 
 Contribution:  
 Ensures secure, scalable, and high-performance medical record storage and system integrity for all health actors.
-
+ 
 ### 1.3 Joshua  Aladeloye — UI/UX Designer & Content Strategist
 
 Role Summary:  
