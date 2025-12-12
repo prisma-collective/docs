@@ -35,7 +35,7 @@ interface TeamCardsProps {
   team?: TeamMember[];
 }
 
-export default function TeamCards({ team }: TeamCardsProps) {
+export default function TeamCards0x({ team }: TeamCardsProps) {
   const dataToUse = team ?? (teamData as TeamMember[]);
 
   // Global cache for Telegram data
