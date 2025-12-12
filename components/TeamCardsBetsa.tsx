@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from 'react';
-import teamData from '@/public/0xTeam.json';
+import teamData from '@/public/betsa.json';
 import { FaXTwitter, FaTelegram, FaGithub, FaLinkedinIn, FaPhone, FaGlobe, FaGitlab } from "react-icons/fa6";
 import { ProfileCard } from './ProfileCard';
 import { MdOutlineEmail } from "react-icons/md";
@@ -35,7 +35,7 @@ interface TeamCardsProps {
   team?: TeamMember[];
 }
 
-export default function TeamCards0x({ team }: TeamCardsProps) {
+export default function TeamCardsBetsa({ team }: TeamCardsProps) {
   const dataToUse = team ?? (teamData as TeamMember[]);
 
   // Global cache for Telegram data
