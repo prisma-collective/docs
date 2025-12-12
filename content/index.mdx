@@ -1,17 +1,19 @@
 ---
-
 sidebarTitle: Home
-
 ---
 
-import { Cards, Steps } from 'nextra/components'
+import { Cards } from 'nextra/components'
+import TeamCards from '../components/TeamCards'
 
+## Welcome to the Abuja Hub
+
+{/** Card Section */}
 <Cards num={3}>
   <Cards.Card arrow title="Explore" href="#about-the-abuja-hub" className="font-custom">
     ![Community Context](/communicating-al.png)
   </Cards.Card>
 
-  <Cards.Card arrow title="Build" href="#hub-schedule--key-activities" className="font-custom">
+  <Cards.Card arrow title="Build" href="#hub-schedule-key-activities" className="font-custom">
     ![Hackathon Journey](/action-learning.png)
   </Cards.Card>
 
@@ -20,6 +22,7 @@ import { Cards, Steps } from 'nextra/components'
   </Cards.Card>
 </Cards>
 
+---
 
 ## 🧭 Overview
 
@@ -29,7 +32,7 @@ This space serves as the primary coordination and learning environment for teams
 
 Rooted in Abuja’s unique position as Nigeria’s civic centre, the hub brings together builders who understand that innovation here must be practical, people-centred, and resilient.
 
-Within this space, teams can access:
+### In this space, you’ll find:
 
 - The full flow of activities taking place in the Abuja Hub  
 - Submission requirements, milestones, and key timelines  
@@ -37,7 +40,7 @@ Within this space, teams can access:
 - Hub contacts, mentors, and support channels  
 - Templates, guides, and collective learning resources  
 
-Use this page as your single source of truth whenever you are unsure where something lives, what is expected, or what comes next.
+Use this page as your **single source of truth** whenever you're unsure where something lives, what is expected, or what comes next.
 
 ---
 
@@ -70,9 +73,9 @@ The mission is simple: ensure every team in the Abuja Hub has the clarity, suppo
 
 ---
 
-## 📅 Hub Schedule & Key Activities {#hub-schedule--key-activities}
+## 📅 Hub Schedule & Key Activities {#hub-schedule-key-activities}
 
-The Abuja Hub follows a clear and intentional progression to support teams as they move through:
+The Abuja Hub follows a clear and intentional progression:
 
 **exploration → sense-making → design → prototyping → final submission**
 
@@ -82,36 +85,35 @@ Each phase includes:
 - Review and reflection checkpoints  
 - Documentation and learning requirements  
 
-Teams are expected to demonstrate visible, meaningful progress at every stage — not just in code or design, but in depth of understanding and alignment with community needs.
+Teams are expected to show meaningful progress at every stage — not just in code or design, but in **depth of understanding and alignment with community needs**.
 
 ---
 
 ## 👥 Our Team
 
-The Hub Team provides structure, coherence, and support for all teams within the DirectED Abuja Hub.  
-Roles are adaptive and collaborative, guided by the principles of distributed leadership and place-based coordination.
+The Hub Team provides structure, coherence, and support for all teams within the Abuja Hub, guided by distributed leadership and place-based coordination.
 
 ### Emerald Akhaumere  
 **Hub Lead • Hub Communications**  
-Provides strategic direction for the Abuja Hub, leads community organisation, and ensures clarity and excellence in communication across all hub activities. Represents the Abuja Hub within the broader DirectED network and supports coordination and alignment across teams.
+Provides strategic direction for the hub, leads coordination, and ensures clarity and excellence in communication. Represents the Abuja Hub within the broader DirectED network.
 
 ### Ruby O  
 **Hub Facilitator • Documentation**  
-Oversees documentation processes, supports team formation, and facilitates structured collaboration. Maintains clarity across artefacts and ensures transparent recording of work, learning, decisions, and progress throughout the hub.
+Oversees documentation, team formation, and structured collaboration. Maintains transparency of work and decisions.
 
 ### Sylvert  
 **Hub Coordinator**  
-Ensures operational coherence between the Abuja Hub and continental DirectED processes. Supports timelines, shared expectations, cross-hub synchronisation, and knowledge exchange across communities of place.
+Supports operational alignment between Abuja Hub and the broader DirectED process. Manages timelines and cross-hub exchange.
 
 ### Chisom  
 **Hub Teaching & Mentorship**  
-Provides technical and conceptual mentorship across teams. Guides learning pathways, supports exploration, and nurtures builder growth within the Abuja Hub.
+Provides technical and conceptual mentorship. Guides exploration, supports builder growth.
 
 ---
 
 ## 🧩 Abuja Hub Teams {#abuja-hub-teams}
 
-The Abuja Hub is home to 10 active teams, each working on context-driven challenges:
+The Abuja Hub is home to 10 active teams working on context-driven challenges:
 
 - StemTrust  
 - CATS_P  
@@ -131,55 +133,51 @@ Each team is responsible for maintaining its own:
 - Clearly defined problem statement  
 - Working rhythm aligned with hub milestones  
 
-Teams are encouraged to keep artefacts current and accessible to support peer learning, transparency, and collective growth.
+Teams must keep artefacts current and accessible to support **peer learning** and **transparency**.
 
 ---
 
-## Operating Model
+## ⚙️ Operating Model
 
 ### Weekly Rhythm
 
-The Abuja Hub operates on a consistent weekly rhythm designed to balance discipline with flexibility:
+The Abuja Hub operates on a consistent rhythm that balances discipline with flexibility:
 
 - Weekly team check-ins  
-- Two structured workshop sessions  
-- Asynchronous collaboration across teams  
+- Two structured workshops per week  
+- Asynchronous team collaboration  
 - Regular documentation updates  
 
-This rhythm reflects a core Nigerian strength: the ability to adapt, iterate, and keep building—even in changing conditions.
+This rhythm reflects a Nigerian strength: the ability to adapt and keep building—even in shifting conditions.
 
 ---
 
 ## 📚 Hub Resources & Templates
 
-This section contains the shared foundations used by all teams in the Abuja Hub.
-
-Resources include:
+This section holds shared tools used across all Abuja Hub teams:
 
 - Participation and submission guides  
-- Interview, insight, and documentation templates  
-- Technical and Cardano integration references  
-- Evaluation criteria and review expectations  
-- Workshop materials and learning resources  
+- Interview, insight, and doc templates  
+- Technical + Cardano integration references  
+- Evaluation rubrics and review criteria  
+- Workshop slides, session replays, and guides  
 
-Teams are expected to actively use these resources throughout their journey to ensure consistency, quality, and clarity across submissions.
+Teams are expected to actively **engage** with these resources to ensure quality and consistency.
 
 ---
 
-# Contributors
+## 🙌 Contributors
 
-<br/>
+{/** TeamCards should be imported from your components */}
+{<TeamCards />}
 
-<TeamCards/>
+---
 
-<br/>
+## 🗓️ Calendar
 
-# Calendar
+Stay informed about upcoming events, open calls, and sessions.
 
-Upcoming events, including open calls, are shown below. Feel free to subscribe to the calendar to stay informed about what's being organised, and come join if you'd like to.
-
-<br/>
-
+{/** Embed calendar */}
 <iframe
   src="https://lu.ma/embed/calendar/cal-yvXOBO4Tsm6FZ4o/events?lt=dark"
   width="100%"
