@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Betsaleel Dakuyo",
+    "role": "Technical lead",
+    "photo": "/Betsa.png",
+    "profile_card_link": "https://www.linkedin.com/in/betsaleel-dakuyo-7a7220313",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/betsaleel-dakuyo-7a7220313",
+        "icon": "FaLinkedinIn"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Betsa777",
+        "icon": "FaGithub"
+      }
+    ]
+  },
+  {
+    "name": "Laurentine Djatsa",
+    "role": "Team member",
+    "photo": "/laurentine.jpg",
+    "profile_card_link": "https://www.linkedin.com/in/inkuba-academy-9903a5273/",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/inkuba-academy-9903a5273/",
+        "icon": "FaLinkedinIn"
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/InkubaHub1",
+        "icon": "FaGithub"
+      }
+    ]
+  },
+  {
+    "name": "Farida Minte",
+    "role": "Team member",
+    "photo": "",
+    "profile_card_link": "https://www.linkedin.com/in/betsaleel-dakuyo-7a7220313",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/betsaleel-dakuyo-7a7220313",
+        "icon": "FaLinkedinIn"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Betsa777",
+        "icon": "FaGithub"
+      }
+    ]
+  },
+  {
+    "name": "Adama Kantagba",
+    "role": "Team member",
+    "photo": "",
+    "profile_card_link": "https://www.linkedin.com/in/betsaleel-dakuyo-7a7220313",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/betsaleel-dakuyo-7a7220313",
+        "icon": "FaLinkedinIn"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Betsa777",
+        "icon": "FaGithub"
+      }
+    ]
+  },
+  {
+    "name": "Aime Nico Kam",
+    "role": "Team Mmember",
+    "photo": "/nico.jpg",
+    "profile_card_link": "https://www.linkedin.com/in/aim%C3%A9-si%C3%A9-humpa-nico-kam-6b76941b9/",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/aim%C3%A9-si%C3%A9-humpa-nico-kam-6b76941b9/",
+        "icon": "FaLinkedinIn"
+      }
+    ]
+  }
+]
