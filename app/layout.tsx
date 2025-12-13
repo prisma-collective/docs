@@ -46,7 +46,7 @@ const navbar = (
   <Navbar
     logo={
       <div>
-        <Image src="/prisma-name-text-dark.svg" width={140} height={60} alt="Prisma Logo" />
+        <Image src="/abuja-hub-logo.png" width={140} height={60} alt="DirectEd Logo" />
       </div>
     }
     logoLink={"https://www.prisma.events/"}

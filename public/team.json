@@ -4,32 +4,22 @@
       "role": "Hub Lead",
       "photo": "/DSC7426.svg",
       "profile_card_link": "/processes/evaluation",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/shikharwah", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/emerald-akhaumere/", "icon": "FaLinkedinIn" },
-        { "label": "GitHub", "url": "https://github.com/emerald-collab", "icon": "FaGithub" }
-      ]
+      "links": []
     },
     {
       "name": "Ruby",
       "role": "Hub Facilitator • Documentation",
       "photo": "/delfi.svg",
       "profile_card_link": "/processes/enactment",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/delfina-terrado", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/delfina-terrado/", "icon": "FaLinkedinIn" },
-        { "label": "Website", "url": "https://iniciativamurmullo.com/", "icon": "FaGlobe" }
-      ]
+      "links": []
+        
     },
     {
       "name": "Chisom",
       "role": "Hub Teaching & Mentorship",
       "photo": "/mercy.svg",
       "profile_card_link": "/processes/ground-potentialising",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/mercy-wada", "icon": "FaPhone" },
-        { "label": "Website", "url": "https://www.wada.org", "icon": "FaGlobe" }
-      ]
+      "links": []
     },
     {
       "name": "Sylvert",
