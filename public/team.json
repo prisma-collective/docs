@@ -35,7 +35,8 @@
       "name": "Sylvert",
       "role": "Hub Coordinator",
       "photo": "/tabs.svg",
-      "profile_card_link": "/processes/process-infrastructuring"
+      "profile_card_link": "/processes/process-infrastructuring",
+      "links":[]
     }
   ]
   
