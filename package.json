@@ -2,13 +2,17 @@
   "name": "prisma-docs",
   "version": "0.0.2",
   "description": "Prisma Documentation",
+  "type": "module",
+  "packageManager": "pnpm@10.25.0",
+
   "scripts": {
-    "dev": "next --turbopack",
+    "dev": "next --turbo",
     "build": "next build",
     "start": "next start",
     "postbuild": "pagefind --site .next/server/app --output-path public/_pagefind",
     "record": "tsx scripts/record/index.ts"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/prisma-collective/docs.git"
@@ -19,42 +23,49 @@
     "url": "https://github.com/prisma-collective/docs/issues"
   },
   "homepage": "https://docs.prisma.events",
+
   "dependencies": {
     "@headlessui/react": "^2.2.9",
-    "@next/mdx": "^16.0.10",
+    "@next/mdx": "14.1.3",
     "@tailwindcss/postcss": "^4.1.18",
     "@vercel/analytics": "^1.6.1",
+
     "boring-avatars": "^2.0.4",
     "chart.js": "^4.5.1",
     "cose-base": "^2.2.0",
     "cytoscape": "^3.33.1",
     "cytoscape-cose-bilkent": "^4.1.0",
     "googleapis": "^168.0.0",
-    "next": "15.2.6",
-    "nextra": "^4.6.1",
-    "nextra-theme-docs": "^4.6.1",
+
+    "next": "14.1.3",
+    "nextra": "4.6.1",
+    "nextra-theme-docs": "4.6.1",
+
     "open": "^11.0.0",
     "postcss": "^8.5.6",
-    "react": "^19.2.3",
-    "react-dom": "^19.2.3",
+
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+
     "react-icons": "^5.5.0",
     "remark-wiki-link": "^2.0.1",
     "shiki": "3.20.0"
   },
+
   "devDependencies": {
     "@mdx-js/react": "^3.1.1",
-    "@types/node": "25.0.1",
-    "@types/react": "19.2.7",
+    "@types/node": "20.11.30",
+    "@types/react": "18.2.37",
+
     "chalk": "^5.6.2",
     "execa": "^9.6.1",
     "inquirer": "^13.0.2",
     "pagefind": "^1.4.0",
     "sharp": "^0.34.5",
     "systeminformation": "^5.27.13",
+
     "tailwindcss": "^4.1.18",
     "tsx": "^4.21.0",
-    "typescript": "^5.9.3"
-  },
-  "type": "module",
-  "packageManager": "pnpm@10.25.0"
+    "typescript": "^5.2.2"
+  }
 }
