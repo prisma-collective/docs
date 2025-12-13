@@ -14,41 +14,19 @@
       "name": "Ruby",
       "role": "Hub Facilitator • Documentation",
       "photo": "/delfi.svg",
-      "profile_card_link": "/processes/enactment",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/delfina-terrado", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/delfina-terrado/", "icon": "FaLinkedinIn" },
-        { "label": "Website", "url": "https://iniciativamurmullo.com/", "icon": "FaGlobe" }
-      ]
+      "profile_card_link": "/processes/enactment"
     },
     {
       "name": "Chisom",
       "role": "Hub Teaching & Mentorship",
       "photo": "/mercy.svg",
-      "profile_card_link": "/processes/ground-potentialising",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/mercy-wada", "icon": "FaPhone" },
-        { "label": "Website", "url": "https://www.wada.org", "icon": "FaGlobe" }
-      ]
+      "profile_card_link": "/processes/ground-potentialising"
     },
     {
       "name": "Sylvert",
       "role": "Hub Coordinator",
       "photo": "/tabs.svg",
-      "profile_card_link": "/processes/process-infrastructuring",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://linkedin.com/in/tobias-fechner", "icon": "FaLinkedinIn" },
-        { "label": "GitHub", "url": "https://github.com/tbsfchnr", "icon": "FaGithub" }
-      ]
-    },
-    {
-      "name": "Noah",
-      "role": "web3 Fundraising",
-      "photo": "/noah.jpg",
-      "profile_card_link": "/context-narrative",
-      "links": [
-      ]
+      "profile_card_link": "/processes/process-infrastructuring"
     }
   ]
   
