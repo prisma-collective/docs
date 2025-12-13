@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from 'react';
-import teamData from '@/public/team.json';
 import { FaXTwitter, FaTelegram, FaGithub, FaLinkedinIn, FaPhone, FaGlobe } from "react-icons/fa6";
 import { ProfileCard } from './ProfileCard';
 import { MdOutlineEmail } from "react-icons/md";
@@ -35,15 +34,25 @@ interface TeamCardsProps {
 }
 
 export default function TeamCards({ team }: TeamCardsProps) {
-  const dataToUse = team ?? (teamData as TeamMember[]);
+  // Default empty array if no data provided
+  let dataToUse: TeamMember[] = team ?? [];
+  
+  // Try to load team data, but don't fail if it doesn't exist
+  if (!team) {
+    try {
+      const teamData = require('@/public/team.json');
+      dataToUse = teamData as TeamMember[];
+    } catch (error) {
+      console.warn('team.json not found, using empty array');
+      dataToUse = [];
+    }
+  }
 
-  // Global cache for Telegram data
   const [telegramCache, setTelegramCache] = useState<Map<string, any>>(new Map());
 
-  // Function to fetch Telegram data (if not in cache)
   const fetchTelegramData = async (handle: string): Promise<any> => {
     if (telegramCache.has(handle)) {
-      return telegramCache.get(handle); // Return cached data
+      return telegramCache.get(handle);
     }
 
     try {
@@ -54,16 +63,22 @@ export default function TeamCards({ team }: TeamCardsProps) {
       }
 
       const data = await res.json();
-  
-      // Update the cache
       setTelegramCache((prevCache) => new Map(prevCache).set(handle, data));
-  
-      return data;  // Returning the data as a Promise resolve.
+      return data;
     } catch (error) {
       console.error("Error fetching data:", error);
-      return null;  // Returning null in case of an error
+      return null;
     }
   };
+
+  // Show message if no team data
+  if (dataToUse.length === 0) {
+    return (
+      <div className="text-center py-8 text-gray-500">
+        Team information will be added soon.
+      </div>
+    );
+  }
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-6">
