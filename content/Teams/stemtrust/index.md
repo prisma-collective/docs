@@ -1,30 +1,36 @@
 ---
 title: StemTrust
-description: Blockchain-Powered Milestone-Based STEM Research Funding Platform
 ---
 
 # StemTrust
 
-Welcome to StemTrust's documentation hub for the CATS Hackathon.
+**Country:** Nigeria
 
 ---
 
-## Team Members
+## 👥 Team Members
 
-**Adetunji Akeem** – *Team Lead & Software Developer*  
-Leads full-stack development (frontend & backend), system architecture, and Aiken smart contract development.
+- **Adetunji Akeem** — Team Lead & Software Developer
+- **Salaudeen Muhammad Mustapha** — Developer & Project Tester
+- **Benshak Tom** — Project Manager
 
-**Salaudeen Muhammad Mustapha** – *Developer & Project Tester*  
-Handles quality assurance, workflow testing, and supports frontend implementation.
+---
 
-**Benshak Tom** – *Project Manager*  
-Oversees coordination, stakeholder engagement, documentation, and led the Stage 1 community exploration.
+## Pages
+
+- 🎨 [Community Essence Map](./community-essence-map)
+- 🗺️ [Stakeholder Map](./stakeholder-map)
+- 💭 [Team Reflection Summary](./reflection-summary)
 
 ---
 
 ## Project Overview
 
 ### Problem Statement
+
+In Abuja's academic ecosystem, promising scientific research is systematically stifled by opaque funding pathways and a deep deficit of trust between donors and researchers.
+
+This matters because while funding exists locally and internationally, the lack of transparency prevents it from reaching the innovators who solve our critical food, health, and environmental challenges.
 
 Nigeria's STEM research ecosystem suffers from a structural trust crisis that affects every stage of funding:
 
@@ -37,8 +43,9 @@ Bureaucratic processing timelines of 6–18 months slow down experimentation, de
 **3. Trust Deficit**  
 Because outcomes are not transparently verifiable, donors reduce funding, researchers lose opportunities, and innovation stalls.
 
-Behind all these issues is the same core breakdown:  
-Research funding is managed in black boxes rather than transparent, accountable systems.
+Behind all these issues is the same core breakdown: Research funding is managed in black boxes rather than transparent, accountable systems.
+
+An opportunity is emerging to use transparent, immutable technology to bridge this trust gap, allowing direct, verified funding to reach researchers and ensuring that Nigerian science can stay in Nigeria.
 
 ### Solution Summary
 
@@ -48,8 +55,7 @@ The platform is built around three key mechanisms:
 
 #### 1. Smart Lock (Blockchain Escrow)
 
-Funding does not go into personal accounts.  
-It is locked securely in smart contracts, eliminating misallocation risks and ensuring funds are always traceable.
+Funding does not go into personal accounts. It is locked securely in smart contracts, eliminating misallocation risks and ensuring funds are always traceable.
 
 #### 2. Milestone-Based Release
 
@@ -66,8 +72,7 @@ This ensures every disbursement is tied to real work—not paperwork or bureaucr
 
 #### 3. Direct Access, No Bottlenecks
 
-StemTrust connects donors directly to verified researchers, bypassing months of middle-layer administrative delay.  
-This accelerates research timelines and gives funders confidence through real-time proof of progress.
+StemTrust connects donors directly to verified researchers, bypassing months of middle-layer administrative delay. This accelerates research timelines and gives funders confidence through real-time proof of progress.
 
 ---
 
@@ -108,12 +113,9 @@ StemTrust turns STEM research funding from a high-risk gamble into a verifiable,
 
 ## Project Links
 
-- **GitHub Repository:** [Coming Soon]
-- **Live Demo:** [Coming Soon]
-- **Documentation:** [Coming Soon]
+- **GitHub Repository:** [Link - To be added]
+- **Live Demo:** [Link - To be added]
+- **Documentation:** [Link - To be added]
 
 ---
 
-## Contact & Updates
-
-For inquiries or collaboration opportunities, reach out to the team through the Abuja Hub channels.

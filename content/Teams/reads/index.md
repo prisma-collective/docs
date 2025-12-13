@@ -1,42 +1,32 @@
 ---
 title: $READS
-description: Learn-to-Earn Education Platform
 ---
 
 # $READS
 
-Welcome to READS' documentation hub for the CATS Hackathon.
+**Country:** Nigeria
 
 ---
 
-## Team Members
+## 👥 Team Members
 
-**Aakor-Okara Greatname** – *Project Manager*  
-Leads overall project coordination, delivery timelines, and product execution.
+- **Aakor-Okara Greatname** — Project Manager & Founder
+- **Benedict Amadi** — Chief Information Security Officer (CISO)
+- **Eden Uzoma** — AI Engineer & Frontend Developer
+- **Borngreat Ikwutah** — Smart Contracts Developer
+- **Maruh Akporowho** — Backend Developer
+- **David Ignatius** — Backend Developer
+- **Ugochukwu David Anya** — Frontend Developer
+- **Ibrahim Danjuma** — Frontend Developer
+- **Akinwande Kehinde (Ebenezer)** — UI/UX Designer
 
-**Benedict Amadi** – *Chief Information Security Officer (CISO)*  
-Oversees platform security, data protection, and system integrity.
+---
 
-**Eden** – *AI Engineer*  
-Designs the intelligent learning and assessment logic that supports quiz validation and learner progression.
+## Pages
 
-**Borngreat Ikwutah** – *Smart Contracts Developer*  
-Builds and deploys blockchain logic powering token rewards and on-chain certificates.
-
-**Maruh Akporowho** – *Backend Developer*  
-Develops core server infrastructure, APIs, and system integrations.
-
-**David Ignatius** – *Backend Developer*  
-Supports backend performance, data handling, and scalability.
-
-**Ugochukwu David** – *Frontend Developer*  
-Builds student-facing web interfaces and dashboard experiences.
-
-**Ibrahim Danjuma** – *Frontend Developer*  
-Supports interface performance, usability, and responsiveness.
-
-**Akinwande Kehinde** – *UI/UX Designer*  
-Designs intuitive user journeys for learning, testing, rewards, and payments.
+- 🎨 [Community Essence Map](./community-essence-map)
+- 🗺️ [Stakeholder Map](./stakeholder-map)
+- 💭 [Team Reflection Summary](./reflection-summary)
 
 ---
 
@@ -44,12 +34,12 @@ Designs intuitive user journeys for learning, testing, rewards, and payments.
 
 ### Problem Statement
 
+Many students in Nigeria and Africa face high exam failure rates and cannot access affordable study tools. Most online prep platforms are paid and offer no real incentives to keep learners motivated. Many students are also excluded because they lack smartphones or stable internet. We also realized that certificates from most platforms are not verifiable, limiting trust and opportunities.
+
 Across many Nigerian communities, students struggle with three connected barriers:
 
 1. **Low motivation to study consistently**
-
 2. **High cost of exam registration and preparation**
-
 3. **Limited access to reliable digital learning tools, especially offline**
 
 Even when students are willing to learn, the system offers:
@@ -62,7 +52,7 @@ Learning becomes effort without reward and many students fall out of the system 
 
 ### Solution Summary
 
-READS transforms education into a **Learn-to-Earn** experience.
+**READS transforms education into a Learn-to-Earn experience.**
 
 Students are rewarded with blockchain tokens for:
 
@@ -108,6 +98,21 @@ USSD access ensures inclusion, removing connectivity as a barrier to education.
 
 ---
 
+## Tokenomics
+
+**Token Name:** $READS  
+**Blockchain:** Cardano Native  
+**Total Supply:** 100 Billion
+
+**Distribution:**
+- **Public Circulation (60%):** 60 Billion - Learn-to-Earn rewards, airdrops, community incentives
+- **Ecosystem Development (15%):** 15 Billion - App features, USSD, marketplace, smart contracts
+- **Partnerships & Growth (10%):** 10 Billion - Onboarding schools, influencers, content, marketing
+- **Team & Advisors (10%):** 10 Billion - Core development team and advisors
+- **Liquidity & Exchange Reserves (5%):** 5 Billion - CEX/DEX listings, market-making, staking pools
+
+---
+
 ## Strategic Value
 
 READS is not only an EdTech platform—it is a behavior-shaping infrastructure that:
@@ -139,12 +144,10 @@ READS creates a future where:
 
 ## Project Links
 
-- **GitHub Repository:** [Coming Soon]
-- **Live Demo:** [Coming Soon]
-- **Documentation:** [Coming Soon]
+- **Live MVP:** [reads-phi.vercel.app](https://reads-phi.vercel.app)
+- **Website:** [readstechnet.vercel.app](https://readstechnet.vercel.app)
+- **Social Media:** [@READS_TECH_NET](https://twitter.com/READS_TECH_NET)
+- **GitHub Repository:** [Link - To be added]
+- **Documentation:** [Link - To be added]
 
----
 
-## Contact & Updates
-
-For inquiries or collaboration opportunities, reach out to the team through the Abuja Hub channels.

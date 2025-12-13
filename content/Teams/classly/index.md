@@ -1,30 +1,28 @@
 ---
 title: Classly
-description: Decentralized FinTech Infrastructure for the Education Creator Economy
 ---
 
 # Classly
 
-Welcome to Classly's documentation hub for the CATS Hackathon.
+**Country:** Nigeria
 
 ---
 
-## Team Members
+## 👥 Team Members
 
-**Matthew Okadinya** – *Team Lead & CEO, Full-Stack Developer*  
-Leads the technical vision and full-stack execution of the platform. Responsible for delivering Classly's core promise of accelerated cash flow for education creators.
+- **Matthew Okadinya** — Team Lead & CEO, Full-Stack Developer
+- **Daniel Igbokwe** — Product Manager
+- **David Akanang** — Blockchain Developer
+- **Isaac Agene** — Frontend Developer
+- **Rejoice Ukange** — UI/UX Designer
 
-**Daniel Igbokwe** – *Product Manager*  
-Drives market strategy, user experience design, and the positioning of the 30/40/30 model as a compelling alternative to legacy platforms.
+---
 
-**David Akanang** – *Blockchain Developer*  
-Architects and deploys the Plutus smart contracts powering the escrow system and NFT certificate minting—the core intellectual property of Classly.
+## Pages
 
-**Isaac Agene** – *Frontend Developer*  
-Builds the course watch pages, enrollment flows, and interactive student–teacher interfaces.
-
-**Rejoice Ukange** – *UI/UX Designer*  
-Designs trust-first user journeys and visual communication for security, payment flow transparency, and platform credibility.
+- 🎨 [Community Essence Map](./community-essence-map)
+- 🗺️ [Stakeholder Map](./stakeholder-map)
+- 💭 [Team Reflection Summary](./reflection-summary)
 
 ---
 
@@ -37,8 +35,9 @@ The global e-learning market is massive, yet it is structurally broken at its fi
 Independent educators—the backbone of the creator economy—are forced into a damaging trade-off:
 
 - Legacy platforms provide trust, but lock creator earnings behind 30–60 day payment delays, crushing cash flow and treating teachers as low-priority vendors.
-
 - Informal channels provide fast cash, but offer zero trust, zero quality assurance, and zero scalability for students.
+In our community, most online learning happens informally on WhatsApp, creating widespread issues of trust, low-quality instruction, and financial risk for both learners and tutors. This matters because thousands of people lose money, receive unverifiable certificates, or fail to gain real skills despite paying for courses. The core challenge emerging from our exploration is the lack of reliable infrastructure to support payments, reputation, and verifiable learning outcomes. We see an opportunity to introduce a trust layer that ensures accountability, protects funds, and validates competence. 
+Technology, particularly blockchain-backed escrow, verification, and credentialing, can play a meaningful role in transforming this informal system into a secure and trustworthy learning environment.
 
 This creates a fundamental contradiction:
 
@@ -61,16 +60,13 @@ At the center of Classly is its proprietary smart-contract-backed escrow system:
 This model restructures how teachers get paid and how students are protected:
 
 **Phase 1 – Instant Liquidity (30%)**  
-Triggered immediately upon student enrollment.  
-This removes the long waiting period imposed by legacy platforms and gives teachers instant working capital.
+Triggered immediately upon student enrollment. This removes the long waiting period imposed by legacy platforms and gives teachers instant working capital.
 
 **Phase 2 – Quality Assurance (40%)**  
-Triggered when an objective engagement milestone is reached (for example, 50% video completion).  
-This ties payment directly to content consumption—not subjective reviews—creating measurable accountability.
+Triggered when an objective engagement milestone is reached (for example, 50% video completion). This ties payment directly to content consumption—not subjective reviews—creating measurable accountability.
 
 **Phase 3 – Final Trust (30%)**  
-Triggered after the refund window expires (for example, 14 days).  
-This protects the student, finalizes the transaction, and creates predictable settlement for the platform.
+Triggered after the refund window expires (for example, 14 days). This protects the student, finalizes the transaction, and creates predictable settlement for the platform.
 
 This system replaces platform-controlled payouts with automated, rules-based financial fairness.
 
@@ -81,8 +77,7 @@ This system replaces platform-controlled payouts with automated, rules-based fin
 Classly does not only fix payments—it builds permanent, verifiable trust infrastructure:
 
 **NFT Certificates**  
-Issued upon course completion as tamper-proof, blockchain-minted credentials.  
-This transforms course completion into a portable, verifiable career asset.
+Issued upon course completion as tamper-proof, blockchain-minted credentials. This transforms course completion into a portable, verifiable career asset.
 
 **On-Chain Ratings**  
 Ratings are immutably recorded on-chain using Merkle Trees, eliminating manipulation, fake reviews, and reputation attacks.
@@ -108,16 +103,12 @@ Instead of competing with every EdTech marketplace, Classly becomes the financia
 
 This allows Classly to scale across multiple platforms, communities, and creator ecosystems, not just a single marketplace.
 
-The global education market is waiting for a financial reset.
-
 **Teachers want:**
-
 - Faster earnings
 - Predictable income
 - Respect as independent economic actors
 
 **Students want:**
-
 - Trust
 - Refund protection
 - Verifiable credentials
@@ -131,12 +122,7 @@ We are rebuilding the table itself.
 
 ## Project Links
 
-- **GitHub Repository:** [Coming Soon]
-- **Live Demo:** [Coming Soon]
-- **Documentation:** [Coming Soon]
+- **GitHub Repository:** [Link - To be added]
+- **Live Demo:** [Link - To be added]
+- **Documentation:** [Link - To be added]
 
----
-
-## Contact & Updates
-
-For inquiries or collaboration opportunities, reach out to the team through the Abuja Hub channels.
