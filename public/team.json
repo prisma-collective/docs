@@ -14,13 +14,22 @@
       "name": "Ruby",
       "role": "Hub Facilitator • Documentation",
       "photo": "/delfi.svg",
-      "profile_card_link": "/processes/enactment"
+      "profile_card_link": "/processes/enactment",
+      "links": [
+        { "label": "Meet", "url": "https://cal.com/delfina-terrado", "icon": "FaPhone" },
+        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/delfina-terrado/", "icon": "FaLinkedinIn" },
+        { "label": "Website", "url": "https://iniciativamurmullo.com/", "icon": "FaGlobe" }
+      ]
     },
     {
       "name": "Chisom",
       "role": "Hub Teaching & Mentorship",
       "photo": "/mercy.svg",
-      "profile_card_link": "/processes/ground-potentialising"
+      "profile_card_link": "/processes/ground-potentialising",
+      "links": [
+        { "label": "Meet", "url": "https://cal.com/mercy-wada", "icon": "FaPhone" },
+        { "label": "Website", "url": "https://www.wada.org", "icon": "FaGlobe" }
+      ]
     },
     {
       "name": "Sylvert",
