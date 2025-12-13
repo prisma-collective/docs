@@ -1,18 +1,18 @@
 [
     {
-      "name": "Shik",
-      "role": "Evaluation",
-      "photo": "/shik.svg",
+      "name": "Emerald",
+      "role": "Hub Lead",
+      "photo": "/DSC7426.svg",
       "profile_card_link": "/processes/evaluation",
       "links": [
         { "label": "Meet", "url": "https://cal.com/shikharwah", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://linkedin.com/in/shik", "icon": "FaLinkedinIn" },
-        { "label": "GitHub", "url": "https://github.com/regeneshik", "icon": "FaGithub" }
+        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/emerald-akhaumere/", "icon": "FaLinkedinIn" },
+        { "label": "GitHub", "url": "https://github.com/emerald-collab", "icon": "FaGithub" }
       ]
     },
     {
-      "name": "Delfi",
-      "role": "Enaction",
+      "name": "Ruby",
+      "role": "Hub Facilitator • Documentation",
       "photo": "/delfi.svg",
       "profile_card_link": "/processes/enactment",
       "links": [
@@ -22,8 +22,8 @@
       ]
     },
     {
-      "name": "Mercy",
-      "role": "Ground-Potential",
+      "name": "Chisom",
+      "role": "Hub Teaching & Mentorship",
       "photo": "/mercy.svg",
       "profile_card_link": "/processes/ground-potentialising",
       "links": [
@@ -32,8 +32,8 @@
       ]
     },
     {
-      "name": "Tabs",
-      "role": "Infrastructure",
+      "name": "Sylvert",
+      "role": "Hub Coordinator",
       "photo": "/tabs.svg",
       "profile_card_link": "/processes/process-infrastructuring",
       "links": [
@@ -48,38 +48,6 @@
       "photo": "/noah.jpg",
       "profile_card_link": "/context-narrative",
       "links": [
-      ]
-    },
-    {
-      "name": "Carlos",
-      "role": "Publishing",
-      "photo": "/carlos.png",
-      "profile_card_link": "/processes/ground-potentialising/deploy",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
-        { "label": "GitHub", "url": "https://github.com/CarlosQ96", "icon": "FaGithub" }
-      ]
-    },
-    {
-      "name": "Harding",
-      "role": "Mentor",
-      "photo": "/ekow.jpg",
-      "profile_card_link": "http://linkedin.com/in/ekowharding",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/ekow-harding-nsshpl/30min", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "http://linkedin.com/in/ekowharding", "icon": "FaLinkedinIn" },
-        { "label": "X (Twitter)", "url": "https://x.com/mrharding3", "icon": "FaXTwitter" }
-      ]
-    },
-    {
-      "name": "Abdul",
-      "role": "Mentor",
-      "photo": "/abdul.jpg",
-      "profile_card_link": "https://www.arcaccra.com/ALJ%20Intensive/Teams/Bin%20to%20Cash/Home/",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/abdulrahman-umar-nqtqwa/15min", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "http://www.linkedin.com/in/abdulrahman-umar", "icon": "FaLinkedinIn" },
-        { "label": "GitHub", "url": "https://github.com/AbdulRahman733", "icon": "FaGithub" }
       ]
     }
   ]
