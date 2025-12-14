@@ -14,9 +14,9 @@ Stakeholders registration and onboarding is a key responsibility within the doma
 # Role: DIDs Project Manager
 ## Description
 The role of project manager is to ensure the successful delivery of the whole DIDs project with timeliness and ease. Where other roles fulfil requirements for specific production capacities, the project manager role is one of coordinating inter-operability between the rest of the roles with each other, as well as the project itself with the larger context of enrolment. 
-## Domains and Responsibilities 
+## Domain and Responsibilities 
 #### Domain
-The DIDs Project Manager must facilitate coordination across the whole of the DIDs project domain, ensuring the full scope of the project is covered, through organising with the rest of the team and communicating and needs and/ or opportunities for the scope itself to be adapted. 
+The DIDs Project Manager must facilitate coordination across the whole of the DIDs project domain, ensuring the full scope of the project is covered, through organising with the rest of the team and communicating and needs and/ or opportunities for the scope itself to be adapted. They are entrusted to facilitate decision execution on action-points within the scope of the project, especially where prior alignment with its larger contexts has been ensured. 
 #### Responsibilities
 Key responsibilities include...
 
