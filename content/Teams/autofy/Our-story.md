@@ -1,8 +1,8 @@
 ---
-title: Our Story — Autofy
+title: Our Story  Autofy
 ---
 
-# 📖 Our Story — Autofy
+# 📖 Our Story Autofy
 
 ## How We Started
 
