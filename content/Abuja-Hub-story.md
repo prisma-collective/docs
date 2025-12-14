@@ -26,7 +26,7 @@ This orientation aligned participants around a shared understanding of accountab
 
 **Evidence:**
 
-→ [Orientation Call Recording]
+→ [Orientation Call Recording](https://us06web.zoom.us/rec/share/Njm5plrbo0dkygqCyYPiFKTCJ7eZHx5MhBx8Vq_CQtkHMhMk4z3rzwagPYLVUvXj.6bZJUjpavOCHoukj) - Passcode: `w0x@%Nxm`
 
 → [Onboarding Slides & Notes](https://gamma.app/docs/DirectEd-x-CATS-Hackathon-2026-nv6nko5h9ocfwsa)
 
