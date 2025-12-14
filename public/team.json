@@ -9,7 +9,7 @@
     {
       "name": "Ruby",
       "role": "Hub Facilitator • Documentation",
-      "photo": "/delfi.svg",
+      "photo": "/Ruby.jpg",
       "profile_card_link": "/processes/enactment",
       "links": []
         
@@ -17,14 +17,14 @@
     {
       "name": "Chisom",
       "role": "Communicaton personel",
-      "photo": "/mercy.svg",
+      "photo": "/Chisom.jpg",
       "profile_card_link": "/processes/ground-potentialising",
       "links": []
     },
     {
       "name": "Sylvert",
       "role": "Technical Support",
-      "photo": "/tabs.svg",
+      "photo": "/shaka.jpg",
       "profile_card_link": "/processes/process-infrastructuring",
       "links":[]
     }
