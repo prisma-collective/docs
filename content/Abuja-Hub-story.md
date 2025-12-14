@@ -110,7 +110,7 @@ From the start of the programme, Hub Leads held **daily internal alignment check
 
 > **Evidence:**
 > 
-> → [Hub Lead Daily Check-In Notes](https://t.me/abuja_hub)
+> → [Hub Lead Daily Check-In Notes](https://directed.notion.site/2a952c0383798027bfdacf38aac6e8de?v=2a952c03837980878ce5000c10f26bea)
 
 ## From Insight to Implementation
 
