@@ -24,5 +24,3 @@ The depth and detail of information we request from potential hub partners durin
 
 
 > “The level of detail we ask for here is based on the scope of our intended partnership. If we move forward together, we’ll explore more context and complexity as needed.”
-
----

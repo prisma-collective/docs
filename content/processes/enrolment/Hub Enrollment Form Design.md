@@ -38,6 +38,3 @@
 - **Creates a foundation for trust and accountability** by being explicit about governance, culture, and boundaries from the start
 
 - **Saves time** by filtering out misaligned partners early, focusing energy on those who are truly ready to co-create
-
----
-
