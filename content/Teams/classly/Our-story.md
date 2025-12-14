@@ -2,13 +2,13 @@
 title: Our Story — Classly
 ---
 
-# 📖 Our Story — Classly
+## 📖 Our Story — Classly
 
 ## How We Started
 
 We entered this work through Abuja's vibrant but chaotic informal online learning ecosystem—WhatsApp groups, Instagram DMs, Telegram communities—where thousands of people are trying to learn digital skills, upskill for better jobs, or teach what they know. At first, what we saw appeared to be a content delivery problem: courses scattered across platforms, disorganized materials, and creators struggling to structure their teaching. We thought the challenge was helping educators organize content more efficiently. But as we listened to learners, tutors, and community managers, we realized the real issue wasn't about content quality or delivery methods. It was about **trust breaking down in an ecosystem built on screenshots and hope**.
 
-## What We Heard and Observed
+### What We Heard and Observed
 
 Young learners and aspiring professionals told us about paying for online courses through WhatsApp groups and informal bank transfers—only to discover that certificates were fake, content was incomplete, or instructors disappeared. One learner said: "I paid ₦15,000 for a graphic design course. The instructor sent three videos, then vanished. I have no receipt, no way to get my money back, nothing." Many expressed frustration at having **no way to verify who they were paying or whether the course would deliver real value**.
 
@@ -18,7 +18,7 @@ Community managers described the chaos of coordinating learning groups across mu
 
 What became visible was a devastating pattern: **payments happen informally with no receipts or guarantees, certificates are screenshots or PDFs with no authenticity verification, learners lose money to fake courses, and tutors struggle to build credible reputations**. The typical learning cycle looks like this: student discovers course, pays informally, hopes content is real, completes or abandons the course, receives unverifiable certificate, struggles to prove skill to employers. The system works when trust exists—but it breaks down constantly, and there's no recourse. These recurring experiences and the normalized dysfunction are documented more fully in our **Community Essence Map**.
 
-## Where the System Breaks
+### Where the System Breaks
 
 As we mapped the ecosystem, we saw how the informal online learning economy operates through profound structural contradictions. What appears to be a thriving educational movement is actually **being strangled by a trust crisis**.
 
@@ -30,7 +30,7 @@ Meanwhile, credentials mean nothing if they cannot be verified. Employers can't 
 
 Universities, employers, NGOs, and skills-training organizations all depend on trustworthy certificates but have no verification infrastructure. Tech-savvy educators want to adopt better tools but find nothing that solves the core financial trust problem. The roles, constraints, and power dynamics across this fragmented ecosystem are explored further in our **Stakeholder Map**.
 
-## Naming the Real Challenge
+### Naming the Real Challenge
 
 Before speaking with people in our community, we assumed the main challenge in online learning was improving course delivery and helping creators organize their content more efficiently. But after listening to learners, tutors, and community managers, **our perspective shifted completely: the core problem is not content—it is trust**.
 
@@ -42,7 +42,7 @@ In our community, most online learning happens informally on WhatsApp, creating 
 
 This understanding shaped our **Problem Statement** and shifted our thinking from "making e-learning better" to building the trust architecture that makes safe, scalable online education possible.
 
-## How We Changed
+### How We Changed
 
 This process fundamentally changed how we think about educational technology. What surprised us most was how normalized dysfunction has become—learners losing money, tutors lacking credibility tools, community managers drowning in manual administration—all accepted as inevitable rather than fixable.
 
@@ -52,7 +52,7 @@ We came to understand that we are not solving an EdTech problem—we are solving
 
 This reflection reshaped our direction as a team. **We are no longer thinking about "making e-learning better," but about building the trust architecture that online learning in our place desperately needs.** Classly is the FinTech solution to an EdTech problem. Our internal evolution from content-focused thinking to trust-infrastructure design is explored more deeply in our **Team Reflection**.
 
-## The Direction Forward
+### The Direction Forward
 
 This work points toward a future where Nigeria's informal online learning ecosystem transforms from hope-based chaos into a structured, trustworthy, and scalable education economy. Any solution must resolve the fundamental contradiction: teachers need instant predictable income, students need money-back safety nets, and both need verifiable credentials that employers actually trust.
 

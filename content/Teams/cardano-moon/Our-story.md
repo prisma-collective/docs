@@ -1,14 +1,14 @@
 ---
-title: Our Story — Cardano Moon
+title: Our Story Cardano Moon
 ---
 
-# 📖 Our Story — Cardano Moon
+## 📖 Our Story Cardano Moon
 
-## How We Started
+### How We Started
 
 We entered this work through Nigeria's hospitals, clinics, and HMO offices, where a healthcare system operates amid profound fragmentation. At first, what we saw appeared to be a digitization problem—paper records filling overcrowded rooms, disconnected systems that couldn't talk to each other, and patients carrying physical files from one facility to another. But as we spent time with patients, doctors, insurance officers, and government health officials, we realized the real challenge wasn't just about going digital. It was about trust breaking down across an entire ecosystem where data loss, fraud, and preventable deaths had become normalized.
 
-## What We Heard and Observed
+### What We Heard and Observed
 
 A mother in Lagos told us: "I lost my daughter's vaccination records when we moved. Every clinic keeps asking for new tests. I've spent over ₦50,000 on repeats this year alone. If I controlled my data like my bank app, none of this would happen." A doctor in Abuja shared: "Almost every case comes with history gaps. A misdiagnosis last week happened because results from another hospital couldn't be verified. A blockchain layer could finally give us a single source of truth."
 
@@ -16,7 +16,7 @@ An HMO claims officer explained the financial toll: "Fraud drains nearly 20% of 
 
 What became visible was a devastating pattern: **over 85% of medical records remain paper-based or trapped in isolated digital silos**, leading to frequent data loss, redundant tests, misdiagnoses, and unverifiable insurance claims. We observed urban hospitals with multiple disconnected digital systems, rural clinics relying entirely on fading logbooks, labs sending results via email or WhatsApp with no authentication, and patients using mobile apps for banking and transport but carrying paper slips for prescriptions. The same frustrations repeated everywhere: "I lost my medical records when I moved," "Every hospital asks me to repeat the same tests," "We can't verify if these claims are real," "Our data was useless during the pandemic—too fragmented." These recurring experiences and the weekly rhythm of healthcare chaos are documented more fully in our **Community Essence Map**.
 
-## Where the System Breaks
+### Where the System Breaks
 
 As we mapped the ecosystem, we saw how Nigeria's healthcare infrastructure creates a cycle of harm rather than healing. The fragmentation loop looks like this: paper records lead to partial digitization, which creates new silos, causing data loss, forcing repeated diagnostics, driving higher costs, and producing worse outcomes. Without interoperability, digitization alone doesn't solve the problem—it just fragments differently.
 
@@ -24,7 +24,7 @@ The fraud cycle compounds the damage: unverifiable records lead to claim dispute
 
 What's broken is the fundamental relationship between all stakeholders. Patients carry paper files and spend thousands on repeated tests. Doctors make critical decisions blindly, missing patient histories that exist somewhere but are inaccessible. HMO officers spend hours daily manually cross-checking submissions while fraud drains budgets. Government agencies couldn't respond quickly to COVID-19 because fragmented data made real-time surveillance impossible. Labs, hospitals, insurers, and health ministries all operate in isolation, each holding pieces of information that could save lives if connected. The roles, constraints, and missed connections across this fragmented ecosystem are explored further in our **Stakeholder Map**.
 
-## Naming the Real Challenge
+### Naming the Real Challenge
 
 At first, we believed the challenge was building better hospital software—something to help facilities digitize records and share information more efficiently. But that framing was incomplete. The deeper issue is that **Nigeria's healthcare data problem is not just technical—it's about dignity, agency, and equity**.
 
@@ -32,7 +32,7 @@ Documentation exists, digital systems exist in some places, regulations exist. W
 
 This understanding shaped our **Problem Statement** and shifted our focus from hospital digitization to building patient-owned, blockchain-verified national infrastructure.
 
-## How We Changed
+### How We Changed
 
 This process fundamentally changed how we think about healthcare technology. At the outset, we viewed healthcare data management largely as a technical challenge—one focused on digitization, system integration, and interoperability. However, exploring MEDBLOCK in depth revealed that **the problem extends far beyond technology. It is fundamentally about restoring agency, trust, and equity** within Nigeria's healthcare landscape.
 
@@ -42,7 +42,7 @@ The technical elegance struck us powerfully: **immutable on-chain hashes combine
 
 The human impact became overwhelmingly clear. We were moved by stories of mothers spending thousands on repeated tests because vaccination cards were lost, doctors making critical decisions blindly due to missing patient histories, HMO officers spending weeks investigating fraudulent claims manually, and government officials unable to respond quickly to epidemics due to fragmented data. **Healthcare data is not just a technical problem—it's about saving lives through trusted infrastructure.** Our internal evolution from viewing this as a digitization project to understanding it as social infrastructure is explored more deeply in our **Team Reflection**.
 
-## The Direction Forward
+### The Direction Forward
 
 This work points toward a future where Nigeria's healthcare ecosystem transforms from fragmented, paper-based chaos into a unified, secure, tamper-proof, and interoperable national EMR infrastructure. Any solution must restore patient agency while enabling seamless clinical care: patients should own and control their records using cryptographic keys, doctors should access complete verified histories instantly, HMOs should process claims automatically without fraud, and government should monitor public health in real time without compromising privacy.
 

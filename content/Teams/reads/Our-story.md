@@ -1,14 +1,14 @@
 ---
-title: Our Story — $READS
+title: Our Story  $READS
 ---
 
-# 📖 Our Story — $READS
+## 📖 Our Story  $READS
 
-## How We Started
+### How We Started
 
 We entered this work through Nigeria's overcrowded tutorials, dimly lit cybercafés, and photocopied past question papers—where students spend hours searching for affordable ways to prepare for exams that will determine their futures. At first, what we saw appeared to be a content problem: students lacking quality study materials, relying on photocopied past questions, and unable to access the paid prep apps that urban students use. We initially thought the main issue was the lack of quality study materials and assumed that simply providing digital lessons and Computer-Based Test (CBT) practice alone would significantly improve student performance. But as we spent time with students, parents, teachers, and watched the daily rhythm of learning unfold, we realized the deeper issue wasn't about content availability. It was about **systemic barriers that turn motivated students into dropouts not because they lack ability, but because the infrastructure doesn't sustain them**.
 
-## What We Heard and Observed
+### What We Heard and Observed
 
 Students told us directly: "I want to study, but I don't have enough materials." "Prep apps are good, but subscriptions are expensive." "Certificates aren't trusted or verifiable." "Exam fees are rising, and electricity is unreliable." These weren't isolated complaints—they were the lived reality across communities.
 
@@ -18,7 +18,7 @@ The daily learning rhythm revealed the depth of constraint: mornings at traditio
 
 What moved us most was the gap between effort and support. Paid online preparation applications like uLesson, EduPoint, and O3 Schools are often unaffordable, creating significant inequality in access to quality resources. Teachers lack adequate digital resources. Yet the learners themselves remain **highly motivated and eager to study**. The system fails them, not the other way around. These recurring experiences and infrastructure constraints are documented more fully in our **Community Essence Map**.
 
-## Where the System Breaks
+### Where the System Breaks
 
 As we mapped the ecosystem, we saw how Nigeria's education infrastructure creates dropout through financial barriers, accessibility gaps, and trust deficits—not through lack of student capability or desire.
 
@@ -30,7 +30,7 @@ The breakdown manifests across multiple layers. **Financial barriers**: most stu
 
 Exam boards, schools, universities, and local government control registration processes and set standards but aren't incentivized to adopt verified digital systems. Parents and teachers need affordable tools to support learning and transparent progress tracking. Youth leaders and campus ambassadors could drive adoption but lack shareable tools and recognition systems. The roles, constraints, and relationships across this fragmented ecosystem are explored further in our **Stakeholder Map**.
 
-## Naming the Real Challenge
+### Naming the Real Challenge
 
 We initially thought the challenge was building better study content—something to give students digital lessons and practice questions that would improve exam performance. We operated under the assumption that most learners had stable internet access and that existing online certificates were generally trusted. But that framing was incomplete.
 
@@ -40,7 +40,7 @@ What's broken is the fundamental relationship between student effort and systemi
 
 The real challenge emerged clearly: students need **motivation through tangible rewards, accessibility through USSD and offline support, trust through blockchain-verified certificates, and affordability through a free-to-use, earn-while-learning model**. This understanding shaped our **Problem Statement** and shifted our focus from providing content to building the missing infrastructure layer that connects student effort to tangible value.
 
-## How We Changed
+### How We Changed
 
 This process fundamentally changed how we think about educational technology. Through deeper reflection and interactions with our community, we realized the real challenges were far more fundamental than we initially believed, and these realizations **fundamentally reshaped $READS into a more inclusive solution**.
 
@@ -52,7 +52,7 @@ We came to understand that students don't just need content—they need a comple
 
 The core insight became clear: **$READS is not just another EdTech platform. It is a dignity engine that transforms study effort into economic value.** Our internal evolution from content-focused thinking to infrastructure-building is explored more deeply in our **Team Reflection**.
 
-## The Direction Forward
+### The Direction Forward
 
 This work points toward a future where students earn their way into opportunity, education becomes self-reinforcing, certificates become verifiable digital assets, and learning is no longer a cost burden but a productive pathway. Any solution must resolve the fundamental barriers: students need motivation systems that sustain daily study, affordable access that doesn't exclude based on ability to pay, and verifiable credentials that employers and institutions actually trust.
 

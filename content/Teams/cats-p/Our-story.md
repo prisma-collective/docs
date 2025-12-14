@@ -2,13 +2,13 @@
 title: Our Story — CATS_P
 ---
 
-# 📖 Our Story — CATS_P
+## 📖 Our Story — CATS_P
 
 ## How We Started
 
 We entered this work through Abuja's major transit corridors—Zuba, Airport Road interchange, and the Kubwa-Zuba Expressway—where vehicle breakdowns are a daily reality. At first, what we saw appeared to be a logistics problem: drivers stranded on highways, waiting hours for help while their cars sat broken down in the heat. We thought the challenge was getting mechanics to breakdown sites faster. But as we spent time with drivers, roadside mechanics, and the communities along these corridors, we realized the real issue wasn't about speed or availability. It was about **trust breaking down between people who desperately need each other**.
 
-## What We Heard and Observed
+### What We Heard and Observed
 
 A taxi driver told us: "My car broke down near Zuba. I could see three mechanic workshops from where I was standing. But I didn't know if they were any good. So I called my guy in Wuse. He took 3 hours to come. I paid him ₦15,000. The roadside guy later told me he would have fixed it in 30 minutes for ₦5,000. But how would I know to trust him?"
 
@@ -18,7 +18,7 @@ From the other side, a roadside mechanic in Kubwa told us: "I've been fixing car
 
 What became visible was a devastating pattern: **skilled mechanics positioned exactly where breakdowns happen most, but drivers can't identify or verify them**. We observed mechanic clusters every 2-3 kilometers along the expressway—workshops with tools, lifts, spare parts, and visible skills working on complex repairs. Yet stranded drivers stood surrounded by mechanics, on their phones, calling contacts 40 kilometers away in the city. The "trust tax" was real: drivers consistently paying 2-3x more and waiting 2-3x longer to use distant mechanics they knew, rather than nearby mechanics they couldn't verify. These recurring experiences and the breakdown timeline are documented more fully in our **Community Essence Map**.
 
-## Where the System Breaks
+### Where the System Breaks
 
 As we mapped the ecosystem, we saw how the absence of verification infrastructure creates economic inefficiency and vulnerability across the entire corridor. What appears to be a simple market operates instead through profound disconnection.
 
@@ -28,7 +28,7 @@ The economic waste is staggering. A typical breakdown currently takes 4 hours an
 
 The entire skilled roadside workforce operates outside the digital economy: no signage, no contact information, no online presence, zero booking systems, all word-of-mouth. Transport companies maintain expensive in-house mechanics when they could access a verified external network. Insurance companies process fraudulent claims because there's no digital verification. The Federal Road Safety Corps struggles with breakdown-related hazards that verified rapid response could reduce. The roles, constraints, and power dynamics across this fragmented ecosystem are explored further in our **Stakeholder Map**.
 
-## Naming the Real Challenge
+### Naming the Real Challenge
 
 We started thinking we were solving a logistics problem—"How do we get mechanics to broken-down cars faster?" What we discovered was actually a **trust problem**—"How do we make drivers confident enough to use the skilled mechanics who are already nearby?"
 
@@ -38,7 +38,7 @@ Along high-traffic corridors outside central Abuja, vehicle breakdowns leave com
 
 This understanding shaped our **Problem Statement** and shifted our focus from building a mechanic-finder app to building trust infrastructure.
 
-## How We Changed
+### How We Changed
 
 Our initial perspective was a broad focus on the economic inconvenience of vehicle breakdowns in rural Nigeria. However, after engaging with stakeholders and observing the flow of traffic around Abuja's key transit junctions, **our understanding shifted significantly from a problem of inconvenience to one of vulnerability and trust**.
 
@@ -52,7 +52,7 @@ We heard clearly what both sides were asking for. Drivers need safety ("Is this 
 
 We thought we were building a mechanic-finder app. We're actually **building a trust infrastructure that transforms informal roadside labor into a verified, professional service network**. Our internal evolution from logistics thinking to trust-centered design is explored more deeply in our **Team Reflection**.
 
-## The Direction Forward
+### The Direction Forward
 
 This work points toward a future where roadside mechanics become a verified, professional service network—**eliminating the "trust tax"** and making rural drivers' car issues solvable instantly. Any solution must create the digital verification layer that allows trust to exist between strangers in vulnerable situations.
 

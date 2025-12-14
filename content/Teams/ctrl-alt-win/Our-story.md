@@ -2,13 +2,13 @@
 title: Our Story — Ctrl + Alt + Win
 ---
 
-# 📖 Our Story — Ctrl + Alt + Win
+## 📖 Our Story — Ctrl + Alt + Win
 
 ## How We Started
 
 We entered this work through Abuja's crowded pharmacies and bustling street markets—Garki, Utako, and Nyanya—where medicines flow through communities without verification, transparency, or trust. At first, what we saw appeared to be a supply chain problem: counterfeit drugs entering through opaque distribution networks, pharmacies unable to verify incoming batches, and street vendors selling medicines from unmarked containers. We initially assumed the counterfeit medicine problem was mostly a technical or logistics issue. But as we spoke with pharmacists, patients, local vendors, and healthcare workers, we realized the deeper challenge wasn't about tracking or distribution systems. It was about **a breakdown of trust in the healthcare system itself**.
 
-## What We Heard and Observed
+### What We Heard and Observed
 
 A mother in Nyanya told us: "I once bought malaria drugs that did nothing. My child stayed sick for days." A pharmacist in Utako shared their helplessness: "We sometimes receive batches that look suspicious, but we can't verify them. We lose trust when patients come back saying the drugs didn't work." A clinic nurse explained: "When treatments fail because of fake drugs, patients stop trusting us—even though it's not our fault."
 
@@ -18,7 +18,7 @@ What became visible was a devastating pattern of **normalized danger**. People o
 
 What moved us most deeply was the **impossible choice** low-income families face. When someone is sick, they buy immediately—there's no time to verify. People choose cheap drugs knowing they might be fake, simply because they can't afford the alternative. The most heartbreaking realization: **People often choose cheap drugs knowing they might be fake, simply because they can't afford the alternative.** These recurring experiences and the daily flow of risk are documented more fully in our **Community Essence Map**.
 
-## Where the System Breaks
+### Where the System Breaks
 
 As we mapped the ecosystem, we saw how Nigeria's pharmaceutical supply chain operates through profound opacity and disconnection, creating vulnerability at every level. **The issue is not just about tracking drugs—it is about people who feel unprotected by the system that's supposed to safeguard their health.**
 
@@ -28,7 +28,7 @@ The trust crisis compounds across the ecosystem. Health workers lose credibility
 
 The result is **treatment failure, drug resistance, preventable deaths, and public distrust in healthcare**. Patients cannot confidently verify if their drugs are genuine. Pharmacists struggle to trace the true source of medicine batches. Doctors have no secure way to enforce prescription-only access. The most vulnerable populations—low-income families, children, elderly, chronic illness patients, rural migrants—bear the highest risk. This is not just a logistics problem—it is a **life-and-death trust failure inside Nigeria's medicine ecosystem**. The roles, constraints, and power dynamics across this fragmented supply chain are explored further in our **Stakeholder Map**.
 
-## Naming the Real Challenge
+### Naming the Real Challenge
 
 We initially assumed the challenge was building better supply chain tracking—something to help pharmacies and distributors manage inventory and trace drug origins more efficiently. But that framing was incomplete. After speaking with pharmacists, patients, and local vendors, we realized **the deeper challenge is a breakdown of trust in the healthcare system**.
 
@@ -38,7 +38,7 @@ Counterfeit and substandard medicines circulate daily through opaque supply chai
 
 Through conversations and observation, we saw that **the community is not asking for complex systems or advanced technology. They simply want confidence—a way to know their medicine is real, safe, and trustworthy.** This understanding shaped our **Problem Statement** and shifted our thinking from supply chain logistics to building trust infrastructure that restores dignity and safety.
 
-## How We Changed
+### How We Changed
 
 This process fundamentally changed how we think about pharmaceutical technology. **Our understanding evolved from a purely technical idea into a human-centered mission.** During our exploration across Abuja, our team's perspective changed significantly as we moved from thinking about this as a logistics problem to understanding it as a **human vulnerability and trust problem**.
 
@@ -48,7 +48,7 @@ We also learned the specific nature of community needs. Patients want simple, qu
 
 The project is not just about building software—**it is about supporting a community that deserves safety, certainty, and dignity in the medicines they rely on**. Our internal evolution from technical focus to human-centered mission is explored more deeply in our **Team Reflection**.
 
-## The Direction Forward
+### The Direction Forward
 
 This work points toward a future where Abuja residents no longer live with constant uncertainty about medicine authenticity—where every patient can verify their medicine is genuine with a simple scan, pharmacists protect customers through blockchain-verified supply chains, doctors know their prescriptions reach intended patients, and counterfeit drugs are identified and stopped before causing harm.
 
