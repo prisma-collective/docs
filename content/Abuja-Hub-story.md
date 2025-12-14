@@ -48,7 +48,7 @@ This ensured that subsequent projects were grounded in lived reality rather than
 > 
 > → [Stage 1 Submission Guidelines](/submission-guidelines/stage-1-submission-guidelines)
 > 
-> → [Stage 1 Submissions Sheet]
+> → [Stage 1 Submissions Sheet](/submission-guidelines/stage-1-submission-guidelines)
 > 
 > → [Sample Community Essence Maps](/Teams/stemtrust/community-essence-map)
 
@@ -110,7 +110,7 @@ From the start of the programme, Hub Leads held **daily internal alignment check
 
 > **Evidence:**
 > 
-> → [Hub Lead Daily Check-In Notes] #notion page 
+> → [Hub Lead Daily Check-In Notes](https://t.me/abuja_hub)
 
 ## From Insight to Implementation
 
@@ -138,7 +138,7 @@ What made the Abuja in-person hackathon particularly remarkable was the extraord
 > 
 > → [In-Person Hackathon Guide and Schedule](/events/in-person-hackathon-day)
 > 
-> → [Event Photos & Media Folder]
+> → [Event Photos & Media Folder](https://drive.google.com/drive/folders/14h_q1FgVfC30bjMLhWbDn9WKSGgMywAV?usp=drive_link)
 
 ## Final Sprint: Validation, Reviews, and Submissions (Dec 8–14)
 
@@ -159,11 +159,15 @@ Technical reviews examined code structure, architectural decisions, and implemen
 
 > **Evidence:**
 > 
-> → [Team Review SOP]
+> → [Team Review SOP](https://directed.notion.site/HOW-TO-RUN-TEAM-REVIEWS-SOP-2c452c03837980a3975dd68cd900d5a7?source=copy_link)
 > 
-> → [Team Review Tracker Spreadsheet]
+> → [Team Review Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1OCO758AF3buYjAWOvKb3uFq1yyMPEv5lsLUD3iaczvM/edit?usp=sharing)
 > 
-> → [Recorded MVP & Code Review Sessions]
+> → **Recorded MVP & Code Review Sessions:**
+
+- [Session 1](https://us06web.zoom.us/rec/share/kRIY-UocmJ4kLEHZhpvAFAtrHQA3DY7W4-rY6Y8qXDTLyVZQ8-sL0RR1LboR-ZuV.U_Td0NmopV3PcoX2?from=hub) - Passcode: `9k9+BNS&`
+- [Session 2](https://us06web.zoom.us/rec/share/OV35lAnpJM_kXjgp9ouzdcfvviOpZJW_ZZSsEpu5nGJvKx9QgszmLsgQgdBXeZeQ.LFBRJONopsjBe8xB?from=hub) - Passcode: `?j%YH052`
+- [Session 3](https://us06web.zoom.us/rec/share/ZFehrfp8pGrxJbEWhZLbtINcLrmj1ya346l9XAHIev_iIF8tnjZ-f7hIbM1TH3VN.yQ0FrY8vFDxu8Eeu?from=hub) - Passcode: `!&JJ%CA3`
 
 ### Submission Management
 
@@ -171,9 +175,9 @@ Final submissions included MVP demos, source code repositories, documentation, a
 
 > **Evidence:**
 > 
-> → [Stage 1 Submission Tracker]
+> → [Stage 1 Submission Tracker](/submission-guidelines/stage-1-submission-guidelines)
 > 
-> → [Stage 2 Submission Tracker]
+> → [Stage 2 Submission Tracker](/submission-guidelines/stage-2-submission-guidelines)
 > 
 > → [Submission Guidelines](/submission-guidelines)
 
