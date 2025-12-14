@@ -47,7 +47,7 @@ Community managers and group admins described the chaos of coordinating learning
 
 Student discovers course → pays informally → hopes content is real → completes (or abandons) course → receives unverifiable certificate → struggles to prove skill to employers
 
-The system works when trust exists—but it breaks down when fraud, delays, or disputes occur. And there is no recourse.
+The system works when trust exists but it breaks down when fraud, delays, or disputes occur. And there is no recourse.
 
 ---
 
