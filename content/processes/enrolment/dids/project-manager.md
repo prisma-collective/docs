@@ -24,12 +24,16 @@ The DIDs Project Manager must facilitate coordination across the whole of the DI
 #### Responsibilities
 Key responsibilities include...
 
+- Enabling effective design work both within DIDs and in relation to its larger context of enrolment process design. Whilst the project manager role is not a design role, they must be able to support/ allow the creation of rigorous design practice. This requires...
+	- Cultivating, monitoring, and maintaining the relational and reflective conditions necessary for effective design. This includes the capacity to observe and reflect on one’s own behaviour and its impact on group dynamics; to recognise when enabling conditions for shared sense-making are present or absent; and to engage in timely, clear, and constructive communication to support collective observation of system dynamics.
+	- Sufficient emotional maturity and communicative capacity to enable open inquiry, feedback, and adaptive coordination, without avoidance, defensiveness, or suppression of relevant perspectives.
+	- Recognising that effective regenerative design depends on the ability of a group to jointly observe and interpret living system dynamics. The project manager is co-responsible for fostering the interpersonal, communicative, and reflective capacities that make such shared observation possible.
+	- Where a failure to engage in reflective communication or self-observation materially impairs collective sense-making or system understanding, such failure shall be considered a failure to perform the responsibilities of the role.
 - Ensuring alignment of the DIDs project with the larger process design domain of enrolment and, subsequently, the organising and facilitation of ALJs as a whole.
 	- The overarching direction of DIDs development must derive from enabling the role of enrolment to contribute more effectively to the facilitation of an ALJ.
 	- The priorities of DIDs development must derive from the priorities of enrolment. 
 	- The DIDs project and team members must be prepared to adapt to the needs and opportunities of enrolment, for any given ALJ. 
 	- All functionality must be informed, as far as possible, by the needs and opportunities of enrolment, for any given ALJ.
-	- Ensuring sufficient communication exists, at all times, on an ongoing ba
 - Regulation of project scope and timing such that it can be received by the larger context of enrolment in a balanced and equilibrated way.
 	- Enrolment design must be able to adapt to integrate the capabilities offered by the DIDs mechanism. 
 	- Design and build requirements of DIDs must be informed by its the capability enhancements able to be attained by enrolment process design.
@@ -39,13 +43,26 @@ Key responsibilities include...
 	- Care must be taken to engage relevant parties in such a way that the information and its context is made accessible: "you've not heard the end of it until you've heard the heart of it."
 - Facilitating collaboration within and across the team, supporting the identification of roles, domains and responsibilities
 - Forecasting and communicating of effort and resources required, and any other dependencies, blockers, needs etc. 
+#### Out of Scope
+.
 ## Key Deliverables
+The key deliverable of this project is to enable ALJ participants to be able to identify themselves within the context of an ALJ (including for access authorisation), sign key records (Verifiable Claims), and associate themselves to those records and other participants/ resources. 
 
+In addition to ensuring the successful delivery of the project outlined in the [Prisma DIDs Catalyst Proposal](https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/prisma-dids-decentralized-ids-for-verifiable-contributions), the project manager must:
+
+- Organise: Define and adapt the roles through which the social organisation of the team responds to the evolutions of the larger domain of enrolment. 
+- Integrate: By being in ongoing communication with larger system dynamics, the project manager is receiving a lot of feedback. They must continually integrate this information into how they are holding the development of the project as a whole, renewing their perspective/ frame of reference of both the project itself and its larger contexts (enrolment and ALJs). 
+- Publish: Reflect on and make visible, as learning content, the evolution of the project. This is to create an example of software development from a living systems perspective, which has both technical/ functional learnings as well as social/ organisational learnings. 
+- Evolve: Given the complexity and constant evolution of both the project and its surrounding contexts, the project manager must be prepared to be open to change. Therefore, the core understanding of the project and its unique role within the context of enrolment is required to be clarified and deepened through the course of the project. 
 # Term and Duration
-
+- December 2025 - April 2026
 # Working Hours & Location
-
+- Working hours flexibile
+- Meeting punctuality and reliability is required
+- Remote work possible
+- Effort must be made to connect in-person at least twice a month
 # Payment
+
 
 # Taxes & Status
 
