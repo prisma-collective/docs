@@ -19,10 +19,11 @@ title: SendWaste Cardano
 ---
 
 ## Pages
+## Pages
 
-- 🎨 [Community Essence Map](./community-essence-map)
-- 🗺️ [Stakeholder Map](./stakeholder-map)
-- 💭 [Team Reflection Summary](./reflection-summary)
+- 🎨 [Community Essence Map](/Teams/sendwaste/community-essence-map)
+- 🗺️ [Stakeholder Map](/Teams/sendwaste/stakeholder-map)
+- 💭 [Team Reflection Summary](/Teams/sendwaste/reflection-summary)
 
 ---
 

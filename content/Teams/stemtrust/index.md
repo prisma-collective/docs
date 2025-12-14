@@ -18,9 +18,11 @@ title: StemTrust
 
 ## Pages
 
-- 🎨 [Community Essence Map](./community-essence-map)
-- 🗺️ [Stakeholder Map](./stakeholder-map)
-- 💭 [Team Reflection Summary](./reflection-summary)
+## Pages
+
+- 🎨 [Community Essence Map](/Teams/stemtrust/community-essence-map)
+- 🗺️ [Stakeholder Map](/Teams/stemtrust/stakeholder-map)
+- 💭 [Team Reflection Summary](/Teams/stemtrust/reflection-summary)
 
 ---
 

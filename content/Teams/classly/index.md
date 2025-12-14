@@ -20,9 +20,9 @@ title: Classly
 
 ## Pages
 
-- 🎨 [Community Essence Map](./community-essence-map)
-- 🗺️ [Stakeholder Map](./stakeholder-map)
-- 💭 [Team Reflection Summary](./reflection-summary)
+- 🎨 [Community Essence Map](/Teams/classly/community-essence-map)
+- 🗺️ [Stakeholder Map](/Teams/classly/stakeholder-map)
+- 💭 [Team Reflection Summary](/Teams/classly/reflection-summary)
 
 ---
 
