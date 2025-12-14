@@ -201,11 +201,11 @@ The Abuja hub faced a severe shortage of Cardano developers, reflecting a broade
 
 December proved to be a particularly challenging time for the hackathon. In Nigeria, December is traditionally when work winds down, offices close early, and people travel to meet family as the year ends. Many participants were students facing exams or workers managing year-end responsibilities, requiring them to sacrifice significant personal time and face considerable stress to maintain participation.
 
-The compressed timeline created intense pressure. The hackathon operated as a sprint—fast-paced and demanding—which became stressful even for those leading the hub. One hub lead had to step down because the programme interfered with exam preparation, highlighting how the timing created impossible choices for participants balancing education, work, and programme commitments.
+The compressed timeline created intense pressure. The hackathon operated as a sprint fast paced and demanding which became stressful even for those leading the hub. One hub lead had to step down because the programme interfered with exam preparation, highlighting how the timing created impossible choices for participants balancing education, work, and programme commitments.
 
 ### The Sacrifice Behind the Success
 
-Despite these challenges, participants demonstrated extraordinary resilience. The in-person hackathon revealed the depth of their commitment: people traveled across states, paid for hotels, and journeyed by road through dangerous conditions including kidnapping risks—all to be present and contribute. This wasn't recklessness; it was determination. It showed how much Nigerian builders are willing to sacrifice when they see real opportunity to create meaningful change in their communities.
+Despite these challenges, participants demonstrated extraordinary resilience. The in-person hackathon revealed the depth of their commitment: people traveled across states, paid for hotels, and journeyed by road through dangerous conditions including kidnapping risks all to be present and contribute. This wasn't recklessness; it was determination. It showed how much Nigerian builders are willing to sacrifice when they see real opportunity to create meaningful change in their communities.
 
 This resilience is characteristic of Nigerian innovation ecosystems: builders push through systemic barriers, infrastructure gaps, and personal hardships because the work matters. The Abuja Hub's journey is a testament not just to what was built, but to what Nigerian builders are capable of achieving when given even imperfect conditions and support.
 
