@@ -6,7 +6,7 @@ title: Processes
 
 ## Regenerative Process Overview
 
-DirectED operates through a set of interconnected regenerative processes that guide teams from early sensemaking to delivery and continuity.
+The Hub operates through a set of interconnected regenerative processes that guide teams from early sensemaking to delivery and continuity.
 
 The framework is designed to be:
 
