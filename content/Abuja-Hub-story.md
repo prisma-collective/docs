@@ -28,7 +28,7 @@ This orientation aligned participants around a shared understanding of accountab
 
 → [Orientation Call Recording]
 
-→ [Onboarding Slides & Notes]
+→ [Onboarding Slides & Notes](https://gamma.app/docs/DirectEd-x-CATS-Hackathon-2026-nv6nko5h9ocfwsa)
 
 ## Stage 1: Engaging Local Contexts
 
@@ -46,11 +46,11 @@ This ensured that subsequent projects were grounded in lived reality rather than
 
 > **Evidence:**
 > 
-> → [Stage 1 Submission Guidelines]
+> → [Stage 1 Submission Guidelines](/submission-guidelines/stage-1-submission-guidelines)
 > 
 > → [Stage 1 Submissions Sheet]
 > 
-> → [Sample Community Essence Maps]
+> → [Sample Community Essence Maps](/Teams/stemtrust/community-essence-map)
 
 ## Workshops & Q&A: The Learning Backbone
 
@@ -66,11 +66,11 @@ Participants new to blockchain were directed to a dedicated foundational resourc
 
 > **Evidence:**
 > 
-> → [Workshop Recordings & Slides]
+> → [Workshop Recordings & Slides](/workshops-and-learning-center)
 > 
-> → [Q&A Session Recordings]
+> → [Q&A Session Recordings](/workshops-and-learning-center)
 > 
-> → [Workshop Attendance Verification Sheets]
+> → [Workshop Attendance Verification Sheets](https://docs.google.com/spreadsheets/d/1zOKHYiU9bY1Zzt0obVoAMMUiSPWmeL90HHyWFsQHUIs/edit?usp=sharing)
 
 ## Reinforcing Learning Through Weekly Kahoots
 
@@ -82,9 +82,9 @@ Cash prizes were awarded to the top three performers each week and delivered wit
 
 > **Evidence:**
 > 
-> → [Weekly Kahoot Leaderboard]
+> → [Weekly Kahoot Leaderboard](https://www.notion.so/directed/Abuja-Wall-Of-Fame-2a352c0383798009a7a9c89eedb10350?pvs=25)
 > 
-> → [Kahoot Participation and Prizes Guide]
+> → [Kahoot Participation and Prizes Guide](/events/kahoots)
 
 ## Team Formation and Early Accountability
 
@@ -100,8 +100,8 @@ This shifted the dynamic from exploration to ownership. Teams were expected to m
 
 > **Evidence:**
 > 
-> - [Team List & Role Assignments]
-> - [Team Workspace & Repository Index]
+> - [Team List & Role Assignments](/index)
+> - [Team Workspace & Repository Index](/index)
 > - [Team Formation Call Recording]
 
 ## Internal Coordination and Alignment
@@ -110,7 +110,7 @@ From the start of the programme, Hub Leads held **daily internal alignment check
 
 > **Evidence:**
 > 
-> → [Hub Lead Daily Check-In Notes]
+> → [Hub Lead Daily Check-In Notes] #notion page 
 
 ## From Insight to Implementation
 
@@ -136,7 +136,7 @@ What made the Abuja in-person hackathon particularly remarkable was the extraord
 
 > **Evidence:**
 > 
-> → [In-Person Hackathon Guide and Schedule]
+> → [In-Person Hackathon Guide and Schedule](/events/in-person-hackathon-day)
 > 
 > → [Event Photos & Media Folder]
 
@@ -175,7 +175,7 @@ Final submissions included MVP demos, source code repositories, documentation, a
 > 
 > → [Stage 2 Submission Tracker]
 > 
-> → [Submission Guidelines]
+> → [Submission Guidelines](/submission-guidelines)
 
 ## Publishing as Part of the Learning Process
 
@@ -211,7 +211,7 @@ These challenges point to clear improvements for future iterations:
 
 1. **Invest in documentation infrastructure** that captures and shares solutions systematically
 2. **Expand Cardano developer training** across Nigeria, not concentrated in select cities
-3. **Consider programme timing carefully**—summer periods may offer better participation windows when educational and work commitments are lighter
+3. **Consider programme timing carefully** summer periods may offer better participation windows when educational and work commitments are lighter
 4. **Extend timelines** to reduce sprint-induced stress and allow for deeper learning and iteration
 5. **Build support systems** that acknowledge participants' competing commitments and provide flexibility where possible
 

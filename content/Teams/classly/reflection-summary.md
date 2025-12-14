@@ -2,7 +2,7 @@
 title: Team Reflection Summary
 ---
 
-# 💭 Team Reflection Summary — Classly
+# 💭 Team Reflection Summary  Classly
 
 Before speaking with people in our community, we assumed the main challenge in online learning was improving course delivery and helping creators organize their content more efficiently. But after listening to learners, tutors, and community managers, our perspective shifted completely: the core problem is not content, it is **trust**. People are not struggling to learn; they are struggling to feel safe, recognized, and protected in an ecosystem built on screenshots, scattered receipts, and unverified claims.
 
