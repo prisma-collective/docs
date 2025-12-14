@@ -39,11 +39,11 @@ All workshop materials are organised by session. Each row contains the recording
 
 | Workshop | Recording | Slides | Passcode | Examples |
 |----------|-----------|--------|----------|----------|
-| Cardano Workshop 1 | [Zoom Recording](#) | [Slides](#) | `&?0jC^Ed` | — |
-| Cardano Workshop 2 | [Zoom Recording](#) | [Slides](#) | `3a$.Ad@U` | — |
-| Cardano Workshop 3 | [Zoom Recording](#) | [Slides](#) | `6bs=Z.5h` | — |
-| Cardano Workshop 4 | [Zoom Recording](#) | [Slides](#) | `6DS.%1&Y` | [Examples](#) |
-| Cardano Workshop 5 | [Zoom Recording](#) | [Slides](#) | `afj$J60V` | [Examples](#) |
+| Cardano Workshop 1 | [Zoom Recording](https://us06web.zoom.us/rec/share/wX5HnBSGNv31MLiFGrfmq7JTaLcGzAF7QZstdPi5jqM-68pq2D8ohZKBbLiQd2vS.iPQChU56k1qn6--7?startTime=1762873744000) | [Slides](https://m000-workshop-slides.netlify.app/) | `&?0jC^Ed` | — |
+| Cardano Workshop 2 | [Zoom Recording](https://us06web.zoom.us/rec/share/a6xYzJ-S3Culcvg_yhnxP8rfLjWZE4zojT3EKnXZNXu5a59ahcpAV9ksRPj7zFdY.gVxv7DD56QhaPZ5D?startTime=1763046666000) | [Slides](https://m002-workshop-slides.netlify.app/) | `3a$.Ad@U` | — |
+| Cardano Workshop 3 | [Zoom Recording](https://us06web.zoom.us/rec/share/TPsAlQGz8rLhNZ3dOJtcaLhKVpY4w1hRDipAfnNlHdnfWSborN_nsrEoyIFSSE_R.oPV8KPDhoI7AtkPe?startTime=1763478322000) | [Slides](https://m002-workshop-slides.netlify.app/) | `6bs=Z.5h` | — |
+| Cardano Workshop 4 | [Zoom Recording](https://us06web.zoom.us/rec/share/0fSEobB-2TaQY5IqlQhjid3GAk-8juMkNas3TbSdhjqwmyJQ0kUEG95an3n1p5wn.K564xiu-GbCHG0_i?startTime=1764083436000) | [Slides](https://m003-workshop-slides.netlify.app/) | `6DS.%1&Y` | [Examples](https://github.com/ndigirigijohn/DirectEd-x-CATS-Aiken/tree/main/workshop-examples/validators/m003) |
+| Cardano Workshop 5 | [Zoom Recording](https://us06web.zoom.us/rec/share/l7XtmjkWm62xiKUEVfT5wn4V81rRCWfJBfGLI7-CmnK06j5AfP-yfvfWVTKALeSm.CO5SUxBUml7wLWCw?startTime=1764256524000) | [Slides](https://m004-workshop-slides.netlify.app/) | `afj$J60V` | [Examples](https://github.com/ndigirigijohn/DirectEd-x-CATS-Aiken/tree/main/workshop-examples/validators/m004) |
 
 Teams are encouraged to review recordings and complete exercises even if they were unable to attend live.
 
@@ -60,7 +60,7 @@ If you are new to Cardano or want a stronger foundation, start with the Cardano 
 Core learning hub for Cardano concepts, tooling, and ecosystem knowledge.
 
 **Additional optional readings:**
-- [Blockchain intro & basics](#)
-- [Beyond Bitcoin: Smart Contracts](#)
+- [Blockchain intro & basics](https://www.cardano.org/what-is-blockchain/)
+- [Beyond Bitcoin: Smart Contracts](https://www.cardano.org/smart-contracts/)
 
 You do not need to read everything at once; use these resources as references while building.
