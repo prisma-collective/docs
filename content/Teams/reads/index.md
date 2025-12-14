@@ -23,13 +23,10 @@ title: $READS
 ---
 
 ## Pages
-## Pages
 
-- 🎨 [Community Essence Map](community-essence-map)
-- 🗺️ [Stakeholder Map](stakeholder-map)
-- 💭 [Team Reflection Summary](reflection-summary)
-
----
+- 🎨 [Community Essence Map](/Teams/reads/community-essence-map)
+- 🗺️ [Stakeholder Map](/Teams/reads/stakeholder-map)
+- 💭 [Team Reflection Summary](/Teams/reads/reflection-summary)
 
 ## Project Overview
 
