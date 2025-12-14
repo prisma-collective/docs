@@ -2,7 +2,7 @@
 title: Community Essence Map
 ---
 
-# 🧭 Community Essence Map — CATS_P
+# 🧭 Community Essence Map CATS_P
 
 **Location:** Abuja's major transit corridors (Zuba, Airport Road interchange, Kubwa-Zuba Expressway)  
 **Focus area:** Vehicle breakdowns and roadside mechanic services

@@ -1,8 +1,8 @@
 ---
-title: Stakeholder Map — Autofy
+title: Stakeholder Map Autofy
 ---
 
-# 👥 Stakeholder Map — Autofy
+# 👥 Stakeholder Map Autofy
 
 ## 1. Caretakers
 

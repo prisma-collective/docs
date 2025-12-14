@@ -1,8 +1,8 @@
 ---
-title: Our Story — Classly
+title: Our Story  Classly
 ---
 
-## 📖 Our Story — Classly
+## 📖 Our Story  Classly
 
 ## How We Started
 
@@ -16,7 +16,7 @@ From the other side, tutors and educators shared their own struggles: building c
 
 Community managers described the chaos of coordinating learning groups across multiple platforms—tracking payments, verifying completions, mediating disputes—all without any structured system or support. One admin managing a 300-person bootcamp said: "Every week I'm resolving payment disputes, chasing certificates, trying to verify who actually completed what. There's no infrastructure. I'm doing all this manually."
 
-What became visible was a devastating pattern: **payments happen informally with no receipts or guarantees, certificates are screenshots or PDFs with no authenticity verification, learners lose money to fake courses, and tutors struggle to build credible reputations**. The typical learning cycle looks like this: student discovers course, pays informally, hopes content is real, completes or abandons the course, receives unverifiable certificate, struggles to prove skill to employers. The system works when trust exists—but it breaks down constantly, and there's no recourse. These recurring experiences and the normalized dysfunction are documented more fully in our **Community Essence Map**.
+What became visible was a devastating pattern: **payments happen informally with no receipts or guarantees, certificates are screenshots or PDFs with no authenticity verification, learners lose money to fake courses, and tutors struggle to build credible reputations**. The typical learning cycle looks like this: student discovers course, pays informally, hopes content is real, completes or abandons the course, receives unverifiable certificate, struggles to prove skill to employers. The system works when trust exists—but it breaks down constantly, and there's no recourse. These recurring experiences and the normalized dysfunction are documented more fully in our **[Community Essence Map](/Teams/classly/community-essence-map)**.
 
 ### Where the System Breaks
 
@@ -28,7 +28,7 @@ The trust gap creates a damaging contradiction: the teacher needs instant, predi
 
 Meanwhile, credentials mean nothing if they cannot be verified. Employers can't trust screenshots. Learners complete courses but can't prove their skills. Tutors build reputation through word-of-mouth that's easily faked. Payment delays hurt tutors trying to earn professional income; lack of refunds hurt learners who discover fraud too late. High dropout rates result from lack of accountability and structure. The entire education economy is **being held together by hope, not systems**.
 
-Universities, employers, NGOs, and skills-training organizations all depend on trustworthy certificates but have no verification infrastructure. Tech-savvy educators want to adopt better tools but find nothing that solves the core financial trust problem. The roles, constraints, and power dynamics across this fragmented ecosystem are explored further in our **Stakeholder Map**.
+Universities, employers, NGOs, and skills-training organizations all depend on trustworthy certificates but have no verification infrastructure. Tech-savvy educators want to adopt better tools but find nothing that solves the core financial trust problem. The roles, constraints, and power dynamics across this fragmented ecosystem are explored further in our **[Stakeholder Map](/Teams/classly/stakeholder-map)**.
 
 ### Naming the Real Challenge
 
@@ -50,7 +50,7 @@ From these conversations, the community's ask became unmistakably clear: **they 
 
 We came to understand that we are not solving an EdTech problem—we are solving a **FinTech problem in education**. The breakthrough insight was recognizing that the trust gap could be resolved through financial infrastructure: smart-contract-backed escrow that gives teachers instant liquidity while protecting student refund rights, blockchain-minted credentials that create tamper-proof verification, and on-chain ratings that eliminate manipulation.
 
-This reflection reshaped our direction as a team. **We are no longer thinking about "making e-learning better," but about building the trust architecture that online learning in our place desperately needs.** Classly is the FinTech solution to an EdTech problem. Our internal evolution from content-focused thinking to trust-infrastructure design is explored more deeply in our **Team Reflection**.
+This reflection reshaped our direction as a team. **We are no longer thinking about "making e-learning better," but about building the trust architecture that online learning in our place desperately needs.** Classly is the FinTech solution to an EdTech problem. Our internal evolution from content-focused thinking to trust-infrastructure design is explored more deeply in our **[Team Reflection](/Teams/classly/reflection-summary)**.
 
 ### The Direction Forward
 

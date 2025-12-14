@@ -2,7 +2,7 @@
 title: Team Reflection Summary
 ---
 
-# 💭 Team Reflection Summary — YoTouch
+# 💭 Team Reflection Summary YoTouch
 
 **Comprehensive Report**
 

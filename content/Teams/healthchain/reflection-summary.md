@@ -2,7 +2,7 @@
 title: Team Reflection Summary
 ---
 
-# 💭 Team Reflection Summary — HealthChain
+# 💭 Team Reflection Summary  HealthChain
 
 **Stage 1 Exploration**
 

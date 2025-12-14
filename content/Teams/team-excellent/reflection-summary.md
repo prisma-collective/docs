@@ -2,7 +2,7 @@
 title: Team Reflection Summary
 ---
 
-# 💭 Team Reflection Summary — Cardano Hackathon Team Excellent (AidChain)
+# 💭 Team Reflection Summary  Cardano Hackathon Team Excellent (AidChain)
 
 ---
 

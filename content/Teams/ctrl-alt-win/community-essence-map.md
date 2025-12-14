@@ -2,7 +2,7 @@
 title: Community Essence Map
 ---
 
-# 🧭 Community Essence Map — Ctrl + Alt + Win (MediSure)
+# 🧭 Community Essence Map  Ctrl + Alt + Win (MediSure)
 
 **Location:** Garki, Utako, Nyanya - Abuja, Nigeria  
 **Focus area:** Medicine authenticity and pharmaceutical supply chain transparency

@@ -2,7 +2,7 @@
 title: Stakeholder Map
 ---
 
-# 🗺️ Stakeholder Map — HealthChain
+# 🗺️ Stakeholder Map  HealthChain
 
 ---
 

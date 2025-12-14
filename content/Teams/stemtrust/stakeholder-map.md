@@ -2,7 +2,7 @@
 title: Stakeholder Map
 ---
 
-# 🗺️ Stakeholder Map — StemTrust
+# 🗺️ Stakeholder Map StemTrust
 
 **Concept:** Mapping the ecosystem of Research Funding in Abuja.
 

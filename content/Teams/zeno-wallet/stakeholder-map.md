@@ -2,7 +2,7 @@
 title: Stakeholder Map
 ---
 
-# 🗺️ Stakeholder Map — Zeno Wallet
+# 🗺️ Stakeholder Map Zeno Wallet
 
 **The Next Generation of Cardano Users**
 

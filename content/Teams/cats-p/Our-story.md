@@ -1,8 +1,8 @@
 ---
-title: Our Story — CATS_P
+title: Our Story  CATS_P
 ---
 
-## 📖 Our Story — CATS_P
+## 📖 Our Story  CATS_P
 
 ## How We Started
 
@@ -16,7 +16,7 @@ A female commuter shared her fear: "I'm a woman. When my car breaks down, I'm sc
 
 From the other side, a roadside mechanic in Kubwa told us: "I've been fixing cars here for 8 years. I'm good at what I do. But people drive past me to call someone from the city. They don't know me. They don't trust me. How do I prove myself without getting a chance?" Another certified mechanic said: "I trained for years. I know engines. But because I work roadside and not in a big shop in town, people think I'm not qualified. If there was a way to show my certificates, my experience, my satisfied customers—everything would change."
 
-What became visible was a devastating pattern: **skilled mechanics positioned exactly where breakdowns happen most, but drivers can't identify or verify them**. We observed mechanic clusters every 2-3 kilometers along the expressway—workshops with tools, lifts, spare parts, and visible skills working on complex repairs. Yet stranded drivers stood surrounded by mechanics, on their phones, calling contacts 40 kilometers away in the city. The "trust tax" was real: drivers consistently paying 2-3x more and waiting 2-3x longer to use distant mechanics they knew, rather than nearby mechanics they couldn't verify. These recurring experiences and the breakdown timeline are documented more fully in our **Community Essence Map**.
+What became visible was a devastating pattern: **skilled mechanics positioned exactly where breakdowns happen most, but drivers can't identify or verify them**. We observed mechanic clusters every 2-3 kilometers along the expressway—workshops with tools, lifts, spare parts, and visible skills working on complex repairs. Yet stranded drivers stood surrounded by mechanics, on their phones, calling contacts 40 kilometers away in the city. The "trust tax" was real: drivers consistently paying 2-3x more and waiting 2-3x longer to use distant mechanics they knew, rather than nearby mechanics they couldn't verify. These recurring experiences and the breakdown timeline are documented more fully in our **[Community Essence Map](/Teams/cats-p/community-essence-map)**.
 
 ### Where the System Breaks
 
@@ -26,7 +26,7 @@ As we mapped the ecosystem, we saw how the absence of verification infrastructur
 
 The economic waste is staggering. A typical breakdown currently takes 4 hours and costs ₦15,000 when a driver calls their trusted mechanic from Wuse. The same repair from a nearby verified mechanic could take 32 minutes and cost ₦5,000—but the verification layer doesn't exist. Meanwhile, women, solo travelers, and drivers experiencing night-time breakdowns face heightened vulnerability, making trust even more critical but harder to establish.
 
-The entire skilled roadside workforce operates outside the digital economy: no signage, no contact information, no online presence, zero booking systems, all word-of-mouth. Transport companies maintain expensive in-house mechanics when they could access a verified external network. Insurance companies process fraudulent claims because there's no digital verification. The Federal Road Safety Corps struggles with breakdown-related hazards that verified rapid response could reduce. The roles, constraints, and power dynamics across this fragmented ecosystem are explored further in our **Stakeholder Map**.
+The entire skilled roadside workforce operates outside the digital economy: no signage, no contact information, no online presence, zero booking systems, all word-of-mouth. Transport companies maintain expensive in-house mechanics when they could access a verified external network. Insurance companies process fraudulent claims because there's no digital verification. The Federal Road Safety Corps struggles with breakdown-related hazards that verified rapid response could reduce. The roles, constraints, and power dynamics across this fragmented ecosystem are explored further in our **[Stakeholder Map](/Teams/cats-p/stakeholder-map)**.
 
 ### Naming the Real Challenge
 
@@ -50,7 +50,7 @@ The mechanics are there. The skills are there. The demand is there. **What's mis
 
 We heard clearly what both sides were asking for. Drivers need safety ("Is this mechanic real and qualified?"), transparency ("What will this cost me?"), assurance ("Will they actually fix my car?"), and speed ("How fast can they get here?"). Mechanics need access ("How do I reach customers beyond my immediate roadside?"), credibility ("I am skilled; I just need a platform to prove it"), fair income ("Stop the middlemen"), and recognition ("My work is professional—let me show it").
 
-We thought we were building a mechanic-finder app. We're actually **building a trust infrastructure that transforms informal roadside labor into a verified, professional service network**. Our internal evolution from logistics thinking to trust-centered design is explored more deeply in our **Team Reflection**.
+We thought we were building a mechanic-finder app. We're actually **building a trust infrastructure that transforms informal roadside labor into a verified, professional service network**. Our internal evolution from logistics thinking to trust-centered design is explored more deeply in our **[Team Reflection](/Teams/cats-p/reflection-summary)**.
 
 ### The Direction Forward
 

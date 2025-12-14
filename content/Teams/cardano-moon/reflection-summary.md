@@ -2,7 +2,7 @@
 title: Team Reflection Summary
 ---
 
-# 💭 Team Reflection Summary — Cardano Moon (MEDBLOCK)
+# 💭 Team Reflection Summary  Cardano Moon (MEDBLOCK)
 
 ---
 

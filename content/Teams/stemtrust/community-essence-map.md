@@ -2,7 +2,7 @@
 title: Community Essence Map
 ---
 
-# 🧭 Community Essence Map — StemTrust
+# 🧭 Community Essence Map StemTrust
 
 **Location:** Abuja, Nigeria (Academic and Tech Ecosystem)  
 **Focus:** The hidden struggle of scientific research funding
@@ -85,4 +85,4 @@ The opportunity is to use blockchain technology to bridge the trust gap, allowin
 
 ---
 
-*Based on exploration 1-8 December 2024*  
+*Based on exploration 1-8 December 2025*  

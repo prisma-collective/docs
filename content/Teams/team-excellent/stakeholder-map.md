@@ -2,7 +2,7 @@
 title: Stakeholder Map
 ---
 
-# 🗺️ Stakeholder Map — Cardano Hackathon Team Excellent (AidChain)
+# 🗺️ Stakeholder Map  Cardano Hackathon Team Excellent (AidChain)
 
 **Nigerian Aid Distribution Ecosystem**
 

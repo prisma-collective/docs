@@ -2,7 +2,7 @@
 title: Community Essence Map
 ---
 
-# 🧭 Community Essence Map — SendWaste Cardano
+# 🧭 Community Essence Map  SendWaste Cardano
 
 **Location:** Jikwoyi, Kubwa, Gwarimpa, Dutse, Lugbe - Abuja, Nigeria  
 **Focus area:** Informal waste collection ecosystem and trust infrastructure gaps

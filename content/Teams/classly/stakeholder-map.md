@@ -2,7 +2,7 @@
 title: Stakeholder Map
 ---
 
-# 🗺️ Stakeholder Map — Classly
+# 🗺️ Stakeholder Map Classly
 
 ## Caretakers
 

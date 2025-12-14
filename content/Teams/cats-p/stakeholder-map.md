@@ -2,7 +2,7 @@
 title: Stakeholder Map
 ---
 
-# 🗺️ Stakeholder Map — CATS_P
+# 🗺️ Stakeholder Map CATS_P
 
 **Mobile Mechanic Ecosystem Along Abuja Transit Corridors**
 

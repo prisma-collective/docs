@@ -2,7 +2,7 @@
 title: Team Reflection Summary
 ---
 
-# 💭 Team Reflection Summary — StemTrust
+# 💭 Team Reflection Summary StemTrust
 
 **Location:** Abuja, Nigeria
 
@@ -38,4 +38,4 @@ Our understanding has evolved: **StemTrust must be a dignity engine, not just a 
 
 ---
 
-*Based on exploration 1-8 December 2024*  
+*Based on exploration 1-8 December 2025*  

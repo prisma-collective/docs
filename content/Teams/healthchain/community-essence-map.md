@@ -2,7 +2,7 @@
 title: Community Essence Map
 ---
 
-# 🧭 Community Essence Map — HealthChain
+# 🧭 Community Essence Map HealthChain
 
 **Location:** Nigeria (Lagos, Abuja, Kano, Rivers State)  
 **Focus area:** Primary healthcare, medical records, and disease surveillance

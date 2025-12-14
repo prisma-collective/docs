@@ -2,7 +2,7 @@
 title: Team Reflection Summary
 ---
 
-# 💭 Team Reflection Summary — $READS
+# 💭 Team Reflection Summary  $READS
 
 This reflection documents the evolution of our understanding and the key insights that reshaped the $READS project direction.
 

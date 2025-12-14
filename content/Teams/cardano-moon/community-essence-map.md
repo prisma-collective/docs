@@ -2,7 +2,7 @@
 title: Community Essence Map
 ---
 
-# 🧭 Community Essence Map — Cardano Moon (MEDBLOCK)
+# 🧭 Community Essence Map  Cardano Moon (MEDBLOCK)
 
 **Nigerian Healthcare Ecosystem**
 

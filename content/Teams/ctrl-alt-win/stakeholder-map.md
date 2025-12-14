@@ -2,7 +2,7 @@
 title: Stakeholder Map
 ---
 
-# 🗺️ Stakeholder Map — Ctrl + Alt + Win (MediSure)
+# 🗺️ Stakeholder Map  Ctrl + Alt + Win (MediSure)
 
 **Location:** Abuja, Nigeria
 

@@ -1,8 +1,8 @@
 ---
-title: Community Essence Map — Autofy
+title: Community Essence Map Autofy
 ---
 
-# 🧭 Community Essence Map — Autofy
+# 🧭 Community Essence Map Autofy
 
 **Location:** Nigeria  
 **Focus area:** Transportation safety, compliance, and enforcement

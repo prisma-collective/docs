@@ -2,7 +2,7 @@
 title: Community Essence Map
 ---
 
-# 🧭 Community Essence Map — Zeno Wallet
+# 🧭 Community Essence Map Zeno Wallet
 
 **Cardano Telegram Wallet**
 

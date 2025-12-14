@@ -16,7 +16,7 @@ What became visible was a devastating pattern of **infrastructure failure meetin
 
 The daily learning rhythm revealed the depth of constraint: mornings at traditional school lessons, afternoons attending supplementary tutorials or studying at cybercafés, evenings doing independent study under poor lighting, weekends at highly crowded tutorials, and exam season characterized by long queues, high stress, and last-minute cybercafé cramming. **Students structure entire days around electricity availability and cybercafé access. Learning happens in windows of opportunity, not on consistent schedules.**
 
-What moved us most was the gap between effort and support. Paid online preparation applications like uLesson, EduPoint, and O3 Schools are often unaffordable, creating significant inequality in access to quality resources. Teachers lack adequate digital resources. Yet the learners themselves remain **highly motivated and eager to study**. The system fails them, not the other way around. These recurring experiences and infrastructure constraints are documented more fully in our **Community Essence Map**.
+What moved us most was the gap between effort and support. Paid online preparation applications like uLesson, EduPoint, and O3 Schools are often unaffordable, creating significant inequality in access to quality resources. Teachers lack adequate digital resources. Yet the learners themselves remain **highly motivated and eager to study**. The system fails them, not the other way around. These recurring experiences and infrastructure constraints are documented more fully in our **[Community Essence Map](/Teams/reads/community-essence-map)**.
 
 ### Where the System Breaks
 
@@ -28,7 +28,7 @@ The breakdown manifests across multiple layers. **Financial barriers**: most stu
 
 **Learning becomes effort without reward**, and many students fall out of the system not because they lack ability, but because the system does not sustain them. Meanwhile, students are eager and willing to study—motivation exists but support doesn't. What's missing is accessible, affordable, trustworthy infrastructure that recognizes and rewards consistent effort.
 
-Exam boards, schools, universities, and local government control registration processes and set standards but aren't incentivized to adopt verified digital systems. Parents and teachers need affordable tools to support learning and transparent progress tracking. Youth leaders and campus ambassadors could drive adoption but lack shareable tools and recognition systems. The roles, constraints, and relationships across this fragmented ecosystem are explored further in our **Stakeholder Map**.
+Exam boards, schools, universities, and local government control registration processes and set standards but aren't incentivized to adopt verified digital systems. Parents and teachers need affordable tools to support learning and transparent progress tracking. Youth leaders and campus ambassadors could drive adoption but lack shareable tools and recognition systems. The roles, constraints, and relationships across this fragmented ecosystem are explored further in our **[Stakeholder Map](/Teams/reads/stakeholder-map)**.
 
 ### Naming the Real Challenge
 
@@ -50,7 +50,7 @@ What surprised us most was the pattern we observed everywhere: **motivation exis
 
 We came to understand that students don't just need content—they need a complete support ecosystem. Any viable solution must be: **affordable or free** to remove financial barriers, **blockchain-secure and verifiable** to instill trust in certifications, **accessible offline** utilizing low-tech channels like USSD, and **reward-driven** to tangibly motivate and sustain study effort.
 
-The core insight became clear: **$READS is not just another EdTech platform. It is a dignity engine that transforms study effort into economic value.** Our internal evolution from content-focused thinking to infrastructure-building is explored more deeply in our **Team Reflection**.
+The core insight became clear: **$READS is not just another EdTech platform. It is a dignity engine that transforms study effort into economic value.** Our internal evolution from content-focused thinking to infrastructure-building is explored more deeply in our **[Team Reflection](/Teams/reads/reflection-summary)**.
 
 ### The Direction Forward
 

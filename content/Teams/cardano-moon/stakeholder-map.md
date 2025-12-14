@@ -2,7 +2,7 @@
 title: Stakeholder Map
 ---
 
-# 🗺️ Stakeholder Map — Cardano Moon (MEDBLOCK)
+# 🗺️ Stakeholder Map Cardano Moon (MEDBLOCK)
 
 **MEDBLOCK Project Ecosystem**
 

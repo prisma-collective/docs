@@ -2,7 +2,7 @@
 title: Community Essence Map
 ---
 
-# 🧭 Community Essence Map — YoTouch
+# 🧭 Community Essence Map YoTouch
 
 **Context:** FMARD NAGS-AP Farmer Registration  
 **Focus area:** Rural identity verification and Bank of Agriculture account access

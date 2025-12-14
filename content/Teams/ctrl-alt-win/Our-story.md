@@ -1,8 +1,8 @@
 ---
-title: Our Story — Ctrl + Alt + Win
+title: Our Story  Ctrl + Alt + Win
 ---
 
-## 📖 Our Story — Ctrl + Alt + Win
+## 📖 Our Story  Ctrl + Alt + Win
 
 ## How We Started
 
@@ -16,7 +16,7 @@ From the other side, a street vendor casually admitted: "People buy from me beca
 
 What became visible was a devastating pattern of **normalized danger**. People openly shared experiences of buying drugs that "did nothing." Pharmacists admitted receiving suspicious batches with no verification tools. We observed crowded pharmacies with no verification systems visible, street vendors selling medicines from unmarked containers, price-driven purchases overriding safety concerns, and no digital tools for authenticity checking. The same frustrations repeated everywhere: "I don't know if this medicine is real," "The drugs didn't work—my child is still sick," "We receive suspicious batches but have no way to check," "Street drugs are cheaper, so people buy them," "Fake drugs are everywhere—it's normal now."
 
-What moved us most deeply was the **impossible choice** low-income families face. When someone is sick, they buy immediately—there's no time to verify. People choose cheap drugs knowing they might be fake, simply because they can't afford the alternative. The most heartbreaking realization: **People often choose cheap drugs knowing they might be fake, simply because they can't afford the alternative.** These recurring experiences and the daily flow of risk are documented more fully in our **Community Essence Map**.
+What moved us most deeply was the **impossible choice** low-income families face. When someone is sick, they buy immediately—there's no time to verify. People choose cheap drugs knowing they might be fake, simply because they can't afford the alternative. The most heartbreaking realization: **People often choose cheap drugs knowing they might be fake, simply because they can't afford the alternative.** These recurring experiences and the daily flow of risk are documented more fully in our **[Community Essence Map](/Teams/ctrl-alt-win/community-essence-map)**.
 
 ### Where the System Breaks
 
@@ -26,7 +26,7 @@ The breakdown happens across multiple layers. **No easy method exists to confirm
 
 The trust crisis compounds across the ecosystem. Health workers lose credibility because counterfeit drugs make treatments fail, eroding confidence in the entire healthcare system—even genuine healthcare providers suffer reputation damage from systemic failures beyond their control. Fake anti-malarials and antibiotics frequently enter the market from unregulated distributors. Some private hospitals still lack proper tracking systems. Many youths and parents expressed concern about "fake drugs everywhere" but feel powerless to detect them.
 
-The result is **treatment failure, drug resistance, preventable deaths, and public distrust in healthcare**. Patients cannot confidently verify if their drugs are genuine. Pharmacists struggle to trace the true source of medicine batches. Doctors have no secure way to enforce prescription-only access. The most vulnerable populations—low-income families, children, elderly, chronic illness patients, rural migrants—bear the highest risk. This is not just a logistics problem—it is a **life-and-death trust failure inside Nigeria's medicine ecosystem**. The roles, constraints, and power dynamics across this fragmented supply chain are explored further in our **Stakeholder Map**.
+The result is **treatment failure, drug resistance, preventable deaths, and public distrust in healthcare**. Patients cannot confidently verify if their drugs are genuine. Pharmacists struggle to trace the true source of medicine batches. Doctors have no secure way to enforce prescription-only access. The most vulnerable populations—low-income families, children, elderly, chronic illness patients, rural migrants—bear the highest risk. This is not just a logistics problem—it is a **life-and-death trust failure inside Nigeria's medicine ecosystem**. The roles, constraints, and power dynamics across this fragmented supply chain are explored further in our **[Stakeholder Map](/Teams/ctrl-alt-win/stakeholder-map)**.
 
 ### Naming the Real Challenge
 
@@ -46,7 +46,7 @@ What surprised us most was how **normalized the risk of fake medicines feels to 
 
 We also learned the specific nature of community needs. Patients want simple, quick verification: "How do I know this medicine is real? Where did this drug come from? Is it safe for my child?" Pharmacists want transparent supply chain visibility: "How do I verify suspicious batches? How do I protect my customers and my reputation?" Doctors want accountability: "Are my prescriptions reaching the right patients? Why are treatments failing?" They want a solution that is simple, quick, and easy to adopt in daily routines.
 
-The project is not just about building software—**it is about supporting a community that deserves safety, certainty, and dignity in the medicines they rely on**. Our internal evolution from technical focus to human-centered mission is explored more deeply in our **Team Reflection**.
+The project is not just about building software—**it is about supporting a community that deserves safety, certainty, and dignity in the medicines they rely on**. Our internal evolution from technical focus to human-centered mission is explored more deeply in our **[Team Reflection](/Teams/ctrl-alt-win/reflection-summary)**.
 
 ### The Direction Forward
 

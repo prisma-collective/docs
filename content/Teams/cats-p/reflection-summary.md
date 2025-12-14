@@ -2,7 +2,7 @@
 title: Team Reflection Summary
 ---
 
-# 💭 Team Reflection Summary — CATS_P
+# 💭 Team Reflection Summary CATS_P
 
 **The Road to Clarity**
 

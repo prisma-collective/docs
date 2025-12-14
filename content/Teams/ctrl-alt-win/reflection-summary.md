@@ -2,7 +2,7 @@
 title: Team Reflection Summary
 ---
 
-# 💭 Team Reflection Summary — Ctrl + Alt + Win (MediSure)
+# 💭 Team Reflection Summary Ctrl + Alt + Win (MediSure)
 
 **Stage 1: Regenerative Exploration**  
 **Location:** Abuja, Nigeria

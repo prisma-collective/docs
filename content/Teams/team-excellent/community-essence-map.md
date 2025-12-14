@@ -2,7 +2,7 @@
 title: Community Essence Map
 ---
 
-# 🧭 Community Essence Map — Cardano Hackathon Team Excellent (AidChain)
+# 🧭 Community Essence Map  Cardano Hackathon Team Excellent (AidChain)
 
 **Location:** Nigeria  
 **Focus area:** Aid distribution and humanitarian support

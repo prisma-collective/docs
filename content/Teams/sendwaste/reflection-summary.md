@@ -2,7 +2,7 @@
 title: Team Reflection Summary
 ---
 
-# 💭 Team Reflection Summary — SendWaste Cardano
+# 💭 Team Reflection Summary SendWaste Cardano
 
 SendWaste in 2023 was a Web2 platform matching households with collectors. Walking Abuja for six weeks exposed the flaw: people were not struggling to find collectors. They were struggling to **trust** that a collection event truly happened. 
 

@@ -2,7 +2,7 @@
 title: Stakeholder Map
 ---
 
-# 🗺️ Stakeholder Map — YoTouch
+# 🗺️ Stakeholder Map YoTouch
 
 **FMARD NAGS-AP Documentation Challenge**
 

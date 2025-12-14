@@ -2,7 +2,7 @@
 title: Stakeholder Map
 ---
 
-# 🗺️ Stakeholder Map — $READS
+# 🗺️ Stakeholder Map $READS
 
 This map identifies the primary persons, groups, and organizations relevant to the success and adoption of the $READS initiative.
 

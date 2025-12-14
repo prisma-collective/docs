@@ -2,7 +2,7 @@
 title: Community Essence Map
 ---
 
-# 🧭 Community Essence Map — Classly
+# 🧭 Community Essence Map Classly
 
 **Location:** Abuja, Nigeria  
 **Focus area:** Informal online learning ecosystem — learners, tutors, and digital skills communities

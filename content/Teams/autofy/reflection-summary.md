@@ -1,8 +1,8 @@
 ---
-title: Team Reflection Summary — Autofy
+title: Team Reflection Summary Autofy
 ---
 
-# 💭 Team Reflection Summary — Autofy
+# 💭 Team Reflection Summary Autofy
 
 Throughout this project, our team's perspective has shifted from focusing primarily on building functional features to understanding the broader impact of our solution on the people we serve. Initially, we were concentrated on technical implementation and interface design, but engaging with drivers, passengers, and officers revealed that **trust, safety, and clarity are just as important as technology**.
 

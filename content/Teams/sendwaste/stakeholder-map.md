@@ -2,7 +2,7 @@
 title: Stakeholder Map
 ---
 
-# 🗺️ Stakeholder Map — SendWaste Cardano
+# 🗺️ Stakeholder Map SendWaste Cardano
 
 **Blockchain Proof Infrastructure for Abuja**
 

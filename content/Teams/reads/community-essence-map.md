@@ -2,7 +2,7 @@
 title: Community Essence Map
 ---
 
-# 🧭 Community Essence Map — $READS
+# 🧭 Community Essence Map $READS
 
 **Location:** Nigeria and Sub-Saharan Africa  
 **Focus area:** Student exam preparation and educational accessibility

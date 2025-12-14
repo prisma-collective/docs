@@ -2,7 +2,7 @@
 title: Team Reflection Summary
 ---
 
-# 💭 Team Reflection Summary — Zeno Wallet
+# 💭 Team Reflection Summary  Zeno Wallet
 
 **Key Insights and Path Forward**
 
