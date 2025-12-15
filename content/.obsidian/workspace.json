@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/enrolment/dids/project-manager.md",
+                "file": "processes/enrolment/index.mdx",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "project-manager"
+              "title": "index"
             }
           }
         ]
@@ -197,12 +197,14 @@
   },
   "active": "1737ff67d67897d4",
   "lastOpenFiles": [
-    "processes/enrolment/dids/index.mdx",
     "processes/enrolment/dids/project-manager.md",
-    "processes/enrolment/Negotiating Scope.md",
-    "processes/enrolment/dids",
+    "processes/enrolment/dids/project-manager.mdx",
     "processes/enrolment/index.mdx",
+    "processes/process-infrastructuring/publishing/practice-currencies.mdx",
+    "processes/enrolment/dids/index.mdx",
+    "processes/enrolment/Negotiating Scope.md",
     "processes/enrolment/Hub Enrollment Form Design.md",
+    "processes/enrolment/dids",
     "processes/enrolment/Applicant Interview Guiding Questions.mdx",
     "collaborators/Facilitators/index.mdx",
     "collaborators/Facilitators/enacting contract.md",
@@ -216,8 +218,6 @@
     "glossary/place-sourced potential.md",
     "processes/process-infrastructuring/propagate/index.mdx",
     "processes/process-infrastructuring/publishing/timelining/setup-onboarding.md",
-    "processes/process-infrastructuring/publishing/timelining/ingest.mdx",
-    "processes/process-infrastructuring/publishing/timelining/index.mdx",
     "processes/process-infrastructuring/propagate/workflow.md",
     "processes/process-infrastructuring/publishing/docs-writing.md",
     "events/index.md",
