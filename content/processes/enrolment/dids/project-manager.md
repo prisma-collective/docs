@@ -2,8 +2,18 @@
 sidebarTitle: Project Manager
 ---
 
-This contract has been created to recognise the role of Project Manager (PM) for Prisma DIDs - a decentralised ID system used to register participants and generate contribution accounts. 
+**This Agreement** (“Agreement”) is made and entered into as of **15.12.2025** by and between:
+
+**Aspecting OU**, a company registered in Estonia, registry code 17374162, with registered address at Harju maakond, Tallinn, Kesklinna linnaosa, Tartu mnt 67/1-13b, 10115 (“Company”); and
+
+Naoh Biel, an independent contractor, residing at Sant Boi, Barcelona (“Contractor” or “Project Manager”).
+
+**Collectively referred to as the “Parties.”**
+
+---
 # Context
+This contract has been created to recognise the role of Project Manager (PM) for Prisma DIDs - a decentralised ID system used to register participants and generate contribution accounts. 
+
 The DIDs project, as an identity system for use in event [organising](/patterns/core%20processes) and funding distribution, is a key enabling mechanism of making visible a given [stakeholder's](/collaborators) actions and pathway through an [action-learning journeys](/patterns/action-learning%20journeys) (ALJ/ ALJs). 
 
 > Decentralised IDs function as a pre-accounting primitive: they provide the minimal identity substrate required to create, control, and attribute accounts in distributed systems without a central authority.
