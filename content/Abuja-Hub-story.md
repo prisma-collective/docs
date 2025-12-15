@@ -240,7 +240,7 @@ Several patterns became clear over the course of the Abuja Hub's journey:
 - Kahoots reinforced learning and sustained engagement
 - Daily Hub Lead alignment enabled early intervention and support
 - Structured final reviews turned effort into credible outcomes
-- Nigerian builder resilience transformed barriers into motivation
+- Nigerian builder resilience transformed barriers into motivation for young people
 - Systemic gaps in documentation, developer capacity, and timing require urgent attention for future programmes
 
 ## Team Stories
