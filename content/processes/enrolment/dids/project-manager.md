@@ -44,7 +44,12 @@ Key responsibilities include...
 - Facilitating collaboration within and across the team, supporting the identification of roles, domains and responsibilities
 - Forecasting and communicating of effort and resources required, and any other dependencies, blockers, needs etc. 
 #### Out of Scope
-.
+- Performing hands-on software development, system architecture, or implementation work, except where explicitly agreed in writing.
+- Acting as the final decision-maker on strategic, governance, or budgetary matters beyond the scope of the DIDs project.
+- Assuming responsibility for legal, regulatory, compliance, or data protection obligations.
+- Acting as a substitute for enrolment facilitation, event organisation, or participant support roles.
+- Guaranteeing project outcomes that are contingent on external dependencies, third-party systems, funding disbursements, or decisions made outside the DIDs project domain.
+- Managing disputes, conflicts, or performance issues unrelated to the execution of the DIDs project.
 ## Key Deliverables
 The key deliverable of this project is to enable ALJ participants to be able to identify themselves within the context of an ALJ (including for access authorisation), sign key records (Verifiable Claims), and associate themselves to those records and other participants/ resources. 
 
@@ -53,21 +58,75 @@ In addition to ensuring the successful delivery of the project outlined in the [
 - Organise: Define and adapt the roles through which the social organisation of the team responds to the evolutions of the larger domain of enrolment. 
 - Integrate: By being in ongoing communication with larger system dynamics, the project manager is receiving a lot of feedback. They must continually integrate this information into how they are holding the development of the project as a whole, renewing their perspective/ frame of reference of both the project itself and its larger contexts (enrolment and ALJs). 
 - Publish: Reflect on and make visible, as learning content, the evolution of the project. This is to create an example of software development from a living systems perspective, which has both technical/ functional learnings as well as social/ organisational learnings. 
-- Evolve: Given the complexity and constant evolution of both the project and its surrounding contexts, the project manager must be prepared to be open to change. Therefore, the core understanding of the project and its unique role within the context of enrolment is required to be clarified and deepened through the course of the project. 
+- Evolve: Given the complexity and constant evolution of both the project and its larger contexts, the project manager must be prepared to be open to change. Therefore, the core understanding of the project concept, its role, and contribution to the larger domain of enrolment is expected to be clarified and deepened through the course of the project. 
 # Term and Duration
 - December 2025 - April 2026
 # Working Hours & Location
-- Working hours flexibile
+- Working hours flexible
 - Meeting punctuality and reliability is required
 - Remote work possible
-- Effort must be made to connect in-person at least twice a month
-# Payment
+- Effort must be made to connect in-person at least twice a month, either at a existing meeting premises or a suitable alternative. If an alternative is offered, the project manager must confirm a suitable venue. 
+# Payments
+#### DIDs
+Payment is made as soon as possible following distribution from Catalyst to Prisma, dependent on successful milestone submissions and sign-off. Expected payment dates are as follows:
 
+| Categoría        | Total (ADA)   | T1 (18k)      | T2 (4.5k)    | T3 (9k)      | T4 (9k)      | T5 (4.5k)    | T6 (15k)      | T7 (3.75k)   | T8 (11.25k)  |
+| ---------------- | ------------- | ------------- | ------------ | ------------ | ------------ | ------------ | ------------- | ------------ | ------------ |
+| Salarios         | 45,000.00     | 10,800.00     | 2,700.00     | 5,400.00     | 5,400.00     | 2,700.00     | 9,000.00      | 2,250.00     | 6,750.00     |
+| Comisión Noah    | 5,250.00      | 2,625.00      | 2,625.00     | 0.00         | 0.00         | 0.00         | 0.00          | 0.00         | 0.00         |
+| Comisión Prisma  | 7,500.00      | 1,800.00      | 450.00       | 900.00       | 900.00       | 450.00       | 1,500.00      | 375.00       | 1,125.00     |
+| Implementaciones | 17,250.00     | 2,775.00      | 1,350.00     | 2,700.00     | 2,700.00     | 1,350.00     | 4,500.00      | 1,125.00     | 750.00       |
+| **TOTAL TRAMO**  | **75,000.00** | **18,000.00** | **7,125.00** | **9,000.00** | **9,000.00** | **4,500.00** | **15,000.00** | **3,750.00** | **8,625.00** |
 
+The payments are associated to the following milestones and months:
+
+| Tramo     | Mes de Pago     | Monto (ADA)   | Hito Asociado     |
+| --------- | --------------- | ------------- | ----------------- |
+| T1        | Diciembre (M1)  | 18,000.00     | M1 (80% inicial)  |
+| T2        | Febrero (M2)    | 4,500.00      | M1 (20% restante) |
+| T3        | Febrero (M2)    | 9,000.00      | M2 (40% inicial)  |
+| T4        | Febrero (M2)    | 9,000.00      | M2 (40% inicial)  |
+| T5        | Marzo (M3)      | 4,500.00      | M2 (20% restante) |
+| T6        | Marzo (M3)      | 15,000.00     | M3 (80% inicial)  |
+| T7        | Abril (M Final) | 3,750.00      | M3 (20% restante) |
+| T8        | Abril (M Final) | 11,250.00     | M Final (100%)    |
+| **TOTAL** |                 | **75,000.00** |                   |
+
+#### Argentina ALJ Commission
+In addition to the above payments relating to the Prisma DIDs project, there is included outstanding payment of commission for prior work done as part of proposal writing for a related project, which surmounts to 4200 ADA. This payment will be spread across the first two milestones in the same way as in DIDs. 
 # Taxes & Status
-
+- The Project Manager is engaged as an **independent contractor** and is not an employee, agent, partner, or representative of Prisma OU. Nothing in this agreement creates an employment relationship.
+- The Project Manager is solely responsible for **all applicable taxes, social security contributions, and any other statutory obligations** arising from the payments received under this agreement, including obligations under Estonian income tax, social tax, and mandatory insurance rules.
+- Prisma OU shall **not withhold taxes, social security contributions, or other payments** on behalf of the Project Manager, except to the extent required by Estonian law.
+- The Project Manager is responsible for reporting and paying taxes on income received under this agreement in accordance with Estonian law, including filing any necessary declarations to the Estonian Tax and Customs Board.
+- The Project Manager confirms that they have the right to provide services under Estonian law and, if applicable, holds any permits, registrations, or licenses required to operate as a self-employed contractor or private entrepreneur in Estonia.
 # Confidentiality & IP
-
+#### Confidentiality
+- The Project Manager agrees to treat as confidential all non-public information relating to Prisma, the DIDs project, enrolment processes, ALJs, collaborators, participants, and associated systems. 
+- Confidential information shall not be disclosed to any third party without prior written consent, except where required by law.
+- These confidentiality obligations survive termination of this agreement.
+#### Intellectual Property
+- All work products, deliverables, materials, documentation, designs, specifications, and other outputs created by the Project Manager in connection with this agreement (“Work Product”) shall be the exclusive property of Prisma OU.
+- The Project Manager hereby irrevocably assigns to Prisma OU all intellectual property rights, including copyright, in and to the Work Product, whether now known or created in the future, in all territories, without limitation. Prisma OU shall have the exclusive right to use, reproduce, modify, distribute, license, or otherwise exploit the Work Product.
+- To the extent permitted by law, the Project Manager waives any moral rights in the Work Product or consents to their use in a manner consistent with this agreement.
 # Termination
-
+- Either party may terminate this agreement at any time with **14 days’ written notice**.
+- Prisma may terminate the agreement immediately in the event of:
+    - Material breach of responsibilities
+    - Failure to perform duties in a manner that materially impairs the project
+    - Breach of confidentiality or misuse of project assets
+- Upon termination, the Project Manager shall be entitled only to payment for work corresponding to milestones successfully completed and approved prior to the termination date.
+- No further compensation, damages, or penalties shall be payable upon termination.
 # Signatures
+By signing below, the parties acknowledge that they have read, understood, and agreed to the terms of this contract.
+
+**For Prisma**  
+Name:  
+Title:  
+Signature:  
+Date:
+
+**Project Manager**  
+Name:  
+Signature:  
+Date:
