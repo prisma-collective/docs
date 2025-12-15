@@ -5,7 +5,7 @@ aliases:
 - action role
 - action contract
 
-sidebarTitle: Enacting
+sidebarTitle: (Contract) Enacting
 ---
 
 # Purpose of the Role
