@@ -2,12 +2,12 @@
 
 import { usePathname } from 'next/navigation'
 import { Layout } from 'nextra-theme-docs'
-import { ReactNode, useMemo } from 'react'
+import { ReactNode, ReactElement, JSXElementConstructor, useMemo } from 'react'
 
 interface LocaleAwareLayoutProps {
   children: ReactNode
-  navbar: ReactNode
-  footer: ReactNode
+  navbar: ReactElement<Record<string, unknown>, string | JSXElementConstructor<any>>
+  footer: ReactElement<Record<string, unknown>, string | JSXElementConstructor<any>>
   fullPageMap: any[]
   docsRepositoryBase: string
 }
@@ -29,10 +29,27 @@ export function LocaleAwareLayout({
 
   // Filter page map by locale
   const pageMap = useMemo(() => {
-    const localeFolder = fullPageMap.find((page: any) => page.route === `/${locale}`)
+    // Safety check: ensure fullPageMap is valid
+    if (!fullPageMap || !Array.isArray(fullPageMap) || fullPageMap.length === 0) {
+      // Return minimal valid structure instead of empty array
+      return [{
+        kind: 'MdxPage',
+        name: 'index',
+        route: `/${locale}`,
+        frontMatter: {}
+      }]
+    }
+
+    const localeFolder = fullPageMap.find((page: any) => page && page.route === `/${locale}`)
 
     if (!localeFolder || !localeFolder.children) {
-      return []
+      // Return minimal valid structure instead of empty array
+      return [{
+        kind: 'MdxPage',
+        name: 'index',
+        route: `/${locale}`,
+        frontMatter: {}
+      }]
     }
 
     return localeFolder.children
