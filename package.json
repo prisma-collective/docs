@@ -21,7 +21,7 @@
   "homepage": "https://docs.prisma.events",
   "dependencies": {
     "@headlessui/react": "^2.2.2",
-    "@next/mdx": "^15.2.4",
+    "@next/mdx": "^15.2.8",
     "@tailwindcss/postcss": "^4.0.17",
     "@vercel/analytics": "^1.5.0",
     "boring-avatars": "^1.11.2",
@@ -30,7 +30,7 @@
     "cytoscape": "^3.32.0",
     "cytoscape-cose-bilkent": "^4.1.0",
     "googleapis": "^154.0.0",
-    "next": "^15.2.4",
+    "next": "^15.2.8",
     "nextra": "^4.2.16",
     "nextra-theme-docs": "^4.2.16",
     "open": "^10.2.0",
