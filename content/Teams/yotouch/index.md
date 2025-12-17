@@ -17,6 +17,12 @@ title: YoTouch
 - **Risiqat Abdulrasheed** — Data Analyst
 
 ---
+## Project Links
+
+- **Pitch Recording:** [View Pitch](https://drive.google.com/drive/folders/11dupFt0seu25WrIcFLxBa6JntMP-IgcF?usp=drive_link)
+- **Live Demo Recording:** [View Demo](https://drive.google.com/drive/folders/1oFcYoEf0LOykOoDORwdOhaLx6xbPpVu9?usp=drive_link)
+- **Deployment Link:** [Launch App](https://yotouch.web.app)
+- **GitHub Repository:** [View Code](https://github.com/aiusquare/cad-yotouch.git)
 
 ## Pages
 
@@ -125,8 +131,9 @@ YoTouch is more than an app—it is the first step toward inclusive digital iden
 
 ## Project Links
 
-- **GitHub Repository:** [Link - To be added]
-- **Live Demo:** [Link - To be added]
-- **Documentation:** [Link - To be added]
+- **Pitch Recording:** [View Pitch](https://drive.google.com/drive/folders/11dupFt0seu25WrIcFLxBa6JntMP-IgcF?usp=drive_link)
+- **Live Demo Recording:** [View Demo](https://drive.google.com/drive/folders/1oFcYoEf0LOykOoDORwdOhaLx6xbPpVu9?usp=drive_link)
+- **Deployment Link:** [Launch App](https://yotouch.web.app)
+- **GitHub Repository:** [View Code](https://github.com/aiusquare/cad-yotouch.git)
 
 

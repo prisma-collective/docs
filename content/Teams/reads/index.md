@@ -21,6 +21,15 @@ title: $READS
 - **Akinwande Kehinde (Ebenezer)** — UI/UX Designer
 
 ---
+## Project Links
+
+- **Website:** [readstechnet.vercel.app](https://readstechnet.vercel.app)
+- **Social Media:** [@READS_TECH_NET](https://twitter.com/READS_TECH_NET)
+- **Pitch Recording:** [View Pitch](https://www.loom.com/share/a762ada690504d478993fcaa8c39f03a)
+- **Live Demo Recording:** [View Demo](https://www.loom.com/share/d1831c994b834db2bb26867eeb4f7348)
+- **Deployment Link:** [Launch App](https://reads-phi.vercel.app)
+- **GitHub Repository:** [View Code](https://github.com/READS-TECHNOLOGIES/reads.git)
+
 
 ## Pages
 
@@ -142,10 +151,11 @@ READS creates a future where:
 
 ## Project Links
 
-- **Live MVP:** [reads-phi.vercel.app](https://reads-phi.vercel.app)
 - **Website:** [readstechnet.vercel.app](https://readstechnet.vercel.app)
 - **Social Media:** [@READS_TECH_NET](https://twitter.com/READS_TECH_NET)
-- **GitHub Repository:** [Link - To be added]
-- **Documentation:** [Link - To be added]
+- **Pitch Recording:** [View Pitch](https://www.loom.com/share/a762ada690504d478993fcaa8c39f03a)
+- **Live Demo Recording:** [View Demo](https://www.loom.com/share/d1831c994b834db2bb26867eeb4f7348)
+- **Deployment Link:** [Launch App](https://reads-phi.vercel.app)
+- **GitHub Repository:** [View Code](https://github.com/READS-TECHNOLOGIES/reads.git)
 
 

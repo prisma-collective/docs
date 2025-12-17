@@ -1,5 +1,5 @@
 ---
-title: Cardano Hackathon Team Excellent
+title: Cardano Hackathon Team Excellent/ Exceptional 
 ---
 
 # Cardano Hackathon Team Excellent
@@ -19,6 +19,12 @@ title: Cardano Hackathon Team Excellent
 - **Jamilu Abdullahi Kadiya** — Junior Programmer, Researcher & Tech Enthusiast
 
 ---
+## Project Links
+
+- **Pitch Recording:** [View Pitch](https://drive.google.com/file/d/16zIfvBOqKQXc-FfYn1ZzYO1vp1LMTp0a/view?usp=sharing)
+- **Live Demo Recording:** [View Demo](https://www.loom.com/share/bc3f742d2600475e9289535cc2d56fef)
+- **Deployment Link:** [Launch App](https://aidchain26.netlify.app)
+- **GitHub Repository:** [View Code](https://github.com/Cardano-Hackathon-Team-Exceptional/aidchain)
 
 ## Pages
 
@@ -217,7 +223,8 @@ AidChain creates a future where:
 
 ## Project Links
 
-- **GitHub Repository:** [github.com/Maruhsoft/aidchain](https://github.com/Maruhsoft/aidchain)
-- **Live Demo:** [Link - To be added]
-- **Documentation:** [Link - To be added]
+- **Pitch Recording:** [View Pitch](https://drive.google.com/file/d/16zIfvBOqKQXc-FfYn1ZzYO1vp1LMTp0a/view?usp=sharing)
+- **Live Demo Recording:** [View Demo](https://www.loom.com/share/bc3f742d2600475e9289535cc2d56fef)
+- **Deployment Link:** [Launch App](https://aidchain26.netlify.app)
+- **GitHub Repository:** [View Code](https://github.com/Cardano-Hackathon-Team-Exceptional/aidchain)
 

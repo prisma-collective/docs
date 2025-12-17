@@ -17,6 +17,13 @@ title: Cardano Moon (MEDBLOCK)
 - **Thomas Abasienyene** — Frontend/Backend Developer
 
 ---
+## Project Links
+
+- **Pitch Recording:** [View Pitch](https://drive.google.com/file/d/1l6etexqdaNX2188Cd7L3ruNgFMLiFJ6i/view?usp=drive_link)
+- **Live Demo Recording:** [View Demo](https://drive.google.com/file/d/1-jqrBLUckEPyFA6y3V8lTjRjx5KoRr62/view?usp=sharing)
+- **Deployment Link:** [Launch App](https://medblock-app.web.app/)
+- **GitHub Repository:** [View Code](https://github.com/oye-bobs/MEDBLOCK)
+
 
 ## Pages
 
@@ -260,8 +267,8 @@ Social recovery mechanisms and multi-factor backup systems
 
 ## Project Links
 
-- **GitHub Repository:** [Link - To be added]
-- **Live Demo:** [Link - To be added]
-- **Documentation:** [Link - To be added]
-- **Technical Architecture:** [Link - To be added]
+- **Pitch Recording:** [View Pitch](https://drive.google.com/file/d/1l6etexqdaNX2188Cd7L3ruNgFMLiFJ6i/view?usp=drive_link)
+- **Live Demo Recording:** [View Demo](https://drive.google.com/file/d/1-jqrBLUckEPyFA6y3V8lTjRjx5KoRr62/view?usp=sharing)
+- **Deployment Link:** [Launch App](https://medblock-app.web.app/)
+- **GitHub Repository:** [View Code](https://github.com/oye-bobs/MEDBLOCK)
 

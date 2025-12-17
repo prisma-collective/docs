@@ -19,6 +19,13 @@ title: CATS_P
 
 ---
 
+## Project Links
+
+- **Pitch Recording:** [View Pitch](https://drive.google.com/file/d/1BjYuRAn9vVkA3ejKMBLA1HtCi03MURXD/view?usp=drivesdk)
+- **Live Demo Recording:** [View Demo](https://drive.google.com/file/d/1KzPcn3mDdrPK6FqrtyoWNz3vvoDU3pYe/view?usp=drivesdk)
+- **Deployment Link:** [Launch App](https://roadmechs.kesug.com)
+- **GitHub Repository:** [View Code](https://github.com/Emm-Anuel100/Roadmechs/)
+
 ## Pages
 
 - 🎨 [Community Essence Map](/Teams/cats-p/community-essence-map)
@@ -157,8 +164,7 @@ To have all rural drivers' car issues tackled with the help of our platform, eli
 
 ## Project Links
 
-- **Web Platform:** [Link - To be added]
-- **GitHub Repository:** [Link - To be added]
-- **Documentation:** [Link - To be added]
-- **Demo Video:** [Link - To be added]
-
+- **Pitch Recording:** [View Pitch](https://drive.google.com/file/d/1BjYuRAn9vVkA3ejKMBLA1HtCi03MURXD/view?usp=drivesdk)
+- **Live Demo Recording:** [View Demo](https://drive.google.com/file/d/1KzPcn3mDdrPK6FqrtyoWNz3vvoDU3pYe/view?usp=drivesdk)
+- **Deployment Link:** [Launch App](https://roadmechs.kesug.com)
+- **GitHub Repository:** [View Code](https://github.com/Emm-Anuel100/Roadmechs/)

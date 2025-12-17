@@ -17,6 +17,13 @@ title: HealthChain
 - **Daniel Clinton** — Blockchain Developer
 
 ---
+## Project Links
+
+- **Pitch Recording:** [View Pitch](https://drive.google.com/drive/folders/1MmjZzQ6TiYnZo8h1We3p24OjYPQHTQkh?usp=sharing)
+- **Live Demo Recording:** [View Demo](https://drive.google.com/drive/folders/1nk2896iTtObLj1NfmH2vVuKjaCoAA0jf?usp=sharing)
+- **Deployment Link:** [Launch App](https://healthchain-cardano.vercel.app/)
+- **GitHub Repository:** [View Code](https://github.com/Cardano-HealthChain)
+
 
 ## Pages
 
@@ -121,8 +128,9 @@ A future where trust, security, and patient control redefine the health record e
 
 ## Project Links
 
-- **GitHub Repository:** [Link - To be added]
-- **Live Demo:** [Link - To be added]
-- **Documentation:** [Link - To be added]
+- **Pitch Recording:** [View Pitch](https://drive.google.com/drive/folders/1MmjZzQ6TiYnZo8h1We3p24OjYPQHTQkh?usp=sharing)
+- **Live Demo Recording:** [View Demo](https://drive.google.com/drive/folders/1nk2896iTtObLj1NfmH2vVuKjaCoAA0jf?usp=sharing)
+- **Deployment Link:** [Launch App](https://healthchain-cardano.vercel.app/)
+- **GitHub Repository:** [View Code](https://github.com/Cardano-HealthChain)
 
 ---

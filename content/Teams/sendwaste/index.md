@@ -17,8 +17,16 @@ title: SendWaste Cardano
 - **Daniel Adewole Adediran** — Data Scientist
 
 ---
+## Project Links
 
-## Pages
+- **Live Demo (Cardano Preprod):** [sendwaste-cardano.vercel.app](https://sendwaste-cardano.vercel.app)
+- **Web2 Platform:** [sendwaste.com](https://sendwaste.com)
+- **AURA E-Store:** [sendwaste.com/aura](https://sendwaste.com/aura)
+- **GitHub Repository:** [github.com/bethelclement/sendwaste-cardano](https://github.com/bethelclement/sendwaste-cardano)
+- **Investor Pitch:** [sendwaste-cardano.vercel.app/investor_pitch.html](https://sendwaste-cardano.vercel.app/investor_pitch.html)
+
+
+
 ## Pages
 
 - 🎨 [Community Essence Map](/Teams/sendwaste/community-essence-map)

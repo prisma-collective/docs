@@ -16,6 +16,14 @@ title: Classly
 - **Isaac Agene** — Frontend Developer
 - **Rejoice Ukange** — UI/UX Designer
 
+
+## Project Links
+
+- **Pitch Recording:** [View Pitch](https://drive.google.com/file/d/1-kj6V-8V27_wuwB98lWrosmVR7GnS_Cq/view?usp=sharing)
+- **Live Demo Recording:** [View Demo](https://drive.google.com/file/d/17v0MowYyc8qgBKWGhpLwwO4hsWL4_Guu/view?usp=sharing)
+- **Deployment Link:** [Launch App](https://classlyr.vercel.app)
+- **GitHub Repository:** [View Code](https://github.com/Huey-dev/classly)
+
 ---
 
 ## Pages
@@ -122,7 +130,8 @@ We are rebuilding the table itself.
 
 ## Project Links
 
-- **GitHub Repository:** [Link - To be added]
-- **Live Demo:** [Link - To be added]
-- **Documentation:** [Link - To be added]
+- **Pitch Recording:** [View Pitch](https://drive.google.com/file/d/1-kj6V-8V27_wuwB98lWrosmVR7GnS_Cq/view?usp=sharing)
+- **Live Demo Recording:** [View Demo](https://drive.google.com/file/d/17v0MowYyc8qgBKWGhpLwwO4hsWL4_Guu/view?usp=sharing)
+- **Deployment Link:** [Launch App](https://classlyr.vercel.app)
+- **GitHub Repository:** [View Code](https://github.com/Huey-dev/classly)
 

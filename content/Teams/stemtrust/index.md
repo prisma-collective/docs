@@ -14,6 +14,15 @@ title: StemTrust
 - **Salaudeen Muhammad Mustapha** — Developer & Project Tester
 - **Benshak Tom** — Project Manager
 
+
+
+## Project Links
+
+- **Pitch Recording:** [View Pitch](https://www.loom.com/share/621ae0387a2749f4b66651d8b4f2e5bc)
+- **Live Demo Recording:** [View Demo](https://www.loom.com/share/9166edf247ad4e5d913007d0f28485f7)
+- **Deployment Link:** [Launch App](http://stemt-trust.southafricanorth.cloudapp.azure.com:5173/)
+- **GitHub Repository:** [View Code](https://github.com/Akeem1955/StemTrust.git)
+
 ---
 
 ## Pages
@@ -112,12 +121,13 @@ The outcome is a funding ecosystem where:
 StemTrust turns STEM research funding from a high-risk gamble into a verifiable, data-backed investment.
 
 ---
-
 ## Project Links
 
-- **GitHub Repository:** [Link - To be added]
-- **Live Demo:** [Link - To be added]
-- **Documentation:** [Link - To be added]
+- **Pitch Recording:** [View Pitch](https://www.loom.com/share/621ae0387a2749f4b66651d8b4f2e5bc)
+- **Live Demo Recording:** [View Demo](https://www.loom.com/share/9166edf247ad4e5d913007d0f28485f7)
+- **Deployment Link:** [Launch App](http://stemt-trust.southafricanorth.cloudapp.azure.com:5173/)
+- **GitHub Repository:** [View Code](https://github.com/Akeem1955/StemTrust.git)
+
 
 ---
 
