@@ -92,8 +92,6 @@ const navbar = (
   />
 );
 
-const footer = <Footer>Prisma © {new Date().getFullYear()}</Footer>
-
 export default async function RootLayout({
   children,
   params,
@@ -109,6 +107,9 @@ export default async function RootLayout({
 
   // Get full page map - will be filtered on client side
   const fullPageMap = await getPageMap();
+
+  // Create footer element inside the component
+  const footer = <Footer>Prisma © {new Date().getFullYear()}</Footer>;
 
   return (
     <html lang={locale} dir="ltr" suppressHydrationWarning>
