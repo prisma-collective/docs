@@ -23,7 +23,7 @@ Cardano-powered Autofy creates an immutable record of vehicle documentation, com
 
 ## 🎥 Pitch
 <iframe
-  src="https://drive.google.com/drive/folders/1eVJRIZBUn1ofYEDHaIyiO2TTvl4wezH2"
+  src="https://drive.google.com/file/d/1Jp1z67qNyZle0BvY-EVhLIGZCEdSv4LR/preview"
   width="100%"
   height="480"
   style={{ border: 0 }}
@@ -33,13 +33,14 @@ Cardano-powered Autofy creates an immutable record of vehicle documentation, com
 
 ## 🎥 Demo
 <iframe
-  src="https://drive.google.com/drive/folders/1kUBij0gsP1aRH8PD1ly8z3Dt_7XUj6kA"
+  src="https://drive.google.com/file/d/17Ukl5iZgcRzsYk3DpoYVSP_6GM70Cwdc/preview"
   width="100%"
   height="480"
   style={{ border: 0 }}
   allow="autoplay; fullscreen"
   allowFullScreen={true}
 ></iframe>
+
 
 ## 🔗 Links
 - **Deployment:** [Launch App](https://autofy-25.vercel.app/)
