@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from 'react';
-import teamData from '@/public/burkindi.json';
+import teamData from '@/public/bur.json';
 import { FaXTwitter, FaTelegram, FaGithub, FaLinkedinIn, FaPhone, FaGlobe, FaGitlab } from "react-icons/fa6";
 import { ProfileCard } from './ProfileCard';
 import { MdOutlineEmail } from "react-icons/md";
