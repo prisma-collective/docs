@@ -18,32 +18,32 @@
       ]
     },
     {
-      "name": "Laurentine Djatsa",
+      "name": "Sawadogo Aziz",
       "role": "Team member",
-      "photo": "/laurentine.jpg",
-      "profile_card_link": "https://www.linkedin.com/in/inkuba-academy-9903a5273/",
+      "photo": "/burkindi/a46f6.jpg",
+      "profile_card_link": "#",
       "links": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/in/inkuba-academy-9903a5273/",
+          "url": "#",
           "icon": "FaLinkedinIn"
         },
         {
           "label": "Github",
-          "url": "https://github.com/InkubaHub1",
+          "url": "#",
           "icon": "FaGithub"
         }
       ]
     },
     {
-      "name": "Fahouzia Minte",
+      "name": "Kabore Serge",
       "role": "Team member",
-      "photo": "",
-      "profile_card_link": "https://www.linkedin.com/in/fahouzia-mint%C3%A9-1359b92b4/",
+      "photo": "/burkindi/b.jpg",
+      "profile_card_link": "#",
       "links": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/in/fahouzia-mint%C3%A9-1359b92b4/",
+          "url": "#",
           "icon": "FaLinkedinIn"
         },
         {
@@ -54,14 +54,14 @@
       ]
     },
     {
-      "name": "Adama Kantagba",
+      "name": "Sakande Balkissa",
       "role": "Team member",
-      "photo": "",
-      "profile_card_link": "https://www.linkedin.com/in/wendemi-cheickna-farel-adama-kantagba-44714831a/",
+      "photo": "/burkindi/f490.jpg",
+      "profile_card_link": "#",
       "links": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/in/wendemi-cheickna-farel-adama-kantagba-44714831a/",
+          "url": "#",
           "icon": "FaLinkedinIn"
         },
         {
@@ -72,14 +72,14 @@
       ]
     },
     {
-      "name": "Aime Nico Kam",
+      "name": "Nebie Razack",
       "role": "Team member",
-      "photo": "/nico.jpg",
-      "profile_card_link": "https://www.linkedin.com/in/aim%C3%A9-si%C3%A9-humpa-nico-kam-6b76941b9/",
+      "photo": "/burkindi/ac82.jpg",
+      "profile_card_link": "#",
       "links": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/in/aim%C3%A9-si%C3%A9-humpa-nico-kam-6b76941b9/",
+          "url": "#",
           "icon": "FaLinkedinIn"
         }
       ]
