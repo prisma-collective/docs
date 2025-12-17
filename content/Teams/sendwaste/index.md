@@ -19,10 +19,12 @@ title: SendWaste Cardano
 ---
 ## Project Links
 
-- **Live Demo (Cardano Preprod):** [sendwaste-cardano.vercel.app](https://sendwaste-cardano.vercel.app)
+- **Pitch Recording:** [View Pitch](https://www.loom.com/share/6fd3c1f91c9a42949c212f900000442c)
+- **Live Demo Recording:** [View Demo](https://www.loom.com/share/6fd3c1f91c9a42949c212f900000442c)
+- **Deployment Link:** [Launch App](https://sendwaste-cardano.vercel.app/)
+- **GitHub Repository:** [View Code](https://github.com/bethelclement/sendwaste-cardano)
 - **Web2 Platform:** [sendwaste.com](https://sendwaste.com)
 - **AURA E-Store:** [sendwaste.com/aura](https://sendwaste.com/aura)
-- **GitHub Repository:** [github.com/bethelclement/sendwaste-cardano](https://github.com/bethelclement/sendwaste-cardano)
 - **Investor Pitch:** [sendwaste-cardano.vercel.app/investor_pitch.html](https://sendwaste-cardano.vercel.app/investor_pitch.html)
 
 
@@ -118,10 +120,12 @@ Demonstrates material recovery outcomes by showcasing upcycled products created 
 
 ## Project Links
 
-- **Live Demo (Cardano Preprod):** [sendwaste-cardano.vercel.app](https://sendwaste-cardano.vercel.app)
+- **Pitch Recording:** [View Pitch](https://www.loom.com/share/6fd3c1f91c9a42949c212f900000442c)
+- **Live Demo Recording:** [View Demo](https://www.loom.com/share/6fd3c1f91c9a42949c212f900000442c)
+- **Deployment Link:** [Launch App](https://sendwaste-cardano.vercel.app/)
+- **GitHub Repository:** [View Code](https://github.com/bethelclement/sendwaste-cardano)
 - **Web2 Platform:** [sendwaste.com](https://sendwaste.com)
 - **AURA E-Store:** [sendwaste.com/aura](https://sendwaste.com/aura)
-- **GitHub Repository:** [github.com/bethelclement/sendwaste-cardano](https://github.com/bethelclement/sendwaste-cardano)
 - **Investor Pitch:** [sendwaste-cardano.vercel.app/investor_pitch.html](https://sendwaste-cardano.vercel.app/investor_pitch.html)
 
 ---

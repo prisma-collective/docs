@@ -3,7 +3,6 @@ title: MVP & Demo
 sidebarTitle: MVP & Demo
 ---
 
-# Solution Genesis
 
 ## Problem
 Along high-traffic corridors outside central Abuja, transport enforcement practices have increasingly led to harassment, vehicle damage, wrongful impoundment, and violent confrontations affecting drivers, passengers, and bystanders. The emerging challenge is the breakdown of trust and safety between drivers, passengers, and authorities, which undermines compliance and smooth mobility. Even small issues like unclear documentation or difficult verification processes significantly erode people's experiences and confidence in the system, creating a cycle of fear and inefficiency on the roads.

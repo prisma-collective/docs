@@ -14,6 +14,12 @@ title: Zeno Wallet
 - **Onunkwor Chidimma Bridget** — Team Member
 
 ---
+## Project Links
+
+- **Pitch Recording:** [View Pitch](https://www.loom.com/share/26bfa17970474828a7335af4028c730f)
+- **Live Demo Recording:** [View Demo](https://www.loom.com/share/73de36fc4c4e4ab49c4aa57d862812b2)
+- **Deployment Link:** [Launch App](https://zeno-gmrr.onrender.com)
+- **GitHub Repository:** [View Code](https://github.com/osazeejedi/zeno)
 
 ## Pages
 
@@ -142,9 +148,8 @@ Zeno Wallet enables a future where:
 ---
 
 ## Project Links
-
-- **Telegram Bot:** [@ZenoWalletBot](#) - [To be added]
-- **GitHub Repository:** [Link - To be added]
-- **Documentation:** [Link - To be added]
-- **Demo Video:** [Link - To be added]
+- **Pitch Recording:** [View Pitch](https://www.loom.com/share/26bfa17970474828a7335af4028c730f)
+- **Live Demo Recording:** [View Demo](https://www.loom.com/share/73de36fc4c4e4ab49c4aa57d862812b2)
+- **Deployment Link:** [Launch App](https://zeno-gmrr.onrender.com)
+- **GitHub Repository:** [View Code](https://github.com/osazeejedi/zeno)
 
