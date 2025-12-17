@@ -20,7 +20,7 @@ HealthChain leverages Cardano blockchain to provide tamper-proof signatures for 
 
 ## 🎥 Pitch
 <iframe
-  src="https://drive.google.com/file/d/1feMRaAqA57GsAs4eKdJKQ29uw6fKdhEJ/view?usp=drive_link"
+  src="https://drive.google.com/file/d/1feMRaAqA57GsAs4eKdJKQ29uw6fKdhEJ/preview"
   width="100%"
   height="480"
   style={{ border: 0 }}
@@ -30,7 +30,7 @@ HealthChain leverages Cardano blockchain to provide tamper-proof signatures for 
 
 ## 🎥 Demo 
 <iframe
-  src="https://drive.google.com/file/d/1CT2goudXNYlVdNF6Kd-GSYq0qeYSo5nj/view?usp=drive_link"
+  src="https://drive.google.com/file/d/1CT2goudXNYlVdNF6Kd-GSYq0qeYSo5nj/preview"
   width="100%"
   height="480"
   style={{ border: 0 }}
