@@ -22,7 +22,7 @@ YoTouch leverages blockchain technology to transform trusted community attestati
 
 ## 🎥 Pitch
 <iframe
-  src="https://drive.google.com/drive/folders/11dupFt0seu25WrIcFLxBa6JntMP-IgcF/preview"
+  src="https://drive.google.com/file/d/1X9h55QQlQQEbXAAoMYPk6CiGF-HoTm1d/preview"
   width="100%"
   height="480"
   style={{ border: 0 }}
@@ -32,7 +32,7 @@ YoTouch leverages blockchain technology to transform trusted community attestati
 
 ## 🎥 Demo
 <iframe
-  src="https://drive.google.com/drive/folders/1oFcYoEf0LOykOoDORwdOhaLx6xbPpVu9/preview"
+  src="https://drive.google.com/file/d/1kTHdOCUqdDPOT0o0_bLJF5NY2ZZiGmR-/preview"
   width="100%"
   height="480"
   style={{ border: 0 }}
