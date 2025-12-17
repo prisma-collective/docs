@@ -1,18 +1,18 @@
 [
     {
-      "name": "Betsaleel Dakuyo",
+      "name": "Dabre Abdel",
       "role": " Team lead/Teachinal lead",
-      "photo": "/Betsa.png",
-      "profile_card_link": "https://www.linkedin.com/in/betsaleel-dakuyo-7a7220313",
+      "photo": "/burkindi/95.jpg",
+      "profile_card_link": "#",
       "links": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/in/betsaleel-dakuyo-7a7220313",
+          "url": "#",
           "icon": "FaLinkedinIn"
         },
         {
           "label": "GitHub",
-          "url": "https://github.com/Betsa777",
+          "url": "https://github.com/Abdel226",
           "icon": "FaGithub"
         }
       ]
