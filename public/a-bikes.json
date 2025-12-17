@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Y. A. Ezeckiel BASSOLE",
+        "role": "Team Member",
+        "photo": "",
+        "profile_card_link": "",
+        "links": [
+            {
+                "label": "Github",
+                "url": "/",
+                "icon": "FaGithub"
+            }
+        ]
+    },
+    {
+        "name": "Jean Baptiste ILBOUDO",
+        "role": "Team Member",
+        "photo": "",
+        "profile_card_link": "",
+        "links": [
+            {
+                "label": "Github",
+                "url": "/",
+                "icon": "FaGithub"
+            }
+        ]
+    },
+    {
+        "name": "Barthelemy KABORE",
+        "role": "Team Member",
+        "photo": "/bart.png",
+        "profile_card_link": "https://www.linkedin.com/in/barth%C3%A9l%C3%A9my-w-a-kayaba-kabore-8a3a14226/",
+        "links": [
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/barth%C3%A9l%C3%A9my-w-a-kayaba-kabore-8a3a14226/",
+                "icon": "FaLinkedinIn"
+            },
+            {
+                "label": "Github",
+                "url": "https://github.com/barthelemyGit1/",
+                "icon": "FaGithub"
+            }
+        ]
+    },
+    {
+        "name": "Matthias KOUEVI",
+        "role": "Team Member",
+        "photo": "/mat.png",
+        "profile_card_link": "#",
+        "links": []
+    },
+    {
+        "name": "Angelo M. J. K. 1er J. YAMEOGO",
+        "role": "Team Leader",
+        "photo": "/Angelo.jpeg",
+        "profile_card_link": "https://gitlab.com/YAMJK_1er",
+        "links": [
+            {
+                "label": "Gitlab",
+                "url": "https://gitlab.com/YAMJK_1er",
+                "icon": "FaGitlab"
+            },
+            {
+                "label": "Github",
+                "url": "https://github.com/YAMJK-1er",
+                "icon": "FaGithub"
+            }
+        ]
+    }
+]
