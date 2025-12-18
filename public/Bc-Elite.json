@@ -1,18 +1,18 @@
 [
   {
-    "name": "DAMIBA T S Johannes",
+    "name": "DAMIBA T.S Johannes",
     "role": " Team Leader ",
-    "photo": "/Johannes.jpeg",
-    "profile_card_link": "https://www.linkedin.com/in/",
+    "photo": "/Bc-Elite/Johannes.jpeg",
+    "profile_card_link": "https://www.linkedin.com/in/tigimba-slorian-johannes-damiba",
     "links": [
       {
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/",
+        "url": "https://www.linkedin.com/in/tigimba-slorian-johannes-damiba",
         "icon": "FaLinkedinIn"
       },
       {
         "label": "GitHub",
-        "url": "https://github.com/",
+        "url": "https://github.com/DigitalBrain5",
         "icon": "FaGithub"
       }
     ]
@@ -20,17 +20,17 @@
   {
     "name": "COULIBALY Touby Bakary",
     "role": "Team member",
-    "photo": "/Touby.jpeg",
-    "profile_card_link": "https://www.linkedin.com/in/inkuba-academy-9903a5273/",
+    "photo": "/Bc-Elite/Touby.jpeg",
+    "profile_card_link": "#",
     "links": [
       {
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/inkuba-academy-9903a5273/",
+        "url": "#",
         "icon": "FaLinkedinIn"
       },
       {
         "label": "Github",
-        "url": "https://github.com/InkubaHub1",
+        "url": "https://github.com/toubys6c",
         "icon": "FaGithub"
       }
     ]
@@ -38,17 +38,17 @@
   {
     "name": "GUIRA Abdoul Nassirou",
     "role": "Team member",
-    "photo": "/Nassirou.jpeg",
-    "profile_card_link": "https://www.linkedin.com/in/",
+    "photo": "/Bc-Elite/Nassirou.jpeg",
+    "profile_card_link": "#",
     "links": [
       {
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/",
+        "url": "#",
         "icon": "FaLinkedinIn"
       },
       {
         "label": "GitHub",
-        "url": "#",
+        "url": "https://github.com/GAN-GUIRA",
         "icon": "FaGithub"
       }
     ]
@@ -56,17 +56,17 @@
   {
     "name": "OUARMA Mouhamad",
     "role": "Team member",
-    "photo": "/Mouhamad.jpeg",
+    "photo": "/Bc-Elite/Mouhamad.jpeg",
     "profile_card_link": "https://www.linkedin.com/in/",
     "links": [
       {
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/",
+        "url": "https://www.linkedin.com/in/mouhamad-ouarma",
         "icon": "FaLinkedinIn"
       },
       {
         "label": "GitHub",
-        "url": "https://github.com/O2sidark",
+        "url": "https://github.com/Momo-bf",
         "icon": "FaGithub"
       }
     ]
@@ -74,7 +74,7 @@
   {
     "name": "OUEDRAOGO Ousseni",
     "role": "Team member",
-    "photo": "/Ousseni.jpeg",
+    "photo": "/Bc-Elite/Ousseni.jpeg",
     "profile_card_link": "https://www.linkedin.com/in/ousséni-ouédraogo-22aa83343",
     "links": [
       {
