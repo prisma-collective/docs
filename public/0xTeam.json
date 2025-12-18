@@ -18,22 +18,11 @@
     ]
   },
   {
-    "name": "Laurentine Djatsa",
+    "name": "Aketse Kokouvi Elom",
     "role": "Team member",
-    "photo": "/laurentine.jpg",
-    "profile_card_link": "https://www.linkedin.com/in/inkuba-academy-9903a5273/",
-    "links": [
-      {
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/inkuba-academy-9903a5273/",
-        "icon": "FaLinkedinIn"
-      },
-      {
-        "label": "Github",
-        "url": "https://github.com/InkubaHub1",
-        "icon": "FaGithub"
-      }
-    ]
+    "photo": "/kouevi.png",
+    "profile_card_link": "#",
+    "links": []
   },
   {
     "name": "Fahouzia Minte",
