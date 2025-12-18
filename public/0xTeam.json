@@ -1,7 +1,7 @@
 [
   {
     "name": "Betsaleel Dakuyo",
-    "role": " Team lead/Teachinal lead",
+    "role": " Team lead",
     "photo": "/Betsa.png",
     "profile_card_link": "https://www.linkedin.com/in/betsaleel-dakuyo-7a7220313",
     "links": [
@@ -38,7 +38,7 @@
   {
     "name": "Fahouzia Minte",
     "role": "Team member",
-    "photo": "",
+    "photo": "/farida.png",
     "profile_card_link": "https://www.linkedin.com/in/fahouzia-mint%C3%A9-1359b92b4/",
     "links": [
       {
@@ -48,7 +48,7 @@
       },
       {
         "label": "GitHub",
-        "url": "#",
+        "url": "https://github.com/Fahouzia",
         "icon": "FaGithub"
       }
     ]
@@ -56,7 +56,7 @@
   {
     "name": "Adama Kantagba",
     "role": "Team member",
-    "photo": "",
+    "photo": "/adaK.png",
     "profile_card_link": "https://www.linkedin.com/in/wendemi-cheickna-farel-adama-kantagba-44714831a/",
     "links": [
       {
@@ -66,7 +66,7 @@
       },
       {
         "label": "GitHub",
-        "url": "#",
+        "url": "https://github.com/Damso-Le-Codeur",
         "icon": "FaGithub"
       }
     ]
