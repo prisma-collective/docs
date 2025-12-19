@@ -18,6 +18,12 @@ title: Ctrl + Alt + Win (MediSure)
 - **Precious** — UI/UX Designer
 
 ---
+## Project Links
+
+- **Pitch Recording:** [View Pitch](https://drive.google.com/file/d/1L08_EvOZrCH_2LgFGEx_4MawRRQA0qeN/view)
+- **Live Demo Recording:** [View Demo](https://drive.google.com/file/d/1LzviXJX3wlDTMgUYuQqDRCNO9JEC73uP/view)
+- **Deployment Link:** [Launch App](https://cardano-project-o488.vercel.app/signin)
+- **GitHub Repository:** [View Code](https://github.com/nife-codes/cardano-project)
 
 ## Pages
 
@@ -151,8 +157,8 @@ MediSure creates a future where:
 ---
 
 ## Project Links
-
-- **GitHub Repository:** [Link - To be added]
-- **Live Demo:** [Link - To be added]
-- **Documentation:** [Link - To be added]
+- **Pitch Recording:** [View Pitch](https://drive.google.com/file/d/1L08_EvOZrCH_2LgFGEx_4MawRRQA0qeN/view)
+- **Live Demo Recording:** [View Demo](https://drive.google.com/file/d/1LzviXJX3wlDTMgUYuQqDRCNO9JEC73uP/view)
+- **Deployment Link:** [Launch App](https://cardano-project-o488.vercel.app/signin)
+- **GitHub Repository:** [View Code](https://github.com/nife-codes/cardano-project)
 
