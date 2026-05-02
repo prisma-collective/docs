@@ -1,0 +1,78 @@
+{
+  "name": "prisma-docs",
+  "version": "0.0.2",
+  "description": "Prisma Documentation",
+  "scripts": {
+    "dev": "next --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "postbuild": "pagefind --site .next/server/app --output-path public/_pagefind",
+    "record": "tsx scripts/record/index.ts",
+    "export:public": "tsx scripts/export.ts",
+    "validate:public": "tsx scripts/validate.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prisma-collective/docs.git"
+  },
+  "author": "Prisma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prisma-collective/docs/issues"
+  },
+  "homepage": "https://docs.prisma.events",
+  "dependencies": {
+    "@emurgo/cardano-serialization-lib-browser": "^15.0.3",
+    "@headlessui/react": "^2.2.10",
+    "@next/mdx": "^16.2.4",
+    "@tailwindcss/postcss": "^4.2.4",
+    "@vercel/analytics": "^2.0.1",
+    "boring-avatars": "^2.0.4",
+    "chart.js": "^4.5.1",
+    "cose-base": "^2.2.0",
+    "cytoscape": "^3.33.3",
+    "cytoscape-cose-bilkent": "^4.1.0",
+    "googleapis": "^171.4.0",
+    "hast-util-to-html": "^9.0.5",
+    "jose": "^6.2.3",
+    "katex": "0.16.45",
+    "next": "16.2.4",
+    "nextra": "^4.6.1",
+    "nextra-theme-docs": "^4.6.1",
+    "open": "^11.0.0",
+    "papaparse": "^5.5.3",
+    "postcss": "^8.5.13",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "react-icons": "^5.6.0",
+    "rehype-katex": "^7.0.1",
+    "rehype-raw": "^7.0.0",
+    "remark-gfm": "^4.0.1",
+    "remark-math": "^6.0.0",
+    "remark-parse": "^11.0.0",
+    "remark-rehype": "^11.1.2",
+    "remark-wiki-link": "^2.0.1",
+    "shiki": "4.0.2",
+    "unified": "^11.0.5"
+  },
+  "devDependencies": {
+    "@mdx-js/react": "^3.1.1",
+    "@tailwindcss/typography": "^0.5.19",
+    "@types/node": "25.6.0",
+    "@types/react": "19.2.14",
+    "chalk": "^5.6.2",
+    "execa": "^9.6.1",
+    "inquirer": "^13.4.2",
+    "pagefind": "^1.5.2",
+    "sharp": "^0.34.5",
+    "systeminformation": "^5.31.5",
+    "tailwindcss": "^4.2.4",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  },
+  "pnpm": {
+    "patchedDependencies": {
+      "nextra-theme-docs@4.6.1": "patches/nextra-theme-docs@4.6.1.patch"
+    }
+  }
+}
