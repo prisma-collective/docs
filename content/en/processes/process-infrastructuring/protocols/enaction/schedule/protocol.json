@@ -1,0 +1,10 @@
+{
+  "domain": "enaction",
+  "version": "1.0.0",
+  "subgraph": {
+    "relationships": [
+      { "from": "participant", "to": "schedule", "type": "ORGANIZES", "cardinality": "many-to-many" },
+      { "from": "organisation", "to": "schedule", "type": "FOR_ORGANISATION", "cardinality": "many-to-one" }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+---
+sidebarTitle: Propagating
+asIndexPage: true
+---
+
+For each event Prisma organises, we aim to set up [minimal viable infrastructure](/patterns/minimal%20viable%20infrastructure.md) to amplify facilitation capabilities. This is done by deploying (propagating) a stack of apps to partner [hubs](/collaborators/communities-of-place). From there, facilitation capabilities extend to all teams formed during the event.
+
+**Propagate** is the operator tool for this process. It is a local CLI that collects deployment intent interactively, validates the whole stack, and provisions infrastructure via [Pulumi](https://www.pulumi.com/).
+
+## What changed
+
+The previous web-based wizard (`potentialise.prisma.events`) has been replaced by a CLI in the [`propagate`](https://github.com/prisma-collective/propagate) monorepo. The new approach:
+
+- Writes manifests to disk (`stack.yaml`) instead of ephemeral browser state
+- Uses Pulumi for durable infrastructure state (no serverless polling)
+- Declares per-app contracts in `app.manifest.yaml` (capabilities, routes, env vars, dependencies)
+- Nests all apps under a shared host: `https://{appSlug}.{eventCode}.{hostName}`
+
+Deployment authorisation is managed through wallet signature (`propagate login`) via the hosted auth app. GitHub forking uses a **GitHub App** installed on the operator's target org — no personal access token required.
+
+## Current scope
+
+The initial deployment target is two apps:
+
+| Slug | Repo | Role |
+|------|------|------|
+| `docs` | `docs` (public export; authored in `docs-secret`) | Documentation publishing and private API |
+| `timelining` | `timelining` | Event data recording, ingest, and visualisation |
+
+Other apps (`enact`, `enrol`, `evaluate`) are catalogued but not yet deployable.
+
+## Documentation
+
+1. [CLI reference](/processes/process-infrastructuring/propagate/cli) — commands, prerequisites, quick start
+2. [Environment variables](/processes/process-infrastructuring/propagate/environment-variables) — auth server, CLI, Pulumi, and deployed apps
+3. [Manifests](/processes/process-infrastructuring/propagate/manifests) — `stack.yaml`, `app.manifest.yaml`, capabilities
+4. [Workflow](/processes/process-infrastructuring/propagate/workflow) — end-to-end operator flow
+5. [Deploy codemods](/processes/process-infrastructuring/propagate/codemods) — GitHub Actions transforms before Vercel deploy
+6. [Neo4j provisioning](/processes/process-infrastructuring/propagate/neo4j) — Railway Neo4j for timelining
+7. [Forking](/processes/process-infrastructuring/propagate/forking) — GitHub repo provisioning
+8. [Validation](/processes/process-infrastructuring/propagate/validation) — capability resolution and deploy order
+
+## Operator flow (summary)
+
+```bash
+propagate init              # create .propagate/ workspace
+propagate login             # wallet sign-in (browser)
+propagate create            # interactive stack.yaml + values.yaml + GitHub App install
+propagate validate          # resolve capabilities, write resolved.json
+propagate auth vercel       # Vercel OAuth + GitHub App + team integration (if not done in create)
+propagate auth upstash      # Upstash marketplace on Vercel team (timelining)
+propagate auth railway      # Railway GitHub App + API token (timelining Neo4j)
+propagate apply --yes       # Pulumi: fork → codemods → Vercel → Redis → Neo4j
+propagate status            # read deployment outputs
+propagate repair            # report GitHub/Vercel/Pulumi drift (recovery)
+```
+
+Re-install or refresh provider auth at any time with `propagate auth github`, `auth vercel`, `auth upstash`, or `auth railway`.
+
+See [CLI reference](/processes/process-infrastructuring/propagate/cli) for full detail.
+
+## App manifest authoring
+
+Each app repo must contain an `app.manifest.yaml` at its root declaring routes, env capabilities, and `dependsOn` relationships. This is authored via an agent task (see propagate repo `AGENT_PREPARE_APPS.md`), not a CLI command. `propagate validate` blocks apply until manifests exist.
+
+## DNS
+
+All apps for a deployment share:
+
+```
+https://{appSlug}.{eventCode}.{hostName}
+```
+
+- `{appSlug}` — catalog slug (`docs`, `timelining`, …)
+- `{eventCode}` — operator input during `propagate create` (e.g. `argentina-alj`)
+- `{hostName}` — from `PROPAGATE_HOST_NAME` (Prisma-controlled base domain)
+
+Example: `https://timelining.argentina-alj.prisma.events`
+
+## Federation
+
+Networking configuration (DID identity, parent-child relationships, policies) is planned as a separate `federation.yaml` manifest. It is **not implemented** in the current CLI version.
