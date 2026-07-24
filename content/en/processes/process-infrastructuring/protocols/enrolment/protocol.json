@@ -1,0 +1,12 @@
+{
+  "domain": "enrolment",
+  "version": "1.0.0",
+  "subgraph": {
+    "relationships": [
+      { "from": "participant", "to": "role", "type": "HOLDS", "cardinality": "many-to-many" },
+      { "from": "role_snapshot", "to": "role", "type": "ITERATION_OF", "cardinality": "many-to-one" },
+      { "from": "role_snapshot", "to": "entry", "type": "FOR_ENTRY", "cardinality": "one-to-one" },
+      { "from": "organisation", "to": "role", "type": "FOR_ORGANISATION", "cardinality": "many-to-one" }
+    ]
+  }
+}

@@ -1,0 +1,1874 @@
+[
+  {
+    "slug": "en",
+    "title": "Contributors",
+    "checksum": "sha256:e7135f33e215ebce9544ff224a0115090f4ad5ac674127aad6740b668edba4b4",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators",
+    "title": "collaborators",
+    "checksum": "sha256:dec0c78ea973ce934bf1a005c10fc7311644bd854b14810e0a6934c9910e9dd0",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/communities-of-place/hub",
+    "title": "hub",
+    "checksum": "sha256:4e6567e8f0ccaa43865101b6737c27e3020174ecbd9119e34b84bede1a84523d",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/communities-of-place/hub/hub team",
+    "title": "hub team",
+    "checksum": "sha256:cea39038ec72775a2cd6ce10f0df8c2d580a6ccf4338837f32596924f33176b6",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/communities-of-place/hub/hubs",
+    "title": "Hubs",
+    "checksum": "sha256:0bdb3af13c821a84967a34bb1c69a6c80622d1f43e5c6b1b5b88344f49920bb7",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/communities-of-practice/copr-value-prop",
+    "title": "Perceiving the Problem: Cardano Needs Real-world Use-cases",
+    "checksum": "sha256:6fa86654800146ab69d93c2f616c5576a14e058f685c9d713a9f2a7889dd9f42",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/communities-of-practice/longview",
+    "title": "longview",
+    "checksum": "sha256:862552d7a6882dad8492404a7f83847475586a8af73e5418dd4aa309fc6dddcc",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/communities-of-practice/longview/Proposal",
+    "title": "Proposal",
+    "checksum": "sha256:4d262a40124476679a5f5d927a11f68e5ea3fcd25ad9e7fbd8d85600b5254fd5",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/communities-of-practice/north-star-transition",
+    "title": "north-star-transition",
+    "checksum": "sha256:42b83d43c35cba1e08a7c12db07aaf4872d9c5adf4f9d44d4d553e51512a7b09",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/communities-of-practice/practice-networks",
+    "title": "practice networks",
+    "checksum": "sha256:196f94af7a00d36adc3e2c19fa2f999174ab1ba91f9b3d2e66074882d4da8547",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/communities-of-practice/regenesis-wada",
+    "title": "regenesis-wada",
+    "checksum": "sha256:68d9aa2d680c28b0cb8815cc7a1a23ae4021332d6fa7dd6a918c106a9d4dda8c",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/core/business-development",
+    "title": "business-development",
+    "checksum": "sha256:ee434e0f2f6f1a84b880a80e2a8cf38a14811dab1c9fb069abcbba14263bfde3",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/core/events",
+    "title": "events",
+    "checksum": "sha256:211d3f0b94b12de7063a02f9067bf208209ba9a4e701389fd3a481c8c5d67bdb",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/core/events/enacting-contract",
+    "title": "Purpose of the Role",
+    "checksum": "sha256:88d0d055e29cf8a8de4928afdb4b8362005dd5668ca1273e7ec349c35ae73b66",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/core/events/evaluating",
+    "title": "evaluating",
+    "checksum": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/core/events/gound-potentialising",
+    "title": "gound-potentialising",
+    "checksum": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/core/events/process-infrastructuring",
+    "title": "process-infrastructuring",
+    "checksum": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/participants/developers",
+    "title": "Developers",
+    "checksum": "sha256:eb662be8960042aabd5c4a6e6e1d9295518715d75ee234e8e2863967b992b570",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/participants/scribes",
+    "title": "Scribes",
+    "checksum": "sha256:c2624d840283c532a882fc8cde118716c8743e19bd2c490f3d1cb2c486840994",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/collaborators/partners/external-evaluators",
+    "title": "external-evaluators",
+    "checksum": "sha256:f1b60fadbbdd1d22a04d4d7370d9644c82e12467a4dd0324512b7ca5a6853072",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative",
+    "title": "context-narrative",
+    "checksum": "sha256:6f5f5945e4da6b4cf5b5b8a29c4c16d9832ee2b9db993f165eade050cf7253b7",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/Bioregional Celebration Festival",
+    "title": "Opening Story: A Bioregional Festival of Transformation",
+    "checksum": "sha256:56466180384a05be49d04aca042d741c7fe6aa7287217c22444fbaf79d52ce9b",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/clarifying",
+    "title": "clarifying",
+    "checksum": "sha256:1928a8bbd920c48bdcf5b47b075266a8414286a71cc9497e4838fd65d2494bd2",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/clarifying/insight",
+    "title": "Generating Insight",
+    "checksum": "sha256:9df7353d84de36e95a6f5eaae40acc50afb1f0486880324cf80cb0f264327265",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/clarifying/object-vs-process-lens",
+    "title": "object-vs-process-lens",
+    "checksum": "sha256:4714cdf2d0429c5bc46df2c6031a1557e65ff8bc0f0fa5c1779d55186e8d4055",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/clarifying/reflection",
+    "title": "reflection",
+    "checksum": "sha256:7791e594b0738a18ec6df917676cd9b5732b5dfdc4926505eb65fd83be9a8b22",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2023/1",
+    "title": "1",
+    "checksum": "sha256:21e857f79044d9f755901e3ad5ac844815e2c983dda4f831140d0fb805d51cfe",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2023/10",
+    "title": "10",
+    "checksum": "sha256:e6c4d567bb44f6017163ac40acbe462ffdf7ead6d208def2ecf7df1acca20556",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2023/11",
+    "title": "11",
+    "checksum": "sha256:367d4e294da6b1042dce96a8a164f8249319b7b4110b79933d99dab2e37f3fa5",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2023/12",
+    "title": "12",
+    "checksum": "sha256:bd9046ad46fe716cccc9e56a524a1f93d2bfd903bc9002fac73dcde2b78dc0de",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2023/13",
+    "title": "13",
+    "checksum": "sha256:0424dbe0692827b26fb6e0ff22566fc366e6ae06c5da34d514eaa54b221b48b7",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2023/2",
+    "title": "2",
+    "checksum": "sha256:f3b0fdab7e882d92270c6e5dbc7f32a973b2ee2199ad87308d91dc7348d0cff0",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2023/3",
+    "title": "3",
+    "checksum": "sha256:2781939c3f9d7a040664e336ba3bbaeeb14e0a8cc55e1f42648ba6947896facf",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2023/4",
+    "title": "4",
+    "checksum": "sha256:91d1f7aed11438233ffba8475ffe233132f5d1166258fa670770a3f74c0cb51b",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2023/5",
+    "title": "5",
+    "checksum": "sha256:9faea538630d405e5869be7bf27ea17ac703e431ff8dce8979ef7e9087d49def",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2023/6",
+    "title": "6",
+    "checksum": "sha256:b4c65f0175a27e86db1c68fc7c435592ffce9272d67c12923897913a91ff98a1",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2023/7",
+    "title": "7",
+    "checksum": "sha256:3ef43813c32ecd8015a1d6089fac0758912593fce9473682359609dcb2cabcfd",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2023/8",
+    "title": "8",
+    "checksum": "sha256:cea141a6aceb4fd9eea6ac91ab90a8eef012e4fd4ff03475a26495b0ecbaf90c",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2023/9",
+    "title": "9",
+    "checksum": "sha256:fad5fa71aa629440d30c32cac8712159c45a39e0a77ce66a0190e5c4562538ab",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/1",
+    "title": "1",
+    "checksum": "sha256:2ade375f4e11c262617fa65770bcc2221a854c7f15906a0d437fc72c3a040aa1",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/10",
+    "title": "10",
+    "checksum": "sha256:62f036d67b8d45f4b419fe74a979712efb915a38abd626db61b0c3f87a06be2b",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/11",
+    "title": "11",
+    "checksum": "sha256:b785f3cf92411c806b9f1361c5fda5d9e7c3a985d673bab7171b87902a9ecb71",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/12",
+    "title": "12",
+    "checksum": "sha256:f8aea096ad65beade096d32d178190a02b84e7c88fa8519cd3db34bf98394a92",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/13",
+    "title": "13",
+    "checksum": "sha256:400b018d2a317ea7fa8c2b77e8fa284f7d7f84c3c3824ffc5ab991b094e38267",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/14",
+    "title": "14",
+    "checksum": "sha256:c4a5fd5a14976eaa1a4d1408d0a4e21eca918c0cca9e0381b8087eca28ce9fde",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/15",
+    "title": "15",
+    "checksum": "sha256:e77c7e5451db93e80ed5e3cfdc95b1a3a162d3dfcbb8c681e308487dd37b92c6",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/16",
+    "title": "16",
+    "checksum": "sha256:99f74b625c93247891256ee4a9ecc37579cbac52f9d9bd27732ea0acc8663155",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/17",
+    "title": "17",
+    "checksum": "sha256:ffe65e297203e9d49b2009b485dbcf6e179cbf6f0b98a3afa4ec329cdd44cbfc",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/18",
+    "title": "18",
+    "checksum": "sha256:e62316791113ac3c57687ad523d0ff5ce8ff2b713c90e7944c02ed422b5dac17",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/2",
+    "title": "2",
+    "checksum": "sha256:7f5f501471b5b724b6f2b98fddde2ceafd2cca343f4e34694f26db5d1cf8a8b3",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/3",
+    "title": "3",
+    "checksum": "sha256:1f1d0bd62ab472c47bdc0575a4c84acd89cd5337f20024af9579b64db729ed9e",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/4",
+    "title": "4",
+    "checksum": "sha256:5e8cf47a3128695a98af604a064196a0660942eb259ac14a031cc16dba2097e3",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/5",
+    "title": "5",
+    "checksum": "sha256:49d33d7244ce9334d2b58361c6ef3abd568a9fd937d8ffc4f32070b668aa3506",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/6",
+    "title": "6",
+    "checksum": "sha256:baf83251ed65d2918498f42c77c150e8c0c32206717f28d8f0ec29773b032560",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/7",
+    "title": "7",
+    "checksum": "sha256:4ed54070c7f96a647b90471896c36d297aa443c29c1f12ce361bacb0c01abc05",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/8",
+    "title": "8",
+    "checksum": "sha256:53e90429d1028d9a1703a2aedba3135b0f90995b58e294ee9e51fe0015896b67",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2025/9",
+    "title": "9",
+    "checksum": "sha256:37c2f3e49d964202c7d2a13609c158aff63f86874c40802e55417c5637c27899",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/1",
+    "title": "1",
+    "checksum": "sha256:197230f9faf2f535c1d4145d6f39e0dbfa44096c84a6e64f26a2fba9236127da",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/10",
+    "title": "10",
+    "checksum": "sha256:04026303d02f3fed72f2ce1f542d76dbcdf4c9339fd5f3e1f8d19e5e7626b9c1",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/11",
+    "title": "11",
+    "checksum": "sha256:6f42b16e485cd482e93da6ed5debf9741995a6f314ba1cc87b210a398816de99",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/12",
+    "title": "12",
+    "checksum": "sha256:4bbfb858704f1eb4dfdd3b15156c2ab8b3ca48ac65c189b13be99df5df9e1787",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/13",
+    "title": "13",
+    "checksum": "sha256:7929737151f47da8dddae43018da7643604d9921388a3305b9c1c2278db933da",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/14",
+    "title": "14",
+    "checksum": "sha256:bc77e9753a911560b4fa777feb714159a3b69372ef912396f50cde20626f24c8",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/15",
+    "title": "15",
+    "checksum": "sha256:d379d87ed6afb1c37f038d36ef201974a4f524f4bbabd3a355d9c12bfedcb580",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/16",
+    "title": "16",
+    "checksum": "sha256:2a94b6d4f29490611ed8e682f626d371e6b2167d99d32a62f58f6b329cbe5c48",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/17",
+    "title": "17",
+    "checksum": "sha256:efeb37e57789ae7bb2bf9f851ea6ba831013e357ae751a336f729f87a500926e",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/18",
+    "title": "18",
+    "checksum": "sha256:9e73692419f4272dfd5f9d4726b1b47b293a34a4f39af329c218b8a1d869f83e",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/19",
+    "title": "19",
+    "checksum": "sha256:dc1f76feae97605efa270a571475db6bc2725863fa9cbcbd64bcef1bf53aba07",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/2",
+    "title": "2",
+    "checksum": "sha256:baebdea4c186723ff7fe4c2bd00c66a535a87e1406a9c420335b071c5ac99678",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/20",
+    "title": "20",
+    "checksum": "sha256:26421841860caf7b4065da48b53d62aac68f5195035d0fabd7eb051f06859f1c",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/21",
+    "title": "21",
+    "checksum": "sha256:3899ed86a7dc6ef11900817d7b39396929e2b5d71e22ba85c3e544690ecf52fb",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/26",
+    "title": "26",
+    "checksum": "sha256:dd3b01698b945bb172d4991e5bbf9c99dfa756d9064c7d1bbb67cf903f3fd651",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/3",
+    "title": "3",
+    "checksum": "sha256:a9561def153595e50a321ede43a219304f27e6ee6299ab1d758392768d259297",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/4",
+    "title": "4",
+    "checksum": "sha256:d8586bf8abfb474ad5eba9f2e8f977a58422ede97e8011b82e13e23fcb49da70",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/5",
+    "title": "5",
+    "checksum": "sha256:2702e38d137fdf8ab36ae9730ca2998a6556bfe4749862503ecc6e53b75dfedf",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/6",
+    "title": "6",
+    "checksum": "sha256:e7af676ee950c02c472d6a1748abbd54badef08d87d7a55351e349834e6a0e00",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/7",
+    "title": "7",
+    "checksum": "sha256:b05e3508501ce3bc516810db875b873b50df4486d3afaa2de546cf4ecca3bc36",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/8",
+    "title": "8",
+    "checksum": "sha256:a6d618a57342d455e1f37b59f5937c30266aaf8cc7af3a14c7a522ba63279aba",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/decks/2026/9",
+    "title": "9",
+    "checksum": "sha256:cde694223426917ea514907f69d7a860bbc46dbe3c2eb7bc2199de9215cffb50",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper",
+    "title": "litepaper",
+    "checksum": "sha256:134ec3449ae9f4d2f9f63adea305d44e6da3d8440cd24dadbce33540e902be21",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/caseStudies",
+    "title": "caseStudies",
+    "checksum": "sha256:a2549d7ceb3f17a910e0ffe5bd1e364af32aa89a2a5d7f2ea8c64b4246c8e308",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/caseStudies/a",
+    "title": "a",
+    "checksum": "sha256:d53e1f718371378645b11e3424cf4ee00b9b7f6786141695e8ebd818d54fdf01",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/caseStudies/b",
+    "title": "b",
+    "checksum": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/caseStudies/c",
+    "title": "c",
+    "checksum": "sha256:526a674c08ea609c11b71004f31c7b6739db7a32a14b882ccc8eb05dcdd7b748",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/caseStudies/x",
+    "title": "x",
+    "checksum": "sha256:fec364b0fcfc35fa47937e12477e8223da4b9a43ee163a5f61aac5d618b82c56",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/challenges",
+    "title": "challenges",
+    "checksum": "sha256:cbbe15878d8e3be0b75ba8988a0c593dcad083236211a452d9939dc96102ec65",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/concept",
+    "title": "concept",
+    "checksum": "sha256:3c736413ca4d1837fa5561cfd466f85c7c16b5e965bac0ebd4cf1f7e3e5120c3",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/currency",
+    "title": "currency",
+    "checksum": "sha256:f0b74cd9e18bab082dc1fa9092cd349c3a060ab2f5dd6f2c498f427509ab65a4",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/governance",
+    "title": "Governance, Trust, and Decision-Making",
+    "checksum": "sha256:8f70a57027ef691ec5acc151cdafaa87d27b3e401ff7e77da3d74b5c59b5cc06",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/internal/case-study-bintocash",
+    "title": "case-study-bintocash",
+    "checksum": "sha256:f56a5e548c005c209cd76396e7346e42dbc9e7469052e5c22c46bbf28b9a0a18",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/internal/termsDefinitions",
+    "title": "termsDefinitions",
+    "checksum": "sha256:d6fe58b2c12bb988f3cf93f81ad33a8e4706d35b2e199f7a362c335ea9a7bc89",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/internal/writing-guidance",
+    "title": "writing-guidance",
+    "checksum": "sha256:80724ec0ec05f104052d75d13552d57e98c092d63d3b1496afb0541696169cda",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/introduction",
+    "title": "introduction",
+    "checksum": "sha256:b0576d96d10952418ffa1ce2a5dbd7a77a9355af95b251e348a6ae20d59a65bb",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/methodology",
+    "title": "methodology",
+    "checksum": "sha256:d2c61f3cb9f5a75fad3134af6dc907d79f507ec06a400f009a90b1d47853da54",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/nextEvents",
+    "title": "nextEvents",
+    "checksum": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/pastWork",
+    "title": "pastWork",
+    "checksum": "sha256:910b0b605262a17da5a451fa9dc78475e6044a9d9be495d3cd0da44748ea6c48",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/litepaper/roadmap",
+    "title": "roadmap",
+    "checksum": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/Replace Academy Case Study",
+    "title": "An Action-Learning Case Study",
+    "checksum": "sha256:37a70abdd559bdeaabfeabac7f1b8a75a4b2952457293b89350b7ee2d1623149",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/strategy/2025",
+    "title": "Stakeholders and Growth Strategy",
+    "checksum": "sha256:7fc0041a9dea6ed1ece6a96aa5dc906810e197ea519fb26d52495935f2674889",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/context-narrative/strategy/2026",
+    "title": "2026",
+    "checksum": "sha256:7f9016200b47c7d8f0b236e8df3b33b3dca826d875f4f075f544cb13b01ca964",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events",
+    "title": "Software License and Deployment Agreement",
+    "checksum": "sha256:b0e17722dbdb4b888f0aeb2b1601ce05bd5d28d1ecb951952468e5e889f3c65b",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events/accra",
+    "title": "What makes ALJs different?",
+    "checksum": "sha256:67e9ae450144574481c39830646954ba7ac74762bb18e1a27148832861f3a583",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events/accra/bars-on-bars",
+    "title": "Bars on Bars",
+    "checksum": "sha256:397fe6c1dc78f35182363bb8b614cc41256c03d7cc8f6f3ce324de88ee722f19",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events/accra/bin-to-cash",
+    "title": "Bin to Cash",
+    "checksum": "sha256:55c318ed69d971d793acc58eaae507261a52f372be51bfae358b7249491aff60",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events/accra/urbanlink",
+    "title": "UrbanLink",
+    "checksum": "sha256:ddf608afc7c22f3c2e65401f3bcd5b37eba3827e260df2acf0d376b623029202",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events/accra/urbanlink/progress-update",
+    "title": "progress-update",
+    "checksum": "sha256:d5e46383e4308279a2aacbc1b1fc08273af136507c4ef3a3db5ec0de8653cab1",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events/resilience",
+    "title": "resilience",
+    "checksum": "sha256:531ddff5cb667bfde03950e38c82b6896b97b578eff2ea0271c496bfefe70f2d",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events/resilience/accelerator-2025",
+    "title": "Agenda Building",
+    "checksum": "sha256:759916c856319bcbaa3d3aa18d07b745c248a3d254659d3997b1a4d76290b7d7",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events/resilience/nano-event-1",
+    "title": "nano-event-1",
+    "checksum": "sha256:22137d9ee32be5377f907025d19bc3ec89009dfb0823f812edaa3514672efb55",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events/summit",
+    "title": "Introduction",
+    "checksum": "sha256:18f43848ad584379c676fd2f820abc161985ab5e3850c1ad0df4e7293de3c1e6",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events/summit/curation",
+    "title": "curation",
+    "checksum": "sha256:72a54e8c5807bea937e4424491e9dd5e7247228bc3b6f52ab3a7bbe3d2802ad2",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events/summit/outcomes",
+    "title": "outcomes",
+    "checksum": "sha256:bfcee3c7f7626070515ae1d0587d8132c15d6e2edfc02f70b44d385124102ed3",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events/summit/project-clusters",
+    "title": "Project Clusters",
+    "checksum": "sha256:ca703397b419a5a6320b67f502af762275f8e062b7535629c4aed50c956921f9",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/events/summit/Roles, Responsibilities and Domains",
+    "title": "Roles, Responsibilities and Domains",
+    "checksum": "sha256:0b42979bacb0e93107c30612437b5b6721a557f8990d356a815ca73ab88bc38f",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/glossary",
+    "title": "Writing",
+    "checksum": "sha256:dada694582b609e0784b1ad95ab554ea908db20abe3ea1fd33a501a9900d0c7e",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/glossary/bioregion",
+    "title": "bioregion",
+    "checksum": "sha256:3542e1bddebd72a3db4766025445ceda30945808d9113431e5d5740ced48d2e3",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/glossary/Capacity-Building",
+    "title": "Capacity Building",
+    "checksum": "sha256:d00e7aa9c5fcdd482ae7fcd52b4a48d273f0b5988896d985f124c93ef5d23bc9",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/glossary/Living Lab",
+    "title": "Living Lab",
+    "checksum": "sha256:2bc51e42ca4b600e7b9bc202d561aa6928725852c256d3ca4a1cc04860addbf3",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/glossary/narrative",
+    "title": "narrative",
+    "checksum": "sha256:5ae8805facdbd30ad2c28ef14cdd503a067fed9ab1abf6fb389f6ca594e2e5e6",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/glossary/Place",
+    "title": "Place",
+    "checksum": "sha256:0a28b8e35755431ed0928590ca1fc561a790c7487622d4023017ddf1836342a7",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/glossary/place-sourced potential",
+    "title": "place-sourced potential",
+    "checksum": "sha256:c7340e13298932394e16eb5326ba8a807e08bb31432e6b00c4158b9b545eae9a",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/glossary/Practice",
+    "title": "Key Characteristics",
+    "checksum": "sha256:2ecf8b05cf5669698507b5257a4d05c38bceed9070dad28f671730d652675887",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/glossary/Process Design Collective",
+    "title": "Process Design Collective",
+    "checksum": "sha256:b87b8a23649261db7e120c83cc71f1694f9d3578434e123d462710b48f28df03",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/glossary/resourcing",
+    "title": "resourcing",
+    "checksum": "sha256:03d6f085cc57323820af02f08b3518e07e7d2165a0da9aa6d3038ca9b54be7d8",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/patterns/action-learning",
+    "title": "action-learning",
+    "checksum": "sha256:82bb4c1049c6a953494ae0f63a878b511063cb1d61490c3aa9d4b419aba56ecf",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/patterns/action-learning journeys",
+    "title": "Action-Learning Journeys",
+    "checksum": "sha256:71f657dd60f2d8b8822800b849f8c76f0163901a848ee4684cb4f47ae456cc76",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/patterns/aspects",
+    "title": "aspects",
+    "checksum": "sha256:9b973d0676bb8b64294bc95a2bb9437a6bf78ba2bba7b95684b9c78a447fc6de",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/patterns/case-study",
+    "title": "case-study",
+    "checksum": "sha256:99c03b0d1d279ce132737e43015e7b4f350611082a7ce38dd50c6bc6ba4177cb",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/patterns/minimum-viable-infrastructure",
+    "title": "minimum-viable-infrastructure",
+    "checksum": "sha256:df6d18ad1dd5abb84b1705087ad5fb595542a376db44ec83c731c5dceb5f4118",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/patterns/sociocratic organising",
+    "title": "The Essence of Prisma",
+    "checksum": "sha256:842e53c9d5715ead1b11c5e5b9cdcfa7a7ddb7a10a67d74906f9ad7e2d5ee45c",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices",
+    "title": "Practices",
+    "checksum": "sha256:8cee4a91e38445bc3b5af3e6366cfd0ade695bb20537a4a48a28e129f9081b11",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Appreciative Inquiry",
+    "title": "Appreciative Inquiry",
+    "checksum": "sha256:25ece8e674494c13c9786574bedc61325cc9dcb1aa939ab90796039e9f69633e",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Awareness-Based Systems Change",
+    "title": "Awareness-Based Systems Change",
+    "checksum": "sha256:9245ce20500cb10b74c091575a9e0b3a7d3c0ea7230f92a3757ec91a2cd7bc1e",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Decoloniality",
+    "title": "Decoloniality",
+    "checksum": "sha256:4dd628795dea440b0b0c40efa429fb8f92a3797d8ddf97a092a1bb25a196b38e",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Deep Time Journeys",
+    "title": "Deep Time Journeys",
+    "checksum": "sha256:0cbe652a0dfa3b46c5bab5a3cde01b98d660f33f5b2e01d87c6b8d08a2edbcd2",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Ecosystem Mapping",
+    "title": "Ecosystem Mapping",
+    "checksum": "sha256:3bd0626cebc52d5377c53be9e5940d0e59769965436f697f0362bdddf40041a5",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Embodied Systemic Constellations",
+    "title": "Embodied Systemic Constellations",
+    "checksum": "sha256:0f0f2c88fa9f20938aaa08a39456f003ac8c6d33d24346c5c77416d45471c227",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Generative Inquiry",
+    "title": "Generative Inquiry",
+    "checksum": "sha256:215339493581b4ceb701980e73ecd06de498d00b7dbc0336cbfc8bef4cff701d",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Journalling",
+    "title": "Journalling",
+    "checksum": "sha256:19bef127fe20453e7690967de07b43e2c2c81a9add45ba76401e686501bc9d11",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Narrative-Based Social Change",
+    "title": "Narrative-Based Social Change",
+    "checksum": "sha256:a3e9e7146a40d1fa534b81b6c5d794039e895f4e108a1c1dddd0f3cda1414299",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Persona",
+    "title": "Persona",
+    "checksum": "sha256:a0c55254cd1ec61b7a247d42f45829755fbcbddf1daf7e1a00cdca11c292d968",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Regenerative Development & Design",
+    "title": "Regenerative Development & Design",
+    "checksum": "sha256:3f4bca09cf26831f40d5719b9931d578e72d8fd95d7e996be2060b2858e4e5e4",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Role Play",
+    "title": "Role Play",
+    "checksum": "sha256:018541153b2e4e38d110e6b32c3153f8d48cb6732049f8b9cb98a4003d287371",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Somatic & Mental Journeys",
+    "title": "Somatic & Mental Journeys",
+    "checksum": "sha256:65d5989f8d2424be668918891395017efbfa275167e729f09860e048f4f10cfa",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Storytelling with Metaphors & Symbols",
+    "title": "Storytelling with Metaphors & Symbols",
+    "checksum": "sha256:22cc914dd0ab4183bd818bcd3a7cbc944b3513bc916b2403ad39f49c7612d277",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Theory of Change",
+    "title": "Theory of Change",
+    "checksum": "sha256:18bf90a97d866139740153dead588f964854704465eefdcf81b52ae82550875f",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Theory U",
+    "title": "Theory U",
+    "checksum": "sha256:8d75be30a5f8d0d7db115c613036c242d0efec8a8a27c626bf60e8dae8d829e5",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/Practices/Warm Data Labs",
+    "title": "Warm Data Labs",
+    "checksum": "sha256:8ff045426af946e006354c99390e13c357624324cd2f88f70a4be867b97aff4d",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes",
+    "title": "Core Processes",
+    "checksum": "sha256:058075c1e49e15ac369e8a51c44d80cfeb49b3d34f4135cc73e71e4a218be2ea",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/enactment",
+    "title": "enactment",
+    "checksum": "sha256:994d1afe430d73ce2b5772b89b5ba9e0e2117006fb04100169b41e2fe0fc71b7",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/enactment/1. learning arcs",
+    "title": "Intro to Learning Arcs",
+    "checksum": "sha256:cb586ce25da382ec153c9c2142749a7a8ad46beccd1b7d85b6f035408e701294",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/enactment/2. sense of place",
+    "title": "Onboarding",
+    "checksum": "sha256:2d3e23d697ca41384eaeab2c1e1e326ddc72e5c2c76e58eef9921c985803b911",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/enactment/3. emergent learning",
+    "title": "3. emergent learning",
+    "checksum": "sha256:597d51037f6caa48945093a0956cfd38e573d3f019b1487b823033f94e67d485",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/enactment/4. iterate, iteration, iterating",
+    "title": "4. iterate, iteration, iterating",
+    "checksum": "sha256:8a13d7bc47dae560ea57f8f335e39a48289f5c29760257e08985abe9263cd151",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/enrolment",
+    "title": "Context",
+    "checksum": "sha256:1b19efda41279a2e932b2f819690e274aeddab93ce65de131281bde36f19bb2f",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/enrolment/dids",
+    "title": "dids",
+    "checksum": "sha256:2c316f8de208665942db45b4e3392d144b5d4b0bef005f87f76d2bb0d8f61a32",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/enrolment/Hub Enrollment Form Design",
+    "title": "Hub Enrollment Form Design",
+    "checksum": "sha256:99cc4312f255a968885397814db9a332644609e38d5a736d90f342e5ea7633c1",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/enrolment/Negotiating Scope",
+    "title": "Negotiating Scope",
+    "checksum": "sha256:37f47bd1d2aa4c0e215ff240df280c4635061ff79e8b6b8a63f0668112c50f3d",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/evaluation",
+    "title": "**Evaluation: A Catalyst for Regenerative Value Flow**",
+    "checksum": "sha256:dc67ee1343846e588117e6d16faf963911ebb0a6812bb78a1840c8e628e1a3de",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/evaluation/cats-2026-retrospective",
+    "title": "cats-2026-retrospective",
+    "checksum": "sha256:ca4375b79fcde9390850b6e89e3587e4cfebef5f4b6cf559f10af5c2fc9f8cdd",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/ground-potentialising",
+    "title": "ground-potentialising",
+    "checksum": "sha256:b949079dddcc4bf36a05d07c0c58a41a6cbe982bfafb177bdd1f0f27d27d95b9",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/ground-potentialising/playbook",
+    "title": "playbook",
+    "checksum": "sha256:fc3d9cd486fc7ca59daa3d31b644dc6421813a112adf2cd3f7b9ea699365e981",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/ground-potentialising/playbook/checklist",
+    "title": "checklist",
+    "checksum": "sha256:2779851c62392fce47d8014f2bcb21cbe59174e90bce9279d114695c69c6000d",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/ground-potentialising/playbook/facilitating",
+    "title": "facilitating",
+    "checksum": "sha256:be9b59e60b03b03932ca5440c0c62b721932843fe438fd97e421927d6bdf5174",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/ground-potentialising/playbook/generating",
+    "title": "generating",
+    "checksum": "sha256:1b00b9cf451fb424a723871689f2eeaa329d467b7234c0e4d31260897a4aed48",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/ground-potentialising/playbook/hosting",
+    "title": "hosting",
+    "checksum": "sha256:668041edde596d1fe77ff104a52db603dba237181e430bf098c6b26859dc254c",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/ground-potentialising/playbook/vision",
+    "title": "vision",
+    "checksum": "sha256:5a6e078e2d2f14111b808bb7bce79a8be29be53ae566dc7fbe56b8ad2711e5fa",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring",
+    "title": "process-infrastructuring",
+    "checksum": "sha256:41b1e152d7b2c6bfe9a09e7bf32a75a5cb30d40abe9564f92c68ade3eacb258d",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/propagate",
+    "title": "propagate",
+    "checksum": "sha256:7b81b3840100a2cf796ab30a94455b1e76d1b242b765c1b7ed7fcba8d0b69cf6",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/propagate/cli",
+    "title": "Propagate CLI",
+    "checksum": "sha256:6edc600554f3fb960e171096d9a6273d63ba81335aaef5002ddcd5f4706f7e04",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/propagate/codemods",
+    "title": "Deploy codemods",
+    "checksum": "sha256:4a39aecdf05126b72722f6bcb397b5cba52f051371c6200833485d71f98e23ef",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/propagate/environment-variables",
+    "title": "Propagate environment variables",
+    "checksum": "sha256:e04b6ba405d3861f3a4fef87b64526eac9bc913126bb205be139425786499898",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/propagate/forking",
+    "title": "GitHub repository provisioning",
+    "checksum": "sha256:fea54763f7abe6d748f69e986acef0290066773729cc4beda74533045050c36c",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/propagate/manifests",
+    "title": "Manifest model",
+    "checksum": "sha256:9692de84214360b095c5edbdbf53efec33057ef50bb98668dd72f71352d3af7b",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/propagate/neo4j",
+    "title": "Neo4j provisioning (timelining)",
+    "checksum": "sha256:99897e4584bc83e89f2e10cd8859f2de0e1f0777a5dbf2b0e7a15da0f26f168a",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/propagate/validation",
+    "title": "Stack validation and capability resolution",
+    "checksum": "sha256:c87c41b2b51e028e6e701483ceeccaf821cc133769206c9f9529e015b3239201",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/propagate/wizard",
+    "title": "Web wizard (deprecated)",
+    "checksum": "sha256:c91a64562f8c9ac6e9e5397c78e6accfa6ff50674a71bc5443877a1231c8fb19",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/propagate/workflow",
+    "title": "Deployment workflow",
+    "checksum": "sha256:27f0d0742add7e26a52ee12937654b4c65a3e3bfb3880d6d957a89a105baeb25",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/protocols/deciding/deciding",
+    "title": "deciding",
+    "checksum": "sha256:d71e539b9dead4a52d4b5ebe3749f91a16d7f6e8fef65f9b5b9546ab778e8eb8",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/protocols/deciding/participant",
+    "title": "participant",
+    "checksum": "sha256:bb2b294faa3f9890f292708448d390652fe0bc9840034fb602c6c2582715ef6a",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/protocols/enaction/schedule/organisation",
+    "title": "organisation",
+    "checksum": "sha256:9fa8713037fcd2ad1e5e04fd2efe4a98d18f1e5750c7c3b9db86a7dc46719d2c",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/protocols/enaction/schedule/participant",
+    "title": "participant",
+    "checksum": "sha256:bb2b294faa3f9890f292708448d390652fe0bc9840034fb602c6c2582715ef6a",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/protocols/enaction/schedule/schedule",
+    "title": "schedule",
+    "checksum": "sha256:0d8e83ff67903d0956c58db255c35d344a853489b817646cf1443e70d9121bdb",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/protocols/enrolment/organisation",
+    "title": "organisation",
+    "checksum": "sha256:9fa8713037fcd2ad1e5e04fd2efe4a98d18f1e5750c7c3b9db86a7dc46719d2c",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/protocols/enrolment/participant",
+    "title": "participant",
+    "checksum": "sha256:bb2b294faa3f9890f292708448d390652fe0bc9840034fb602c6c2582715ef6a",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/protocols/enrolment/role",
+    "title": "role",
+    "checksum": "sha256:c38af9e9250130b0feacc0fbc07f018766b344a4f61dcc37047f15bfd1878227",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/protocols/enrolment/role-snapshot",
+    "title": "role-snapshot",
+    "checksum": "sha256:1de102f1db5ccb8713add0bcd50b59509d5de94a218c4551dcfbbb0b2e2c42c3",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/publishing",
+    "title": "Intro",
+    "checksum": "sha256:49b789daab318ed580f217583886edb793a62d4cb6e3dd380d876c9ad5a94b9a",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/publishing/docs/docs-setup",
+    "title": "Docs: Setup Guide",
+    "checksum": "sha256:b24053d5a1138e175cec938c78d8a344aaec66fb20f352aa115e078aa293b85e",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/publishing/docs/public-private",
+    "title": "Public / Private Boundary",
+    "checksum": "sha256:bd2e2cb0b8091f0ce114dce8d0e31cfdbb25470e714a7694162f69f0252f6785",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/publishing/timelining",
+    "title": "What is timelining?",
+    "checksum": "sha256:39d23ccca34d340b7669745e0687379d34ba0bd3f0e6f4633084ddc8f105ecaa",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/publishing/timelining/ingest",
+    "title": "**Ingest**",
+    "checksum": "sha256:dc5847e528c719b247ddfc4a8dd0b49c407ef9f65fcb1735d096160390df3183",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/publishing/timelining/redis-setup",
+    "title": "Redis Setup Guide",
+    "checksum": "sha256:58a560c4329fffd0e23b2a5abb09ae73c89d28df2e2b755b9a7977ea0771097a",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "en/processes/process-infrastructuring/publishing/timelining/setup-onboarding",
+    "title": "Setup and Onboarding",
+    "checksum": "sha256:f0e2d56627c0887325d0ec139b8314dca3a3a91516886b9474e9339f9e314a4b",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "es",
+    "title": "es",
+    "checksum": "sha256:325a592a935b16ae93d3cd1c870d0c31792592439ad07d128236b1253e2a090c",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "es/eventos/argentina",
+    "title": "argentina",
+    "checksum": "sha256:4dae17c5fb41ecdd6c887a6f734eb07023177cbc9150aa1dd627a42c682abc6d",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "es/eventos/argentina/categorías-solarpunk",
+    "title": "categorías-solarpunk",
+    "checksum": "sha256:47ad7abb560789d4cfcd9790a9fdfdfc2af60215ab01a3619bf4955387c38490",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "es/eventos/argentina/change-request",
+    "title": "Change Request Work Progress Update",
+    "checksum": "sha256:17f92d84a606695a36629ac24a997738eee18ff3add1f3818a50a3590b565110",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "es/eventos/argentina/equipo",
+    "title": "equipo",
+    "checksum": "sha256:841da57d5a004005e7cc51ef3f92af0fb07601a4abb1532e8adf3f7cbeb936d3",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "es/eventos/argentina/preguntas-frequentes",
+    "title": "preguntas-frequentes",
+    "checksum": "sha256:b2b6240b559904103dfc44169fad5c451501d06ecd83277e998952dda3bff5ac",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "es/eventos/argentina/procesos",
+    "title": "procesos",
+    "checksum": "sha256:032216fafd29b701d2a526a780f4a5b3eb71772c69889578332f7f33e725e1d9",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "es/eventos/argentina/procesos/agendar",
+    "title": "agendar",
+    "checksum": "sha256:1ddb8bf2d667ea129ccac276e5dcf4b9963840fcb6de9823e3ae7e0ca82b1f2a",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "es/eventos/argentina/procesos/compartir",
+    "title": "compartir",
+    "checksum": "sha256:0517fb8083b124ab7e10e481a19dc0f3a2cdb2f1150f5b7e819893c23bc41a9a",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "es/eventos/argentina/procesos/decidir",
+    "title": "decidir",
+    "checksum": "sha256:69486a1a24beb221ff7fb46be2aa48fb8241ef525686c33b04c3a949fe4913bd",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "es/eventos/resilience",
+    "title": "resilience",
+    "checksum": "sha256:72069d94af93483d2a6924caaea8c7c8ec0d3b717abeaa061546b81689704aed",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "es/eventos/resilience/nano-event-1",
+    "title": "nano-event-1",
+    "checksum": "sha256:363094a8c67312524cdcf52f3de2e91622cd8b519460f3406e424ca1d032dadd",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "es/segunda-pagina",
+    "title": "segunda-pagina",
+    "checksum": "sha256:92948000ddea4d1a25011c396039005a0d19b696aad3f3e5e58991eea37185dd",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  },
+  {
+    "slug": "pt",
+    "title": "Português",
+    "checksum": "sha256:211173ebf8d61324ee2ee477e68836a8c0af27e8faabefdf64d80bef828ba886",
+    "created_at": "1970-01-01T00:00:00.000Z",
+    "last_modified": "1970-01-01T00:00:00.000Z",
+    "commit_history": [],
+    "authors": []
+  }
+]
