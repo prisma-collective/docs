@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="299.27969"
+   height="297.16458"
+   viewBox="0 0 79.184419 78.624795"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="inter-aspect-lights.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.668063"
+     inkscape:cx="146.87695"
+     inkscape:cy="259.88227"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.60000002"
+         id="stop4" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask10">
+      <g
+         id="g11">
+        <circle
+           style="fill:#000000;stroke-width:0.569642"
+           id="circle10"
+           cx="39.592209"
+           cy="39.312397"
+           r="38.702576" />
+        <circle
+           style="fill:url(#radialGradient11);stroke-width:0.569642"
+           id="circle11"
+           cx="39.592209"
+           cy="39.312397"
+           r="38.702576" />
+      </g>
+    </mask>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="radialGradient11"
+       gradientUnits="userSpaceOnUse"
+       cx="39.592209"
+       cy="39.312397"
+       fx="39.592209"
+       fy="39.312397"
+       r="38.702576" />
+  </defs>
+  <path
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#b2e8ff;stroke-width:0.801378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     d="M 19.31583,6.3463865 C 22.238722,32.176639 16.373387,48.443234 9.2647332,63.356804 23.593899,46.4049 37.597887,29.407623 69.647249,14.928305 46.681132,26.769456 25.274785,26.479062 4.1925499,23.667796 30.417287,29.910569 51.387577,44.910753 72.357582,59.911413 62.517761,40.915959 48.573184,22.70988 48.930811,1.7533782 37.654176,18.297247 27.607113,35.653097 0.98763538,42.0649 24.382387,45.913127 35.335845,61.623983 46.165761,77.452634 47.771237,58.527177 59.52214,43.844354 77.556539,31.789174 51.281961,24.693208 39.959625,13.443841 28.537831,2.2221008 L 60.474058,71.898247 C 44.179385,51.030709 23.26014,40.228417 1.9691607,30.235194 22.513994,24.908774 43.917653,24.040066 62.408056,8.0501767 44.107699,32.199422 36.559322,55.2459 34.718974,77.706939 34.81528,52.454681 38.918772,26.400986 22.982271,4.3552901 34.462141,25.091358 48.613102,43.156335 77.652765,46.33261 52.63348,43.52418 34.338994,55.606379 17.617404,71.171418 30.079357,48.0787 37.092038,24.555879 38.836057,0.61720867 46.81463,12.70887 57.92366,20.775659 74.264498,22.115838 55.006539,37.423506 31.576069,47.962588 3.4362924,53.119607 33.331062,50.795285 33.829488,66.60569 40.305717,78.008394 L 11.51367,12.676237 78.224993,41.6356"
+     id="path3"
+     sodipodi:nodetypes="ccccccccccccccccccccccc"
+     mask="url(#mask10)" />
+</svg>
