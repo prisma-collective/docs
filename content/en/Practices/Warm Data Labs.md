@@ -1,0 +1,3 @@
+Warm Data Labs are facilitated conversations that explore the interrelationships within a system using multiple perspectives. They help participants develop a deeper understanding of complex challenges.
+
+**Example Use Case**: A community holds a Warm Data Lab to discuss the challenges of integrating new technologies into local governance. By sharing their experiences and perspectives, they uncover hidden assumptions and systemic barriers.
