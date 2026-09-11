@@ -1,0 +1,220 @@
+---
+sidebarTitle: CLI
+---
+
+# Propagate CLI
+
+The propagate CLI lives in the [`propagate`](https://github.com/prisma-collective/propagate) monorepo. It is the sole interface for deploying app stacks — the previous Next.js wizard has been removed.
+
+## Prerequisites
+
+| Requirement | Notes |
+|-------------|-------|
+| Node.js ≥ 18.17 | |
+| pnpm 10+ | Monorepo package manager |
+| [Pulumi CLI](https://www.pulumi.com/docs/install/) | Required for `apply`, `status`, `diff`, `destroy` |
+| Cardano wallet extension | Nami, Eternl, Lace, etc. — for `propagate login` |
+| GitHub App on target org | Installed via browser during `propagate create` / `apply` / `propagate auth github` (no PAT) |
+| `VERCEL_TOKEN` | Project create/deploy permissions (or provide during `propagate create`) |
+| `PROPAGATE_HOST_NAME` | Base domain for nested DNS (optional; falls back to `*.vercel.app`) |
+
+## Install
+
+From the propagate repo root:
+
+```bash
+pnpm install
+pnpm build
+```
+
+Run via:
+
+```bash
+pnpm propagate <command>
+# or
+node packages/cli/dist/index.js <command>
+```
+
+## Commands
+
+| Command | Description |
+|---------|-------------|
+| `propagate init` | Create `.propagate/` workspace and global config at `~/.propagate/config.yaml` |
+| `propagate login` | Hosted wallet auth — opens browser on [propagate.prisma.events](https://propagate.prisma.events) |
+| `propagate auth github` | Install Propagate GitHub App on the stack's target org |
+| `propagate auth vercel` | Connect Vercel (OAuth, GitHub App, team GitHub integration) |
+| `propagate auth upstash` | Install Upstash Redis marketplace integration on the Vercel team |
+| `propagate auth railway` | Connect Railway — browser wizard installs Railway GitHub App and saves account API token |
+| `propagate create` | Interactive prompts → `stack.yaml`, `values.yaml`, `credentials.json` |
+| `propagate validate` | Validate manifests and capability graph; write `resolved.json` |
+| `propagate validate --schema-only` | Validate `stack.yaml` schema only (skip app manifests) |
+| `propagate apply` | Run Pulumi to provision infrastructure |
+| `propagate apply --yes` | Apply without confirmation |
+| `propagate status` | Show Pulumi stack outputs (URLs, project IDs) |
+| `propagate repair` | Report GitHub/Vercel/Pulumi/Railway drift; suggest recovery steps |
+| `propagate diff` | Compare manifest to last-applied; run `pulumi preview` |
+| `propagate destroy` | Tear down infrastructure (`--yes` to skip confirm) |
+| `propagate export` | Print `stack.yaml` to stdout |
+| `propagate export --resolved` | Print full resolved stack including derivable values |
+
+## Quick start
+
+```bash
+# 1. Initialise workspace in your project directory
+propagate init
+
+# 2. Authenticate (opens browser — connect Cardano wallet, sign nonce)
+propagate login
+
+# 3. Interactive manifest generation
+propagate create
+# Prompts: client name, event name/dates, event code, GitHub org,
+#          Vercel team, app selection, timelining secrets (Telegram, OpenAI), Vercel token
+#          Redis and Neo4j are provisioned on apply unless overridden in values.yaml
+#          then GitHub App install in browser (if not already installed)
+
+# 4. Validate (requires app.manifest.yaml in each selected app repo)
+propagate validate
+
+# 5. Connect providers (prompted during apply if missing)
+propagate auth vercel
+propagate auth upstash    # timelining — Upstash marketplace on Vercel team
+propagate auth railway    # timelining — Railway GitHub App + API token
+
+# 6. Provision
+export PROPAGATE_HOST_NAME=prisma.events   # optional
+propagate apply --yes
+
+# 7. Check outputs
+propagate status
+
+# If apply failed partway or destroy left forks behind:
+propagate repair
+propagate apply --yes
+```
+
+## Workspace layout
+
+Running commands from a project directory creates:
+
+```
+.propagate/
+  stack.yaml          # infrastructure intent (committed)
+  values.yaml         # user secrets — gitignored
+  credentials.json    # GitHub App, Vercel, Upstash, Railway — gitignored
+  resolved.json       # validation output — gitignored
+  pulumi-state/       # local Pulumi backend — gitignored
+  last-applied/       # snapshot after successful apply — gitignored
+```
+
+## `propagate create` prompts
+
+The create flow mirrors the former web wizard steps:
+
+1. **Metadata** — client name, event name, start/end dates
+2. **Event code** — DNS-safe slug (default derived from event name, e.g. `Argentina ALJ` → `argentina-alj`)
+3. **GitHub** — target organisation
+4. **Vercel** — team ID
+5. **App selection** — multi-select from deployable catalog (`docs`, `timelining`)
+6. **User capabilities** — conditional prompts (e.g. `TELEGRAM_BOT_TOKEN`, `OPENAI_API_KEY` for timelining). Redis and Neo4j are **not** prompted — provisioned on apply.
+7. **Vercel token** — stored in `credentials.json`
+8. **GitHub App install** — browser opens on [propagate.prisma.events](https://propagate.prisma.events); install the Propagate app on the target org (skipped if already installed)
+
+## Authentication
+
+### Wallet login
+
+`propagate login` opens a browser session on the hosted auth app ([propagate.prisma.events](https://propagate.prisma.events)). You connect a Cardano wallet, sign a nonce, and the CLI polls until complete. The session is stored at `~/.propagate/session.json`. Authorization is checked against [register.prisma.events](https://register.prisma.events) (enrol app) — your wallet must be registered there.
+
+Override the auth host for local dev:
+
+```bash
+PROPAGATE_AUTH_URL=http://localhost:3000 propagate login
+```
+
+Local dev requires `REGISTER_API_TOKEN` in `packages/web/.env.local` on the auth server.
+
+### GitHub App install
+
+Forking requires the **Propagate GitHub App** installed on `provider.github.targetOrg` — not a personal access token. Triggered during `propagate create`, before `propagate apply` (if missing), via `propagate auth github`, or optionally after `propagate login` when a workspace stack already exists.
+
+1. CLI creates an install session via `POST /api/github/cli/init`
+2. Browser opens `/cli-github-install`
+3. You install the app on the target GitHub organisation
+4. GitHub redirects to the app Setup URL; CLI polls until complete
+5. `.propagate/credentials.json` stores `installationId`, `targetOrg`, and `credentialRef`
+6. At `apply` / `destroy`, the CLI mints a short-lived installation token from the auth server
+
+Example `credentials.json`:
+
+```json
+{
+  "github": {
+    "installationId": 12345678,
+    "targetOrg": "client-org",
+    "credentialRef": "...",
+    "installedAt": "2026-06-13T..."
+  },
+  "vercelToken": "...",
+  "vercelConnection": { "...": "..." },
+  "railwayToken": "...",
+  "railwayConnection": { "verifiedAt": "...", "githubAppVerifiedAt": "..." }
+}
+```
+
+### Vercel token
+
+For CI or headless use, the Vercel token can be supplied via environment variable instead of `credentials.json`:
+
+```bash
+export VERCEL_TOKEN=...
+```
+
+### Vercel connect troubleshooting
+
+Git-linked deploys require **three** links: Vercel OAuth (token + team), the [Vercel GitHub App](https://github.com/apps/vercel) on your target org, and GitHub under **Vercel team → Settings → Integrations → GitHub → Connect**.
+
+If `propagate auth vercel` completes OAuth and GitHub App steps but fails verification:
+
+1. In the Vercel dashboard for the stack's team (`stack.yaml` → `provider.vercel.teamId`): **Settings → Integrations → GitHub → Connect**
+2. Re-run `propagate auth vercel` or `propagate apply` (apply runs a live probe before Pulumi)
+
+The OAuth token must include **marketplace/storage** permissions for Upstash Redis provisioning. In the [Vercel Integrations Console](https://vercel.com/dashboard/integrations) for the Propagate integration, enable Integrations / Marketplace (or Storage) scopes, then re-run `propagate auth vercel`.
+
+### Railway connect
+
+`propagate auth railway` opens a browser wizard on [propagate.prisma.events](https://propagate.prisma.events) (`/cli-railway-connect`):
+
+1. Install the [Railway GitHub App](https://github.com/apps/railway-app/installations/new) on the target org
+2. Create a Railway account API token with **No workspace** scope at [railway.com/account/tokens](https://railway.com/account/tokens)
+3. Paste the token in the wizard
+
+The CLI stores `railwayToken` and `railwayConnection` in `credentials.json`. For CI, set `RAILWAY_API_TOKEN` instead.
+
+### Partial-stack recovery
+
+If destroy removed Vercel resources from Pulumi state but GitHub forks remain:
+
+```bash
+propagate repair    # report forks, Vercel drift, missing codemod commits, Railway status
+propagate apply     # recreate missing resources
+```
+
+See [Deploy codemods](/processes/process-infrastructuring/propagate/codemods) for workflow re-run behaviour.
+
+## Monorepo packages
+
+| Package | Role |
+|---------|------|
+| `packages/core` | Zod schemas, catalog loader, capability resolver, validation |
+| `packages/cli` | Commander + Clack prompts |
+| `packages/web` | Hosted auth app (wallet login + GitHub App install) |
+| `packages/infra` | Pulumi program (GitHub fork + Vercel deploy) |
+| `catalog/apps.yaml` | App catalog with local paths and source URLs |
+
+## Related
+
+- [Manifests](/processes/process-infrastructuring/propagate/manifests) — `stack.yaml` and `app.manifest.yaml` schemas
+- [Workflow](/processes/process-infrastructuring/propagate/workflow) — full operator sequence
+- [Deploy codemods](/processes/process-infrastructuring/propagate/codemods) — GitHub Actions transforms before Vercel deploy
+- [Neo4j provisioning](/processes/process-infrastructuring/propagate/neo4j) — Railway Neo4j for timelining

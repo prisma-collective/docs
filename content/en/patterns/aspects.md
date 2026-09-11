@@ -1,0 +1,11 @@
+aspects[^1] are an account of verified interactions that indicate the realisation of [potential](/glossary/place-sourced%20potential.md) made possible by the [application](/processes/enactment) of [practice](/glossary/Practice.md) on-the-ground. 
+
+an [action-learning journey](/patterns/action-learning%20journeys.md) serves the purpose of onboarding and aligning the necessary stakeholders, at multiple levels of [place](/glossary/Place.md), into a process of co-designing a peer-to-peer protocol that encodes a given place-sourced practice. 
+
+practice-currencies, co-designed between [communities of place](/collaborators/communities-of-place/hub/hubs.md) and [communities of practice](/collaborators/communities-of-practice/practice-networks.md), give voice to those stewarding the essence of their region, and a means to make their work visible to trusted external evaluators.
+
+currencies[^2] are the verified measurements that form the foundation for data-backed storytelling. all the additional media - meeting recordings, photos, audio notes, design documents - are (qualitative) layers of additional context that give wholeness to this underlying (quantitative) account. 
+
+[^1]: [aspect](https://www.etymonline.com/word/aspect) (n.): late 14c., an astrological term, "relative position of the planets as they appear from earth" (i.e., how they "look at" one another); also "one of the ways of viewing something," from Latin _aspectus_ "a seeing, looking at, sight, view; countenance; appearance," from past participle of _aspicere_ "to look at, look upon, behold; observe, examine," figuratively "consider, ponder," from _ad_ "to" (see [ad-](https://www.etymonline.com/word/ad- "Etymology, meaning and definition of ad-")) + _specere_ "to look" (from PIE root [*spek-](https://www.etymonline.com/word/*spek- "Etymology, meaning and definition of *spek-") "to observe").
+
+[^2]: Currency as [current-see](https://metacurrency.org/?faq-group=money-vs-currentsees). [Current](https://www.etymonline.com/word/current) (adj.): flowing.
