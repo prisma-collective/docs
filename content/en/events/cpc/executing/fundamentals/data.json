@@ -1,0 +1,430 @@
+{
+  "title": "Project Fundamentals",
+  "description": "Work plan, deliverables, budget breakdown, and milestone payments — extracted from the Cardano proposal.",
+  "sections": [
+    {
+      "id": "14",
+      "number": "14",
+      "title": "Work Plan and Timeline",
+      "slug": "work-plan-and-timeline",
+      "subsections": [
+        { "id": "14.1", "title": "Phase Work Plan" },
+        { "id": "14.2", "title": "Milestone Schedule" }
+      ]
+    },
+    {
+      "id": "15",
+      "number": "15",
+      "title": "Deliverables",
+      "slug": "deliverables",
+      "subsections": [
+        { "id": "15.1", "title": "Core Decision Outputs" },
+        { "id": "15.2", "title": "Supporting Research Outputs" },
+        { "id": "15.3", "title": "Public and Community-Facing Outputs" }
+      ]
+    },
+    {
+      "id": "22",
+      "number": "22",
+      "title": "Budget Breakdown",
+      "slug": "budget-breakdown",
+      "subsections": [
+        { "id": "22.1", "title": "Budget Summary" },
+        { "id": "22.2", "title": "Core Budget Breakdown" },
+        { "id": "22.3", "title": "Optional Stretch Scope" },
+        { "id": "22.4", "title": "Budget Defence" }
+      ]
+    },
+    {
+      "id": "23",
+      "number": "23",
+      "title": "Milestone Payment Schedule",
+      "slug": "milestone-payment-schedule",
+      "subsections": [
+        { "id": "23.1", "title": "Overview" },
+        { "id": "23.2", "title": "Milestone Payment Table" },
+        { "id": "23.3", "title": "Milestone Narrative" },
+        { "id": "23.4", "title": "Milestone Payment Summary" }
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "phase-1",
+      "title": "Phase 1 — Inception and Research Design",
+      "fields": {
+        "weeks": "Weeks 1–3",
+        "activities": "Kickoff; decision gate alignment; candidate region list; interview guides; screening criteria; bias control protocols; stakeholder recruitment plan; IRB/ethics confirmation",
+        "outputs": "Kickoff Report; Research Design Document; Candidate Region List; Approved Interview Guide",
+        "narrative": "Kickoff, workplan alignment, decision gate review, regional candidate list construction, screening criteria finalisation, ALJ design for primary research phase, stakeholder recruitment plan, interview guide development, bias control protocols."
+      }
+    },
+    {
+      "id": "phase-2",
+      "title": "Phase 2 — Regional Screening and Desk Research",
+      "fields": {
+        "weeks": "Weeks 4–6",
+        "activities": "RARF application to all candidate clusters; regulatory landscape preliminary scan; use-case viability hypothesis construction; counterparty desk mapping; preliminary infrastructure review",
+        "outputs": "Preliminary Market Prioritisation Matrix; Screening Review with CPC; Priority Deep-Dive Selection",
+        "narrative": "Application of the Regional Adoption Readiness Framework to all candidate regional clusters. Initial scores based on publicly available evidence. Production of the preliminary market prioritisation matrix. Identification of priority clusters for deep-dive primary research."
+      }
+    },
+    {
+      "id": "phase-3",
+      "title": "Phase 3 — Primary Research and Field Access",
+      "fields": {
+        "weeks": "Weeks 7–12",
+        "activities": "Stakeholder interviews across all respondent categories; ALJ facilitation in priority hub locations; expert panels; regulatory expert calls; counterparty mapping refinement; infrastructure assessment",
+        "outputs": "Stakeholder Access Check (Week 8); Regulatory & Infrastructure Review (Week 10); Interim Findings Review (Week 12)",
+        "narrative": "Stakeholder interviews, expert calls, ALJ facilitation in selected hub locations, local partner engagement, regulatory mapping, infrastructure assessment, and counterparty mapping. Minimum of 30–45 primary research interactions across respondent types."
+      }
+    },
+    {
+      "id": "phase-4-1",
+      "title": "Phase 4.1 — Analysis and Framework Development",
+      "fields": {
+        "weeks": "Weeks 13–15",
+        "activities": "RARF score revision with primary evidence; CASS classification of all signals; playbook drafting; regulatory summary writing; counterparty access register compilation; use-case viability assessment completion",
+        "outputs": "Internal Analysis Memo; Draft Framework Outputs",
+        "narrative": "Cross-evidence synthesis, RARF score refinement, CASS classification of identified signals, playbook drafting, regulatory summary drafting, counterparty access register compilation."
+      }
+    },
+    {
+      "id": "phase-4-2",
+      "title": "Phase 4.2 — Drafting and Review",
+      "fields": {
+        "weeks": "Weeks 15–17",
+        "activities": "Full draft of all core deliverables; CPC draft review; validation against decision gates; revision based on review feedback; public summary preparation",
+        "outputs": "Draft Deliverables Review with CPC (Week 16); Revised Draft",
+        "narrative": "Full draft of all core deliverables, CPC review, validation against decision gates, revision of findings where access or evidence constraints require recalibration."
+      }
+    },
+    {
+      "id": "phase-5",
+      "title": "Phase 5 — Final Delivery",
+      "fields": {
+        "weeks": "Week 18",
+        "activities": "Final report; executive decision memo; cross-RFP handoff memo; final presentation to CPC; public summary; evidence register; confidence and limitations register",
+        "outputs": "Final Report & Presentation (Week 17–18); Public Summary (Week 18)",
+        "narrative": "Final report, executive decision memo, public summary, cross-RFP handoff memo, presentation to CPC."
+      }
+    }
+  ],
+  "checkpoints": [
+    {
+      "id": "checkpoint-kickoff",
+      "title": "Kickoff",
+      "fields": { "timing": "Week 1", "purpose": "Confirm objectives, decision gates, scope, communication cadence, and confidentiality expectations" }
+    },
+    {
+      "id": "checkpoint-research-design",
+      "title": "Research Design Review",
+      "fields": { "timing": "End Week 3", "purpose": "Align on RARF criteria, candidate regions, use-case hypotheses, interview guides, and bias controls before fieldwork begins" }
+    },
+    {
+      "id": "checkpoint-regional-screening",
+      "title": "Regional Screening Review",
+      "fields": { "timing": "End Week 6", "purpose": "Present preliminary RARF scores; confirm priority deep-dive selections; adjust workplan if screening surfaces unexpected constraints" }
+    },
+    {
+      "id": "checkpoint-access-check",
+      "title": "Stakeholder Access Check",
+      "fields": { "timing": "End Week 8", "purpose": "Surface any recruitment gaps, access constraints, or regional limitations requiring methodology adaptation" }
+    },
+    {
+      "id": "checkpoint-regulatory-infra",
+      "title": "Regulatory & Infrastructure Review",
+      "fields": { "timing": "End Week 10", "purpose": "Present initial regulatory findings and infrastructure prerequisite assessments; identify where further expert access is needed" }
+    },
+    {
+      "id": "checkpoint-interim-findings",
+      "title": "Interim Findings Review",
+      "fields": { "timing": "End Week 12", "purpose": "Test whether evidence is answering the decision gates; adjust playbook structure if regional evidence requires it" }
+    },
+    {
+      "id": "checkpoint-draft-deliverables",
+      "title": "Draft Deliverables Review",
+      "fields": { "timing": "End Week 16", "purpose": "Full draft review: market prioritisation matrix, entry playbooks, regulatory summaries, CASS framework, counterparty map, roadmap" }
+    },
+    {
+      "id": "checkpoint-final-report",
+      "title": "Final Report & Presentation",
+      "fields": { "timing": "Week 17–18", "purpose": "Present final findings, confidence levels, limitations, decisions enabled, and recommended actions" }
+    },
+    {
+      "id": "checkpoint-public-summary",
+      "title": "Public Summary",
+      "fields": { "timing": "Week 18", "purpose": "Confirm what can be published; deliver non-confidential public summary for Cardano community" }
+    }
+  ],
+  "deliverables": [
+    {
+      "id": "del-kickoff-report",
+      "title": "Kickoff Report",
+      "fields": { "group": "M1 outputs", "format": "Report", "summary": "Confirms team, CPC, and project structure alignment before significant resource deployment" }
+    },
+    {
+      "id": "del-research-design",
+      "title": "Research Design Document",
+      "fields": { "group": "M1 outputs", "format": "Document", "summary": "RARF criteria, candidate region list, use-case hypotheses, interview guide, bias controls, ethics brief" }
+    },
+    {
+      "id": "del-candidate-list",
+      "title": "Candidate Region List",
+      "fields": { "group": "M1 outputs", "format": "List", "summary": "Mutually agreed candidate regions for screening" }
+    },
+    {
+      "id": "del-interview-guide",
+      "title": "Approved Interview Guide",
+      "fields": { "group": "M1 outputs", "format": "Guide", "summary": "Structured interview guides approved before fieldwork" }
+    },
+    {
+      "id": "del-stakeholder-recruitment",
+      "title": "Stakeholder Recruitment Plan",
+      "fields": { "group": "M1 outputs", "format": "Plan", "summary": "Recruitment plan for primary research respondent categories" }
+    },
+    {
+      "id": "del-preliminary-matrix",
+      "title": "Preliminary Market Prioritisation Matrix",
+      "fields": { "group": "Core", "format": "Spreadsheet + narrative summary", "summary": "RARF scores for all candidate clusters with evidence source and confidence level per dimension" }
+    },
+    {
+      "id": "del-use-case-hypothesis",
+      "title": "Preliminary Use-Case Hypothesis Register",
+      "fields": { "group": "M2 outputs", "format": "Register", "summary": "Use-case viability hypotheses constructed per candidate cluster" }
+    },
+    {
+      "id": "del-access-register",
+      "title": "Stakeholder Access Register",
+      "fields": { "group": "M3 outputs", "format": "Register", "summary": "All interactions documented with respondent category, access basis, and date" }
+    },
+    {
+      "id": "del-interim-memo",
+      "title": "Interim Findings Review Memo",
+      "fields": { "group": "M3 outputs", "format": "Memo", "summary": "Hypothesis status — confirmed, revised, or rejected — per priority region and use case" }
+    },
+    {
+      "id": "del-regulatory-interim",
+      "title": "Regulatory and Infrastructure Interim Review Memo",
+      "fields": { "group": "M3 outputs", "format": "Memo", "summary": "Initial regulatory findings and infrastructure prerequisite assessments" }
+    },
+    {
+      "id": "del-market-matrix",
+      "title": "Market Prioritisation Matrix",
+      "fields": { "group": "Core", "format": "Spreadsheet + narrative summary", "summary": "At least eight candidate regional clusters scored across ten RARF dimensions, with Go / Conditional-Go / Monitor / No-Go recommendation per cluster" }
+    },
+    {
+      "id": "del-entry-playbooks",
+      "title": "Regional Entry Playbooks",
+      "fields": { "group": "Core", "format": "Document section per priority region", "summary": "Leading use case, partner archetype, regulatory pathway, infrastructure prerequisites, milestone sequence, key risks, adoption metrics, and action recommendation" }
+    },
+    {
+      "id": "del-use-case-viability",
+      "title": "Use-Case Viability Assessment",
+      "fields": { "group": "Core", "format": "Table + narrative analysis", "summary": "Per region: comparison of candidate use cases on problem severity, Cardano fit, alternatives, stakeholder demand, dependencies, and adoption pathway" }
+    },
+    {
+      "id": "del-regulatory-summaries",
+      "title": "Regulatory Landscape Summaries",
+      "fields": { "group": "Core", "format": "Narrative + source appendix", "summary": "Decision-oriented summaries identifying relevant bodies, constraints, permissions, uncertainty levels, and where local counsel is required" }
+    },
+    {
+      "id": "del-counterparty-map",
+      "title": "Counterparty and Partner Access Map",
+      "fields": { "group": "Core", "format": "Table / access register", "summary": "Roles, counterparties, access status, confidence level, and recommended next action" }
+    },
+    {
+      "id": "del-infra-assessment",
+      "title": "Infrastructure Prerequisite Assessment",
+      "fields": { "group": "Core", "format": "Prerequisite status matrix", "summary": "Per playbook: stablecoin, off-ramp, wallet UX, mobile/offline, privacy, identity, delivery capacity — each classified as Met / Partially Met / Unmet / Unknown" }
+    },
+    {
+      "id": "del-cass",
+      "title": "Cardano Adoption Signal Standard (CASS)",
+      "fields": { "group": "Core", "format": "Framework document + classification table", "summary": "Definitions for four CASS tiers; classification of all identified signals; recommendations for funding triggers and stop conditions" }
+    },
+    {
+      "id": "del-roadmap",
+      "title": "Research-to-Action Roadmap",
+      "fields": { "group": "Core", "format": "Roadmap document + executive memo", "summary": "Recommended next steps with go/conditional-go/no-go calls, dependencies, owner archetypes, milestone sequence, and risk levels" }
+    },
+    {
+      "id": "del-executive-memo",
+      "title": "Executive Decision Memo",
+      "fields": { "group": "Core", "format": "Short memo (max 8 pages)", "summary": "Top recommendations, rationale, evidence confidence, key tradeoffs, and immediate decisions required by the Product Committee" }
+    },
+    {
+      "id": "del-handoff-memo",
+      "title": "Cross-RFP Handoff Memo",
+      "fields": { "group": "Core", "format": "Memo / table", "summary": "Maps findings that belong in adjacent RFP workstreams; explains why each finding is a handoff" }
+    },
+    {
+      "id": "del-confidence-register",
+      "title": "Confidence and Limitations Register",
+      "fields": { "group": "Supporting", "format": "Register", "summary": "Confidence levels and limitations documented across all findings" }
+    },
+    {
+      "id": "del-public-summary",
+      "title": "Public Summary",
+      "fields": { "group": "Public", "format": "Summary document", "summary": "Non-confidential public summary cleared for Cardano community publication" }
+    },
+    {
+      "id": "del-supporting-bundle",
+      "title": "Supporting Research Outputs",
+      "fields": { "group": "Supporting", "format": "Bundle", "summary": "Methodology appendix; interview guide and respondent screener; anonymised interview notes; regional evidence workbook; regulatory citation appendix; RARF scoring workbook; risk register; data-source inventory; glossary" }
+    }
+  ],
+  "budgetLines": [
+    {
+      "id": "budget-pm",
+      "title": "Project Management & Coordination",
+      "fields": { "ada": "7,000", "usd": "~$1,610", "rationale": "Research lead time across 18 weeks; CPC checkpoint management; workplan administration; reporting" }
+    },
+    {
+      "id": "budget-screening",
+      "title": "Regional Screening & Desk Research",
+      "fields": { "ada": "6,500", "usd": "~$1,495", "rationale": "RARF application to 8+ regional clusters; secondary source review; preliminary counterparty mapping; use-case hypothesis construction" }
+    },
+    {
+      "id": "budget-primary-research",
+      "title": "Primary Research — Interviews & Expert Calls",
+      "fields": { "ada": "16,000", "usd": "~$3,680", "rationale": "Scheduling, preparation, and facilitation of 30–45 structured interviews and expert calls across three regional clusters and five respondent categories" }
+    },
+    {
+      "id": "budget-hub-coordination",
+      "title": "Regional Network Access & Hub Coordination",
+      "fields": { "ada": "8,500", "usd": "~$1,955", "rationale": "Coordination costs for hub network activation in sub-Saharan Africa and LATAM; local facilitator engagement; hub logistics; ALJ facilitation design" }
+    },
+    {
+      "id": "budget-regulatory",
+      "title": "Regulatory & Compliance Landscape Research",
+      "fields": { "ada": "4,500", "usd": "~$1,035", "rationale": "Regulatory desk research across 3–4 priority regions; policy expert calls; local counsel consultation; regulatory summary drafting" }
+    },
+    {
+      "id": "budget-validation",
+      "title": "Validation & Cross-Checking Sessions",
+      "fields": { "ada": "4,000", "usd": "~$920", "rationale": "CPC checkpoint facilitation; internal validation sessions; draft review cycles; respondent fact-check where required" }
+    },
+    {
+      "id": "budget-synthesis",
+      "title": "Synthesis, Analysis & Framework Development",
+      "fields": { "ada": "5,500", "usd": "~$1,265", "rationale": "RARF score refinement; CASS classification; counterparty access register; cross-evidence synthesis; playbook architecture" }
+    },
+    {
+      "id": "budget-report-writing",
+      "title": "Report Writing, Documentation & Deliverables",
+      "fields": { "ada": "4,000", "usd": "~$920", "rationale": "All core decision outputs; supporting appendices; evidence register; limitations register; public summary production" }
+    },
+    {
+      "id": "budget-ethics",
+      "title": "Ethics & Data Governance Infrastructure",
+      "fields": { "ada": "1,500", "usd": "~$345", "rationale": "Consent management; data storage and access controls; ethics brief preparation; deletion protocols" }
+    },
+    {
+      "id": "budget-contingency",
+      "title": "Contingency (~8.6%)",
+      "fields": { "ada": "5,000", "usd": "~$1,150", "rationale": "Access constraints requiring alternative recruitment; unexpected regulatory complexity; additional primary research interactions required for confidence improvement" }
+    }
+  ],
+  "stretchScope": [
+    {
+      "id": "stretch-diligence",
+      "title": "Deeper country-level diligence for one priority market",
+      "fields": { "ada": "4,000", "description": "Additional primary research and regulatory depth for the highest-scoring regional cluster" }
+    },
+    {
+      "id": "stretch-local-language",
+      "title": "Local-language primary research in one region",
+      "fields": { "ada": "3,000", "description": "Translation support and local-language facilitation for one priority region where English-language coverage is insufficient" }
+    },
+    {
+      "id": "stretch-pilot-templates",
+      "title": "Pilot design templates for top-ranked plays",
+      "fields": { "ada": "3,000", "description": "Structured pilot design templates for the two highest-scoring entry plays" }
+    },
+    {
+      "id": "stretch-monitoring",
+      "title": "Monitoring dashboard specification",
+      "fields": { "ada": "2,000", "description": "Specification for a lightweight monitoring framework allowing CPC to track adoption signal progress in priority regions" }
+    }
+  ],
+  "payments": [
+    {
+      "id": "pay-m1",
+      "title": "M1 — Project Inception and Research Design",
+      "fields": {
+        "ada": "7,000",
+        "percent": "12.1%",
+        "timing": "Kickoff payment (upon contract signature / project start)",
+        "trigger": "CPC approves Research Design Document and ethics brief"
+      },
+      "body": "The first milestone covers the design and governance infrastructure of the project. Nothing in the research is irreversible at this stage; the budget is used for team time in research design, not for field commitments. The Research Design Document must be reviewed and approved by the CPC before Phase 2 begins. The ethics brief establishes consent management, data classification, and respondent protection protocols before any primary research interaction occurs."
+    },
+    {
+      "id": "pay-m2",
+      "title": "M2 — Regional Screening and Desk Research Complete",
+      "fields": {
+        "ada": "9,000",
+        "percent": "15.5%",
+        "timing": "End of Week 6",
+        "trigger": "CPC confirms priority deep-dive regions from Preliminary Matrix"
+      },
+      "body": "The second milestone produces the first substantive analytical output: the Preliminary Market Prioritisation Matrix. The CPC reviews and confirms the priority deep-dive list before Phase 3 fieldwork is committed. This is the most cost-efficient checkpoint in the research."
+    },
+    {
+      "id": "pay-m3",
+      "title": "M3 — Primary Research Substantially Complete",
+      "fields": {
+        "ada": "22,000",
+        "percent": "37.9%",
+        "timing": "End of Week 12",
+        "trigger": "CPC completes Interim Findings Review; 30+ interactions confirmed"
+      },
+      "body": "The third milestone is the largest single release because it covers the period of highest operational cost: the primary research phase. The contingency allocation (ADA 5,000) may be activated at this stage, with CPC agreement documented before deployment."
+    },
+    {
+      "id": "pay-m4",
+      "title": "M4 — Full Draft Deliverables Submitted",
+      "fields": {
+        "ada": "12,000",
+        "percent": "20.7%",
+        "timing": "End of Week 16",
+        "trigger": "CPC provides written revision brief following draft review"
+      },
+      "body": "The fourth milestone covers the analytical and drafting phase. The full suite of ten core decision outputs is submitted in draft form. The revision brief produced at this checkpoint governs the final delivery in Milestone 5."
+    },
+    {
+      "id": "pay-m5",
+      "title": "M5 — Final Delivery and Public Summary",
+      "fields": {
+        "ada": "8,000",
+        "percent": "13.8%",
+        "timing": "End of Week 18",
+        "trigger": "CPC issues written project completion confirmation"
+      },
+      "body": "The final milestone covers the delivery of revised final outputs, the public summary, the final presentation, and the archiving of the evidence register and supporting documentation. Payment is released upon CPC's written confirmation of project completion."
+    }
+  ],
+  "textBlocks": [
+    {
+      "id": "text-budget-summary",
+      "title": "Budget Summary",
+      "body": "The proposed core budget is ADA 58,000 (~USD 13,340 at $0.23/ADA). All budget items are denominated in ADA and are not conditional on exchange rate. PRISMA's budget is lean relative to scope because existing network infrastructure substantially reduces recruitment and access overhead."
+    },
+    {
+      "id": "text-budget-defence",
+      "title": "Budget Defence",
+      "body": "The budget is structured to maximise evidence value per ADA spent. The largest single line — ADA 16,000 for primary research — reflects that desk research alone cannot answer counterparty accessibility and adoption signal questions. The regional network access line — ADA 8,500 — covers activating an existing network, not building from scratch. Contingency — ADA 5,000 — requires CPC visibility and agreement before deployment."
+    },
+    {
+      "id": "text-payment-overview",
+      "title": "Payment Overview",
+      "body": "The ADA 58,000 core budget is released across five milestones tied to verified deliverable submission and CPC acknowledgement of completion. Verification criteria are procedural and evidence-based, not outcome-based. The first two milestones represent ~27% of total budget; Milestone 3 covers primary research; Milestones 4 and 5 cover synthesis and delivery."
+    },
+    {
+      "id": "text-public-outputs",
+      "title": "Public and Community-Facing Outputs",
+      "body": "A public summary will be produced, excluding confidential or sensitive findings. It will include methodology overview, key regional findings, evidence caveats, publishable recommendations, and a description of the RARF and CASS frameworks for community use."
+    }
+  ]
+}

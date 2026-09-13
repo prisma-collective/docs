@@ -1,0 +1,9 @@
+{
+  "domain": "deciding",
+  "version": "1.0.0",
+  "subgraph": {
+    "relationships": [
+      { "from": "participant", "to": "deciding", "type": "PARTICIPATES_IN", "cardinality": "many-to-many" }
+    ]
+  }
+}

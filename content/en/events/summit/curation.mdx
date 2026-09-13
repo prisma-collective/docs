@@ -1,0 +1,79 @@
+---
+sidebarTitle: Curation
+---
+
+import CasePreview from '@/components/CasePreview'
+
+<section className='hidden md:flex md:flex-col w-full min-h-[500px] mx-auto mb-12 border border-prisma-b rounded-2xl overflow-hidden'>
+  <CasePreview className="w-full min-h-[500px] flex-1" />
+</section>
+
+## Task Definition
+Purpose: to have one link that can be shared anywhere and everywhere to engage a broader audience[^1] in the value created by CATS, in a way that addresses both urgent and deeper modes of reading. This is called a curation. 
+
+Product: 
+
+- One link (including possible redirects for brand-coherent sharing e.g. prisma.events/cats redirects to wada.org/cats)
+- Multiple interactive pages, like [here](https://www.prisma.events/action)
+- Able to embed the whole curation with an iframe like the globe [here](https://cats.wada.org/hackathon) (desktop only)
+- Overall, this is to create one seamless communication that serves as the entry-point to engage audience members in a self-guide exploration of the rest of the system complexity
+
+| Page | Features                 | Source             | Dynamic | Exists | Challenges                   |
+| ---- | ------------------------ | ------------------ | ------- | ------ | ---------------------------- |
+| 1    | Video player             | XR/ Media partners | No      | Yes    | N/A                          |
+| 2    | Interactive exec summary | Prisma             | Yes     | Yes    | Data fetching (list parsing) |
+| 3    | Globe                    | Prisma             | Yes     | Yes    | CORS issues                  |
+| 4    | Chat/ semantic search    | Hubs               | Yes     | No     | Hub input                    |
+| 5    | The "How"                | Prisma             | No      | No     | N/A                          |
+| 6    | Proposal & CTA/ Roadmap  | Wada               | No      | No     | N/A                          |
+
+These pages work together to engage the audience in seeing what whole-system transformation really looks like in practice. They also work to engage the audience with the narrative this organisation is working from. The table below defines how that's meant to work...
+
+| From                 | To                   | Function                                      |
+| -------------------- | -------------------- | --------------------------------------------- |
+| 1. Video player      | 2. Executive Summary | Emotional to credible/ evidence               |
+| 2. Executive Summary | 3. Globe             | Credible/ evidence to potential               |
+| 3. Globe             | 4. Chat              | Potential to exploration and curiosity        |
+| 4. Chat              | 5. The "How"         | Exploration to transparency and understanding |
+| 5. The "How"         | 6. Proposal          | Understanding to action                       |
+
+Process:
+
+- Collecting information on effective communication for given audience members 
+	- Tally form, sent to organising partners who are in touch with different audience member perspectives and communication needs (ask for tutorial guidance as well as link to resource)
+- Collecting resources from third-party sources (media assets etc.)
+- Consolidate domain, API/ datasource and ENV VAR requirements
+- First version by **Friday 13th March** end of day
+	- App layout implemented, page transitions etc
+	- Content missing/ partial/ placeholder info
+	- Baseline of responsiveness 
+	- Test iframe embedding in other apps
+	- High-level narrative flow and alignment with partners (Wada, Prisma, Hubs etc.)
+	- Page 2 content requirements confirmed with partners
+- Second version by **Friday 20th March** end of day
+	- Content complete (apart from page 4)
+	- Tutorial info added (one-time modal overlay and tooltips)
+- Third version, timeframe undefined, pending hub input
+	- Page 4
+- Link shared first time **Monday morning, 23rd March**
+
+Functional requirements:
+
+- UI design for each page
+- Technical spec for each page (minimal for all but 2 and 4)
+- Brand palette: tbc
+- Access to [prisma github](https://www.github.com/prisma-collective):
+	- Access to `website` repo for using project structure as a template for new `case` repo
+	- Access to `potentialise` repo for page 2 data fetching pattern (uses hooks and contexts) and wada logo
+	- Access to `propagate` repo for progress bar component
+- Access to [Wada github](https://www.github.com/WADAlliance): 
+	- Access to `event-register` for testing iframe embedding in [/hackathon](https://github.com/WADAlliance/event-register/commits/main/src/app/hackathon) page
+- Write access to `case` repo to develop the app
+
+## UI Designs
+#### Mobile
+![curation](/curation-mobile-all.png)
+#### Desktop
+TBC
+
+[^1]: Of multiple stakeholder types: clients and partners, other event participants, other hub-networks, and other networks of systems-change practice/ impact
