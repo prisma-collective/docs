@@ -1,0 +1,186 @@
+---
+sidebarTitle: Manifests
+---
+
+# Manifest model
+
+Propagate splits deployment configuration into layered manifests. Secrets never live in committed files.
+
+## Overview
+
+| File | Location | Purpose |
+|------|----------|---------|
+| `stack.yaml` | `.propagate/stack.yaml` | Infrastructure intent for one deployment |
+| `values.yaml` | `.propagate/values.yaml` | User-provided capability secrets (gitignored) |
+| `app.manifest.yaml` | Each app repo root | Per-app contract: routes, env, dependencies |
+| `federation.yaml` | `.propagate/federation.yaml` | Networking/DID (planned, not implemented) |
+| `resolved.json` | `.propagate/resolved.json` | Validation output with derived env and deploy order |
+
+## `stack.yaml`
+
+Describes *what* to deploy, not *how* values are obtained.
+
+```yaml
+apiVersion: propagate/v1
+kind: Stack
+
+metadata:
+  clientName: Acme Corp
+  eventName: Argentina ALJ
+  eventDateStart: "2026-02-11"
+  eventDateEnd: "2026-02-13"
+
+deployment:
+  slug: acme-corp          # repo/stack naming; not used in DNS
+
+dns:
+  eventCode: argentina-alj # user input; DNS segment for all apps
+
+provider:
+  github:
+    targetOrg: client-org
+  vercel:
+    teamId: team_xxx
+    plan: hobby              # hobby | pro — affects codemod cron throttling (default hobby)
+  railway:                   # optional — Neo4j provisioning target
+    projectId: proj_xxx      # optional; default {deployment.slug}-propagate
+    workspaceId: ws_xxx      # optional; required when account has multiple workspaces
+
+apps:
+  - slug: docs
+  - slug: timelining
+```
+
+### DNS derivation
+
+From `dns.eventCode` and `PROPAGATE_HOST_NAME`, propagate computes per-app URLs:
+
+```
+https://{appSlug}.{eventCode}.{hostName}
+```
+
+Example: `https://docs.argentina-alj.prisma.events`
+
+## `app.manifest.yaml`
+
+Lives at the root of each app repository. Declares what the app **provides** and **requires** as stable capability IDs.
+
+```yaml
+apiVersion: propagate/v1
+kind: App
+
+app:
+  slug: timelining
+  name: Timelining
+  sourceUrl: https://github.com/prisma-collective/timelining
+
+deploy:
+  workflow: propagate-codemods
+  codemods:
+    - propagate/codemods/01-hobby-cron.mjs
+
+provides:
+  capabilities:
+    - id: timelining.web
+      type: route
+      pattern: "{appSlug}.{eventCode}.{hostName}"
+    - id: timelining.visualise.all
+      type: route
+      path: /api/visualise/all
+
+requires:
+  capabilities:
+    - id: telegram.bot_token
+      type: env
+      key: TELEGRAM_BOT_TOKEN
+      source: user
+    - id: upstash.kv
+      type: env
+      keys: [KV_REST_API_URL, KV_REST_API_TOKEN]
+      source: provisioned
+      provisioner: vercel.upstash-kv
+    - id: neo4j.connection
+      type: env
+      keys: [NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD]
+      source: provisioned
+      provisioner: railway.neo4j
+      dockerPath: .docker
+    - id: docs.web
+      type: env
+      key: DOCS_APP_URL
+      source: capability
+    - id: docs.infra_token
+      type: env
+      key: PRIVATE_API_TOKEN
+      source: generated
+
+dependsOn:
+  - docs
+```
+
+Author manifests via the agent task in propagate `AGENT_PREPARE_APPS.md` — scan API routes and service modules to derive capabilities.
+
+### `deploy` block (optional)
+
+Apps that need repo mutations before Vercel deploy declare a GitHub Actions workflow and codemod scripts:
+
+| Field | Purpose |
+|-------|---------|
+| `workflow` | Workflow file stem under `.github/workflows/` (e.g. `propagate-codemods`) |
+| `codemods` | Paths to transform scripts relative to app repo root |
+
+See [Deploy codemods](/processes/process-infrastructuring/propagate/codemods) for repo layout and apply behaviour.
+
+## Capability value sources
+
+| Source | Who sets it | Example |
+|--------|-------------|---------|
+| `user` | Prompted in `propagate create`; stored in `values.yaml` | `TELEGRAM_BOT_TOKEN` |
+| `provisioned` | Auto-provisioned on `propagate apply` unless overridden in `values.yaml` | `KV_REST_*`, `NEO4J_*` |
+| `derivable` | Computed from `stack.yaml` + deployment outputs | `DOCS_APP_URL` |
+| `generated` | Created at apply time by propagate | `PRIVATE_API_TOKEN` (shared between apps) |
+| `capability` | Resolved from another app's `provides` | `docs.web` → `DOCS_APP_URL` |
+
+Capability IDs are stable contracts. Env var names are implementations that may change per environment.
+
+## `values.yaml`
+
+User-provided secrets keyed by capability ID:
+
+```yaml
+capabilities:
+  telegram.bot_token: "..."
+  upstash.kv:            # optional override — skips Redis provisioning
+    KV_REST_API_URL: "..."
+    KV_REST_API_TOKEN: "..."
+  neo4j.connection:      # optional override — skips Neo4j provisioning
+    NEO4J_URI: bolt://...
+    NEO4J_USERNAME: neo4j
+    NEO4J_PASSWORD: "..."
+```
+
+## App catalog
+
+`catalog/apps.yaml` in the propagate repo maps slugs to upstream GitHub repos. `propagate validate` loads `app.manifest.yaml` from each app's `sourceUrl`; optional `localPath` sibling checkouts override the remote file when present.
+
+| Slug | Source repo | Deployable |
+|------|-------------|------------|
+| `docs` | `prisma-collective/docs` | yes |
+| `timelining` | `prisma-collective/timelining` | yes |
+| `enacting` | `../enact` | no |
+| `registering` | `../enrol` | no |
+| `evaluating` | `../evaluate` | no |
+
+## Cross-app wiring (docs + timelining)
+
+| Caller | Env | Callee endpoint | Capability |
+|--------|-----|-----------------|------------|
+| timelining | `DOCS_APP_URL` | docs `GET /api/pages/snapshot` | `docs.pages.snapshot` |
+| timelining | `DOCS_APP_URL` | docs `GET /api/serve/{slug}` | `docs.pages.serve` |
+| timelining | `DOCS_APP_URL` | docs `GET /api/protocol/{channel}` | `docs.protocol.schema` |
+
+**Deploy order:** docs before timelining (`dependsOn`). docs has no reverse dependency on timelining.
+
+## Federation (deferred)
+
+`federation.yaml` will hold DID identity, parent-child relationships, and network policies. No CLI commands or Pulumi resources exist for it yet.

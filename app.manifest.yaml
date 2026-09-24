@@ -1,0 +1,99 @@
+apiVersion: propagate/v1
+kind: App
+
+app:
+  slug: docs
+  name: Docs
+  sourceUrl: https://github.com/prisma-collective/docs
+
+provides:
+  capabilities:
+    - id: docs.web
+      type: route
+      pattern: "{appSlug}.{eventCode}.{hostName}"
+    - id: docs.pages.snapshot
+      type: route
+      path: /api/pages/snapshot
+    - id: docs.pages.serve
+      type: route
+      path: /api/serve/{...path}
+    - id: docs.pages.serve_private
+      type: route
+      path: /api/serve-private/{...path}
+    - id: docs.protocol.schema
+      type: route
+      path: /api/protocol/{channel}
+    - id: docs.auth.nonce
+      type: route
+      path: /api/auth/nonce
+    - id: docs.auth.verify
+      type: route
+      path: /api/auth/verify
+    - id: docs.auth.did_prepare
+      type: route
+      path: /api/auth/did-prepare
+    - id: docs.chats.list
+      type: route
+      path: /api/chats/list
+    - id: docs.chats.detail
+      type: route
+      path: /api/chats/{chatId}
+    - id: docs.participants.handle
+      type: route
+      path: /api/participants/{handle}
+    - id: docs.cohort
+      type: route
+      path: /api/cohort
+    - id: docs.contributors
+      type: route
+      path: /api/contributors
+    - id: docs.preview
+      type: route
+      path: /api/preview
+    - id: docs.assets
+      type: route
+      path: /api/assets/{...path}
+
+requires:
+  capabilities:
+    - id: shared.private_api_token
+      type: env
+      key: PRIVATE_API_TOKEN
+      source: generated
+    - id: docs.session_jwt
+      type: env
+      key: SESSION_JWT_SECRET
+      source: generated
+    - id: docs.preview_signing
+      type: env
+      key: PREVIEW_SIGNING_SECRET
+      source: generated
+    - id: docs.stateless_hmac
+      type: env
+      key: STATELESS_HMAC_SECRET
+      source: generated
+    - id: docs.luma_api_key
+      type: env
+      key: LUMA_API_KEY
+      source: user
+      optional: true
+    - id: docs.github_token
+      type: env
+      key: PRISMA_DOCS_GITHUB_TOKEN
+      source: user
+      optional: true
+    - id: docs.github_owner
+      type: env
+      key: PRISMA_DOCS_GITHUB_OWNER
+      source: user
+      optional: true
+    - id: docs.github_repo
+      type: env
+      key: PRISMA_DOCS_GITHUB_REPO
+      source: user
+      optional: true
+    - id: docs.cors_origins
+      type: env
+      key: PRIVATE_DOCS_ALLOWED_ORIGINS
+      source: user
+      optional: true
