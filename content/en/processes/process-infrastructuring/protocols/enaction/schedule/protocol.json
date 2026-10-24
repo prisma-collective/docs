@@ -1,0 +1,13 @@
+{
+  "domain": "enaction",
+  "version": "1.0.0",
+  "subgraph": {
+    "relationships": [
+      { "from": "participant", "to": "schedule", "type": "ORGANIZES", "cardinality": "many-to-many" },
+      { "from": "organisation", "to": "schedule", "type": "FOR_ORGANISATION", "cardinality": "many-to-many" },
+      { "from": "schedule", "to": "agenda", "type": "RESOLVES_TO", "cardinality": "one-to-many" },
+      { "from": "updates", "to": "agenda", "type": "CORRECTS", "cardinality": "many-to-one" },
+      { "from": "agenda", "to": "agenda", "type": "OVERWRITING", "cardinality": "many-to-one" }
+    ]
+  }
+}

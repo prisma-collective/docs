@@ -1,0 +1,94 @@
+---
+aliases:
+- timelining
+- timelining system
+- timeline
+
+sidebarTitle: Timelining
+asIndexPage: true
+---
+
+**Timelining** is the technical backbone for collective contribution accounting during [action-learning journeys](/en/patterns/action-learning%20journeys). A serverless app ingests Telegram messages, persists them as a Neo4j graph, and vectorises text for downstream retrieval. Sibling apps (`enact`, `enrol`, `evaluate`, …) extend the same graph with domain logic.
+
+For the experiential rationale - journaling, verb-based thinking, voice as signal - see [Purpose](/processes/process-infrastructuring/publishing/timelining/purpose).
+
+## Organisational model
+
+Timelining is designed so that organisations can define and publish via their own values-systems (accounting), in a peer-centric and voice-first manner.
+
+A telegram group represents a shared organisational context - the cohort, team, or hub acting as one body. Within that group, channels are defined by the organisation to account for the exchanges that matter to how they organise: deciding, scheduling, enrolment, evaluation, and so on. Each channel is a deliberate choice about which process should become visible and traceable over time. Channels are nominated as a channel dedicated to timelining, where each message is expected to write to the database, with the prefix `_bot`, e.g. `_botEnrolment`, `_botDeciding`, `_botScheduling`.
+
+> Note: Officially, Telegram calls these channels within groups Forum Topics. There are distinctions in the telegram chat configuration syntax that aren't addressed in this documentation. For the purposes of this documentation, "channel" can be taken to mean, generally, a forum topic.
+
+Every channel is accompanied by a schema - the shape of a valid contribution and the graph relationships it implies. Schemas are authored in these docs - for example the [deciding](/processes/process-infrastructuring/protocols/deciding/deciding) and [enrolment](/processes/process-infrastructuring/protocols/enrolment/role) protocols - and served at runtime (`GET /api/protocol/{channel}`) to sibling resolvers, which extract structured data from free-form messages. The schema therefore defines not only storage but a dedicated UX - what information must be included.
+
+In this way, timelining inverts a typical SaaS pattern. There is no fixed product workflow. It is up to each organisation to identify their key processes, introduce accounting schemas for those processes, and evolve them as their self-organising capacity develops. Contributions accumulated through timelining become the basis for later [valuing](/en/processes/evaluation) those actions and dynamically reconfiguring how resources are distributed in a participatory manner: i.e. creating bottom-up responsibility.
+
+```
+Organisation (Telegram group)
+  └── Channel (_botDecidir, _botAgendar, …)
+        ├── Schema (docs protocol → resolver)
+        ├── UX (forward / resolve modes, sibling app)
+        └── Graph entries → vectorise → evaluate, visualise, …
+```
+
+<br/>
+
+<MediaCarousel
+  images={[
+    '/integrative-capacity-building.png',
+    '/docs-timelining-data.png',
+    '/docs-timelining-data-network.png',
+    '/docs-timelining-data-network-value.png',
+  ]}
+/>
+
+## Architecture
+
+```
+Telegram (_bot* topics)
+  → Ingest webhook → Redis backlog → Neo4j Entry
+  → Vectorise (transcribe → chunk → embed)
+  → Neo4j graph + vector indexes
+       ↳ evaluate (RAG), visualise APIs, sibling resolve workers
+```
+
+The core pipeline (ingest + vectorise) lives entirely in the [timelining](https://github.com/prisma-collective/timelining) repo. Secondary dispatch (live webhook forwarding and post-ingest resolve triggers) routes to sibling apps via [organising config](/processes/process-infrastructuring/publishing/timelining/organising-config). Timelining does not own schema extraction or interactive bot UX; it forwards and triggers.
+
+Chained HTTP (`mode=chain`) handles the happy path on Vercel. Crons sweep Redis backlogs and failed queues when inline processing does not complete.
+
+## Stack
+
+| Component       | Role                                                     |
+| --------------- | -------------------------------------------------------- |
+| Vercel          | Serverless API routes + scheduled crons                  |
+| Upstash Redis   | Ingest, transcribe, and resolve backlogs / failed queues |
+| Neo4j (Railway) | Graph storage, embeddings, vector indexes                |
+| OpenAI          | Whisper transcription + text embeddings                  |
+| Telegram        | Contribution UX via `_bot*` channels                     |
+
+Deploy via [propagate](/processes/process-infrastructuring/propagate) (`app.manifest.yaml`). Neo4j is provisioned on Railway during apply — see [Neo4j provisioning](/processes/process-infrastructuring/propagate/neo4j). Timelining **depends on** the docs app (`DOCS_APP_URL`) for page ingest and protocol schemas.
+
+## Boundaries
+
+| Concern | Owner |
+|---------|-------|
+| Webhook, backlog, Neo4j entry, transcription, embeddings | **timelining** |
+| Topic → sibling routing | **timelining** (`organising.config.ts`) |
+| Live Telegram UX, forms, commands | **sibling** (forward mode) |
+| Schema extraction, domain graph | **sibling** (resolve mode) |
+| RAG, dashboards, timeline UI | **evaluate** and similar consumers |
+
+Every `_bot*` message is ingested regardless of organising config. Config only declares which topics also participate in forwarding or resolve.
+
+## Documentation
+
+1. [Purpose](/processes/process-infrastructuring/publishing/timelining/purpose) — conceptual intro, contribution patterns, verb vs noun thinking
+2. [Pipeline](/processes/process-infrastructuring/publishing/timelining/pipeline) — core workflow overview and module map
+3. [Ingest](/processes/process-infrastructuring/publishing/timelining/ingest) — webhook → Redis → Neo4j
+4. [Vectorise](/processes/process-infrastructuring/publishing/timelining/vectorise) — transcripts → chunked embeddings
+5. [Organising config](/processes/process-infrastructuring/publishing/timelining/organising-config) — channel routing across sibling apps
+6. [Resolvers](/processes/process-infrastructuring/publishing/timelining/resolver-examples) — forward + resolve dispatch to enact, enrol, evaluate
+
+Implementation: [github.com/prisma-collective/timelining](https://github.com/prisma-collective/timelining)
+

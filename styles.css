@@ -1,0 +1,198 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-prisma-a: #cd5aff;
+  --color-prisma-b: #8067ff;
+  --color-prisma-c: #ef64ff;
+  --color-prisma-d: #ff4b85;
+  --color-prisma-e: #7faec2;
+  --color-prisma-f: #02b4ff;
+  --font-custom: "Custom", sans-serif;
+  --font-custom-bold: "CustomBold", sans-serif;
+  --font-squid: "Squid", sans-serif;
+}
+
+:root {
+  --nextra-content-width: 100% !important;
+}
+
+.nextra-breadcrumb {
+  @apply max-w-[850px] w-full mx-auto;
+}
+
+/* Load the actual font */
+@font-face {
+  font-family: "CustomBold";
+  src: url("/fonts/BebasNeue-Regular.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Load the actual font */
+@font-face {
+    font-family: "Custom";
+    src: url("/fonts/SpaceGrotesk-VariableFont_wght.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Load the actual font */
+@font-face {
+  font-family: "Squid";
+  src: url("/fonts/Game_Of_Squids.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Set the background color for the whole page */
+.dark body {
+    background-color:rgb(0, 0, 0); /* Change this to your desired background color */
+    color: #ffffff; 
+}
+
+/* Light theme styles when Nextra switches to light mode */
+html:not(.dark) body {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+/* Set font style for headings */
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+    font-family: 'Space Grotesk', sans-serif; 
+    color:rgb(249, 249, 249); 
+}
+
+/* Set font style for links */
+a {
+    color: #7faec2; 
+    text-decoration: none; 
+}
+
+/* Add hover effect to links */
+a:hover {
+    color: #c362ff; 
+    text-decoration: none; 
+}
+
+.aspect {
+    animation: moveAround linear infinite;
+    transform-origin: center;
+    animation-play-state: running; /* Default to running */
+    opacity: 1;
+    transition: opacity 0.5s ease; /* Smooth transition */
+  }
+
+.aspectAnti {
+  animation: moveAroundAnti linear infinite;
+  transform-origin: center;
+  animation-play-state: running; 
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+.aspect:hover {
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+.aspectAnti:hover {
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+.level:hover .aspect {
+  animation-play-state: paused;
+}
+
+.level:hover .aspectAnti {
+  animation-play-state: paused;
+}
+
+.highlighted {
+  opacity: 1;
+  transition: opacity 2s ease;
+}
+
+.unhighlighted {
+  opacity: 0.2;
+  transition: opacity 2s ease;
+}
+
+@keyframes moveAround {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes moveAroundAnti {
+  from {
+    transform: rotate(360deg);
+  }
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+.animated-rect {
+  transition: stroke 0.5s ease-in-out;
+}
+
+.animated-link:hover .animated-rect {
+  stroke: #cd5aff;
+}
+
+.linked-path {
+  fill: none;
+  stroke-width: 1.6;
+  stroke-linejoin: miter;
+  transition: stroke 0.5s ease;
+  pointer-events: none;
+}
+
+/* Hover Area */
+.hover-area-link:hover .linked-path {
+  stroke: #cd5aff; /* Change the stroke color to red when hovered */
+  transition: stroke 0.3s ease; /* Smooth transition for stroke color change */
+}
+
+.hover-area-link {
+  position: relative;
+}
+
+.hover-path {
+  pointer-events: auto;  /* Ensure the invisible hover path can be interacted with */
+  z-index: 1;  /* Ensure it sits on top of the link */
+}
+
+/* styles/glow.css or similar */
+@keyframes dashFlow {
+  to {
+    stroke-dashoffset: -7;
+  }
+}
+
+.animate-path {
+  stroke-dasharray: 6 1;
+  stroke-dashoffset: 0;
+  animation: dashFlow 2s linear infinite;
+}
+
+/* KaTeX: load order is katex.min.css then Tailwind; re-assert MathML layer stays visually hidden
+   (Tailwind v4 preflight / prose can otherwise show both .katex-html and .katex-mathml). */
+.katex {
+  font-size: 1em;
+}
+
+.katex .katex-mathml {
+  position: absolute;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}

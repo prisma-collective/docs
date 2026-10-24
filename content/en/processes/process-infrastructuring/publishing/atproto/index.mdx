@@ -1,0 +1,64 @@
+---
+aliases:
+- atproto
+- at-protocol
+- federation
+
+sidebarTitle: ATProto
+asIndexPage: true
+---
+
+**ATProto** (Authenticated Transfer Protocol) is the open-source federation protocol that connects hub-hosted [publishing stacks](/patterns/case-study) across the Prisma network. It sets the rules for how independent [hubs](/collaborators/communities-of-place/hub/hubs) publish, communicate, and account for contributions without a single central server owning their database.
+
+A typical platform stores every account and record inside one company's database, giving that operator control over who participates and what people see. ATProto flips that arrangement. Accounts, publications, and project records live on servers controlled by the hubs that create them, while shared schemas let sibling apps and partner hubs read what gets published across the network.
+
+## Core Pieces
+
+1. **Hub Data Server (PDS).** Everything a hub publishes lives on a small server that the hub controls, deployed alongside [Docs](/processes/process-infrastructuring/publishing/docs/docs-setup) and [Timelining](/processes/process-infrastructuring/publishing/timelining) via [Propagate](/processes/process-infrastructuring/propagate). A hub chooses what stays private and what becomes public, and it can move its server at any time without losing its history.
+2. **Portable Identity ([DID](/processes/enrolment/dids/overview)).** Each hub and contributor holds a permanent, portable identifier (`did:web` bound to the hub's domain and linked to [`did:cardano`](/processes/enrolment/dids/cardano-integration)). If a hub migrates to new infrastructure, its identity, history, and reputation travel with it.
+3. **Shared Schemas (Lexicons) and the Firehose.** Every record published on a hub server is signed by that hub's DID and formatted using shared JSON schemas called Lexicons, extending Prisma's existing [process protocols](/processes/process-infrastructuring/protocols/deciding/deciding). Signed updates stream out in real time so authorised network services can read them without taking custody of the underlying data.
+4. **Synchronisation (`Tap`) and Shared Views (`AppView`).** ATProto separates the stored data from the view of the data. A lightweight synchronisation service (`Tap`) validates signatures, backfills historical records if a node goes offline, and forwards matching events via webhooks to indexing views such as [Timelining](/processes/process-infrastructuring/publishing/timelining) and [Evaluation](/processes/evaluation).
+
+## Why It Fits Prisma's Infrastructure
+
+Prisma equips hubs to learn by doing during [action-learning journeys](/patterns/action-learning%20journeys) and publish their work as living [case studies](/patterns/case-study). Publishing is how value shows up.
+
+Three practical gaps existed across our earlier deployments:
+
+| Infrastructure Layer | What Already Worked | The Gap | How ATProto Connects It |
+| :--- | :--- | :--- | :--- |
+| **[Docs](/processes/process-infrastructuring/publishing/docs/docs-setup)** | Each hub hosted and owned its own documentation repository. | Local docs stayed isolated per hub, with no protocol layer bringing multiple hubs together at a shared event table. | **Hub PDS + Lexicons:** Hubs keep hosting their own data while publishing structured updates that appear at the shared event level. |
+| **[Timelining](/processes/process-infrastructuring/publishing/timelining)** | Extracted structured graph entries and embeddings from field activity. | Aggregating multiple hubs onto one shared event page meant storing their extracted graph records on Prisma's central database. | **PDS to `Tap` to `AppView`:** Hubs sign and store records on their own PDS; Prisma indexes the stream into the shared graph without owning the source data. |
+| **[DIDs & VCs](/processes/enrolment/dids/overview)** | Provided `did:cardano` wallet authentication and selective-disclosure [credentials](/processes/enrolment/dids/credential-schemas). | Field contributions lived across many separate hub tools while resource distribution decisions happened in one place. | **Publish to Value to Share Out:** Signed PDS records feed a live event distribution table, and verified contributions trigger Cardano credential anchoring and settlement. |
+
+## Architecture in the Publishing Stack
+
+```
+Hub Space (Propagate Deployment)
+  ├── Docs + Timelining (local capture & extraction)
+  └── Hub PDS (signs & stores records with Hub/Team DID)
+        ↓
+Network Synchronisation (Relay + Tap Daemon)
+  ├── Filters for Prisma Lexicons (contributions, decisions, alignments)
+  ├── Validates cryptographic signatures & caches DIDs
+  └── Auto-backfills history & guarantees at-least-once webhook delivery
+        ↓
+Shared Indexer (AppView / Evaluate / Event Contract)
+  ├── Cross-hub synergy graph (Neo4j / PostGIS)
+  ├── Live contribution & dynamic equity distribution table
+  └── Cardano VC anchoring (L_DID 199674 / L_VC 199675) & fund settlement
+```
+
+## Connected Infrastructure
+
+1. **[Propagate](/processes/process-infrastructuring/propagate)** provisions hub apps under `https://{appSlug}.{eventCode}.{hostName}` and pairs with the hub's PDS and federation config.
+2. **[Timelining](/processes/process-infrastructuring/publishing/timelining)** transcribes and extracts structured claims from local channels before public or anonymised records are written to the hub's PDS.
+3. **[Process Protocols](/processes/process-infrastructuring/protocols/deciding/deciding)** define the domain schemas (`enrolment`, `deciding`, `schedule`, `evaluation`) that map into ATProto Lexicons.
+4. **[Prisma DIDs & Verifiable Credentials](/processes/enrolment/dids/overview)** bind hub and contributor identities (`did:web` and `did:cardano`) to every published record and issue selective-disclosure credentials (`SD-JWT`) when contributions are verified.
+
+## Initial Deployment: Market Intelligence & Event Contracts
+
+We are rolling out ATProto in stages, starting with a Minimum Viable Product (MVP) for multi-hub research and [Event Contracts](/events/cpc/event-contract):
+
+1. **Contribution accounting and resource distribution.** Participating hubs and their local teams publish verified milestones from their own servers, feeding a shared Event Contract distribution table that calculates dynamic equity across training, field interviews, evaluation, curation, and local team execution.
+2. **Cross-hub decision alignment.** When a hub validates an emerging technology use case with local stakeholders, it publishes a signed decision record (`network.prisma.hub.decision`) so sibling hubs can inspect the evidence and publish voluntary alignments (`network.prisma.hub.alignment`) where the same pattern fits their region.

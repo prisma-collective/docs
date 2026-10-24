@@ -1,0 +1,143 @@
+import { Tabs } from 'nextra/components'
+
+# Prisma & Morpho: An Architecture Analogy
+
+## The common pattern
+
+Prisma and Morpho are different protocols serving fundamentally different economic purposes. Morpho is infrastructure for **overcollateralised crypto lending and borrowing**; Prisma was designed as infrastructure for **deploying capital into local systems-change activity and making the resulting value creation legible and financeable**. Yet their architectures reveal a common design problem:
+
+> **How do you create a coherent, composable financial environment in which heterogeneous economic activity can be allocated capital, measured, and held accountable?**
+
+Morpho provides a particularly useful case study because this architecture operates at substantial scale: Morpho reported more than **$14B of deposits in August 2026**, representing roughly 25% of the crypto-backed lending market.
+
+## 1. Primitive → bounded economic environment
+
+**Morpho:** Morpho Blue is the base lending primitive. A market is a bounded, isolated instance of a lending relationship: one collateral asset, one loan asset, an LLTV, an oracle and an interest-rate model. Markets are permissionless to create and their parameters are immutable.
+
+**Prisma:** The corresponding primitive is the **event contract**. An event contract establishes a bounded instance of network agreements: the participating registry, publishing/infrastructure requirements, funds, genesis commitments and the conditions under which the network operates.
+
+The important similarity is therefore not “event = loan market”, but:
+
+> **The primitive establishes the bounded economic environment in which a particular form of value creation can subsequently occur.**
+
+Morpho's environment enables lending markets to function safely and predictably. Prisma's enables a network of organisations to coordinate capital and undertake systems-change work.
+
+<Tabs items={['Morpho Blue', 'Prisma Event Contract']}>
+  <Tabs.Tab>
+	![1.1](/morpho-1.1.png)
+  </Tabs.Tab>
+  <Tabs.Tab>
+	![1.2](/morpho-1.2.png)
+  </Tabs.Tab>
+</Tabs>
+
+## 2. Capital allocation → productive activity
+
+**Morpho:** Capital providers supply assets into markets, either directly or through higher-order vaults. Borrowers supply collateral and receive loan capital, which can then be used elsewhere. Vaults provide a higher-order allocation layer, distributing capital across markets and other approved yield sources.
+
+**Prisma:** Capital enters through an event contract and moves through two levels of allocation:
+
+**Network → Hub → Team**
+
+Networks allocate capital to hubs; hubs allocate capital to teams.
+
+The **hub** is therefore an economic environment and allocation layer rather than merely an infrastructure node. It aggregates multiple team-level economic systems into a shared environment in which capital can be deployed across heterogeneous local activities.
+
+In both systems, the allocation layer exists to solve a problem created by diversity: capital should not have to be manually connected to every individual productive activity.
+
+<Tabs items={['Morpho Blue', 'Prisma Event Contract']}>
+  <Tabs.Tab>
+	![2.1](/morpho-2.1.png)
+  </Tabs.Tab>
+  <Tabs.Tab>
+	![2.2](/morpho-2.2.png)
+  </Tabs.Tab>
+</Tabs>
+
+## 3. Value creation → upstream return
+
+The downstream capital flows look structurally similar, but the upstream mechanisms are substantially different.
+
+**Morpho:** Borrowers receive capital and subsequently repay **principal plus interest**. Interest accrues on outstanding debt according to the market's interest-rate model; that interest becomes yield for lenders and, through vaults, for depositors.
+
+So the basic loop is:
+
+**Capital → borrower → productive use → principal + interest → lender**
+
+The interest rate is therefore the economic mechanism that prices the use of capital and generates the return to capital providers.
+
+**Prisma:** The equivalent upstream mechanism is not scheduled debt repayment and does not depend on a fixed interest rate. Revenue Participation Certificates (RPCs) create obligations against **realised network value**. A network that generates revenue progressively satisfies those obligations, up to the relevant contractual multiple.
+
+The loop is therefore:
+
+**Capital → network → hub → team → value creation → realised revenue → RPC redemption → capital provider**
+
+This creates a fundamentally different risk/return relationship: **capital recovery is contingent on realised economic performance rather than guaranteed through collateralised debt.**
+
+The rate at which RPC obligations are redeemed can consequently become a measure of network productivity: faster redemption indicates that the network is generating sufficient realised value to satisfy its obligations.
+
+<Tabs items={['Morpho Blue', 'Prisma Event Contract']}>
+  <Tabs.Tab>
+	![3.1](/morpho-3.1.png)
+  </Tabs.Tab>
+  <Tabs.Tab>
+	![3.2](/morpho-3.2.png)
+  </Tabs.Tab>
+</Tabs>
+
+## 4. Economic activity → measurement / interpretation
+
+This is where the analogy becomes particularly interesting.
+
+**Morpho:** An oracle makes external economic state legible to the lending environment. It answers a narrowly defined valuation question — for example, how much one unit of collateral is worth in the loan asset. That valuation determines borrowing capacity and contributes to liquidation decisions.
+
+**Prisma:** Each team operates its own local **value-measurement system**, inspired by mutual-credit currencies and implemented conceptually through Holochain. The team currency records economic contribution within the team's local context, but is not itself a globally exchangeable financial asset.
+
+The **adaptor** is therefore an interpretation boundary:
+
+> **heterogeneous team-level activity → adaptor → standardised hub-level financial environment**
+
+This is analogous to the role of an oracle in Morpho: not a mechanism for moving capital, but a mechanism for making otherwise external or heterogeneous economic state intelligible to the financial system.
+
+The difference is important. Morpho's oracle generally performs relatively mechanical price interpretation. Prisma's adaptor was intended to support **context-dependent economic interpretation**: understanding what a particular team's local measurement means well enough for the hub to incorporate it into a shared economic environment. They are essentially a governance mechanism enabling hubs to apply weightings to team currencies. 
+
+<Tabs items={['Morpho Blue', 'Prisma Event Contract']}>
+  <Tabs.Tab>
+	![4.1](/morpho-4.1.png)
+  </Tabs.Tab>
+  <Tabs.Tab>
+	![4.2](/morpho-4.2.png)
+  </Tabs.Tab>
+</Tabs>
+
+## 5. What the protocol components are actually enabling
+
+Viewed this way, the components are not ends in themselves.
+
+| Component                 | System role                                                                       | Economic activity enabled                                                  |
+| ------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Morpho Blue market**    | Defines an isolated, immutable lending environment                                | Trustless lending/borrowing between specified assets                       |
+| **Morpho oracle**         | Makes collateral value legible                                                    | Safe credit extension against external assets                              |
+| **Morpho IRM**            | Determines the price of borrowed capital from market conditions                   | Sustainable liquidity and capital utilisation                              |
+| **Morpho Vault**          | Aggregates and allocates capital across opportunities                             | Scalable access to diversified lending strategies                          |
+| **Morpho adapters**       | Connect higher-order vaults to underlying capital/yield sources                   | Composable capital deployment across heterogeneous sources                 |
+| **Prisma event contract** | Defines a bounded network coordination and financing environment                  | Coordinated systems-change activity                                        |
+| **Prisma network**        | Allocates capital across hubs and coordinates network-level commitments           | Portfolio-level deployment into local economic activity                    |
+| **Prisma hub**            | Provides a shared multi-currency economic environment and allocation layer        | Deployment of capital across heterogeneous teams                           |
+| **Prisma team currency**  | Records locally meaningful economic contribution                                  | Measurement of value created through local service/product activity        |
+| **Prisma adaptor**        | Interprets local economic signals into a common accounting environment            | Integration of heterogeneous economic activity into a financial system     |
+| **Prisma RPC**            | Converts realised network value into contractual obligations to capital providers | Recycling value created by local activity back toward its financing source |
+
+## The key architectural distinction
+
+The strongest comparison is therefore not that the two protocols contain equivalent components. It is that they enable whole-system liquidity in analogous ways.
+
+> Morpho has built an infrastructure layer that allows capital to be supplied, allocated, priced, secured, deployed and returned across a large ecosystem of crypto-economic activity - with the purposes of enabling credit.
+
+Its architecture separates these concerns into composable primitives: markets establish credit relationships; oracles establish economic legibility; vaults establish higher-order allocation; and repayment plus interest closes the capital cycle.
+
+> Prisma applies a similar architectural discipline to a much more heterogeneous form of economic activity - with the purposes of enabling local-first values-systems and dynamic resource distribution pathways for self-evolving networks.
+
+Its challenge is not simply to lend capital, but to enable capital to reach teams operating in different local contexts, make their activity economically legible without erasing that diversity, aggregate those signals into hubs and networks, and establish a mechanism through which realised value can flow back toward the original capital providers.
+
+
