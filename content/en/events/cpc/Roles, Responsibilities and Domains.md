@@ -99,4 +99,31 @@ Frontiers / boundaries:
 - Not deciding the consent levels or what participants agree to: the vault enforces what the team and the participants decide.
 - Not the field research or its content: the hubs own it.
 
-Last updated on November 10, 2026
+**Abdulbasit Role:**
+
+- Security assurance, pre-flight verification, and vulnerability discovery across all CPC-related repositories.
+- Serving as the operational proxy for the end user (the Hub Lead) to ensure tools are secure, robust, and intuitive before hitting the field.
+- Pull request review and UI/UX optimization across CPC frontend applications.
+
+**Abdulbasit Responsibilities:**
+
+- **Pre-flight & Regression Verification**: Rigorously test and verify all CPC repositories locally to catch functional defects, edge cases, and regressions before hubs encounter them in production.
+- **Security & Vulnerability Auditing**: Audit the Protocol, Data, and Ingestion backends (`at-pds`, `at-tap`, `lexicons`, and APIs) for potential exploits, data leakage vectors, injection flaws, or permission loopholes.
+- **Proof-of-Concept (PoC) Development**: For every vulnerability or defect candidate discovered, build reproducible local Proofs of Concept and test harnesses so domain engineers can execute precise patches.
+- **Hub Lead Advocacy**: Evaluate all workflows through the eyes of a Hub Lead, ensuring that field research and publishing processes remain friction-free, resilient to network dropouts, and respectful of local operating realities.
+- **UI/UX Optimization & Brand Consistency**: Review and contribute to frontend interfaces (`potentialise`, `cpc-milestone-submission`, `evaluate`) to elevate usability, typography, and adherence to Prisma design tokens.
+- **Independent PR Review**: Conduct technical and architectural reviews on incoming pull requests, providing constructive feedback on security posture and user ergonomics.
+
+**Abdulbasit Domain:**
+
+- Pre-production security assurance and vulnerability discovery across all CPC repositories.
+- Verification test suites and Proof-of-Concept (PoC) artifact creation.
+- Hub Lead user experience and interface ergonomics quality.
+
+Frontiers / boundaries:
+
+- Not writing production patches or modifying codebase implementations directly: Identifies candidates and delivers PoCs; implementation and patching remain with the domain authors (e.g., Paul for protocol, core engineers for features).
+- Not managing production infrastructure or deployment credentials: Focuses on verification and local testing, not cloud DevOps.
+- Not setting CPC project scope or contract terms: Communicates technical and UX findings to enable Tabs and Alfred to steer project direction.
+
+Last updated on November 12, 2026
