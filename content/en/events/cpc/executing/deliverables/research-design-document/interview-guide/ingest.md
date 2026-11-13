@@ -1,36 +1,30 @@
-# Layer 2 : Post-Interview Ingestion
+# Layer 2: Post-Interview Vault Filtering & AT Protocol Ingestion
 
-After each interaction, the interviewer submits evidence through the primary-research ingestion channel (configuration TBD in Phase 2–3). The workflow follows the resolver pattern:
+Within **48 hours** of each interaction across the **Buenos Aires Hub**, **Lagos Hub**, **Nairobi Hub**, and **Barcelona Benchmark**, the Local Team and Designated Hub Vault Reviewer process the evidence through the production server ingest path (`D22`, `D26`, `D30`):
 
-1. **Ingest** — timelining creates a Neo4j `Entry` from the submission (voice note, text summary, or structured form)
-2. **Transcribe** — voice entries are transcribed before resolve eligibility
-3. **Resolve** — the primary-research resolver extracts fields against the co-designed channel schema and writes typed graph nodes
-4. **Link** — resolved nodes connect to the source entry, participant handle, region cluster, and respondent category
+1. **Encrypted Vault Intake (`Default = 1. Private`):**
+   - The recording or Telegram intake message lands inside the Hub's encrypted **Vault** (`D15`, `D22`), which requires authenticated sign-in on startup and drops revoked sessions immediately (`0s` delay).
+   - Every new intake defaults to **`1. Private`**. Raw audio, video, and unredacted transcripts never leave the Hub Vault under any consent choice.
+2. **Local On-Server Transcription (`Whisper`) & Identifier Filtering (`Local LLM`):**
+   - Local `Whisper` transcribes the recording directly on the hub server.
+   - A local language model scans the transcript and flags personal names, institutional titles, contact details (including disguised formats such as spelled-out emails or spaced phone digits), and any third-party names mentioned during the interview.
+3. **Human Reviewer Session & Consent Enforcement (`D26`, `D30`):**
+   - The Local Team Interviewer and Designated Hub Vault Reviewer inspect the flagged transcript and code the structured findings (`ingest.json` v2.0).
+   - **Hard Redaction Gate:** The Vault review screen blocks `Anonymous` approval (`Choices 2 & 3`) if any detected identifier or unconsented third-party name remains unredacted, and reviewers can only keep or tighten the participant's pre-recorded privacy choice.
+4. **Storage vs. Repository Publication by Consent Choice (`D30`):**
+   - **`Choice 1: Private` & `Choice 2: Research` (`CPC / Authorised Researchers`):** Stored strictly inside the **Encrypted Hub Vault** (never published to an AT Protocol repo). Choice 2 transcripts are served only to the CPC and authorised researchers through the Vault's authenticated read path.
+   - **`Choice 3: Anonymous public` & `Choice 4: Public, named`:** The Hub Reviewer's authenticated session writes the consent-filtered `ingest.json` record (`events.prisma.evidence.interview`) plus the SHA-256 fingerprint of the vault file into the Team's AT Protocol repository (`did:plc`) on the Hub PDS. The Relay, `Tap`, and the TypeScript `AppView` index the signed record using the six ingestion rules (`D6`).
 
-### Schema Co-Design (Phase 2–3)
+---
 
-During Phase 2 desk screening and Phase 3 field access, hub coordinators and PRISMA research leads co-design the channel schemas that define resolver extraction shape. Co-design sessions produce:
+### Finalised Phase 2-3 Ingestion Schema (`events.prisma.evidence.interview` / `ingest.json` v2.0)
 
-* **Respondent interaction schema** — session metadata, category, access basis, consent status, gates addressed
-* **Adoption signal schema** — signal description, proposed CASS tier, evidence type, corroboration status
-* **Counterparty lead schema** — entity name or archetype, role type, reachability horizon, confidence
-* **Regulatory finding schema** — jurisdiction, topic, certainty tier, source type
-* **Regional evidence schema** — cluster, use case, finding type, confidence
+Locked prior to Phase 3 fieldwork (`Milestone 2`), every published interview record conforms to five structured sub-objects:
 
-Schemas follow the same authoring pattern as other PRISMA protocols: Zod-defined node shapes consumed by resolver extraction, documented in the process-infrastructure protocol tree once finalised. See [Credential Schemas](/en/processes/enrolment/dids/credential-schemas) for the parallel pattern used in verifiable credential claim definitions.
+* **1. Session & Provenance Header:** `schemaVersion` (`2.0.0`), `recordId` (`Respondent_ID`), `hubDid` (`did:plc`), `teamDid` (`did:plc`), `interviewerCardanoDid` (`did:cardano` dedicated wallet), `regionalCluster`, `citySubLocation`, `questionPackId` (`1-7`), `counterpartyRole` (`1-6`), `nonCardanoIndependent` (`boolean`), `consentScope` (`anonymous` or `public`), `aiTrainingAllowed` (`boolean`, default `false`), and `vaultArtifact` (`sha256Fingerprint`, `vaultReceiptId`, `retentionExpiryDate`).
+* **2. Tested Play & Hypothesis Disposition:** `playId` (`H1-H7`, `H11-H12`), `preCallStatus`, `postCallDisposition` (`Confirmed / Revised / Rejected / Inconclusive`), `incumbentBaselineConfronted`, `falsificationTriggerTested`, and `summaryFinding`.
+* **3. Decision Gate Evidence (`G1-G8`):** Array of structured gate findings mapping `gateId`, `rarfDimensionId` (`D1-D10`), `redactedClaim`, `redactedVerbatimQuote`, and `evidenceConfidence` (`High / Medium / Low`).
+* **4. CASS Adoption Signal Block:** `signalId`, `signalDescription`, `evidenceType`, `proposedCassTier` (`Tier 1` to `Tier 4`), `tierRationale`, and `corroborationNeeded` (`boolean`).
+* **5. Regulatory, Infrastructure & Cross-RFP Handoff Block:** `regulatoryFindings` (`jurisdiction`, `statuteOrCircularCited`, `certaintyTier`, `localCounselRequired`, `counselQuestionId`), `infrastructurePrerequisites` (`8 categories` rated `Met / Partially Met / Unmet / Unknown / Dependent on Another Workstream`), `referralsGenerated`, and `crossRfpHandoffs` (`RFP 01, 02, 03, 06, 07, 08`).
 
-> **Requires implementation:** Schema node definitions, protocol commit references, and `SchemaGraphViewer` locations will be added to this guide once Phase 2–3 co-design is complete.
-
-### CASS Feeding
-
-Resolved adoption signal nodes are the primary structured input for CASS classification during Phase 4 analysis. Interviewers capture:
-
-| Field (conceptual) | Purpose |
-| :---- | :---- |
-| Signal description | What was observed or claimed |
-| Evidence type | Primary observation / document cited / third-party report / respondent assertion |
-| Proposed tier | Interviewer's evidence-supported CASS tier (1–4) |
-| Tier rationale | Why the evidence does or does not support the proposed tier |
-| Corroboration needed | Whether independent validation is required before tier is final |
-
-Final CASS classification occurs in analysis (Phase 4.1), not at point of interview. Interviewers propose tiers; analysts confirm or downgrade.
+Full JSON Schema specification and worked example: [Data Ingestion Schema & Fieldwork Verification Protocol](/en/events/cpc/executing/deliverables/phase-2-schema-and-protocol-update).

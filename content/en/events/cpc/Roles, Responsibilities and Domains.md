@@ -52,6 +52,32 @@ Frontiers / boundaries:
 
 - Internal governance quality
 
+**Alfred Role:**
+
+- Project Lead and Principal Investigator for the CPC engagement
+- Research architecture, methodological rigour, and milestone delivery lead across all five contract phases
+- Operational bridge between the core infrastructure team, the Regional Hubs (Buenos Aires, Lagos, Nairobi, and Barcelona benchmark), and the Cardano Product Committee scope
+
+**Alfred Responsibilities:**
+
+- Design and steward the end-to-end research methodology: the Regional Adoption Readiness Framework (RARF), Cardano Adoption Signal Standard (CASS), Use-Case Hypothesis Register, modular Question Packs, and bias-control protocols.
+- Set the timeframe, enrolment requirements, and quota allocation for the Conduct-Ingest fieldwork sprint across the regional hubs and their local project teams.
+- Lead Phase 2 desk screening, Phase 3 cross-hub verification audits, and Phase 4-5 synthesis to assemble the contractual Milestone Deliverables and Regional Entry Playbooks.
+- Coordinate with Paul, Doko, and Abdulbasit so that the consent model, enrolment forms, vault review workflow, and AT Protocol schemas (`events.prisma.*`) match the research and ethical commitments of the contract.
+- Conduct rolling quality-control checks on ingested field records so that every published claim traces to a signed, consent-verified hub record (`strongRef`) and meets CPC decision-gate standards.
+
+**Alfred Domain:**
+
+- Research design, methodology, and epistemic quality across all five milestones
+- Hub and Local Team enrolment criteria, fieldwork sprint scheduling, and respondent quota governance
+- Cross-regional evidence synthesis and contractual deliverable authoring
+
+Frontiers / boundaries:
+
+- Not unilaterally substituting local hub fieldwork: the regional hubs and their local teams conduct and own their primary stakeholder interviews and local context.
+- Not writing low-level protocol or server infrastructure code directly: defines research, consent, and schema requirements for Paul and Doko to implement in the stack.
+- Not executing corporate treasury disbursements or legal contract modifications: escalates contractual and financial settlement actions to Tabs.
+
 **Paul Role:**
 
 - Protocol infrastructure development
@@ -126,4 +152,4 @@ Frontiers / boundaries:
 - Not managing production infrastructure or deployment credentials: Focuses on verification and local testing, not cloud DevOps.
 - Not setting CPC project scope or contract terms: Communicates technical and UX findings to enable Tabs and Alfred to steer project direction.
 
-Last updated on November 12, 2026
+Last updated on November 13, 2026
