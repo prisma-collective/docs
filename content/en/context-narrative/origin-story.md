@@ -1,0 +1,127 @@
+---
+sidebarTitle: Origin Story
+---
+
+import { Table } from 'nextra/components'
+
+## Origin
+Prisma comes from the intersection of the fields Regenerative Design (inc. Organisational Development), Distributed Information Systems, and Group Facilitation. By seeing in terms of the intersection of these fields, it was clear to see the potential to better represent and resource locally-grounded systems-change efforts - namely, by integrating all three together in the same place at the same time.
+
+At a high-level, Prisma's earliest stages concerned how to make visible locally-grounded action in a way that maintained depth of context, whilst at the same time being globally utilisable and self-evolving.
+
+A distributed approach to development was required to reconcile these two levels: local depth, global-scale levels of complexity. In-person (local) events soon became a central concept in creating the conditions for:
+
+- Creating real-world examples of systems-change (organisational transitions)
+- Making that visible, publicly, with rigorous data soveriegnty standards (local communities owning the means of publication)
+- Developing technical capacity in place to evolve the means of publication after the first event-organising engagement concludes
+- Developing capacity for prisma as a system to self-evolve
+
+From the start, Prisma has been on a trajectory to develop the capabilities required for systems-change practitioners to publish accounts of their local efforts in a way that enables them to...
+
+- Surface the complexity inherent in the systems they're working on (each place is unique; each place is a complex system)
+- Self-organise systemic transitions (host local events) 
+- Own their own organising and publishing infrastructure
+- Resource that work (inc. engaging non-local partners and acquiring funding)
+
+## Development so far
+In the time since inception, there have been three key transitions: concept development, service delivery validation, protocol development.
+
+### Concept Development
+See the Movement; Be the Movement. That was the mandate prisma as a system was required to deliver for its first client, Regenesis Institute. The movement in question was regenerative design and development.
+
+> "See" meant: making visible the effects of regenerative design and development - as a practice. Their network of alumni are globally distributed. Each alumni may integrate this design practice in different ways, as well as apply it in different ways, when working on different systems.
+
+This mandate was being actioned during a time when the field of digital monitoring, reporting and verification (dMRV) was creating new ways to make visible impact and resource it. New markets were forming. At its core, what almost all initiatives had in common was the purpose of accounting for more than just financial capital. 
+
+As a consequence, the initial concept development of Prisma was essentially equivalent to developing a framework with which local communities could integrate their own dMRV tooling as part of a global-scale publication platform. This one platform needed to be uniquely capable of representing the work of regenerative design practitioners: it needed to be characterised by this particular design practice. This introduced the notion of a distributed platform that would take shape for and as the network carries out its development - and aligned with the network's own developmental potential.
+
+Each local instrument would be the product of exinsting, regionally-grounded processes of local practitioner-communities, and each integration would compose into one platform that represented and contained within it the complexity of the whole network. This platform would carry the identity of the network, the characteristics that make it unique.
+
+Note, this is already a huge offering: a distributed platform bespoke to the client network in question, with technical development capacity embedded in the places in which the platform is in use. Without knowing it at the time, these design requirements align very much with what is now referred to as local-first software, which largely comes from the p2p space.
+
+> "Be" meant: creating the means for network alumni to effectively transition from seeing new potential to putting it in action.
+
+There are many ways to interpret what "being" the movement means. Thinking in terms of conventional community platforms, it's easy to envision something akin to a directory of projects. At the same time as dMRV, however, another active influence in the concepting of prisma was the field of Impact DAOs. More animative than simply listing a project on a directory, the field of Impact DAOs at the time was creating the means for new forms of digital organisation. The provocation prisma therefore aspired to make was to not just list a project, but to form an organisation and start coordinating resources. 
+
+As a consequence, with these two layers of influences - dMRV and Impact DAOs - prisma as a concept becomes clearer: an integrative platform for working on systems-change, enabling local teams to form, publish accounts of their work, and coordinate resources as part of one aligned network. 
+
+### Service Delivery Validation
+After roughly 1.5-2 years of concept development, in co-design with Regenesis Institute, Prisma began to mature from concept to implementation and the client circle expanded to include Wada. Due to the timing of arrival of resources, Prisma began prioritising work with Wada, which became the partner of focus for a similar timeframe of 1.5-2 years. 
+
+Wada is a network of community-learning centres focussing on emerging technology adoption and entrepreneurship. This transition from one client to another is key, because it highlights the underlying capabilities of prisma, and the value proposition to a customer group we're calling "Impact Networks" or simply Networks. Both Wada and Regenesis exhibit the same patterns:
+
+1. **A non-local network made up of locally-grounded activity.** For Regenesis, a globally-distributed alumni network of practitioners working on local systems-change. For Wada, a network of community learning centres (hubs) distributed across sub-Saharan Africa. 
+2. **The need to apprehend of each distinct hub within its own context, whilst also being part of one network as a whole.** For both, whether hubs or practitioners, the local activity is immersive and complex. Standardisation across place risks losing the nuance of what makes that work so valuable.
+3. **Navigating reductive funding categories.** Both struggle to engage funding partners in a way that fairly represents the network's activity without losing their audience in the very complexity that makes their network unique.
+
+The following table highlights the underlying capabilities offered by Prisma as an organisation to two distinct impact networks, and why.
+
+<Table>
+    <thead>
+        <Table.Tr>
+            <Table.Th>Need</Table.Th>
+            <Table.Th>Regenesis</Table.Th>
+            <Table.Th>Wada</Table.Th>
+            <Table.Th>Capability</Table.Th>
+        </Table.Tr>
+    </thead>
+    <tbody>
+        <Table.Tr>
+            <Table.Td>Visbility</Table.Td>
+            <Table.Td>Case-studies of Regenerative Design and Development</Table.Td>
+            <Table.Td>Hub capacity development</Table.Td>
+            <Table.Td>Publishing</Table.Td>
+        </Table.Tr>
+        <Table.Tr>
+            <Table.Td>Local Rights</Table.Td>
+            <Table.Td>Fairly attributing communities for the knowledge generated and shared</Table.Td>
+            <Table.Td>Enabling local independence and autonomy</Table.Td>
+            <Table.Td>Distributed Publishing</Table.Td>
+        </Table.Tr>
+        <Table.Tr>
+            <Table.Td>Resourcing</Table.Td>
+            <Table.Td>Distributing resources to local practitioners at network edges</Table.Td>
+            <Table.Td>Distributing resources to local entrepreneurs at network edges</Table.Td>
+            <Table.Td>Cryptographic financial settlement</Table.Td>
+        </Table.Tr>
+        <Table.Tr>
+            <Table.Td>Organisational Development</Table.Td>
+            <Table.Td>Forming local practitioner-groups, publishing case-studies of regenerative design and development</Table.Td>
+            <Table.Td>Forming local teams, demonstrating hub growth</Table.Td>
+            <Table.Td>Action-learning Journeys</Table.Td>
+        </Table.Tr>
+        <Table.Tr>
+            <Table.Td>Communicating Systems-change Work</Table.Td>
+            <Table.Td>Case-studies as a developmental engagement interface for both funders and practitioners</Table.Td>
+            <Table.Td>Representing the value created by locally-autonomous hubs as part of a dynamic network</Table.Td>
+            <Table.Td>Curation</Table.Td>
+        </Table.Tr>
+    </tbody>
+</Table>
+
+Working in terms of that relatively small set of underlying capabilities, across a relatively small surface area of events, we have been able to learn a huge amount about the systems involved, continually designing more of the framework for how to repeatably create instances of organisational development (events), at network scale. 
+
+### Protocol Development
+At the height of our engagement with Wada, we had effectively worked at every level of the organisational stack:
+
+- Facilitating the formation of local teams during a 2-week in-person programme in Accra: [Accra ALJ](/en/events/accra).
+- Facilitating (remotely) a network-wide distributed hackathon programme with [CATS](/en/events/summit).
+- Working continually with the network representatives and partners across that period, between and within both events.
+
+We had set up publishing infrastructure in what felt like every organisational context, and participated in governance concerning the distribution of funds at every level. We had accompanied this network as they prepared to represent Africa's technology and entrepreneurial talent at Cardano Africa Tech Summit, the first time Cardano came to Africa. And then the question came: "What next?"
+
+- How does this network turn its local organising efforts into a productive economy?
+- How do we simplify the means to onboard capital into the network?
+- How can we assure funds reach their intended destination with sound governance? 
+
+And so it was that Prisma moved into the stage of protocol development. All the prior work was leading to this: the apps, the deployments, the learning programmes, the team formations. Yet, where those were all separate parts, fitting together slightly sporadically, the protocol formalised that into one coherent system of capabilities.
+
+The start of the development of the protocol answered a question we hadn't quite been able to name all along: How do we show the value created from systems-change work without pre-defining how that systems-change work needs to take place? i.e. without taking away the autonomy of the change-agents?
+
+This same question becomes: How do we shift the underlying relationship between capital and community? How do we make it safe for capital to enter into community, so that it doesn't at the same time undermine the sovereignty of local economy in the process? How can we build infrastructure for local definitions of value? How can we enable local-first distribution pathways? 
+
+These are some of the questions contained within the overarching purpose of creating more instances of systems-change, because in order for that kind of work to be sustained, people need to be able to eat from the projects and initiatives developed. The protocol aims to create the means to finance those initiatives at scale without infringing on their agency or ownership. 
+
+## Developmental Potential
+
+
