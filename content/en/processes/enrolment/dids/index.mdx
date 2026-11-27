@@ -1,0 +1,49 @@
+---
+sidebarTitle: DIDs
+asIndexPage: true
+---
+
+# Prisma DIDs
+
+Cardano-native decentralized identifiers and verifiable credentials for event-scoped enrolment, authentication, and access management across the federated Prisma network.
+
+**Current specification:** v1.6.2 (December 2025)
+
+## Architecture at a glance
+
+Prisma DIDs separates **global identity infrastructure** from **forkable credential infrastructure**:
+
+| Layer | Components | Operator | Scope |
+| ----- | ---------- | -------- | ----- |
+| **Global** | DID Dashboard, DID Indexer | Prisma | All `did:cardano` identities |
+| **Forkable** | VC Interface, VC Indexer | Per organization | Org-specific credential types and schemas |
+| **On-chain** | CIP-20 metadata under L_DID (199674) and L_VC (199675) | Wallet holders | Immutable event log |
+| **Off-chain** | IPFS (DID Documents), PostgreSQL (indexer state) | Pinning + indexer hosts | Resolution and status queries |
+
+The [DID indexer](/processes/enrolment/dids/indexer-api) is the shared resolution layer: consumer apps call `GET /did/:did` rather than scanning the chain directly. Roles issued during [enrolment](/processes/enrolment) are reflected in DID Documents and consumed by downstream auth flows (see [Auth & Access Examples](/processes/enrolment/dids/auth-access-examples)).
+
+## Documentation
+
+### Core specification
+
+1. [Overview](/processes/enrolment/dids/overview) — problem, solution, cost model, standards compliance
+2. [Architecture](/processes/enrolment/dids/architecture) — component model, forkable indexer design, monorepo layout (v1.6.2)
+3. [Technical Specification](/processes/enrolment/dids/technical-specification) — normative DID method, registry, VC, and resolver specification
+4. [Cardano Integration](/processes/enrolment/dids/cardano-integration) — CIP-10/20/30 compliance, transaction structure, resolution algorithm
+5. [ADR: CIP-68 vs Metadata](/processes/enrolment/dids/adr-cip68-vs-metadata) — why metadata + resolver over smart contracts
+
+### APIs and extension
+
+6. [Indexer API](/processes/enrolment/dids/indexer-api) — DID and VC indexer REST reference
+7. [Credential Schemas](/processes/enrolment/dids/credential-schemas) — defining and registering new VC types in `packages/schemas`
+8. [Fork: VC Interface](/processes/enrolment/dids/fork-vc-interface) — deploy a branded credential issuance UI
+9. [Fork: VC Indexer](/processes/enrolment/dids/fork-vc-indexer) — deploy an organization-specific VC status indexer
+
+### Operations and pilots
+
+10. [Developer Setup](/processes/enrolment/dids/dev-setup) — local monorepo setup, env vars, live Railway deployments
+11. [Auth & Access Examples](/processes/enrolment/dids/auth-access-examples) — Propagate and Docs pilots exercising DID-based roles
+
+## Repository
+
+Source code and upstream documentation live in the [`dids`](https://github.com/prisma-collective/dids) monorepo (`prisma-DIDs`).

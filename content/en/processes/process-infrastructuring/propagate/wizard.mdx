@@ -1,0 +1,38 @@
+---
+sidebarTitle: Wizard (deprecated)
+---
+
+# Web wizard (deprecated)
+
+The DeployStack web wizard previously ran at [potentialise.prisma.events](https://potentialise.prisma.events). It has been **removed** and replaced by the [Propagate CLI](/processes/process-infrastructuring/propagate/cli).
+
+## What replaced it
+
+| Former wizard step | CLI equivalent |
+|--------------------|----------------|
+| Wallet connect (`/`) | `propagate login` (hosted browser on propagate.prisma.events) |
+| Metadata (`/[wallet]/1`) | `propagate create` (metadata + event code) |
+| GitHub OAuth (`/[wallet]/2`) | `propagate create` / `propagate auth github` (GitHub App install on target org) |
+| Vercel OAuth (`/[wallet]/3`) | `propagate create` (team ID + `VERCEL_TOKEN`) |
+| App selection (`/[wallet]/4`) | `propagate create` (multi-select) |
+| Deploy (`/[wallet]/5`) | `propagate validate` + `propagate apply` |
+
+## Why it was replaced
+
+- **Unreliable serverless state** — workflow progress stored in in-memory Maps lost on cold starts
+- **No durable manifest** — config lived in Zustand, never written to disk
+- **Hardcoded env injection** — timelining env vars baked into the deploy form
+- **No dependency graph** — apps deployed independently without ordering
+- **Brittle GitHub fork** — PAT service-account invite flow (replaced by GitHub App install)
+
+The CLI + Pulumi architecture addresses all of these. See [Workflow](/processes/process-infrastructuring/propagate/workflow) for the v2 design.
+
+## Historical reference
+
+The original technical specification described a Next.js 15 multi-step form with Zustand, React Hook Form, and a client-orchestrated `/api/deploy` polling loop. That code has been deleted from the propagate repository.
+
+For current documentation see:
+
+- [CLI](/processes/process-infrastructuring/propagate/cli)
+- [Manifests](/processes/process-infrastructuring/propagate/manifests)
+- [Validation](/processes/process-infrastructuring/propagate/validation)

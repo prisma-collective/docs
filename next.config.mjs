@@ -1,0 +1,95 @@
+import nextra from 'nextra'
+
+const withNextra = nextra({
+  latex: true,
+  search: {
+    codeblocks: false,
+  },
+  defaultShowCopyCode: true,
+})
+
+export default withNextra({
+  reactStrictMode: true,
+  outputFileTracingExcludes: {
+    // Match all app/page and API routes — `/api/*` misses nested paths like `/api/pages/snapshot`.
+    '*': ['.git/**', '.git/objects/**', '.git/objects/pack/**'],
+  },
+  outputFileTracingIncludes: {
+    '/api/pages/snapshot': ['./data/pages-snapshot.json'],
+    '*': ['./data/protocols-snapshot.json'],
+  },
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: '/en',
+        permanent: false,
+      },
+      {
+        source: '/pitch',
+        destination: '/en/context-narrative/decks/2026',
+        permanent: false,
+      },
+      {
+        source: '/en/context-narrative/decks/2026/:slide',
+        destination: '/en/context-narrative/decks/2026',
+        permanent: false,
+      },
+      {
+        source: '/es/events/:path*',
+        destination: '/es/eventos/:path*',
+        permanent: true,
+      },
+      {
+        source: '/en/eventos/:path*',
+        destination: '/en/events/:path*',
+        permanent: true,
+      },
+       {
+        source: '/#why',
+        destination: '/en/context-narrative',
+        permanent: true,
+      },
+      {
+        source: '/en/collaborators/participants',
+        destination: '/en/collaborators/participant',
+        permanent: true,
+      },
+      {
+        source: '/en/collaborators/participants/:path*',
+        destination: '/en/collaborators/participant/:path*',
+        permanent: true,
+      },
+      {
+        source: '/en/collaborators/partners',
+        destination: '/en/collaborators/partner',
+        permanent: true,
+      },
+      {
+        source: '/en/collaborators/partners/:path*',
+        destination: '/en/collaborators/partner/:path*',
+        permanent: true,
+      },
+      {
+        source: '/en/collaborators/communities-of-place',
+        destination: '/en/collaborators/place',
+        permanent: true,
+      },
+      {
+        source: '/en/collaborators/communities-of-place/:path*',
+        destination: '/en/collaborators/place/:path*',
+        permanent: true,
+      },
+      {
+        source: '/en/collaborators/communities-of-practice',
+        destination: '/en/collaborators/network',
+        permanent: true,
+      },
+      {
+        source: '/en/collaborators/communities-of-practice/:path*',
+        destination: '/en/collaborators/network/:path*',
+        permanent: true,
+      },
+    ]
+  },
+})
